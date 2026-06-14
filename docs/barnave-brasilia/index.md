@@ -16,7 +16,6 @@ _Vacances de Juin avec un passage a Barnave les 50 ans 1er fois et Brasilia _
 | **Distance** | 2,538.7 km |
 | **Étapes GPS** | 621 |
 | **Étapes nommées** | 11 |
-| **Photos** | 21 |
 | **Pays visités** | 🇧🇪 🇫🇷 |
 | **Visibilité** | 🌐 Public |
 | **Pays** | 🇫🇷 FR, 🇧🇪 BE |
@@ -31,10 +30,6 @@ _Vacances de Juin avec un passage a Barnave les 50 ans 1er fois et Brasilia _
 
  · [[Google Maps]](https://www.google.com/maps?q=49.1204242,4.2429101)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/e13a298c-b581-4c1e-ae33-0fd451991970_5231c923-7c00-4724-8875-b6004162a545.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/e13a298c-b581-4c1e-ae33-0fd451991970_7330c1a7-6378-470b-a582-893dafb6b111.jpg)
-
 ---
 
 ### 2. Is-Sur-Tille — 07/06/2025
@@ -42,10 +37,6 @@ _Vacances de Juin avec un passage a Barnave les 50 ans 1er fois et Brasilia _
  *⛅ 21°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=47.5132157,5.1125909)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/a976272b-a031-442b-afce-e74b6a823f42_b13f17a1-7c75-4068-a21d-8870b60ef9ae.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/a976272b-a031-442b-afce-e74b6a823f42_b20bf51d-50da-4d69-82d6-d1328c293d0e.jpg)
 
 ---
 
@@ -57,14 +48,6 @@ _Nous sommes donc pour 3 jours au camping 🏕️ Les Écureuils. _
 
  · [[Google Maps]](https://www.google.com/maps?q=44.652584236890945,5.412541132428977)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/e3c8da64-d74b-4a27-89c9-703746cc8b90_afa57d5a-9517-485c-9b58-d021a218341a.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/e3c8da64-d74b-4a27-89c9-703746cc8b90_b6f88b92-6779-4386-a98f-b5018fe566de.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/56993280-91c3-4c08-99b4-3e935843f2ed_1728a470-9257-4a00-b5c1-113a165ef143.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/56993280-91c3-4c08-99b4-3e935843f2ed_942acb8c-84ed-4479-adbc-2087b232c16d.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/be8f5372-9bc8-430c-bc6b-8e415fea3264_8fee2667-945c-4888-ae42-747e1a0b7395.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/be8f5372-9bc8-430c-bc6b-8e415fea3264_43327006-3fbe-4564-a1d7-159a1d11d79f.jpg)
-
 ---
 
 ### 4. Châtillon en Diois — 09/06/2025
@@ -72,16 +55,6 @@ _Nous sommes donc pour 3 jours au camping 🏕️ Les Écureuils. _
  *☀️ 24°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=44.6951886,5.4852392)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/2119b805-c58b-4141-ba8f-a6484f2f6700_7e5a1fa5-8649-4bc4-887b-16f3ad72fe6c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/2119b805-c58b-4141-ba8f-a6484f2f6700_59a0cf7f-1dcf-430e-a746-b6eb879f93aa.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/cfa03de9-5136-47e8-b913-6f6bd4128a06_93b8de7b-e122-4142-9654-d191fb8ee74b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/cfa03de9-5136-47e8-b913-6f6bd4128a06_7f51bc6a-11c0-4360-96b5-b060dbfe9c79.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b406db5b-7783-4ac3-a72e-185525fb6be3_d907dbca-db38-4c05-8465-6c428851ec9b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b406db5b-7783-4ac3-a72e-185525fb6be3_8eb4a069-07a6-49a6-9950-ff91d2185cd0.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/96bcb110-8de6-4347-bf47-0fce31cce622_30a79ea8-6743-4b1b-8862-4b4a13807a9d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/96bcb110-8de6-4347-bf47-0fce31cce622_10d3faed-015f-4842-a270-f5d644156043.jpg)
 
 ---
 
@@ -91,16 +64,6 @@ _Nous sommes donc pour 3 jours au camping 🏕️ Les Écureuils. _
 
  · [[Google Maps]](https://www.google.com/maps?q=44.5996825,5.4589852)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/3d608491-5a07-4b74-925f-b385a1ee0a91_96ce9a24-c316-4750-bfef-efd19a6c51a6.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/3d608491-5a07-4b74-925f-b385a1ee0a91_68761b22-f681-4845-87c4-e6fce8e2b9f0.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/5a301407-2a1c-4e49-96a2-e02e5a3dac7b_46fe56c9-493a-45c7-b444-bc3b438e0c87.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/5a301407-2a1c-4e49-96a2-e02e5a3dac7b_d138655e-430e-48fa-8d3d-3ad463ab0aef.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/5645a555-1c22-417f-ab86-c1b1f8c24b74_25cf57d7-c7c2-470b-be4a-60c3f2b89a15.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/5645a555-1c22-417f-ab86-c1b1f8c24b74_329c496f-2186-4dec-9045-0f53a9e5d997.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/e1fd78f7-6ffe-4e7e-9da0-bf2f7956260d_ec4b913e-6e6d-40ca-a278-1ec2c33eace7.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/e1fd78f7-6ffe-4e7e-9da0-bf2f7956260d_bf1706f8-55f5-4cbb-9574-b8cc3aa24e1f.jpg)
-
 ---
 
 ### 6. Col de Penne — 10/06/2025
@@ -108,14 +71,6 @@ _Nous sommes donc pour 3 jours au camping 🏕️ Les Écureuils. _
  *☀️ 30°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=44.65222998943204,5.412522132749262)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/6b39769d-960f-43ad-9138-deea02b3d08b_8b591bf1-3cbe-4315-9605-586da1b30380.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/6b39769d-960f-43ad-9138-deea02b3d08b_4a5cfbf3-87b8-4c4e-a845-9c1880692a28.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/1ba5a0a4-fab3-4f34-b84d-751628892576_b20fdf10-6ef0-422a-823e-caa99f23e86e.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/1ba5a0a4-fab3-4f34-b84d-751628892576_231f90e1-492a-4bee-85fe-0c96b29cc809.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/4cec71da-d9ca-469e-a353-257ec3515fb1_471ff9e3-9089-4b82-9740-845e46b07d5b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/4cec71da-d9ca-469e-a353-257ec3515fb1_cc879068-276b-4c29-a5ac-90bd186ca1b2.jpg)
 
 ---
 
@@ -125,10 +80,6 @@ _Nous sommes donc pour 3 jours au camping 🏕️ Les Écureuils. _
 
  · [[Google Maps]](https://www.google.com/maps?q=42.7106146,3.0361403)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/a9594d7f-e6d9-45ec-8c2c-513c47e7ab40_5760afb7-26a2-4a37-b211-eda7812f16a4.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/a9594d7f-e6d9-45ec-8c2c-513c47e7ab40_6c4662e5-faea-428e-9b3c-1a41013d8566.jpg)
-
 ---
 
 ### 8. Canet-en-Roussillon — 11/06/2025
@@ -137,10 +88,6 @@ _Nous sommes donc pour 3 jours au camping 🏕️ Les Écureuils. _
 
  · [[Google Maps]](https://www.google.com/maps?q=42.7105945,3.0362192)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b16fe0ce-366c-4057-8ef4-d0c17bc34ed1_b568e75a-4dc8-432f-bbf8-dd621e18e008.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b16fe0ce-366c-4057-8ef4-d0c17bc34ed1_d4669847-f820-4429-b718-3645601aca45.jpg)
-
 ---
 
 ### 9. Plage — 20/06/2025
@@ -148,10 +95,6 @@ _Nous sommes donc pour 3 jours au camping 🏕️ Les Écureuils. _
  *☀️ 34°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=42.709683418273926,3.0389033555984497)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/4e2388ae-4fe6-4d30-86af-ed78596644a8_e55a9dba-ebb9-4ca0-af13-b86d8f235cd6.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/4e2388ae-4fe6-4d30-86af-ed78596644a8_91426b91-d646-421f-b837-72f59dbf5792.jpg)
 
 ---
 
@@ -163,10 +106,6 @@ _Arrêt dans le camping car Park. L'endroit est vraiment très bien avec WC et D
 
  · [[Google Maps]](https://www.google.com/maps?q=46.9026736,5.0178721)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d88303ef-44ec-484b-bcdf-18a1f7168b5e_c923936d-72c5-431b-889b-0723570e6d7f.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d88303ef-44ec-484b-bcdf-18a1f7168b5e_d3a54c89-5b60-4d5d-926e-8129c2ac7d70.jpg)
-
 ---
 
 ### 11. Maison - Sombreffe  — 06/07/2025
@@ -176,10 +115,6 @@ _Fin de notre périple Barnave-Le Brasilia - très bonnes vacances avec de jolie
  *⛅ 18°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=50.535547,4.6040732)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/11011333-8400-4493-86f2-ca0edba07ec8_e8e5cce9-32dd-4959-b2ab-e06e2a11870d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/11011333-8400-4493-86f2-ca0edba07ec8_623a12f8-9aaf-42a2-a1d5-6b94bd25a85b.jpg)
 
 ---
 
@@ -804,50 +739,6 @@ _Fin de notre périple Barnave-Le Brasilia - très bonnes vacances avec de jolie
 | 610 | Sombreffe | [50.5354, 4.6039](https://maps.google.com/?q=50.5353948,4.6039303) | 06/07/2025 | |
 
 </details>
-
-## 📸 Galerie photos (21)
-
-[![Photo 1](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/e13a298c-b581-4c1e-ae33-0fd451991970_5231c923-7c00-4724-8875-b6004162a545.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/e13a298c-b581-4c1e-ae33-0fd451991970_7330c1a7-6378-470b-a582-893dafb6b111.jpg)
-
-[![Photo 2](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/a976272b-a031-442b-afce-e74b6a823f42_b13f17a1-7c75-4068-a21d-8870b60ef9ae.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/a976272b-a031-442b-afce-e74b6a823f42_b20bf51d-50da-4d69-82d6-d1328c293d0e.jpg)
-
-[![Photo 3](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/e3c8da64-d74b-4a27-89c9-703746cc8b90_afa57d5a-9517-485c-9b58-d021a218341a.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/e3c8da64-d74b-4a27-89c9-703746cc8b90_b6f88b92-6779-4386-a98f-b5018fe566de.jpg)
-
-[![Photo 4](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/56993280-91c3-4c08-99b4-3e935843f2ed_1728a470-9257-4a00-b5c1-113a165ef143.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/56993280-91c3-4c08-99b4-3e935843f2ed_942acb8c-84ed-4479-adbc-2087b232c16d.jpg)
-
-[![Photo 5](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/be8f5372-9bc8-430c-bc6b-8e415fea3264_8fee2667-945c-4888-ae42-747e1a0b7395.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/be8f5372-9bc8-430c-bc6b-8e415fea3264_43327006-3fbe-4564-a1d7-159a1d11d79f.jpg)
-
-[![Photo 6](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/2119b805-c58b-4141-ba8f-a6484f2f6700_7e5a1fa5-8649-4bc4-887b-16f3ad72fe6c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/2119b805-c58b-4141-ba8f-a6484f2f6700_59a0cf7f-1dcf-430e-a746-b6eb879f93aa.jpg)
-
-[![Photo 7](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/cfa03de9-5136-47e8-b913-6f6bd4128a06_93b8de7b-e122-4142-9654-d191fb8ee74b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/cfa03de9-5136-47e8-b913-6f6bd4128a06_7f51bc6a-11c0-4360-96b5-b060dbfe9c79.jpg)
-
-[![Photo 8](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b406db5b-7783-4ac3-a72e-185525fb6be3_d907dbca-db38-4c05-8465-6c428851ec9b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b406db5b-7783-4ac3-a72e-185525fb6be3_8eb4a069-07a6-49a6-9950-ff91d2185cd0.jpg)
-
-[![Photo 9](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/96bcb110-8de6-4347-bf47-0fce31cce622_30a79ea8-6743-4b1b-8862-4b4a13807a9d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/96bcb110-8de6-4347-bf47-0fce31cce622_10d3faed-015f-4842-a270-f5d644156043.jpg)
-
-[![Photo 10](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/3d608491-5a07-4b74-925f-b385a1ee0a91_96ce9a24-c316-4750-bfef-efd19a6c51a6.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/3d608491-5a07-4b74-925f-b385a1ee0a91_68761b22-f681-4845-87c4-e6fce8e2b9f0.jpg)
-
-[![Photo 11](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/5a301407-2a1c-4e49-96a2-e02e5a3dac7b_46fe56c9-493a-45c7-b444-bc3b438e0c87.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/5a301407-2a1c-4e49-96a2-e02e5a3dac7b_d138655e-430e-48fa-8d3d-3ad463ab0aef.jpg)
-
-[![Photo 12](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/5645a555-1c22-417f-ab86-c1b1f8c24b74_25cf57d7-c7c2-470b-be4a-60c3f2b89a15.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/5645a555-1c22-417f-ab86-c1b1f8c24b74_329c496f-2186-4dec-9045-0f53a9e5d997.jpg)
-
-[![Photo 13](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/e1fd78f7-6ffe-4e7e-9da0-bf2f7956260d_ec4b913e-6e6d-40ca-a278-1ec2c33eace7.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/e1fd78f7-6ffe-4e7e-9da0-bf2f7956260d_bf1706f8-55f5-4cbb-9574-b8cc3aa24e1f.jpg)
-
-[![Photo 14](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/6b39769d-960f-43ad-9138-deea02b3d08b_8b591bf1-3cbe-4315-9605-586da1b30380.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/6b39769d-960f-43ad-9138-deea02b3d08b_4a5cfbf3-87b8-4c4e-a845-9c1880692a28.jpg)
-
-[![Photo 15](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/1ba5a0a4-fab3-4f34-b84d-751628892576_b20fdf10-6ef0-422a-823e-caa99f23e86e.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/1ba5a0a4-fab3-4f34-b84d-751628892576_231f90e1-492a-4bee-85fe-0c96b29cc809.jpg)
-
-[![Photo 16](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/4cec71da-d9ca-469e-a353-257ec3515fb1_471ff9e3-9089-4b82-9740-845e46b07d5b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/4cec71da-d9ca-469e-a353-257ec3515fb1_cc879068-276b-4c29-a5ac-90bd186ca1b2.jpg)
-
-[![Photo 17](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/a9594d7f-e6d9-45ec-8c2c-513c47e7ab40_5760afb7-26a2-4a37-b211-eda7812f16a4.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/a9594d7f-e6d9-45ec-8c2c-513c47e7ab40_6c4662e5-faea-428e-9b3c-1a41013d8566.jpg)
-
-[![Photo 18](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b16fe0ce-366c-4057-8ef4-d0c17bc34ed1_b568e75a-4dc8-432f-bbf8-dd621e18e008.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b16fe0ce-366c-4057-8ef4-d0c17bc34ed1_d4669847-f820-4429-b718-3645601aca45.jpg)
-
-[![Photo 19](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/4e2388ae-4fe6-4d30-86af-ed78596644a8_e55a9dba-ebb9-4ca0-af13-b86d8f235cd6.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/4e2388ae-4fe6-4d30-86af-ed78596644a8_91426b91-d646-421f-b837-72f59dbf5792.jpg)
-
-[![Photo 20](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d88303ef-44ec-484b-bcdf-18a1f7168b5e_c923936d-72c5-431b-889b-0723570e6d7f.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d88303ef-44ec-484b-bcdf-18a1f7168b5e_d3a54c89-5b60-4d5d-926e-8129c2ac7d70.jpg)
-
-[![Photo 21](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/11011333-8400-4493-86f2-ca0edba07ec8_e8e5cce9-32dd-4959-b2ab-e06e2a11870d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/11011333-8400-4493-86f2-ca0edba07ec8_623a12f8-9aaf-42a2-a1d5-6b94bd25a85b.jpg)
 
 ---
 

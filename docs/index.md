@@ -1,6 +1,6 @@
 # 🧭 Carnet de Voyages
 
-*Dernière mise à jour : 14/06/2026 à 15:27*
+*Dernière mise à jour : 14/06/2026 à 20:34*
 
 ---
 
@@ -11,7 +11,6 @@
 | **Pays visités** | 6 🇕🇕 🇧🇪 🇪🇸 🇫🇷 🇳🇱 🇵🇹 |
 | **Distance totale** | 15,737 km |
 | **Étapes enregistrées** | 2622 |
-| **Photos** | 483 |
 | **Voyages réalisés** | 6 |
 | **Voyages privés** | 1 |
 

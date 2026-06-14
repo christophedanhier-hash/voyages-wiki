@@ -16,7 +16,6 @@ _Nous allons poursuivre notre aventure au Portugal avec 15 jours en Algarve._
 | **Distance** | 5,084.6 km |
 | **Étapes GPS** | 794 |
 | **Étapes nommées** | 38 |
-| **Photos** | 151 |
 | **Pays visités** | 🇕🇕 🇧🇪 🇪🇸 🇫🇷 🇵🇹 |
 | **Visibilité** | 🌐 Public |
 | **Pays** | 🇧🇪 BE, 🇫🇷 FR, 🇪🇸 ES, 🇵🇹 PT |
@@ -33,10 +32,6 @@ _Nous sommes sur le départ direction Saint-Benoit via Reims Troyes Orléans....
 
  · [[Google Maps]](https://www.google.com/maps?q=50.5352755,4.6039522)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/78056516-d623-41e4-905c-4e116931524f_d1593d42-b826-436e-8d54-8f77f85106fd.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/78056516-d623-41e4-905c-4e116931524f_55f0d784-d3a8-4858-83eb-b7433fbd1eb8.jpg)
-
 ---
 
 ### 2. Saint-Benoît — 07/11/2025
@@ -46,12 +41,6 @@ _Premier arrêt près 750km _
  *⛅ 16°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=46.554312034407396,0.3421488118990574)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b2d459b8-060a-4974-8f7d-57561443c99f_bcdac515-b04e-494b-906a-8a59876999d2.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b2d459b8-060a-4974-8f7d-57561443c99f_381a40b3-4b53-4560-9540-6a5187b4f67c.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/24fa2eab-e34c-47ff-97cf-3328b18bb83f_bc566cf6-6804-4b0d-a542-5f5c14b299c7.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/24fa2eab-e34c-47ff-97cf-3328b18bb83f_04af067f-6f21-4080-9f3a-e950ef8d4da6.jpg)
 
 ---
 
@@ -73,16 +62,6 @@ _Voilà après une grosse étape de plus de 950km nous sommes bien arrivés. Dan
 
  · [[Google Maps]](https://www.google.com/maps?q=37.1023641,-8.7332384)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/a4d853c8-a6c3-48df-99a1-c2a6aa969026_c6ce479c-c260-46f4-8bb0-ef8aaa890382)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/a4d853c8-a6c3-48df-99a1-c2a6aa969026_38dc31b8-a940-416c-a767-327b83feca25)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d045f501-1de6-484f-afae-5ea1c1412ee0_16fa76e0-769c-4a33-a069-80fe446c48c2.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d045f501-1de6-484f-afae-5ea1c1412ee0_9ba16af5-334d-44a5-b1b7-d6e11d5a47c6.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b1b2f050-5076-4a95-9e78-52985c18274c_be80619f-13a4-4c15-91b4-2357d2721135.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b1b2f050-5076-4a95-9e78-52985c18274c_56fb2ac4-1099-45e9-b9e7-8dd2f41d62b2.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d18a3f66-bab8-441e-9c76-73e3f2e00561_772d3c98-0970-4ab0-be94-933c2c096920.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d18a3f66-bab8-441e-9c76-73e3f2e00561_9fda8e82-a833-44e5-b6d2-c4e79346866e.jpg)
-
 ---
 
 ### 5. Portimão — 11/11/2025
@@ -93,16 +72,6 @@ _Voilà notre 1er plage _
 
  · [[Google Maps]](https://www.google.com/maps?q=37.1219451,-8.5895115)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b546876c-bfa8-43f1-aea0-03b0c6916e74_808d73b9-d7aa-4298-be5a-24fd4e204571.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b546876c-bfa8-43f1-aea0-03b0c6916e74_260905f1-b027-403d-82a9-054feffee887.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/30bae3f2-124f-418b-83b2-c1b2a93894b2_8634267a-1472-40b6-8573-ea3f5f2eb217.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/30bae3f2-124f-418b-83b2-c1b2a93894b2_68b579be-651e-4339-bb00-f0d0b035759d.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/76d43bbc-8a74-4ddd-8a09-8a493538497f_3dd1e298-e919-483a-a1a4-6c00875d26e6.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/76d43bbc-8a74-4ddd-8a09-8a493538497f_9a4999f6-683c-4c0c-8549-d2a1da9120c4.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/98e49fea-9cfb-42f9-adfd-0d9c46b68fbc_5510c153-d4a8-4d37-bd30-4a0799437895.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/98e49fea-9cfb-42f9-adfd-0d9c46b68fbc_053ddd20-c71e-419c-8030-018ffd45b852.jpg)
-
 ---
 
 ### 6. Sagres — 11/11/2025
@@ -110,16 +79,6 @@ _Voilà notre 1er plage _
  *⛅ 19°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=37.0018644,-8.9466459)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b6b8c88c-536d-45d5-bf44-709650522fab_9f0d47e4-b316-4ef0-ba79-eee8e5e40292.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b6b8c88c-536d-45d5-bf44-709650522fab_ec84b8c9-786d-4a44-8ac3-a6cf4b3b3cd5.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/24c128d2-1fb3-4801-9853-acffbe9a3fc8_e7719623-1f41-45e9-8b7f-d9385f714de2.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/24c128d2-1fb3-4801-9853-acffbe9a3fc8_1e5f66b8-95d5-478d-8955-3ac3bee60871.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/87e72eb9-dc61-4dde-bd8e-ab7d2a00d5ac_e14dd8fa-c887-4053-ad65-77305e05c841.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/87e72eb9-dc61-4dde-bd8e-ab7d2a00d5ac_bc6e4796-f96a-4b3d-aad0-326e898ac7b8.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/af423c48-dd1a-4305-b39c-85ed50f373f3_976dc2c5-9f7f-402b-a81d-c49b5e296d24.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/af423c48-dd1a-4305-b39c-85ed50f373f3_46289b78-dcbe-41b7-a83e-f6b00291b97d.jpg)
 
 ---
 
@@ -131,16 +90,6 @@ _Le cap marque le point de départ, le kilomètre zéro, du continent européen.
 
  · [[Google Maps]](https://www.google.com/maps?q=37.0236728,-8.9953586)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/70070c84-2389-465a-beb7-a9136b1de92f_b928fff9-ec10-4d66-af84-6030785c787b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/70070c84-2389-465a-beb7-a9136b1de92f_8edf571e-05c4-4ca8-b716-d731e6f7aea5.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/9f6ef6ce-1d6c-4e3b-aa39-91e26c0106a1_c23f3ce8-f1e3-4ae0-9b99-03c91a325f7b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/9f6ef6ce-1d6c-4e3b-aa39-91e26c0106a1_d86f685e-0b19-4d98-91c2-23da29e5506d.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/e99c5129-b42e-4da4-954c-1d074de0ef3f_8bc2d17f-3d1e-41c8-b2ab-7b1aeac2f3ac.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/e99c5129-b42e-4da4-954c-1d074de0ef3f_f9e4cfe9-f701-463d-a948-4a8243ee61a6.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/91811334-c012-4bbd-9d31-b2e29824fe8d_7259652b-08ba-4b14-be23-8ea507de0973.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/91811334-c012-4bbd-9d31-b2e29824fe8d_7b44e196-45c5-409b-9ff5-c722edea4cdc.jpg)
-
 ---
 
 ### 8. Faro — 12/11/2025
@@ -150,16 +99,6 @@ _Visite de la ville de Faro avec la Chapelle aux Os et ensuite la vieille ville.
  *⛅ 21°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=37.0197466,-7.9349696)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/41025d86-d7d9-4076-a9b8-e631ca7139b0_72569588-6aee-4c7c-b8eb-26c874306e04.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/41025d86-d7d9-4076-a9b8-e631ca7139b0_52f28d50-0111-4bad-a0e8-1389031d092d.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/a25d09c8-5bd7-4081-a9de-82bdf791f163_5a84b654-7d87-4598-8e07-897aedcde41f.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/a25d09c8-5bd7-4081-a9de-82bdf791f163_ee629ab8-5fee-4bd9-acd2-f4ced1e16a0d.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/c8924a49-1b63-41fd-ad07-7b0594344231_fcaac4d1-258b-4560-9186-fc2f9573900d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/c8924a49-1b63-41fd-ad07-7b0594344231_de490030-091d-47aa-99b1-1880356414e1.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b82e412b-a61a-4d35-a9f4-ad840674d470_6b03db37-c31c-4cea-9091-1bba404514bf.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b82e412b-a61a-4d35-a9f4-ad840674d470_969c6674-da4f-479a-99f6-9b37d0df7cd9.jpg)
 
 ---
 
@@ -171,12 +110,6 @@ _Village de pêcheurs de Poulpe 🐙 _
 
  · [[Google Maps]](https://www.google.com/maps?q=37.1014162,-7.6609023)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/ceb14260-a3cd-408c-93bc-eb090b02c2f0_a0450ae7-4a03-441e-8580-c5a6ec36908d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/ceb14260-a3cd-408c-93bc-eb090b02c2f0_da8d1970-f72d-4231-b665-c867fc6731c0.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/096425f9-b39d-46ba-b798-ac94a900d267_306fff10-9c34-446b-aa47-6a0e0f22c341.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/096425f9-b39d-46ba-b798-ac94a900d267_81a0b561-7838-4613-b52a-71d6bf91be01.jpg)
-
 ---
 
 ### 10. Tavira — 12/11/2025
@@ -184,20 +117,6 @@ _Village de pêcheurs de Poulpe 🐙 _
  *⛅ 22°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=37.1251152,-7.6511789)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/a4549d19-2d0e-4787-8adc-6309bc1b70db_3b5f8332-00d0-4bde-8ecf-806d38710b0e.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/a4549d19-2d0e-4787-8adc-6309bc1b70db_17d168a2-f294-471c-9d84-407a76183eab.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/906e925b-a139-4d6d-bee3-9d76b49d8500_9a2fb942-bb4a-48d7-82c8-d45531a00429.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/906e925b-a139-4d6d-bee3-9d76b49d8500_39c822de-0a13-414a-8d0e-5de107d89a59.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0932c3c1-f18a-45d1-922d-6394dd4f859e_59e28725-f747-4475-9b99-9c9bae142f6b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0932c3c1-f18a-45d1-922d-6394dd4f859e_984fde23-9386-4774-a34b-dc97e2f750e0.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/4d04c16f-b74f-46f7-bec1-8d546343f937_28d7338e-a048-4ee7-ac91-83ec8a1fcf55.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/4d04c16f-b74f-46f7-bec1-8d546343f937_e6cd4927-bae2-4dc7-9f42-1b357c3e9b8b.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7d42ed18-0f97-47cc-b877-38d243be0c03_8fdc8bc6-b5cd-4274-a5c0-d510ddc25d1a.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7d42ed18-0f97-47cc-b877-38d243be0c03_bc2e2ae6-36ae-4404-9d1a-80283c54e6cc.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0eb59933-1762-4c23-95fa-d321381deb48_20fdfeb1-3d96-44bd-a17d-ac0cc891ee65.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0eb59933-1762-4c23-95fa-d321381deb48_1ab762ef-d0a4-42f7-929b-9b8562c4a1ec.jpg)
 
 ---
 
@@ -209,14 +128,6 @@ _Journée pluvieuse et venteuse. Par contre nous avons une température douce. _
 
  · [[Google Maps]](https://www.google.com/maps?q=37.0848927,-8.7301759)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d55fcbb4-f249-4a29-ac56-87583f933000_d646b01e-b2f4-423b-845b-29dbcedbb537.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d55fcbb4-f249-4a29-ac56-87583f933000_589be3f6-93c2-458d-b6cb-93543a53165c.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b6f580da-1dea-425e-bef9-da7c48957ec8_224e8e7b-d22c-440b-a819-9f0906f4a227.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b6f580da-1dea-425e-bef9-da7c48957ec8_1ad72534-b9fc-4d52-be3d-8751b32a2a71.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7f84fb99-9bb6-4e43-a55c-fd649c58ad41_8facd8bc-9321-479e-ac76-c526692e5b5d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7f84fb99-9bb6-4e43-a55c-fd649c58ad41_b1cd6e64-6c82-4b56-934e-5afd926d6903.jpg)
-
 ---
 
 ### 12. Lagos — 13/11/2025
@@ -226,14 +137,6 @@ _Visite de la ville de Lagos sous la pluie _
  *⛅ 21°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=37.0848927,-8.7301759)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/6a336b27-4dd5-43af-af8b-96486b3a151e_e977d946-4e2a-4e0b-afd8-3643d987fc99.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/6a336b27-4dd5-43af-af8b-96486b3a151e_a5cac168-89bf-4c6b-82fe-3f1262df9bed.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/8621509a-525e-405d-a7b5-64034966fbee_6bc5d2f4-3575-43b6-96fe-5b62b0a684ad.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/8621509a-525e-405d-a7b5-64034966fbee_c8da2930-620f-4fd8-95c6-fa441cf1973f.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/94204b2d-3679-4d9a-9a2b-d51b641c369b_043e9d90-a42e-4a61-84d3-330f8a74aef5.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/94204b2d-3679-4d9a-9a2b-d51b641c369b_5d03c01e-213f-4b64-9d98-b93bb10889fc.jpg)
 
 ---
 
@@ -245,12 +148,6 @@ _Journée bien-être au Spa _
 
  · [[Google Maps]](https://www.google.com/maps?q=37.2795523,-8.5513168)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/6dc7bfa3-f05c-4c4a-b37f-ab628b8e6468_f8e35faf-62aa-4b08-94d3-652e6b14862c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/6dc7bfa3-f05c-4c4a-b37f-ab628b8e6468_9e75c18d-c82b-4529-8601-2afad471abf8.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/6954900e-781d-4555-9aea-85f0d4c2ad4a_3d67a705-b9fe-4254-a465-4a789ea543f1.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/6954900e-781d-4555-9aea-85f0d4c2ad4a_ff22a8d7-9ad5-4dde-b2b5-caad4830d3df.jpg)
-
 ---
 
 ### 14. Monchique — 14/11/2025
@@ -260,18 +157,6 @@ _Après le spa un restaurant typique portugais dans les montagnes. Avec des plat
  *🌧️ 20°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=37.3109496,-8.5651169)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/eb7a5796-4cad-4309-8a6c-78941de64820_ecd4efe2-164f-4cfa-819a-2297ae07b456.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/eb7a5796-4cad-4309-8a6c-78941de64820_e128ba11-93dd-4892-96cc-2a0d4e82cd8f.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/ab6633c5-6a25-4daf-8f67-ff242ff351f4_fec953b8-f2ca-4e35-b007-fe622362bc7e.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/ab6633c5-6a25-4daf-8f67-ff242ff351f4_8fb750ed-f007-4fae-bf9f-4ecc3c1c1f21.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b7615fda-be1b-47ae-a835-90fc306c6507_2599c278-dbbd-4de9-a2d0-d7d305b95eb1.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b7615fda-be1b-47ae-a835-90fc306c6507_8083062c-f929-434c-9db2-0066292e6a41.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/9474d619-9965-4d52-a9df-5ce4839e39c3_09333c78-0e37-4414-8a62-41414a43a277.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/9474d619-9965-4d52-a9df-5ce4839e39c3_4332c80b-0dbf-408a-bae3-cf975d8be4dd.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/5fa4edfa-33c0-4157-b1d8-1a7baf1d6843_6f9bf004-b99d-4493-81b3-9c38ae28132d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/5fa4edfa-33c0-4157-b1d8-1a7baf1d6843_ce2393ed-4d5a-47b8-b47c-215e41f32752.jpg)
 
 ---
 
@@ -283,16 +168,6 @@ _Deuxième visite de la cité de Lagos_
 
  · [[Google Maps]](https://www.google.com/maps?q=37.1001302,-8.6706957)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0191a8ff-8763-488f-88b4-8054636bca65_f947cb93-1bef-4276-8f09-b400c20e21af.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0191a8ff-8763-488f-88b4-8054636bca65_987505a3-853c-4aaa-be75-53093ecf38f9.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/f1ac86f2-0a2e-4715-addb-b73bb6011851_420c71dd-4a5f-49a6-886e-4456fc2ec42c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/f1ac86f2-0a2e-4715-addb-b73bb6011851_f6af14e4-b8a9-4249-a395-462e16b011ab.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/3a14c41a-d881-4c65-9b90-fa03921a5049_f98cbcf8-f3af-44bb-8013-c1bd1035afbf.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/3a14c41a-d881-4c65-9b90-fa03921a5049_f6b0ec74-09c5-452a-94a9-3bbe54cc6c67.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/99e6efb8-68ea-42b9-a86b-5d73c040ef1b_c19097d7-d0e3-4e82-9570-0a1566b99d68.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/99e6efb8-68ea-42b9-a86b-5d73c040ef1b_2cfeb46c-7177-45ea-819c-d9b7d9e3d3db.jpg)
-
 ---
 
 ### 16. Silves — 16/11/2025
@@ -302,24 +177,6 @@ _Jolie ville médiévale au cœur de l'Algarve avec son château 🏰_
  *⛅ 18°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=37.189857,-8.4389499)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/530c6b7d-3c20-4cf6-a112-3dd79bd9f3e4_ed45c027-a4cc-460d-80ff-6a1a7053648b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/530c6b7d-3c20-4cf6-a112-3dd79bd9f3e4_59507068-4041-4389-ae04-323b4e2bd572.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/9265837e-929c-4f22-81f4-a27d5d3d4124_fc21c198-be6c-4233-b436-ad7d417997ee.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/9265837e-929c-4f22-81f4-a27d5d3d4124_40f55bf4-38f9-477f-881a-3031ff785fa0.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/509f7818-caac-4b92-b754-691a3fe24fa5_ea4aade9-09dc-4f65-8b72-805edfea44c6.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/509f7818-caac-4b92-b754-691a3fe24fa5_d96a0e33-10ea-491c-8bde-41e2d42773ed.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/f3144bba-1638-41b6-b4b9-abda7b1ec635_1290a78d-86d1-4e38-9fdb-6001218d5abb.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/f3144bba-1638-41b6-b4b9-abda7b1ec635_227a507a-7b86-444c-9f0e-940c8b3dc37f.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d8201afc-6b59-4941-b47a-b25f120f290e_88d3ffdd-8876-4e3c-92b4-863a4a85b9cd.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d8201afc-6b59-4941-b47a-b25f120f290e_c46cf34b-3d73-4750-9df0-4e82ff6f77e6.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/95c271e1-565e-4ac1-9236-6ebced137415_8c0d6c4f-548a-443e-be45-c880bae69b7a.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/95c271e1-565e-4ac1-9236-6ebced137415_0a3ac862-6530-4cb6-b413-31cc98b80006.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7028894b-9d0b-4317-a1ff-3423fe2f3d76_3d7d4443-4584-475e-81ec-cbb574b79949.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7028894b-9d0b-4317-a1ff-3423fe2f3d76_27615cb9-93e7-48d8-8e47-78056f66f537.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/6f4c3754-f58c-47e4-8eb6-51590f10e52f_fbbaf9b2-5b37-460f-ae6c-9070782a545c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/6f4c3754-f58c-47e4-8eb6-51590f10e52f_01a2f9f3-df3e-4538-9008-a5ba3750dcfa.jpg)
 
 ---
 
@@ -331,14 +188,6 @@ _Plage également magnifique 😍_
 
  · [[Google Maps]](https://www.google.com/maps?q=37.0881327,-8.4269659)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/4e342afa-714f-4b2f-b023-441dc5d208c4_4fba1634-0bbc-4a48-871a-4a36d50c7698.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/4e342afa-714f-4b2f-b023-441dc5d208c4_5eccd8f8-b04c-4a39-9e61-57ae4b13025f.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/bf51940c-00cd-4275-85cd-92373721b56a_34c860bc-1325-492b-b1a2-4a9c7b87edb3.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/bf51940c-00cd-4275-85cd-92373721b56a_33ea8e09-5a6d-4a78-acd1-31d955ca6815.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/9901129c-cb10-4b1e-9489-8846c5dbfc01_05fa69ce-d86f-4343-883b-c59d71260c2f.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/9901129c-cb10-4b1e-9489-8846c5dbfc01_efd15822-ee0b-4e0e-b174-7386ab949fa0.jpg)
-
 ---
 
 ### 18. Carvoeiro - ville  — 16/11/2025
@@ -348,22 +197,6 @@ _Incroyable spectacle et visite de la ville._
  *⛅ 20°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=37.091204,-8.4546593)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0abdb803-43e3-4ebc-a0a9-3dfb7e8faf78_1c43b721-4b41-4a13-bb25-f7ea98537d4f.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0abdb803-43e3-4ebc-a0a9-3dfb7e8faf78_a8fcda67-6a46-4b52-9648-e1924680966a.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/94ce27ae-87cb-4e22-9bbb-f8498ce4c23a_b814742d-09b6-49e7-8a07-e7aec7f3de6d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/94ce27ae-87cb-4e22-9bbb-f8498ce4c23a_020578c0-5be6-4894-b5d6-27566422c7c7.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/cc799dca-0fbf-417e-a218-acf4777e5e2e_41358031-f014-4755-9184-8994e78f6787.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/cc799dca-0fbf-417e-a218-acf4777e5e2e_14b799c4-5957-407f-afe5-22e64fa70dcb.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/167ec3d7-3115-4a58-acca-4da3f9341554_0fe64ecf-7787-4a47-a100-cbcbac4853b0.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/167ec3d7-3115-4a58-acca-4da3f9341554_975fd7dd-10ca-4d9a-a2d3-a5a130104755.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/338a7ccf-23dc-4bea-a8ee-672ec66f2379_72f9957e-88ec-47b8-95b9-5d2db8b49fe4.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/338a7ccf-23dc-4bea-a8ee-672ec66f2379_621718be-11f6-4a3b-b52f-be0c629f5113.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7b279878-2bc2-43f2-9ee1-9fd58a8f6367_9aa01f92-8940-41e6-ba55-8d47bf15ee04.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7b279878-2bc2-43f2-9ee1-9fd58a8f6367_71dc1cb6-076f-49e5-b88b-1dca6c6d6945.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0f77c834-384d-4599-84ae-7eb2a4fd90be_ff6e47da-8278-46e9-9131-0eac22922cd7.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0f77c834-384d-4599-84ae-7eb2a4fd90be_4e785ca5-f175-4473-958e-bc6dfdf13a0e.jpg)
 
 ---
 
@@ -375,26 +208,6 @@ _ Aujourd'hui sortie en bateau ⛵ pour la visite des côtes avec les dauphins �
 
  · [[Google Maps]](https://www.google.com/maps?q=37.1092349,-8.6734292)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/1ac8c1f8-12aa-4e17-93fd-84490bc69b8c_7d758b76-b62e-44b2-8654-d31b47cb383b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/1ac8c1f8-12aa-4e17-93fd-84490bc69b8c_4e6b36a7-e6fd-4d63-8727-f5f3ee3a4800.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/007d6175-ec45-49ea-aa8a-74abc55771fd_fd48bfdc-d896-4060-9dbc-c1f8df35f53b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/007d6175-ec45-49ea-aa8a-74abc55771fd_cef3416b-bc86-498a-ae4f-fba78fa70e60.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0aae74f5-afe0-4a0f-976b-95e9b179b19a_dd839e8b-25b1-44b5-a278-0303cde391b0.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0aae74f5-afe0-4a0f-976b-95e9b179b19a_077c3680-3515-4daf-a6b0-fb40c2530b68.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d8a88bc1-bef9-45d0-a18c-f2904def48a1_c3752577-03da-490a-acc7-2eb657880f04.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d8a88bc1-bef9-45d0-a18c-f2904def48a1_0f9ff531-667f-48bd-8920-5692e7816815.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/5e330317-4cd8-4b30-b08a-2ca1378cf1ab_097c0595-d484-45f1-ac50-b29a35506928.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/5e330317-4cd8-4b30-b08a-2ca1378cf1ab_8cb7cab6-a5a1-438a-8af7-a24037804f2f.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d64eed71-b9f8-406c-b29e-502ad4e02a07_b95e17e3-5dd8-41cd-a548-55c3a55fa87b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d64eed71-b9f8-406c-b29e-502ad4e02a07_a822f48a-ff75-47fd-9ec6-6b01e53da00b.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/bf2f41c2-faa3-4f75-907a-1b38decd6ff3_bbc0a177-6611-4841-93dc-0e32c509bd16.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/bf2f41c2-faa3-4f75-907a-1b38decd6ff3_0cd2ba8c-997c-4271-afe1-39617055dde2.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7755b07b-d7fc-414f-ac7a-fb6daf507faa_799e4e79-890b-4c81-ba47-e82c55621073.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7755b07b-d7fc-414f-ac7a-fb6daf507faa_386c13cd-9e77-4c8a-b81b-d152b0ebfd4d.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/3f36bacc-5c85-4c4a-8ec9-3046eca52e16_be8f2337-1d30-4610-ac90-0d1b42aa3706.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/3f36bacc-5c85-4c4a-8ec9-3046eca52e16_1703fb9d-873b-48bc-889f-48c9da4d0591.jpg)
-
 ---
 
 ### 20. North Atlantic Ocean — 18/11/2025
@@ -402,20 +215,6 @@ _ Aujourd'hui sortie en bateau ⛵ pour la visite des côtes avec les dauphins �
  *☀️ 19°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=36.9716387668031,-8.490524230811081)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/501f14bb-b7a2-49bb-9af5-6c448487ad9c_9582a64f-1df5-4456-bc0a-82b2f88e2312.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/501f14bb-b7a2-49bb-9af5-6c448487ad9c_959dc4e5-d5b8-4c1e-8929-333523afd7ca.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/8b0a7deb-148d-451f-970f-dc56d64d945d_5bb7b5d1-f334-4a0a-b6f5-3dfff23537d1.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/8b0a7deb-148d-451f-970f-dc56d64d945d_c56459c2-9079-48f8-8d0c-ded4f4355ce5.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/302c4874-7427-4480-82e5-74d5b70b67fe_e02291fe-38fa-42a3-8a91-401a9d5fbf32.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/302c4874-7427-4480-82e5-74d5b70b67fe_6fdadc62-82e5-4f90-af2e-3c65ffe79e29.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/f36d6577-8e1a-4cd6-a091-0560739c92bf_4ff248d6-75a3-4902-8f54-7035a84cb01a.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/f36d6577-8e1a-4cd6-a091-0560739c92bf_423c473f-d04e-4a3d-b209-83cedb502db0.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/41f7ea1a-c81a-4382-9b4f-5f088bf42ead_3eebaa80-9a96-4367-9d31-eb498d6f9cbb.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/41f7ea1a-c81a-4382-9b4f-5f088bf42ead_20036cbe-cd33-4b27-bb38-8c8eab58860b.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/43d8b0b6-19e0-4806-a3bb-a98509cbb8e7_e9137d22-c547-4510-be36-869e5501ea8d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/43d8b0b6-19e0-4806-a3bb-a98509cbb8e7_90425703-e736-4844-b44f-18cad0a7f5b3.jpg)
 
 ---
 
@@ -425,20 +224,6 @@ _ Aujourd'hui sortie en bateau ⛵ pour la visite des côtes avec les dauphins �
 
  · [[Google Maps]](https://www.google.com/maps?q=37.27953201121899,-8.152171678835318)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/94523265-77c7-4e59-834d-8d62d4e0d3b4_0e334398-62e9-4f7b-b5b0-d3d0b58cfa3d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/94523265-77c7-4e59-834d-8d62d4e0d3b4_e0c6ca98-1439-48d3-b51a-a4f3cc88404f.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/e5ed56ff-640f-4ddd-8358-aff626f34a98_e52590a0-5384-49b4-9d17-9725301ac5e2.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/e5ed56ff-640f-4ddd-8358-aff626f34a98_a0302073-79c6-4735-99c7-52673c4f1e4e.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b557b52a-e08f-44d8-af38-fc151d23b27a_ceae7456-61e3-4d5d-a511-24dc23595b03.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b557b52a-e08f-44d8-af38-fc151d23b27a_d5175572-8138-418a-b74d-1ccd353041db.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/44ec7ed3-1809-489e-b063-5539d96234af_6c0b4486-16de-4da5-b8b3-3b0b4b339285.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/44ec7ed3-1809-489e-b063-5539d96234af_e46a5eff-9f16-48fc-864e-49625358ae7d.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/31503010-e979-4730-9305-e0dcaa4b2c68_e4fbe35c-7344-45b3-ab01-57d2415a06da.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/31503010-e979-4730-9305-e0dcaa4b2c68_8264a07f-3145-407c-a012-8e240a909728.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/3b9b8a1f-8baf-4115-b565-2aadf6125b5f_867f5ee0-74b9-4d7a-9223-b9f1343af319.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/3b9b8a1f-8baf-4115-b565-2aadf6125b5f_9b1286da-fbe1-411e-9ccc-6e23597141ab.jpg)
-
 ---
 
 ### 22. Loulé — 21/11/2025
@@ -446,14 +231,6 @@ _ Aujourd'hui sortie en bateau ⛵ pour la visite des côtes avec les dauphins �
  *☀️ 17°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=37.23346249203731,-8.179283998460226)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7291fd09-c092-4bc8-a1bd-bfb73217cdcf_eaf03fd6-8f02-499d-a58f-3025cf218dea.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7291fd09-c092-4bc8-a1bd-bfb73217cdcf_94dbfc98-c30d-4aea-aad1-d2ad17b72663.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/11cc226e-ef33-4fc8-998c-9b9baf5f97e9_1e1f6681-d649-4be2-b272-a0dd7598cde1.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/11cc226e-ef33-4fc8-998c-9b9baf5f97e9_00180dd6-344b-4174-9b02-26f1749e949f.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/99e185fa-f08a-4f1a-9b77-68d3980cfeb4_38a14bce-2c70-4d62-8e6e-9b7cf50d19e2.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/99e185fa-f08a-4f1a-9b77-68d3980cfeb4_46875337-4974-47e8-8333-b78a4d348dce.jpg)
 
 ---
 
@@ -463,14 +240,6 @@ _ Aujourd'hui sortie en bateau ⛵ pour la visite des côtes avec les dauphins �
 
  · [[Google Maps]](https://www.google.com/maps?q=37.08564332796064,-8.309218408222003)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/c040309f-f05c-4ecd-833b-8b2f593a80ef_9b608c79-f9f2-4aa6-98c1-e3d9332ae748.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/c040309f-f05c-4ecd-833b-8b2f593a80ef_e9b6148a-5a62-4ef6-a4bc-b27316026b2b.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/030fe452-1d46-4068-a564-976c96fb7e5d_9d35da24-bce1-4de1-be3c-839fc25ea897.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/030fe452-1d46-4068-a564-976c96fb7e5d_69761f42-070b-49dc-996c-578a411d1d73.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/6530efe0-ad82-4897-bcea-00af24d08a4f_2ba2cbea-a0aa-4735-9b43-da6af7945bf2.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/6530efe0-ad82-4897-bcea-00af24d08a4f_6e874bce-2484-46dd-8c4c-e9502c43fa03.jpg)
-
 ---
 
 ### 24. Porches — 21/11/2025
@@ -479,14 +248,6 @@ _ Aujourd'hui sortie en bateau ⛵ pour la visite des côtes avec les dauphins �
 
  · [[Google Maps]](https://www.google.com/maps?q=37.09715522950929,-8.38678547652374)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/447dc1f5-5e10-4c86-8eb2-fb39e5fe3e5c_1097482a-89ee-4900-836d-180059b4368b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/447dc1f5-5e10-4c86-8eb2-fb39e5fe3e5c_69a8531c-0aa4-490a-9b59-4049887dc3f7.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/c305a40d-62be-4397-908b-02c130ecc9db_2e26c202-5597-4898-82b0-009022d0bfad.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/c305a40d-62be-4397-908b-02c130ecc9db_0bc8ce8d-e217-4dab-80a0-d588d9c662ee.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/3610c499-1cf0-403a-96c6-5d57a705d654_733dadf9-c77c-4303-8f6f-45be3db63bfa.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/3610c499-1cf0-403a-96c6-5d57a705d654_4fb91060-0133-4707-9bfd-1ba290924cca.jpg)
-
 ---
 
 ### 25. Lagos — 22/11/2025
@@ -494,16 +255,6 @@ _ Aujourd'hui sortie en bateau ⛵ pour la visite des côtes avec les dauphins �
  *☀️ 17°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=37.08222662704006,-8.6685223472208)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/90aaeb03-a33c-4625-ba1e-14479caca29c_7228305f-4802-4e86-9986-d87a1d580948.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/90aaeb03-a33c-4625-ba1e-14479caca29c_4ac324bb-4264-47f3-91aa-b8a2adb0656b.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/5e77801b-df23-4010-b616-397deb62ab58_35c8c1f4-fc4c-4623-9f44-9838e1510cf5.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/5e77801b-df23-4010-b616-397deb62ab58_3de121c3-6137-4e21-b7c0-77271fc6718e.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d2b41b26-f24c-4e9b-b15d-fce87b4b5143_ec23a60a-bfcf-4ec5-bdde-b6a7cd426c1a.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d2b41b26-f24c-4e9b-b15d-fce87b4b5143_a65f3a70-0cef-4450-8497-19d3561e3ccf.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/94966dc7-e163-49bb-9d43-0dee6267abf8_72a6974e-abc7-4760-bfb6-9254710bf7fa.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/94966dc7-e163-49bb-9d43-0dee6267abf8_f5f49d89-6431-4751-ac65-eaa272607fd6.jpg)
 
 ---
 
@@ -516,14 +267,6 @@ _
 
  · [[Google Maps]](https://www.google.com/maps?q=37.13519497479314,-8.663179844339775)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/f698d36a-161e-4b50-b281-5ca78c19670f_dc4a1512-53ec-4db8-bdc7-0dc8ef84cfff.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/f698d36a-161e-4b50-b281-5ca78c19670f_af51a176-5b19-44ff-9819-296b85f5dc32.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/45aad507-3d71-4228-8029-530577677917_1a7515df-18f1-4529-b84d-ce9167ff568e.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/45aad507-3d71-4228-8029-530577677917_e71632a9-8505-4d9b-815a-6aba0f8a8fb2.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7a6ec2b0-da27-4233-9ff0-d012eb54c9e6_bbc00ccd-44b1-4ece-9c4c-72b3892b95cb.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7a6ec2b0-da27-4233-9ff0-d012eb54c9e6_30d942ee-d1a4-48f8-94ca-fe3a55c53400.jpg)
-
 ---
 
 ### 27. Luz  — 22/11/2025
@@ -532,14 +275,6 @@ _
 
  · [[Google Maps]](https://www.google.com/maps?q=37.0848425985539,-8.730233673990417)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/fd996f0e-3970-492b-bdd3-926530859d96_5f0e5647-0f64-4ccc-abac-d49d67109723.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/fd996f0e-3970-492b-bdd3-926530859d96_65568c19-0b62-4fed-b32c-c1eca1e0ab88.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/6b98f539-30c6-4665-bb95-7b5b40d3caf9_0fc65079-2988-42a0-930d-0bdec9f498c3.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/6b98f539-30c6-4665-bb95-7b5b40d3caf9_431e7ce6-d611-48bf-a953-4ff2a47df294.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/1d31be94-55a3-4886-817c-bf38001fb9af_6455b223-f5bd-40a8-beb1-e71116441e44.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/1d31be94-55a3-4886-817c-bf38001fb9af_31ebb01e-aaab-4125-b624-ab79f4ab7b1c.jpg)
-
 ---
 
 ### 28. Paia do Comilo Lados — 23/11/2025
@@ -547,16 +282,6 @@ _
  *☀️ 17°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=37.08222662704006,-8.6685223472208)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/5d984a81-25fe-4777-8437-b4de14f4525d_e76c8b21-c2a4-4f48-84aa-4cb9b9630871.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/5d984a81-25fe-4777-8437-b4de14f4525d_3b0e5de2-d4ee-4e71-a41e-37500a770058.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0b968550-f213-456d-9bcc-d6a9b2fd8b0e_cc243c3b-a13a-4b57-96a3-91cac77c8038.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0b968550-f213-456d-9bcc-d6a9b2fd8b0e_f2e5f3be-cfe5-4215-bf20-10c2678c4866.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d2f1354d-eca6-42fb-9bfa-9be9be650f1f_eb14b90c-c940-4a27-8136-7c440fe6bc0d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d2f1354d-eca6-42fb-9bfa-9be9be650f1f_fcad456e-451a-40f4-b062-f3c67ee41fea.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/57653fe5-83c3-4477-afb0-307f60466b1a_9f4e20a7-1b68-4325-b97c-6a7e69c42cff.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/57653fe5-83c3-4477-afb0-307f60466b1a_84d7a4ed-e8ca-4215-9a31-a0835c09dccf.jpg)
 
 ---
 
@@ -568,24 +293,6 @@ _En promenade dans la région a l'ouest côte Atlantique _
 
  · [[Google Maps]](https://www.google.com/maps?q=37.2260098,-8.8325648)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/1a466257-3965-442d-b732-372a827825e3_faeca925-de56-4b1b-80dc-7642428cbc28.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/1a466257-3965-442d-b732-372a827825e3_85c5f3c8-4a53-455a-ac32-ab0b6e13ac7b.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/eae4ca43-ea07-4676-8b95-4649d0272a92_0f265752-cea5-4ff1-b4f6-e04d1f448ca5.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/eae4ca43-ea07-4676-8b95-4649d0272a92_4bbec56e-35dd-4389-a7d8-cdd40ecb0bae.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7e5cb547-7e70-45ed-a9ea-dc6867b232b9_012bdf4c-de43-4795-8148-d651e57a2bca.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7e5cb547-7e70-45ed-a9ea-dc6867b232b9_e30498d1-76f2-44df-8bef-fe56a0a58071.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/199abfe7-91a1-4afa-99af-5e24055fa273_675257cc-3fb1-49e7-a282-33685ba9a6c0.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/199abfe7-91a1-4afa-99af-5e24055fa273_173e599f-5745-48f0-b0f9-5eeca846f2b8.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/3f3be01b-f22a-4171-933b-6c472a6a6e47_bbf62ae0-55ea-4a0c-a317-47f2bee6e9cb.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/3f3be01b-f22a-4171-933b-6c472a6a6e47_c7ef4a79-50b9-4ea1-b195-280a9e88e15b.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7e73e9d6-3b4b-422f-9814-09a04e13bb2a_754eeac2-0290-4218-b302-d67556e8be6e.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7e73e9d6-3b4b-422f-9814-09a04e13bb2a_89c0ed51-928e-467d-bc04-57e6d0cb328c.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/a69aee59-e6c1-444a-8afb-04e70e83d590_4c68976c-1f94-4cf1-8995-a0fb2903b308.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/a69aee59-e6c1-444a-8afb-04e70e83d590_3e21d697-554e-492d-afd2-541d914a9038.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/2463d836-8e21-40ad-9886-47ecb1523ad8_dfaad3d9-560f-4b11-9059-1b2caa09610b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/2463d836-8e21-40ad-9886-47ecb1523ad8_3b5bf250-36de-407c-9b96-5e3f12fb0aeb.jpg)
-
 ---
 
 ### 30. Bord de mer  — 23/11/2025
@@ -595,14 +302,6 @@ _Nous nous sommes arrêtés dans un restaurant au bord des falaises _
  *☀️ 16°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=37.1754878,-8.9075371)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/2f30738c-1c99-4ae7-9655-daf4d91b4858_70aae0ee-6846-471c-9b75-173620f06df0.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/2f30738c-1c99-4ae7-9655-daf4d91b4858_dbe8e3ee-5b7c-4ffd-8aad-d525e470a0b4.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/e560ec99-6334-40b6-9f03-aa496389d57e_341970d3-5fa7-42f9-84f7-7c92761cddd5.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/e560ec99-6334-40b6-9f03-aa496389d57e_d05f42fe-0ef5-4056-a9a6-21a458de7dec.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d519bd21-f01a-4e14-835f-58be1a09318f_3ed44a49-07bb-4743-8b1c-a74dc6113caa.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d519bd21-f01a-4e14-835f-58be1a09318f_c18efeea-01f6-4e58-a566-ab08e48006f7.jpg)
 
 ---
 
@@ -614,22 +313,6 @@ _Sur la route du retour _
 
  · [[Google Maps]](https://www.google.com/maps?q=37.43838571110909,-8.797345790695084)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/9a6f393d-1d67-4f73-a4ba-b9a663f83ff3_40abbdfd-95eb-47df-ad48-218c7a98d1ef.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/9a6f393d-1d67-4f73-a4ba-b9a663f83ff3_b808d376-feb7-460b-9d3c-3170f7dc21ba.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/11c7ed16-8249-44dd-a6a6-32bbda474607_34b9665e-425f-4b50-bd9e-b47409e351e1.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/11c7ed16-8249-44dd-a6a6-32bbda474607_d20202c1-9ff1-404e-b1ba-147a0d8cd480.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/29ce3aad-15df-4436-ac17-121060a01d6f_e7329b35-7c28-43b6-bddc-9dd571d134ef.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/29ce3aad-15df-4436-ac17-121060a01d6f_c76e4b96-9e36-460d-b0bd-46196c13bef7.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/4a98c58f-66c0-4ddb-8fa1-cd504b1a07f8_4910cd78-d42f-4cce-ae83-1bd04da44127.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/4a98c58f-66c0-4ddb-8fa1-cd504b1a07f8_693202b6-2f52-47f7-888d-4df3af2bcd2f.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/3fcc5a34-8397-4665-9798-71796f424543_d4204fc2-7f0e-4ff6-b3e9-d3ce398d9ebb.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/3fcc5a34-8397-4665-9798-71796f424543_ef2ea5dc-8d5e-4c2a-8ca8-df6478d8d50c.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/a99b204e-6202-4332-bbb0-22311cfed07e_1c6df35a-8189-4625-b44b-2300a5aeec6c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/a99b204e-6202-4332-bbb0-22311cfed07e_87465901-275e-4903-86b4-d6adef7f2724.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/a6f448cb-6f27-4ac0-9865-7de80cefb7e8_fd0d7266-20d1-4a3d-a9db-700b04ea742a.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/a6f448cb-6f27-4ac0-9865-7de80cefb7e8_74c828fd-4def-4bea-ad9b-0d542a51ee97.jpg)
-
 ---
 
 ### 32. Alandroal (Nossa Senhora da Conceição), São Brás dos Matos (Mina do Bugalho) e J — 26/11/2025
@@ -639,34 +322,6 @@ _Notre spot pour ce soir _
  *☀️ 14°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=38.70219845090474,-7.408676240301516)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0fd91635-f2bb-4137-901b-718af004a4e0_ccd1ebb4-35cc-484f-addb-bb95109b581c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0fd91635-f2bb-4137-901b-718af004a4e0_180ddb38-39c9-443e-9091-b7c8fa76da9b.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/ccf2cfc9-c55d-44b5-b4a0-bd0c4ebbe086_a2b2a3ed-5887-4d0f-9200-056d33ac1e1e.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/ccf2cfc9-c55d-44b5-b4a0-bd0c4ebbe086_dd4b9605-b6fa-4642-948c-dc025c696127.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/636686af-93d9-44e8-93a0-818ccb63e55d_09083bca-162e-49cb-98e9-255b504b8da2.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/636686af-93d9-44e8-93a0-818ccb63e55d_2ffedabe-8792-4345-97d2-85db799322d4.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/f15c5ac9-0f31-4086-be8e-63a8284e01ac_a5f633ee-3865-40ce-895f-39c09d919e14.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/f15c5ac9-0f31-4086-be8e-63a8284e01ac_c383168e-91cd-4a9d-88f5-8bd78190a3fb.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/bbafb6a9-c357-4143-8274-1d780ffe39da_12a02a08-f967-4ff6-ace4-620088759344.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/bbafb6a9-c357-4143-8274-1d780ffe39da_e2eefc49-3626-4f08-9b24-00258f384014.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/fa806ba6-3c38-4cf0-8a43-4932379caf48_bf7e25ae-de32-4fa0-92d2-2c5e604a1d76.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/fa806ba6-3c38-4cf0-8a43-4932379caf48_97086de4-c542-4bae-aea7-9511c1c6281f.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/e453615d-07c8-4a8c-bd81-a5af19a40593_0b3ef2af-85ba-48f9-8a26-d6c991d249b6.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/e453615d-07c8-4a8c-bd81-a5af19a40593_5ff8816d-dc65-49bf-a2dc-84d4246fb27a.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/03177979-bb7b-4944-9cc3-41d1f6da00d4_c8eb44f9-e77c-4aaf-916c-a02d8ac3639d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/03177979-bb7b-4944-9cc3-41d1f6da00d4_80084692-0a9a-45de-8c7b-6542c374a422.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/19e5ea36-f13c-4c9e-b5f7-c1e757b20b22_029c1789-3521-4161-9aae-8b82b245dc32.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/19e5ea36-f13c-4c9e-b5f7-c1e757b20b22_f0df95c8-d3cf-4bae-9202-e5e63ce227a3.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/c11dd573-b20f-4f21-b71e-36bfaa9e4a13_49e389c0-ae10-497c-8579-1a61d3ab4c7c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/c11dd573-b20f-4f21-b71e-36bfaa9e4a13_9bca122a-12d2-4e2f-a4a9-f53dc74f4315.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/760f5573-32ba-4650-9b23-1ef668d1dd58_cf2c35fd-0076-4601-b030-a90f85e30f8c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/760f5573-32ba-4650-9b23-1ef668d1dd58_8d15620a-3595-4bc3-b5d1-b13ad2c2937c.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/8281045a-f429-41e7-a39d-0d70838b6fe0_040e49b7-c8d9-4475-8d01-48361634947c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/8281045a-f429-41e7-a39d-0d70838b6fe0_ba3aaa70-f5a3-4f93-89f1-ff93c6f6c364.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/46d4dd8d-1e7b-421d-82f9-0c3ca998e051_4e494c2c-2fde-413b-80c9-029d788e195d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/46d4dd8d-1e7b-421d-82f9-0c3ca998e051_9a291ee5-a1ce-4ef2-96f9-f9e88aaad4c8.jpg)
 
 ---
 
@@ -678,12 +333,6 @@ _Sur la route direction Salamanca _
 
  · [[Google Maps]](https://www.google.com/maps?q=39.7226441,-6.4110792)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/8b00be72-4f22-4643-8823-bf4ebd936d79_b7b429fa-67a1-4b94-887b-8557c52dc5e2.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/8b00be72-4f22-4643-8823-bf4ebd936d79_0f6ed197-0ef3-4757-9c22-221a3b15cba5.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/fa8e571a-bcc7-4c18-9676-e6db8593f9d6_4c607556-e3f7-4f9b-aec8-891fd10ea8d9.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/fa8e571a-bcc7-4c18-9676-e6db8593f9d6_e2ae3a6a-a479-4a63-a176-42f7c8f0817e.jpg)
-
 ---
 
 ### 34. Palencia — 27/11/2025
@@ -693,12 +342,6 @@ _Spot de Palencia _
  *⛅ 9°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=42.009886363556426,-4.545232909164133)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/32f5ba1f-2c6e-4762-8154-84348697342a_afe6e0b6-aa7e-45f0-bf09-381604b4c046.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/32f5ba1f-2c6e-4762-8154-84348697342a_5e5ee191-096e-4734-ad0d-d5caccc7f0ea.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/587cef6c-6239-4ce4-9db3-f3a61a52bd16_83b69901-d303-4abd-8ce7-c7bbca6dac43.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/587cef6c-6239-4ce4-9db3-f3a61a52bd16_9b49b923-8d61-4e76-abf3-9c93d746ce30.jpg)
 
 ---
 
@@ -710,10 +353,6 @@ _Sur la route et nous sommes à Bordeaux _
 
  · [[Google Maps]](https://www.google.com/maps?q=44.8103084,-0.5233346)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/9da0a883-3118-41bd-ba37-fcfbdea238a4_efb593d7-a885-4f7f-88f8-8909955d45cd.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/9da0a883-3118-41bd-ba37-fcfbdea238a4_60a6b5e6-7c29-41bc-90f1-c7db9a3c069f.jpg)
-
 ---
 
 ### 36. Prahecq — 28/11/2025
@@ -724,10 +363,6 @@ _Voilà nous sommes au spot après un parcours de 1560km. Il nous reste 750km_
 
  · [[Google Maps]](https://www.google.com/maps?q=46.26308663912703,-0.34628089045022764)
 
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/c8431dfe-0aaf-47c1-8385-52784008a04c_b0b84128-d67f-4592-8d2e-7d444eb78796.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/c8431dfe-0aaf-47c1-8385-52784008a04c_fed2a99b-d805-4460-bc1d-71c512e4f234.jpg)
-
 ---
 
 ### 37. Paris — 29/11/2025
@@ -735,12 +370,6 @@ _Voilà nous sommes au spot après un parcours de 1560km. Il nous reste 750km_
  *☁️ 12°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=48.823564270999796,2.3823768280312696)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/8ebbdf47-c868-491e-add7-4a9ce548021b_fc64634f-1656-465d-9f2b-81f570504538.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/8ebbdf47-c868-491e-add7-4a9ce548021b_56f993b3-2a42-4786-b084-cc3fad7b4dd3.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0cab31e2-1dff-4477-adb7-12116d8613e2_c97e530e-d45d-4040-8f90-51970f47d949.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0cab31e2-1dff-4477-adb7-12116d8613e2_f4581426-b5ea-4b46-8db2-f6886b319023.jpg)
 
 ---
 
@@ -751,12 +380,6 @@ _Retour à la maison 🏡 32h de route au total 4658km pour cette escapade portu
  *⛅ 11°C*
 
  · [[Google Maps]](https://www.google.com/maps?q=50.525773930865455,4.610040798861761)
-
-**📸 Photos :**
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/9367d0ab-7486-4ee4-947c-6e4d13743179_714d66a8-c61e-470b-8f2e-debfc9d97f35.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/9367d0ab-7486-4ee4-947c-6e4d13743179_61dd94a2-0265-44a9-a825-69d8756afff1.jpg)
-
-[![Photo](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/60f625b1-b7cb-4f09-8979-0dbb36c3356d_45644a9b-81cb-45a4-a23b-2dc1582b8dea.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/60f625b1-b7cb-4f09-8979-0dbb36c3356d_84732d17-15a9-42fb-9bf5-d61e02e5b1d1.jpg)
 
 ---
 
@@ -1527,310 +1150,6 @@ _Retour à la maison 🏡 32h de route au total 4658km pour cette escapade portu
 | 756 | Sombreffe | [50.5355, 4.6040](https://maps.google.com/?q=50.53551269091629,4.603991670551739) | 29/11/2025 | |
 
 </details>
-
-## 📸 Galerie photos (151)
-
-[![Photo 1](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/78056516-d623-41e4-905c-4e116931524f_d1593d42-b826-436e-8d54-8f77f85106fd.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/78056516-d623-41e4-905c-4e116931524f_55f0d784-d3a8-4858-83eb-b7433fbd1eb8.jpg)
-
-[![Photo 2](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b2d459b8-060a-4974-8f7d-57561443c99f_bcdac515-b04e-494b-906a-8a59876999d2.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b2d459b8-060a-4974-8f7d-57561443c99f_381a40b3-4b53-4560-9540-6a5187b4f67c.jpg)
-
-[![Photo 3](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/24fa2eab-e34c-47ff-97cf-3328b18bb83f_bc566cf6-6804-4b0d-a542-5f5c14b299c7.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/24fa2eab-e34c-47ff-97cf-3328b18bb83f_04af067f-6f21-4080-9f3a-e950ef8d4da6.jpg)
-
-[![Photo 4](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/a4d853c8-a6c3-48df-99a1-c2a6aa969026_c6ce479c-c260-46f4-8bb0-ef8aaa890382)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/a4d853c8-a6c3-48df-99a1-c2a6aa969026_38dc31b8-a940-416c-a767-327b83feca25)
-
-[![Photo 5](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d045f501-1de6-484f-afae-5ea1c1412ee0_16fa76e0-769c-4a33-a069-80fe446c48c2.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d045f501-1de6-484f-afae-5ea1c1412ee0_9ba16af5-334d-44a5-b1b7-d6e11d5a47c6.jpg)
-
-[![Photo 6](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b1b2f050-5076-4a95-9e78-52985c18274c_be80619f-13a4-4c15-91b4-2357d2721135.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b1b2f050-5076-4a95-9e78-52985c18274c_56fb2ac4-1099-45e9-b9e7-8dd2f41d62b2.jpg)
-
-[![Photo 7](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d18a3f66-bab8-441e-9c76-73e3f2e00561_772d3c98-0970-4ab0-be94-933c2c096920.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d18a3f66-bab8-441e-9c76-73e3f2e00561_9fda8e82-a833-44e5-b6d2-c4e79346866e.jpg)
-
-[![Photo 8](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b546876c-bfa8-43f1-aea0-03b0c6916e74_808d73b9-d7aa-4298-be5a-24fd4e204571.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b546876c-bfa8-43f1-aea0-03b0c6916e74_260905f1-b027-403d-82a9-054feffee887.jpg)
-
-[![Photo 9](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/30bae3f2-124f-418b-83b2-c1b2a93894b2_8634267a-1472-40b6-8573-ea3f5f2eb217.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/30bae3f2-124f-418b-83b2-c1b2a93894b2_68b579be-651e-4339-bb00-f0d0b035759d.jpg)
-
-[![Photo 10](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/76d43bbc-8a74-4ddd-8a09-8a493538497f_3dd1e298-e919-483a-a1a4-6c00875d26e6.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/76d43bbc-8a74-4ddd-8a09-8a493538497f_9a4999f6-683c-4c0c-8549-d2a1da9120c4.jpg)
-
-[![Photo 11](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/98e49fea-9cfb-42f9-adfd-0d9c46b68fbc_5510c153-d4a8-4d37-bd30-4a0799437895.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/98e49fea-9cfb-42f9-adfd-0d9c46b68fbc_053ddd20-c71e-419c-8030-018ffd45b852.jpg)
-
-[![Photo 12](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b6b8c88c-536d-45d5-bf44-709650522fab_9f0d47e4-b316-4ef0-ba79-eee8e5e40292.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b6b8c88c-536d-45d5-bf44-709650522fab_ec84b8c9-786d-4a44-8ac3-a6cf4b3b3cd5.jpg)
-
-[![Photo 13](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/24c128d2-1fb3-4801-9853-acffbe9a3fc8_e7719623-1f41-45e9-8b7f-d9385f714de2.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/24c128d2-1fb3-4801-9853-acffbe9a3fc8_1e5f66b8-95d5-478d-8955-3ac3bee60871.jpg)
-
-[![Photo 14](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/87e72eb9-dc61-4dde-bd8e-ab7d2a00d5ac_e14dd8fa-c887-4053-ad65-77305e05c841.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/87e72eb9-dc61-4dde-bd8e-ab7d2a00d5ac_bc6e4796-f96a-4b3d-aad0-326e898ac7b8.jpg)
-
-[![Photo 15](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/af423c48-dd1a-4305-b39c-85ed50f373f3_976dc2c5-9f7f-402b-a81d-c49b5e296d24.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/af423c48-dd1a-4305-b39c-85ed50f373f3_46289b78-dcbe-41b7-a83e-f6b00291b97d.jpg)
-
-[![Photo 16](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/70070c84-2389-465a-beb7-a9136b1de92f_b928fff9-ec10-4d66-af84-6030785c787b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/70070c84-2389-465a-beb7-a9136b1de92f_8edf571e-05c4-4ca8-b716-d731e6f7aea5.jpg)
-
-[![Photo 17](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/9f6ef6ce-1d6c-4e3b-aa39-91e26c0106a1_c23f3ce8-f1e3-4ae0-9b99-03c91a325f7b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/9f6ef6ce-1d6c-4e3b-aa39-91e26c0106a1_d86f685e-0b19-4d98-91c2-23da29e5506d.jpg)
-
-[![Photo 18](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/e99c5129-b42e-4da4-954c-1d074de0ef3f_8bc2d17f-3d1e-41c8-b2ab-7b1aeac2f3ac.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/e99c5129-b42e-4da4-954c-1d074de0ef3f_f9e4cfe9-f701-463d-a948-4a8243ee61a6.jpg)
-
-[![Photo 19](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/91811334-c012-4bbd-9d31-b2e29824fe8d_7259652b-08ba-4b14-be23-8ea507de0973.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/91811334-c012-4bbd-9d31-b2e29824fe8d_7b44e196-45c5-409b-9ff5-c722edea4cdc.jpg)
-
-[![Photo 20](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/41025d86-d7d9-4076-a9b8-e631ca7139b0_72569588-6aee-4c7c-b8eb-26c874306e04.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/41025d86-d7d9-4076-a9b8-e631ca7139b0_52f28d50-0111-4bad-a0e8-1389031d092d.jpg)
-
-[![Photo 21](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/a25d09c8-5bd7-4081-a9de-82bdf791f163_5a84b654-7d87-4598-8e07-897aedcde41f.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/a25d09c8-5bd7-4081-a9de-82bdf791f163_ee629ab8-5fee-4bd9-acd2-f4ced1e16a0d.jpg)
-
-[![Photo 22](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/c8924a49-1b63-41fd-ad07-7b0594344231_fcaac4d1-258b-4560-9186-fc2f9573900d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/c8924a49-1b63-41fd-ad07-7b0594344231_de490030-091d-47aa-99b1-1880356414e1.jpg)
-
-[![Photo 23](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b82e412b-a61a-4d35-a9f4-ad840674d470_6b03db37-c31c-4cea-9091-1bba404514bf.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b82e412b-a61a-4d35-a9f4-ad840674d470_969c6674-da4f-479a-99f6-9b37d0df7cd9.jpg)
-
-[![Photo 24](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/ceb14260-a3cd-408c-93bc-eb090b02c2f0_a0450ae7-4a03-441e-8580-c5a6ec36908d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/ceb14260-a3cd-408c-93bc-eb090b02c2f0_da8d1970-f72d-4231-b665-c867fc6731c0.jpg)
-
-[![Photo 25](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/096425f9-b39d-46ba-b798-ac94a900d267_306fff10-9c34-446b-aa47-6a0e0f22c341.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/096425f9-b39d-46ba-b798-ac94a900d267_81a0b561-7838-4613-b52a-71d6bf91be01.jpg)
-
-[![Photo 26](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/a4549d19-2d0e-4787-8adc-6309bc1b70db_3b5f8332-00d0-4bde-8ecf-806d38710b0e.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/a4549d19-2d0e-4787-8adc-6309bc1b70db_17d168a2-f294-471c-9d84-407a76183eab.jpg)
-
-[![Photo 27](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/906e925b-a139-4d6d-bee3-9d76b49d8500_9a2fb942-bb4a-48d7-82c8-d45531a00429.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/906e925b-a139-4d6d-bee3-9d76b49d8500_39c822de-0a13-414a-8d0e-5de107d89a59.jpg)
-
-[![Photo 28](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0932c3c1-f18a-45d1-922d-6394dd4f859e_59e28725-f747-4475-9b99-9c9bae142f6b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0932c3c1-f18a-45d1-922d-6394dd4f859e_984fde23-9386-4774-a34b-dc97e2f750e0.jpg)
-
-[![Photo 29](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/4d04c16f-b74f-46f7-bec1-8d546343f937_28d7338e-a048-4ee7-ac91-83ec8a1fcf55.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/4d04c16f-b74f-46f7-bec1-8d546343f937_e6cd4927-bae2-4dc7-9f42-1b357c3e9b8b.jpg)
-
-[![Photo 30](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7d42ed18-0f97-47cc-b877-38d243be0c03_8fdc8bc6-b5cd-4274-a5c0-d510ddc25d1a.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7d42ed18-0f97-47cc-b877-38d243be0c03_bc2e2ae6-36ae-4404-9d1a-80283c54e6cc.jpg)
-
-[![Photo 31](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0eb59933-1762-4c23-95fa-d321381deb48_20fdfeb1-3d96-44bd-a17d-ac0cc891ee65.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0eb59933-1762-4c23-95fa-d321381deb48_1ab762ef-d0a4-42f7-929b-9b8562c4a1ec.jpg)
-
-[![Photo 32](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d55fcbb4-f249-4a29-ac56-87583f933000_d646b01e-b2f4-423b-845b-29dbcedbb537.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d55fcbb4-f249-4a29-ac56-87583f933000_589be3f6-93c2-458d-b6cb-93543a53165c.jpg)
-
-[![Photo 33](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b6f580da-1dea-425e-bef9-da7c48957ec8_224e8e7b-d22c-440b-a819-9f0906f4a227.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b6f580da-1dea-425e-bef9-da7c48957ec8_1ad72534-b9fc-4d52-be3d-8751b32a2a71.jpg)
-
-[![Photo 34](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7f84fb99-9bb6-4e43-a55c-fd649c58ad41_8facd8bc-9321-479e-ac76-c526692e5b5d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7f84fb99-9bb6-4e43-a55c-fd649c58ad41_b1cd6e64-6c82-4b56-934e-5afd926d6903.jpg)
-
-[![Photo 35](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/6a336b27-4dd5-43af-af8b-96486b3a151e_e977d946-4e2a-4e0b-afd8-3643d987fc99.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/6a336b27-4dd5-43af-af8b-96486b3a151e_a5cac168-89bf-4c6b-82fe-3f1262df9bed.jpg)
-
-[![Photo 36](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/8621509a-525e-405d-a7b5-64034966fbee_6bc5d2f4-3575-43b6-96fe-5b62b0a684ad.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/8621509a-525e-405d-a7b5-64034966fbee_c8da2930-620f-4fd8-95c6-fa441cf1973f.jpg)
-
-[![Photo 37](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/94204b2d-3679-4d9a-9a2b-d51b641c369b_043e9d90-a42e-4a61-84d3-330f8a74aef5.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/94204b2d-3679-4d9a-9a2b-d51b641c369b_5d03c01e-213f-4b64-9d98-b93bb10889fc.jpg)
-
-[![Photo 38](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/6dc7bfa3-f05c-4c4a-b37f-ab628b8e6468_f8e35faf-62aa-4b08-94d3-652e6b14862c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/6dc7bfa3-f05c-4c4a-b37f-ab628b8e6468_9e75c18d-c82b-4529-8601-2afad471abf8.jpg)
-
-[![Photo 39](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/6954900e-781d-4555-9aea-85f0d4c2ad4a_3d67a705-b9fe-4254-a465-4a789ea543f1.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/6954900e-781d-4555-9aea-85f0d4c2ad4a_ff22a8d7-9ad5-4dde-b2b5-caad4830d3df.jpg)
-
-[![Photo 40](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/eb7a5796-4cad-4309-8a6c-78941de64820_ecd4efe2-164f-4cfa-819a-2297ae07b456.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/eb7a5796-4cad-4309-8a6c-78941de64820_e128ba11-93dd-4892-96cc-2a0d4e82cd8f.jpg)
-
-[![Photo 41](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/ab6633c5-6a25-4daf-8f67-ff242ff351f4_fec953b8-f2ca-4e35-b007-fe622362bc7e.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/ab6633c5-6a25-4daf-8f67-ff242ff351f4_8fb750ed-f007-4fae-bf9f-4ecc3c1c1f21.jpg)
-
-[![Photo 42](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b7615fda-be1b-47ae-a835-90fc306c6507_2599c278-dbbd-4de9-a2d0-d7d305b95eb1.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b7615fda-be1b-47ae-a835-90fc306c6507_8083062c-f929-434c-9db2-0066292e6a41.jpg)
-
-[![Photo 43](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/9474d619-9965-4d52-a9df-5ce4839e39c3_09333c78-0e37-4414-8a62-41414a43a277.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/9474d619-9965-4d52-a9df-5ce4839e39c3_4332c80b-0dbf-408a-bae3-cf975d8be4dd.jpg)
-
-[![Photo 44](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/5fa4edfa-33c0-4157-b1d8-1a7baf1d6843_6f9bf004-b99d-4493-81b3-9c38ae28132d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/5fa4edfa-33c0-4157-b1d8-1a7baf1d6843_ce2393ed-4d5a-47b8-b47c-215e41f32752.jpg)
-
-[![Photo 45](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0191a8ff-8763-488f-88b4-8054636bca65_f947cb93-1bef-4276-8f09-b400c20e21af.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0191a8ff-8763-488f-88b4-8054636bca65_987505a3-853c-4aaa-be75-53093ecf38f9.jpg)
-
-[![Photo 46](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/f1ac86f2-0a2e-4715-addb-b73bb6011851_420c71dd-4a5f-49a6-886e-4456fc2ec42c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/f1ac86f2-0a2e-4715-addb-b73bb6011851_f6af14e4-b8a9-4249-a395-462e16b011ab.jpg)
-
-[![Photo 47](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/3a14c41a-d881-4c65-9b90-fa03921a5049_f98cbcf8-f3af-44bb-8013-c1bd1035afbf.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/3a14c41a-d881-4c65-9b90-fa03921a5049_f6b0ec74-09c5-452a-94a9-3bbe54cc6c67.jpg)
-
-[![Photo 48](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/99e6efb8-68ea-42b9-a86b-5d73c040ef1b_c19097d7-d0e3-4e82-9570-0a1566b99d68.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/99e6efb8-68ea-42b9-a86b-5d73c040ef1b_2cfeb46c-7177-45ea-819c-d9b7d9e3d3db.jpg)
-
-[![Photo 49](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/530c6b7d-3c20-4cf6-a112-3dd79bd9f3e4_ed45c027-a4cc-460d-80ff-6a1a7053648b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/530c6b7d-3c20-4cf6-a112-3dd79bd9f3e4_59507068-4041-4389-ae04-323b4e2bd572.jpg)
-
-[![Photo 50](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/9265837e-929c-4f22-81f4-a27d5d3d4124_fc21c198-be6c-4233-b436-ad7d417997ee.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/9265837e-929c-4f22-81f4-a27d5d3d4124_40f55bf4-38f9-477f-881a-3031ff785fa0.jpg)
-
-[![Photo 51](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/509f7818-caac-4b92-b754-691a3fe24fa5_ea4aade9-09dc-4f65-8b72-805edfea44c6.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/509f7818-caac-4b92-b754-691a3fe24fa5_d96a0e33-10ea-491c-8bde-41e2d42773ed.jpg)
-
-[![Photo 52](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/f3144bba-1638-41b6-b4b9-abda7b1ec635_1290a78d-86d1-4e38-9fdb-6001218d5abb.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/f3144bba-1638-41b6-b4b9-abda7b1ec635_227a507a-7b86-444c-9f0e-940c8b3dc37f.jpg)
-
-[![Photo 53](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d8201afc-6b59-4941-b47a-b25f120f290e_88d3ffdd-8876-4e3c-92b4-863a4a85b9cd.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d8201afc-6b59-4941-b47a-b25f120f290e_c46cf34b-3d73-4750-9df0-4e82ff6f77e6.jpg)
-
-[![Photo 54](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/95c271e1-565e-4ac1-9236-6ebced137415_8c0d6c4f-548a-443e-be45-c880bae69b7a.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/95c271e1-565e-4ac1-9236-6ebced137415_0a3ac862-6530-4cb6-b413-31cc98b80006.jpg)
-
-[![Photo 55](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7028894b-9d0b-4317-a1ff-3423fe2f3d76_3d7d4443-4584-475e-81ec-cbb574b79949.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7028894b-9d0b-4317-a1ff-3423fe2f3d76_27615cb9-93e7-48d8-8e47-78056f66f537.jpg)
-
-[![Photo 56](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/6f4c3754-f58c-47e4-8eb6-51590f10e52f_fbbaf9b2-5b37-460f-ae6c-9070782a545c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/6f4c3754-f58c-47e4-8eb6-51590f10e52f_01a2f9f3-df3e-4538-9008-a5ba3750dcfa.jpg)
-
-[![Photo 57](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/4e342afa-714f-4b2f-b023-441dc5d208c4_4fba1634-0bbc-4a48-871a-4a36d50c7698.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/4e342afa-714f-4b2f-b023-441dc5d208c4_5eccd8f8-b04c-4a39-9e61-57ae4b13025f.jpg)
-
-[![Photo 58](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/bf51940c-00cd-4275-85cd-92373721b56a_34c860bc-1325-492b-b1a2-4a9c7b87edb3.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/bf51940c-00cd-4275-85cd-92373721b56a_33ea8e09-5a6d-4a78-acd1-31d955ca6815.jpg)
-
-[![Photo 59](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/9901129c-cb10-4b1e-9489-8846c5dbfc01_05fa69ce-d86f-4343-883b-c59d71260c2f.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/9901129c-cb10-4b1e-9489-8846c5dbfc01_efd15822-ee0b-4e0e-b174-7386ab949fa0.jpg)
-
-[![Photo 60](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0abdb803-43e3-4ebc-a0a9-3dfb7e8faf78_1c43b721-4b41-4a13-bb25-f7ea98537d4f.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0abdb803-43e3-4ebc-a0a9-3dfb7e8faf78_a8fcda67-6a46-4b52-9648-e1924680966a.jpg)
-
-[![Photo 61](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/94ce27ae-87cb-4e22-9bbb-f8498ce4c23a_b814742d-09b6-49e7-8a07-e7aec7f3de6d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/94ce27ae-87cb-4e22-9bbb-f8498ce4c23a_020578c0-5be6-4894-b5d6-27566422c7c7.jpg)
-
-[![Photo 62](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/cc799dca-0fbf-417e-a218-acf4777e5e2e_41358031-f014-4755-9184-8994e78f6787.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/cc799dca-0fbf-417e-a218-acf4777e5e2e_14b799c4-5957-407f-afe5-22e64fa70dcb.jpg)
-
-[![Photo 63](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/167ec3d7-3115-4a58-acca-4da3f9341554_0fe64ecf-7787-4a47-a100-cbcbac4853b0.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/167ec3d7-3115-4a58-acca-4da3f9341554_975fd7dd-10ca-4d9a-a2d3-a5a130104755.jpg)
-
-[![Photo 64](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/338a7ccf-23dc-4bea-a8ee-672ec66f2379_72f9957e-88ec-47b8-95b9-5d2db8b49fe4.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/338a7ccf-23dc-4bea-a8ee-672ec66f2379_621718be-11f6-4a3b-b52f-be0c629f5113.jpg)
-
-[![Photo 65](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7b279878-2bc2-43f2-9ee1-9fd58a8f6367_9aa01f92-8940-41e6-ba55-8d47bf15ee04.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7b279878-2bc2-43f2-9ee1-9fd58a8f6367_71dc1cb6-076f-49e5-b88b-1dca6c6d6945.jpg)
-
-[![Photo 66](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0f77c834-384d-4599-84ae-7eb2a4fd90be_ff6e47da-8278-46e9-9131-0eac22922cd7.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0f77c834-384d-4599-84ae-7eb2a4fd90be_4e785ca5-f175-4473-958e-bc6dfdf13a0e.jpg)
-
-[![Photo 67](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/1ac8c1f8-12aa-4e17-93fd-84490bc69b8c_7d758b76-b62e-44b2-8654-d31b47cb383b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/1ac8c1f8-12aa-4e17-93fd-84490bc69b8c_4e6b36a7-e6fd-4d63-8727-f5f3ee3a4800.jpg)
-
-[![Photo 68](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/007d6175-ec45-49ea-aa8a-74abc55771fd_fd48bfdc-d896-4060-9dbc-c1f8df35f53b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/007d6175-ec45-49ea-aa8a-74abc55771fd_cef3416b-bc86-498a-ae4f-fba78fa70e60.jpg)
-
-[![Photo 69](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0aae74f5-afe0-4a0f-976b-95e9b179b19a_dd839e8b-25b1-44b5-a278-0303cde391b0.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0aae74f5-afe0-4a0f-976b-95e9b179b19a_077c3680-3515-4daf-a6b0-fb40c2530b68.jpg)
-
-[![Photo 70](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d8a88bc1-bef9-45d0-a18c-f2904def48a1_c3752577-03da-490a-acc7-2eb657880f04.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d8a88bc1-bef9-45d0-a18c-f2904def48a1_0f9ff531-667f-48bd-8920-5692e7816815.jpg)
-
-[![Photo 71](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/5e330317-4cd8-4b30-b08a-2ca1378cf1ab_097c0595-d484-45f1-ac50-b29a35506928.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/5e330317-4cd8-4b30-b08a-2ca1378cf1ab_8cb7cab6-a5a1-438a-8af7-a24037804f2f.jpg)
-
-[![Photo 72](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d64eed71-b9f8-406c-b29e-502ad4e02a07_b95e17e3-5dd8-41cd-a548-55c3a55fa87b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d64eed71-b9f8-406c-b29e-502ad4e02a07_a822f48a-ff75-47fd-9ec6-6b01e53da00b.jpg)
-
-[![Photo 73](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/bf2f41c2-faa3-4f75-907a-1b38decd6ff3_bbc0a177-6611-4841-93dc-0e32c509bd16.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/bf2f41c2-faa3-4f75-907a-1b38decd6ff3_0cd2ba8c-997c-4271-afe1-39617055dde2.jpg)
-
-[![Photo 74](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7755b07b-d7fc-414f-ac7a-fb6daf507faa_799e4e79-890b-4c81-ba47-e82c55621073.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7755b07b-d7fc-414f-ac7a-fb6daf507faa_386c13cd-9e77-4c8a-b81b-d152b0ebfd4d.jpg)
-
-[![Photo 75](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/3f36bacc-5c85-4c4a-8ec9-3046eca52e16_be8f2337-1d30-4610-ac90-0d1b42aa3706.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/3f36bacc-5c85-4c4a-8ec9-3046eca52e16_1703fb9d-873b-48bc-889f-48c9da4d0591.jpg)
-
-[![Photo 76](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/501f14bb-b7a2-49bb-9af5-6c448487ad9c_9582a64f-1df5-4456-bc0a-82b2f88e2312.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/501f14bb-b7a2-49bb-9af5-6c448487ad9c_959dc4e5-d5b8-4c1e-8929-333523afd7ca.jpg)
-
-[![Photo 77](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/8b0a7deb-148d-451f-970f-dc56d64d945d_5bb7b5d1-f334-4a0a-b6f5-3dfff23537d1.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/8b0a7deb-148d-451f-970f-dc56d64d945d_c56459c2-9079-48f8-8d0c-ded4f4355ce5.jpg)
-
-[![Photo 78](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/302c4874-7427-4480-82e5-74d5b70b67fe_e02291fe-38fa-42a3-8a91-401a9d5fbf32.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/302c4874-7427-4480-82e5-74d5b70b67fe_6fdadc62-82e5-4f90-af2e-3c65ffe79e29.jpg)
-
-[![Photo 79](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/f36d6577-8e1a-4cd6-a091-0560739c92bf_4ff248d6-75a3-4902-8f54-7035a84cb01a.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/f36d6577-8e1a-4cd6-a091-0560739c92bf_423c473f-d04e-4a3d-b209-83cedb502db0.jpg)
-
-[![Photo 80](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/41f7ea1a-c81a-4382-9b4f-5f088bf42ead_3eebaa80-9a96-4367-9d31-eb498d6f9cbb.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/41f7ea1a-c81a-4382-9b4f-5f088bf42ead_20036cbe-cd33-4b27-bb38-8c8eab58860b.jpg)
-
-[![Photo 81](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/43d8b0b6-19e0-4806-a3bb-a98509cbb8e7_e9137d22-c547-4510-be36-869e5501ea8d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/43d8b0b6-19e0-4806-a3bb-a98509cbb8e7_90425703-e736-4844-b44f-18cad0a7f5b3.jpg)
-
-[![Photo 82](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/94523265-77c7-4e59-834d-8d62d4e0d3b4_0e334398-62e9-4f7b-b5b0-d3d0b58cfa3d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/94523265-77c7-4e59-834d-8d62d4e0d3b4_e0c6ca98-1439-48d3-b51a-a4f3cc88404f.jpg)
-
-[![Photo 83](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/e5ed56ff-640f-4ddd-8358-aff626f34a98_e52590a0-5384-49b4-9d17-9725301ac5e2.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/e5ed56ff-640f-4ddd-8358-aff626f34a98_a0302073-79c6-4735-99c7-52673c4f1e4e.jpg)
-
-[![Photo 84](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/b557b52a-e08f-44d8-af38-fc151d23b27a_ceae7456-61e3-4d5d-a511-24dc23595b03.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/b557b52a-e08f-44d8-af38-fc151d23b27a_d5175572-8138-418a-b74d-1ccd353041db.jpg)
-
-[![Photo 85](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/44ec7ed3-1809-489e-b063-5539d96234af_6c0b4486-16de-4da5-b8b3-3b0b4b339285.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/44ec7ed3-1809-489e-b063-5539d96234af_e46a5eff-9f16-48fc-864e-49625358ae7d.jpg)
-
-[![Photo 86](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/31503010-e979-4730-9305-e0dcaa4b2c68_e4fbe35c-7344-45b3-ab01-57d2415a06da.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/31503010-e979-4730-9305-e0dcaa4b2c68_8264a07f-3145-407c-a012-8e240a909728.jpg)
-
-[![Photo 87](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/3b9b8a1f-8baf-4115-b565-2aadf6125b5f_867f5ee0-74b9-4d7a-9223-b9f1343af319.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/3b9b8a1f-8baf-4115-b565-2aadf6125b5f_9b1286da-fbe1-411e-9ccc-6e23597141ab.jpg)
-
-[![Photo 88](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7291fd09-c092-4bc8-a1bd-bfb73217cdcf_eaf03fd6-8f02-499d-a58f-3025cf218dea.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7291fd09-c092-4bc8-a1bd-bfb73217cdcf_94dbfc98-c30d-4aea-aad1-d2ad17b72663.jpg)
-
-[![Photo 89](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/11cc226e-ef33-4fc8-998c-9b9baf5f97e9_1e1f6681-d649-4be2-b272-a0dd7598cde1.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/11cc226e-ef33-4fc8-998c-9b9baf5f97e9_00180dd6-344b-4174-9b02-26f1749e949f.jpg)
-
-[![Photo 90](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/99e185fa-f08a-4f1a-9b77-68d3980cfeb4_38a14bce-2c70-4d62-8e6e-9b7cf50d19e2.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/99e185fa-f08a-4f1a-9b77-68d3980cfeb4_46875337-4974-47e8-8333-b78a4d348dce.jpg)
-
-[![Photo 91](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/c040309f-f05c-4ecd-833b-8b2f593a80ef_9b608c79-f9f2-4aa6-98c1-e3d9332ae748.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/c040309f-f05c-4ecd-833b-8b2f593a80ef_e9b6148a-5a62-4ef6-a4bc-b27316026b2b.jpg)
-
-[![Photo 92](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/030fe452-1d46-4068-a564-976c96fb7e5d_9d35da24-bce1-4de1-be3c-839fc25ea897.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/030fe452-1d46-4068-a564-976c96fb7e5d_69761f42-070b-49dc-996c-578a411d1d73.jpg)
-
-[![Photo 93](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/6530efe0-ad82-4897-bcea-00af24d08a4f_2ba2cbea-a0aa-4735-9b43-da6af7945bf2.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/6530efe0-ad82-4897-bcea-00af24d08a4f_6e874bce-2484-46dd-8c4c-e9502c43fa03.jpg)
-
-[![Photo 94](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/447dc1f5-5e10-4c86-8eb2-fb39e5fe3e5c_1097482a-89ee-4900-836d-180059b4368b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/447dc1f5-5e10-4c86-8eb2-fb39e5fe3e5c_69a8531c-0aa4-490a-9b59-4049887dc3f7.jpg)
-
-[![Photo 95](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/c305a40d-62be-4397-908b-02c130ecc9db_2e26c202-5597-4898-82b0-009022d0bfad.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/c305a40d-62be-4397-908b-02c130ecc9db_0bc8ce8d-e217-4dab-80a0-d588d9c662ee.jpg)
-
-[![Photo 96](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/3610c499-1cf0-403a-96c6-5d57a705d654_733dadf9-c77c-4303-8f6f-45be3db63bfa.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/3610c499-1cf0-403a-96c6-5d57a705d654_4fb91060-0133-4707-9bfd-1ba290924cca.jpg)
-
-[![Photo 97](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/90aaeb03-a33c-4625-ba1e-14479caca29c_7228305f-4802-4e86-9986-d87a1d580948.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/90aaeb03-a33c-4625-ba1e-14479caca29c_4ac324bb-4264-47f3-91aa-b8a2adb0656b.jpg)
-
-[![Photo 98](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/5e77801b-df23-4010-b616-397deb62ab58_35c8c1f4-fc4c-4623-9f44-9838e1510cf5.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/5e77801b-df23-4010-b616-397deb62ab58_3de121c3-6137-4e21-b7c0-77271fc6718e.jpg)
-
-[![Photo 99](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d2b41b26-f24c-4e9b-b15d-fce87b4b5143_ec23a60a-bfcf-4ec5-bdde-b6a7cd426c1a.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d2b41b26-f24c-4e9b-b15d-fce87b4b5143_a65f3a70-0cef-4450-8497-19d3561e3ccf.jpg)
-
-[![Photo 100](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/94966dc7-e163-49bb-9d43-0dee6267abf8_72a6974e-abc7-4760-bfb6-9254710bf7fa.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/94966dc7-e163-49bb-9d43-0dee6267abf8_f5f49d89-6431-4751-ac65-eaa272607fd6.jpg)
-
-[![Photo 101](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/f698d36a-161e-4b50-b281-5ca78c19670f_dc4a1512-53ec-4db8-bdc7-0dc8ef84cfff.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/f698d36a-161e-4b50-b281-5ca78c19670f_af51a176-5b19-44ff-9819-296b85f5dc32.jpg)
-
-[![Photo 102](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/45aad507-3d71-4228-8029-530577677917_1a7515df-18f1-4529-b84d-ce9167ff568e.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/45aad507-3d71-4228-8029-530577677917_e71632a9-8505-4d9b-815a-6aba0f8a8fb2.jpg)
-
-[![Photo 103](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7a6ec2b0-da27-4233-9ff0-d012eb54c9e6_bbc00ccd-44b1-4ece-9c4c-72b3892b95cb.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7a6ec2b0-da27-4233-9ff0-d012eb54c9e6_30d942ee-d1a4-48f8-94ca-fe3a55c53400.jpg)
-
-[![Photo 104](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/fd996f0e-3970-492b-bdd3-926530859d96_5f0e5647-0f64-4ccc-abac-d49d67109723.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/fd996f0e-3970-492b-bdd3-926530859d96_65568c19-0b62-4fed-b32c-c1eca1e0ab88.jpg)
-
-[![Photo 105](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/6b98f539-30c6-4665-bb95-7b5b40d3caf9_0fc65079-2988-42a0-930d-0bdec9f498c3.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/6b98f539-30c6-4665-bb95-7b5b40d3caf9_431e7ce6-d611-48bf-a953-4ff2a47df294.jpg)
-
-[![Photo 106](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/1d31be94-55a3-4886-817c-bf38001fb9af_6455b223-f5bd-40a8-beb1-e71116441e44.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/1d31be94-55a3-4886-817c-bf38001fb9af_31ebb01e-aaab-4125-b624-ab79f4ab7b1c.jpg)
-
-[![Photo 107](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/5d984a81-25fe-4777-8437-b4de14f4525d_e76c8b21-c2a4-4f48-84aa-4cb9b9630871.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/5d984a81-25fe-4777-8437-b4de14f4525d_3b0e5de2-d4ee-4e71-a41e-37500a770058.jpg)
-
-[![Photo 108](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0b968550-f213-456d-9bcc-d6a9b2fd8b0e_cc243c3b-a13a-4b57-96a3-91cac77c8038.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0b968550-f213-456d-9bcc-d6a9b2fd8b0e_f2e5f3be-cfe5-4215-bf20-10c2678c4866.jpg)
-
-[![Photo 109](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d2f1354d-eca6-42fb-9bfa-9be9be650f1f_eb14b90c-c940-4a27-8136-7c440fe6bc0d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d2f1354d-eca6-42fb-9bfa-9be9be650f1f_fcad456e-451a-40f4-b062-f3c67ee41fea.jpg)
-
-[![Photo 110](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/57653fe5-83c3-4477-afb0-307f60466b1a_9f4e20a7-1b68-4325-b97c-6a7e69c42cff.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/57653fe5-83c3-4477-afb0-307f60466b1a_84d7a4ed-e8ca-4215-9a31-a0835c09dccf.jpg)
-
-[![Photo 111](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/1a466257-3965-442d-b732-372a827825e3_faeca925-de56-4b1b-80dc-7642428cbc28.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/1a466257-3965-442d-b732-372a827825e3_85c5f3c8-4a53-455a-ac32-ab0b6e13ac7b.jpg)
-
-[![Photo 112](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/eae4ca43-ea07-4676-8b95-4649d0272a92_0f265752-cea5-4ff1-b4f6-e04d1f448ca5.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/eae4ca43-ea07-4676-8b95-4649d0272a92_4bbec56e-35dd-4389-a7d8-cdd40ecb0bae.jpg)
-
-[![Photo 113](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7e5cb547-7e70-45ed-a9ea-dc6867b232b9_012bdf4c-de43-4795-8148-d651e57a2bca.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7e5cb547-7e70-45ed-a9ea-dc6867b232b9_e30498d1-76f2-44df-8bef-fe56a0a58071.jpg)
-
-[![Photo 114](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/199abfe7-91a1-4afa-99af-5e24055fa273_675257cc-3fb1-49e7-a282-33685ba9a6c0.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/199abfe7-91a1-4afa-99af-5e24055fa273_173e599f-5745-48f0-b0f9-5eeca846f2b8.jpg)
-
-[![Photo 115](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/3f3be01b-f22a-4171-933b-6c472a6a6e47_bbf62ae0-55ea-4a0c-a317-47f2bee6e9cb.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/3f3be01b-f22a-4171-933b-6c472a6a6e47_c7ef4a79-50b9-4ea1-b195-280a9e88e15b.jpg)
-
-[![Photo 116](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/7e73e9d6-3b4b-422f-9814-09a04e13bb2a_754eeac2-0290-4218-b302-d67556e8be6e.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/7e73e9d6-3b4b-422f-9814-09a04e13bb2a_89c0ed51-928e-467d-bc04-57e6d0cb328c.jpg)
-
-[![Photo 117](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/a69aee59-e6c1-444a-8afb-04e70e83d590_4c68976c-1f94-4cf1-8995-a0fb2903b308.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/a69aee59-e6c1-444a-8afb-04e70e83d590_3e21d697-554e-492d-afd2-541d914a9038.jpg)
-
-[![Photo 118](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/2463d836-8e21-40ad-9886-47ecb1523ad8_dfaad3d9-560f-4b11-9059-1b2caa09610b.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/2463d836-8e21-40ad-9886-47ecb1523ad8_3b5bf250-36de-407c-9b96-5e3f12fb0aeb.jpg)
-
-[![Photo 119](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/2f30738c-1c99-4ae7-9655-daf4d91b4858_70aae0ee-6846-471c-9b75-173620f06df0.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/2f30738c-1c99-4ae7-9655-daf4d91b4858_dbe8e3ee-5b7c-4ffd-8aad-d525e470a0b4.jpg)
-
-[![Photo 120](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/e560ec99-6334-40b6-9f03-aa496389d57e_341970d3-5fa7-42f9-84f7-7c92761cddd5.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/e560ec99-6334-40b6-9f03-aa496389d57e_d05f42fe-0ef5-4056-a9a6-21a458de7dec.jpg)
-
-[![Photo 121](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/d519bd21-f01a-4e14-835f-58be1a09318f_3ed44a49-07bb-4743-8b1c-a74dc6113caa.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/d519bd21-f01a-4e14-835f-58be1a09318f_c18efeea-01f6-4e58-a566-ab08e48006f7.jpg)
-
-[![Photo 122](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/9a6f393d-1d67-4f73-a4ba-b9a663f83ff3_40abbdfd-95eb-47df-ad48-218c7a98d1ef.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/9a6f393d-1d67-4f73-a4ba-b9a663f83ff3_b808d376-feb7-460b-9d3c-3170f7dc21ba.jpg)
-
-[![Photo 123](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/11c7ed16-8249-44dd-a6a6-32bbda474607_34b9665e-425f-4b50-bd9e-b47409e351e1.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/11c7ed16-8249-44dd-a6a6-32bbda474607_d20202c1-9ff1-404e-b1ba-147a0d8cd480.jpg)
-
-[![Photo 124](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/29ce3aad-15df-4436-ac17-121060a01d6f_e7329b35-7c28-43b6-bddc-9dd571d134ef.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/29ce3aad-15df-4436-ac17-121060a01d6f_c76e4b96-9e36-460d-b0bd-46196c13bef7.jpg)
-
-[![Photo 125](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/4a98c58f-66c0-4ddb-8fa1-cd504b1a07f8_4910cd78-d42f-4cce-ae83-1bd04da44127.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/4a98c58f-66c0-4ddb-8fa1-cd504b1a07f8_693202b6-2f52-47f7-888d-4df3af2bcd2f.jpg)
-
-[![Photo 126](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/3fcc5a34-8397-4665-9798-71796f424543_d4204fc2-7f0e-4ff6-b3e9-d3ce398d9ebb.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/3fcc5a34-8397-4665-9798-71796f424543_ef2ea5dc-8d5e-4c2a-8ca8-df6478d8d50c.jpg)
-
-[![Photo 127](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/a99b204e-6202-4332-bbb0-22311cfed07e_1c6df35a-8189-4625-b44b-2300a5aeec6c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/a99b204e-6202-4332-bbb0-22311cfed07e_87465901-275e-4903-86b4-d6adef7f2724.jpg)
-
-[![Photo 128](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/a6f448cb-6f27-4ac0-9865-7de80cefb7e8_fd0d7266-20d1-4a3d-a9db-700b04ea742a.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/a6f448cb-6f27-4ac0-9865-7de80cefb7e8_74c828fd-4def-4bea-ad9b-0d542a51ee97.jpg)
-
-[![Photo 129](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0fd91635-f2bb-4137-901b-718af004a4e0_ccd1ebb4-35cc-484f-addb-bb95109b581c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0fd91635-f2bb-4137-901b-718af004a4e0_180ddb38-39c9-443e-9091-b7c8fa76da9b.jpg)
-
-[![Photo 130](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/ccf2cfc9-c55d-44b5-b4a0-bd0c4ebbe086_a2b2a3ed-5887-4d0f-9200-056d33ac1e1e.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/ccf2cfc9-c55d-44b5-b4a0-bd0c4ebbe086_dd4b9605-b6fa-4642-948c-dc025c696127.jpg)
-
-[![Photo 131](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/636686af-93d9-44e8-93a0-818ccb63e55d_09083bca-162e-49cb-98e9-255b504b8da2.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/636686af-93d9-44e8-93a0-818ccb63e55d_2ffedabe-8792-4345-97d2-85db799322d4.jpg)
-
-[![Photo 132](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/f15c5ac9-0f31-4086-be8e-63a8284e01ac_a5f633ee-3865-40ce-895f-39c09d919e14.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/f15c5ac9-0f31-4086-be8e-63a8284e01ac_c383168e-91cd-4a9d-88f5-8bd78190a3fb.jpg)
-
-[![Photo 133](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/bbafb6a9-c357-4143-8274-1d780ffe39da_12a02a08-f967-4ff6-ace4-620088759344.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/bbafb6a9-c357-4143-8274-1d780ffe39da_e2eefc49-3626-4f08-9b24-00258f384014.jpg)
-
-[![Photo 134](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/fa806ba6-3c38-4cf0-8a43-4932379caf48_bf7e25ae-de32-4fa0-92d2-2c5e604a1d76.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/fa806ba6-3c38-4cf0-8a43-4932379caf48_97086de4-c542-4bae-aea7-9511c1c6281f.jpg)
-
-[![Photo 135](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/e453615d-07c8-4a8c-bd81-a5af19a40593_0b3ef2af-85ba-48f9-8a26-d6c991d249b6.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/e453615d-07c8-4a8c-bd81-a5af19a40593_5ff8816d-dc65-49bf-a2dc-84d4246fb27a.jpg)
-
-[![Photo 136](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/03177979-bb7b-4944-9cc3-41d1f6da00d4_c8eb44f9-e77c-4aaf-916c-a02d8ac3639d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/03177979-bb7b-4944-9cc3-41d1f6da00d4_80084692-0a9a-45de-8c7b-6542c374a422.jpg)
-
-[![Photo 137](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/19e5ea36-f13c-4c9e-b5f7-c1e757b20b22_029c1789-3521-4161-9aae-8b82b245dc32.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/19e5ea36-f13c-4c9e-b5f7-c1e757b20b22_f0df95c8-d3cf-4bae-9202-e5e63ce227a3.jpg)
-
-[![Photo 138](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/c11dd573-b20f-4f21-b71e-36bfaa9e4a13_49e389c0-ae10-497c-8579-1a61d3ab4c7c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/c11dd573-b20f-4f21-b71e-36bfaa9e4a13_9bca122a-12d2-4e2f-a4a9-f53dc74f4315.jpg)
-
-[![Photo 139](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/760f5573-32ba-4650-9b23-1ef668d1dd58_cf2c35fd-0076-4601-b030-a90f85e30f8c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/760f5573-32ba-4650-9b23-1ef668d1dd58_8d15620a-3595-4bc3-b5d1-b13ad2c2937c.jpg)
-
-[![Photo 140](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/8281045a-f429-41e7-a39d-0d70838b6fe0_040e49b7-c8d9-4475-8d01-48361634947c.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/8281045a-f429-41e7-a39d-0d70838b6fe0_ba3aaa70-f5a3-4f93-89f1-ff93c6f6c364.jpg)
-
-[![Photo 141](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/46d4dd8d-1e7b-421d-82f9-0c3ca998e051_4e494c2c-2fde-413b-80c9-029d788e195d.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/46d4dd8d-1e7b-421d-82f9-0c3ca998e051_9a291ee5-a1ce-4ef2-96f9-f9e88aaad4c8.jpg)
-
-[![Photo 142](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/8b00be72-4f22-4643-8823-bf4ebd936d79_b7b429fa-67a1-4b94-887b-8557c52dc5e2.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/8b00be72-4f22-4643-8823-bf4ebd936d79_0f6ed197-0ef3-4757-9c22-221a3b15cba5.jpg)
-
-[![Photo 143](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/fa8e571a-bcc7-4c18-9676-e6db8593f9d6_4c607556-e3f7-4f9b-aec8-891fd10ea8d9.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/fa8e571a-bcc7-4c18-9676-e6db8593f9d6_e2ae3a6a-a479-4a63-a176-42f7c8f0817e.jpg)
-
-[![Photo 144](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/32f5ba1f-2c6e-4762-8154-84348697342a_afe6e0b6-aa7e-45f0-bf09-381604b4c046.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/32f5ba1f-2c6e-4762-8154-84348697342a_5e5ee191-096e-4734-ad0d-d5caccc7f0ea.jpg)
-
-[![Photo 145](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/587cef6c-6239-4ce4-9db3-f3a61a52bd16_83b69901-d303-4abd-8ce7-c7bbca6dac43.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/587cef6c-6239-4ce4-9db3-f3a61a52bd16_9b49b923-8d61-4e76-abf3-9c93d746ce30.jpg)
-
-[![Photo 146](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/9da0a883-3118-41bd-ba37-fcfbdea238a4_efb593d7-a885-4f7f-88f8-8909955d45cd.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/9da0a883-3118-41bd-ba37-fcfbdea238a4_60a6b5e6-7c29-41bc-90f1-c7db9a3c069f.jpg)
-
-[![Photo 147](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/c8431dfe-0aaf-47c1-8385-52784008a04c_b0b84128-d67f-4592-8d2e-7d444eb78796.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/c8431dfe-0aaf-47c1-8385-52784008a04c_fed2a99b-d805-4460-bc1d-71c512e4f234.jpg)
-
-[![Photo 148](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/8ebbdf47-c868-491e-add7-4a9ce548021b_fc64634f-1656-465d-9f2b-81f570504538.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/8ebbdf47-c868-491e-add7-4a9ce548021b_56f993b3-2a42-4786-b084-cc3fad7b4dd3.jpg)
-
-[![Photo 149](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/0cab31e2-1dff-4477-adb7-12116d8613e2_c97e530e-d45d-4040-8f90-51970f47d949.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/0cab31e2-1dff-4477-adb7-12116d8613e2_f4581426-b5ea-4b46-8db2-f6886b319023.jpg)
-
-[![Photo 150](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/9367d0ab-7486-4ee4-947c-6e4d13743179_714d66a8-c61e-470b-8f2e-debfc9d97f35.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/9367d0ab-7486-4ee4-947c-6e4d13743179_61dd94a2-0265-44a9-a825-69d8756afff1.jpg)
-
-[![Photo 151](https://polarsteps.s3.amazonaws.com/user_images/steps/large_thumb/u_14874490/60f625b1-b7cb-4f09-8979-0dbb36c3356d_45644a9b-81cb-45a4-a23b-2dc1582b8dea.jpg)](https://polarsteps.s3.amazonaws.com/user_images/steps/full_res/u_14874490/60f625b1-b7cb-4f09-8979-0dbb36c3356d_84732d17-15a9-42fb-9bf5-d61e02e5b1d1.jpg)
 
 ---
 
