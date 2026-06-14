@@ -1,0 +1,61 @@
+site_name: Carnet de Voyages
+site_description: Carnet de voyages de Christophe — extrait depuis Polarsteps
+site_author: Christophe Danhier
+site_url: https://christophedanhier-hash.github.io/voyages-wiki/
+
+repo_name: voyages-wiki
+repo_url: https://github.com/christophedanhier-hash/voyages-wiki
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Dark mode
+    - scheme: slate
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch
+        name: Light mode
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Accueil: index.md
+  - Voyages réalisés:
+    - France - Espagne - Portugal: france-espagne-portugal/index.md
+    - Portugal - Lagos: portugal-lagos/index.md
+    - Barnave & Brasilia: barnave-brasilia/index.md
+    - Tic&Tac Berck & Bretagne: tic-tac-berck-bretagne/index.md
+    - Côte Belges & Pays-Bas: cote-belges-pays-bas/index.md
+    - Frisia: frisia/index.md
+    - Escapade à Reims: escapade-a-reims/index.md
+  - Voyages en préparation:
+    - Italie: italie/index.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/christophedanhier-hash
+    - icon: fontawesome/solid/globe
+      link: https://www.polarsteps.com/christophedanhier/
+
+copyright: Données extraites depuis Polarsteps — Christophe Danhier
