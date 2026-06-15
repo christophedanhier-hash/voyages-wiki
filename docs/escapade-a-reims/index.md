@@ -38,7 +38,7 @@ _La cathédrale _
 
 ---
 
-### 2. Champigny — 13/12/2025
+### 2. Champigny — 13/12/2025 *(+5 km)*
 
 _Visite à nos amis Henri et Liliane _
 
@@ -46,7 +46,7 @@ _Visite à nos amis Henri et Liliane _
 
 ---
 
-### 3. A l'hôpital  — 13/12/2025
+### 3. A l'hôpital  — 13/12/2025 *(+4 km)*
 
 _Visite à notre ami Henri avec son epouse Liliane _
 

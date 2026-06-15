@@ -1,6 +1,6 @@
 # 🧭 Carnet de Voyages
 
-*Dernière mise à jour : 15/06/2026 à 06:58*
+*Dernière mise à jour : 15/06/2026 à 07:42*
 
 ---
 
@@ -18,6 +18,8 @@
 
 ## 🗺️ Liste des voyages
 
+|   | Voyage | Période | Durée | Distance | Étapes |
+|---|--------|---------|:-----:|:--------:|:------:|
 | 🔒 [Frisia](frisia/) | 27/03/2026 → 04/04/2026 | 8j | 1,342 km | 409 étapes |
 | 🌐 [Escapade à Reims](escapade-a-reims/) | 12/12/2025 → 13/12/2025 | 1j | 187 km | 4 étapes |
 | 🌐 [2025 - Novembre au Portugal - Lagos](portugal-lagos/) | 06/11/2025 → 29/11/2025 | 23j | 5,085 km | 794 étapes |

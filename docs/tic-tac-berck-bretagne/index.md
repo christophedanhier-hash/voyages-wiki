@@ -36,7 +36,7 @@ _Départ de l'aventure de Tic&Tac sur les routes de la côte d'Opale et de Breta
 
 ---
 
-### 2. Merlimont — 18/04/2025
+### 2. Merlimont — 18/04/2025 *(+211 km)*
 
 _Une halte à Merlimont, au camping les Jardins de la mer, pour se rendre ensuite aux Cerfs-Volants de Berck._
 
@@ -44,7 +44,7 @@ _Une halte à Merlimont, au camping les Jardins de la mer, pour se rendre ensuit
 
 ---
 
-### 3. Hirel — 20/04/2025
+### 3. Hirel — 20/04/2025 *(+321 km)*
 
 _Arrêt au Camping-Car Parc à Hirel prés de Cancales avec un passage en Normandie sur la Plage de Omaha avec un détour au Mont Saint-Michel. _
 
@@ -52,7 +52,7 @@ _Arrêt au Camping-Car Parc à Hirel prés de Cancales avec un passage en Norman
 
 ---
 
-### 4. Perros-Guirec — 22/04/2025
+### 4. Perros-Guirec — 22/04/2025 *(+126 km)*
 
 _Sur la route du camping « les Ranolien », nous avons été émerveillés par le Fort la Latte, le Cap Fréhel et le Gouffre de Plougrescant. À Ploumanach, nous avons suivi le sentier des douaniers pour contempler la côte de granit rose et découvert la presqu’île de Renote._
 
@@ -60,7 +60,7 @@ _Sur la route du camping « les Ranolien », nous avons été émerveillés 
 
 ---
 
-### 5. Plounéour-Brignogan-Plages — 24/04/2025
+### 5. Plounéour-Brignogan-Plages — 24/04/2025 *(+64 km)*
 
 _Entre Péros et Brignogan, notre chemin nous mènera à l'Île de Callot et au Rocher du Singe. Nous sommes au camping 🏕️ de la Côte des Legendes_
 
@@ -68,19 +68,19 @@ _Entre Péros et Brignogan, notre chemin nous mènera à l'Île de Callot et au 
 
 ---
 
-### 6. Pointe Saint Mathieu  — 26/04/2025
+### 6. Pointe Saint Mathieu  — 26/04/2025 *(+50 km)*
 
  *⛅ 14°C*
 
 ---
 
-### 7. Camaret sur Mer  — 26/04/2025
+### 7. Camaret sur Mer  — 26/04/2025 *(+13 km)*
 
  *⛅ 15°C*
 
 ---
 
-### 8. Camping Pré de la mer — 26/04/2025
+### 8. Camping Pré de la mer — 26/04/2025 *(+33 km)*
 
 _Nous sommes dans le Finistère au camping "Pré de la Mer" sur la plage de Kervel. Nous prévoyons la visite de Locronan, Plogonnec et Douarnenez.  _
 
@@ -88,13 +88,13 @@ _Nous sommes dans le Finistère au camping "Pré de la Mer" sur la plage de Kerv
 
 ---
 
-### 9. Pointe du Raz  — 28/04/2025
+### 9. Pointe du Raz  — 28/04/2025 *(+39 km)*
 
  *☀️ 20°C*
 
 ---
 
-### 10. Loctudy — 28/04/2025
+### 10. Loctudy — 28/04/2025 *(+48 km)*
 
 _Voilà nous sommes à Loctudy au camping 🏕️ Les Hortensias _
 
@@ -102,19 +102,19 @@ _Voilà nous sommes à Loctudy au camping 🏕️ Les Hortensias _
 
 ---
 
-### 11. Plobannalec-Lesconil — 29/04/2025
+### 11. Plobannalec-Lesconil — 29/04/2025 *(+4 km)*
 
  *☀️ 20°C*
 
 ---
 
-### 12. Poul Fétan — 30/04/2025
+### 12. Poul Fétan — 30/04/2025 *(+81 km)*
 
  *☀️ 26°C*
 
 ---
 
-### 13. Carnac — 30/04/2025
+### 13. Carnac — 30/04/2025 *(+35 km)*
 
 _Visite du site des menhirs de Carnac _
 
@@ -122,19 +122,19 @@ _Visite du site des menhirs de Carnac _
 
 ---
 
-### 14. Golf du Morbihan  — 01/05/2025
+### 14. Golf du Morbihan  — 01/05/2025 *(+19 km)*
 
  *⛅ 20°C*
 
 ---
 
-### 15. Vannes — 02/05/2025
+### 15. Vannes — 02/05/2025 *(+10 km)*
 
  *⛅ 24°C*
 
 ---
 
-### 16. Asserac  — 02/05/2025
+### 16. Asserac  — 02/05/2025 *(+32 km)*
 
 _Nous sommes au camping 🏕️ Me moulin de l'Eclis _
 
@@ -142,13 +142,13 @@ _Nous sommes au camping 🏕️ Me moulin de l'Eclis _
 
 ---
 
-### 17. Plage Mine d'Or - Penestin — 03/05/2025
+### 17. Plage Mine d'Or - Penestin — 03/05/2025 *(+0.1 km)*
 
  *☀️ 22°C*
 
 ---
 
-### 18. Chartres — 04/05/2025
+### 18. Chartres — 04/05/2025 *(+314 km)*
 
 _Arrêt une nuit et visite de la Cathédrale _
 
@@ -156,13 +156,13 @@ _Arrêt une nuit et visite de la Cathédrale _
 
 ---
 
-### 19. Maison 🏡 Picassiette  — 04/05/2025
+### 19. Maison 🏡 Picassiette  — 04/05/2025 *(+0.9 km)*
 
  *⛅ 16°C*
 
 ---
 
-### 20. Champigny — 05/05/2025
+### 20. Champigny — 05/05/2025 *(+202 km)*
 
 _Visite des nos amis remois_
 
@@ -170,7 +170,7 @@ _Visite des nos amis remois_
 
 ---
 
-### 21. Sombreffe — 06/05/2025
+### 21. Sombreffe — 06/05/2025 *(+148 km)*
 
  *☀️ 14°C*
 

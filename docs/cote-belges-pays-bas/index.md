@@ -38,7 +38,7 @@ _Départ de TIC pour la mer _
 
 ---
 
-### 2. Camper Duin à Koksijde — 14/03/2025
+### 2. Camper Duin à Koksijde — 14/03/2025 *(+153 km)*
 
 _Nous avons passé deux nuits avec Tic et Tac, Tac nous rejoignant le samedi. Nous avons fait une promenade à vélo, puis nous sommes allés souper Chez DeMikke._
 
@@ -46,7 +46,7 @@ _Nous avons passé deux nuits avec Tic et Tac, Tac nous rejoignant le samedi. No
 
 ---
 
-### 3. Amsterdam — 16/03/2025
+### 3. Amsterdam — 16/03/2025 *(+209 km)*
 
 _Camping 🏕️ à Amsterdam et visite de la ville deux jours _
 
@@ -54,19 +54,19 @@ _Camping 🏕️ à Amsterdam et visite de la ville deux jours _
 
 ---
 
-### 4. Den Helder — 18/03/2025
+### 4. Den Helder — 18/03/2025 *(+66 km)*
 
  *☀️ 9°C*
 
 ---
 
-### 5. Giethoorn — 20/03/2025
+### 5. Giethoorn — 20/03/2025 *(+92 km)*
 
  *☀️ 18°C*
 
 ---
 
-### 6. Retour maison - Sombreffe — 21/03/2025
+### 6. Retour maison - Sombreffe — 21/03/2025 *(+267 km)*
 
  *⛅ 20°C*
 

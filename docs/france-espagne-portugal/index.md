@@ -38,7 +38,7 @@ _En route pour de nouvelles aventures _
 
 ---
 
-### 2. Vatan  — 30/08/2025
+### 2. Vatan  — 30/08/2025 *(+436 km)*
 
 _Voilà 1er étape dans la Ville de Vatan. Nous sommes dans un Camping Car Park Top. Emplacement vraiment top. _
 
@@ -46,7 +46,7 @@ _Voilà 1er étape dans la Ville de Vatan. Nous sommes dans un Camping Car Park 
 
 ---
 
-### 3. Labenne — 31/08/2025
+### 3. Labenne — 31/08/2025 *(+462 km)*
 
 _Camping 🏕️ Sylvamar avec installation. Nous avons même des sanitaires sur l'emplacement. _
 
@@ -54,7 +54,7 @@ _Camping 🏕️ Sylvamar avec installation. Nous avons même des sanitaires sur
 
 ---
 
-### 4. Labenne Océan  — 01/09/2025
+### 4. Labenne Océan  — 01/09/2025 *(+3 km)*
 
 _Nous sommes sur la côte atlantique devant nous l'Amérique _
 
@@ -62,7 +62,7 @@ _Nous sommes sur la côte atlantique devant nous l'Amérique _
 
 ---
 
-### 5. Cap Breton  — 01/09/2025
+### 5. Cap Breton  — 01/09/2025 *(+0.2 km)*
 
 _Nous sommes au cap Breton - magnifique avec de grosse 🌊 vagues _
 
@@ -70,7 +70,7 @@ _Nous sommes au cap Breton - magnifique avec de grosse 🌊 vagues _
 
 ---
 
-### 6. Biarritz — 02/09/2025
+### 6. Biarritz — 02/09/2025 *(+15 km)*
 
 _Aujourd'hui balade en vélo direction Biarritz _
 
@@ -78,7 +78,7 @@ _Aujourd'hui balade en vélo direction Biarritz _
 
 ---
 
-### 7. Bayonne — 02/09/2025
+### 7. Bayonne — 02/09/2025 *(+7 km)*
 
 _Parcours vélo entre Labenne, Bayonne et Biarritz _
 
@@ -86,7 +86,7 @@ _Parcours vélo entre Labenne, Bayonne et Biarritz _
 
 ---
 
-### 8. Ribadedeva — 03/09/2025
+### 8. Ribadedeva — 03/09/2025 *(+250 km)*
 
 _Voilà nous sommes arrivés en Asturies - Camping 🏕️ Las Hortensias - avec une superbe plage. Nous sommes allés au restaurant Emilios pour un repas avec un cadre idyllique _
 
@@ -94,13 +94,13 @@ _Voilà nous sommes arrivés en Asturies - Camping 🏕️ Las Hortensias - avec
 
 ---
 
-### 9. Ribadedeva - Plage — 04/09/2025
+### 9. Ribadedeva - Plage — 04/09/2025 *(+0.7 km)*
 
  *⛅ 22°C*
 
 ---
 
-### 10. Los Emilios - Ribadedeva — 04/09/2025
+### 10. Los Emilios - Ribadedeva — 04/09/2025 *(+0.1 km)*
 
 _Restaurant sur la plage _
 
@@ -108,7 +108,7 @@ _Restaurant sur la plage _
 
 ---
 
-### 11. Santiago de Compostela — 06/09/2025
+### 11. Santiago de Compostela — 06/09/2025 *(+322 km)*
 
 _Voilà nous sommes à Santiago au camping 🏕️ As Cancelas _
 
@@ -116,7 +116,7 @@ _Voilà nous sommes à Santiago au camping 🏕️ As Cancelas _
 
 ---
 
-### 12. Cidade Vella — 06/09/2025
+### 12. Cidade Vella — 06/09/2025 *(+5 km)*
 
 _Visite de la ville en petit train ensuite restaurant a la Casa Camillo _
 
@@ -124,7 +124,7 @@ _Visite de la ville en petit train ensuite restaurant a la Casa Camillo _
 
 ---
 
-### 13. Santiago — 07/09/2025
+### 13. Santiago — 07/09/2025 *(+0.3 km)*
 
 _Deuxième jour avec la visite du musée et de la cathédrale nous avons un guide francophone. Avant celles-ci nous sommes dans un Bar-Cafe._
 
@@ -132,7 +132,7 @@ _Deuxième jour avec la visite du musée et de la cathédrale nous avons un guid
 
 ---
 
-### 14. Porto — 08/09/2025
+### 14. Porto — 08/09/2025 *(+190 km)*
 
 _Nous voici à Porto en périphérie Nova Gaia - camping 🏕️ incroyable avec 13 emplacements. _
 
@@ -140,7 +140,7 @@ _Nous voici à Porto en périphérie Nova Gaia - camping 🏕️ incroyable avec
 
 ---
 
-### 15. Vila Nova de Gaia — 08/09/2025
+### 15. Vila Nova de Gaia — 08/09/2025 *(+8 km)*
 
 _Restaurant ce soir avec un menu poisson 🐟_
 
@@ -148,7 +148,7 @@ _Restaurant ce soir avec un menu poisson 🐟_
 
 ---
 
-### 16. Porto — 09/09/2025
+### 16. Porto — 09/09/2025 *(+5 km)*
 
 _Visite de la ville de Porto avec croisière avec les 6 ponts sur le Douro,  tuktuk le tour de la ville et pour finir une cave Burmester 👌_
 
@@ -156,7 +156,7 @@ _Visite de la ville de Porto avec croisière avec les 6 ponts sur le Douro,  tuk
 
 ---
 
-### 17. Porto — 11/09/2025
+### 17. Porto — 11/09/2025 *(+3 km)*
 
 _3eme visite de la Ville - Librairie Lello, Gare, Palacio.... _
 
@@ -164,7 +164,7 @@ _3eme visite de la Ville - Librairie Lello, Gare, Palacio.... _
 
 ---
 
-### 18. São João University Hospital — 12/09/2025
+### 18. São João University Hospital — 12/09/2025 *(+5 km)*
 
 _Un grave problème de santé a frappé Sylvie hier. Nous avons dû nous rendre aux urgences pour une intervention délicate à l'œil. Elle avait un trou dans la rétine, qui a été traité par une opération au laser._
 
@@ -172,7 +172,7 @@ _Un grave problème de santé a frappé Sylvie hier. Nous avons dû nous rendre 
 
 ---
 
-### 19. Palencia — 14/09/2025
+### 19. Palencia — 14/09/2025 *(+356 km)*
 
 _Nous voilà sur le chemin du retour, car notre Sylvie a un souci avec son œil. Nous sommes sur une aire CC gratuite à Palencia top. En route vers la France pour notre deuxième arrêt._
 
@@ -180,7 +180,7 @@ _Nous voilà sur le chemin du retour, car notre Sylvie a un souci avec son œil.
 
 ---
 
-### 20. Niort — 15/09/2025
+### 20. Niort — 15/09/2025 *(+579 km)*
 
 _Étape dans un CCP à Prahecq - top 👌_
 
@@ -188,7 +188,7 @@ _Étape dans un CCP à Prahecq - top 👌_
 
 ---
 
-### 21. Sombreffe — 16/09/2025
+### 21. Sombreffe — 16/09/2025 *(+599 km)*
 
 _Voilà nous sommes de retour à la maison 🏡 et nous avons déjà des idée pour repartir rapidement au soleil ☀️ encore cette année. Nous allons d'abord voir avec Dr et Sylvie cette semaine et puis en route ...._
 

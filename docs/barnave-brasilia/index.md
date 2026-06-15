@@ -36,13 +36,13 @@ _Vacances de Juin avec un passage a Barnave les 50 ans 1er fois et Brasilia _
 
 ---
 
-### 2. Is-Sur-Tille — 07/06/2025
+### 2. Is-Sur-Tille — 07/06/2025 *(+190 km)*
 
  *⛅ 21°C*
 
 ---
 
-### 3. Recoubeau-Jansac — 08/06/2025
+### 3. Recoubeau-Jansac — 08/06/2025 *(+319 km)*
 
 _Nous sommes donc pour 3 jours au camping 🏕️ Les Écureuils. _
 
@@ -50,43 +50,43 @@ _Nous sommes donc pour 3 jours au camping 🏕️ Les Écureuils. _
 
 ---
 
-### 4. Châtillon en Diois — 09/06/2025
+### 4. Châtillon en Diois — 09/06/2025 *(+7 km)*
 
  *☀️ 24°C*
 
 ---
 
-### 5. Luc-en-Diois — 09/06/2025
+### 5. Luc-en-Diois — 09/06/2025 *(+11 km)*
 
  *☀️ 27°C*
 
 ---
 
-### 6. Col de Penne — 10/06/2025
+### 6. Col de Penne — 10/06/2025 *(+7 km)*
 
  *☀️ 30°C*
 
 ---
 
-### 7. Camping Le Brasilia  — 11/06/2025
+### 7. Camping Le Brasilia  — 11/06/2025 *(+288 km)*
 
  *☀️ 32°C*
 
 ---
 
-### 8. Canet-en-Roussillon — 11/06/2025
+### 8. Canet-en-Roussillon — 11/06/2025 *(+0.0 km)*
 
  *☀️ 32°C*
 
 ---
 
-### 9. Plage — 20/06/2025
+### 9. Plage — 20/06/2025 *(+0.2 km)*
 
  *☀️ 34°C*
 
 ---
 
-### 10. Verdun sur le Doubs — 05/07/2025
+### 10. Verdun sur le Doubs — 05/07/2025 *(+492 km)*
 
 _Arrêt dans le camping car Park. L'endroit est vraiment très bien avec WC et Douche. _
 
@@ -94,7 +94,7 @@ _Arrêt dans le camping car Park. L'endroit est vraiment très bien avec WC et D
 
 ---
 
-### 11. Maison - Sombreffe  — 06/07/2025
+### 11. Maison - Sombreffe  — 06/07/2025 *(+405 km)*
 
 _Fin de notre périple Barnave-Le Brasilia - très bonnes vacances avec de jolies étapes. _
 
