@@ -20,6 +20,12 @@ _Destination les PB pour la visite de la Frise et de l'île de Texel. _
 | **Visibilité** | 🔒 Privé |
 | **Pays** | 🇧🇪 BE, 🇳🇱 NL |
 
+## 🗺️ Carte du trajet
+
+![Tracé du voyage](frisia/map.png)
+
+---
+
 ---
 
 ## 🗺️ Itinéraire — Étapes
@@ -29,8 +35,6 @@ _Destination les PB pour la visite de la Frise et de l'île de Texel. _
 _Départ a 8h/8h30_
 
  *⛅ 9°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=50.53572428226471,4.6041024923324585)
 
 ---
 
@@ -43,15 +47,11 @@ Destination prisée pour son charme, son port, son phare et son histoire maritim
 
  *⛅ 9°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=52.67965998343192,5.608942098238786)
-
 ---
 
 ### 3. Lemmer — 29/03/2026
 
  *☀️ 10°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=52.84508347424716,5.701519244924141)
 
 ---
 
@@ -61,8 +61,6 @@ _Petit restaurant T'Mar _
 
  *⛅ 9°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=52.85003166446497,5.487386167057871)
-
 ---
 
 ### 5. Stavoren — 29/03/2026
@@ -70,8 +68,6 @@ _Petit restaurant T'Mar _
 _Sur notre parcours vraiment très nature comme région _
 
  *⛅ 9°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=52.8785853,5.3636293)
 
 ---
 
@@ -96,8 +92,6 @@ La prochaine fois, promis, on ne jouera plus les équilibristes. Les vérins ser
 
  *⛅ 9°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=52.94350703543549,5.438502329931645)
-
 ---
 
 ### 7. Hindeloopen — 29/03/2026
@@ -105,8 +99,6 @@ La prochaine fois, promis, on ne jouera plus les équilibristes. Les vérins ser
 _Village de Frise, je suis réellement conquis par la région, 2 ème étape, direction Hindeloopen. Les petits ponts et les canaux quadrillent ce village. Village d’artisanat avec sa fontaine Flora & Fauna et sa maison construite à l’envers. Pas de pluie mais un vent vivifiant._
 
  *⛅ 9°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=52.94430546827687,5.401453836400216)
 
 ---
 
@@ -116,8 +108,6 @@ _Plage pour le Sky sport national ici_
 
  *⛅ 8°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=52.96889562939203,5.411643329522796)
-
 ---
 
 ### 9. Harlingen — 30/03/2026
@@ -125,8 +115,6 @@ _Plage pour le Sky sport national ici_
 _3ème étape Harlingen. Très jolie petite ville. Son port est le plus important de la Frise . Il est également rempli d’anciens bateaux. La Frise ça décoiffe et ça défrise comme dirait une amie. On comprend pourquoi il y a autant d’éoliennes. Demain nous prenons le bateau pour l’île de Texel.J’espère que ça ne va pas trop secouer même si le trajet est court ( 1/2 heure) . De plus, nous devons rester dans le véhicule et moi qui suis claustrophobe 😱_
 
  *⛅ 9°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=53.1631627,5.417497)
 
 ---
 
@@ -136,8 +124,6 @@ _Balade en vélo avec un peu beaucoup de vent. _
 
  *⛅ 9°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=53.16346179295269,5.418423447020405)
-
 ---
 
 ### 11. Den Helder — 31/03/2026
@@ -145,8 +131,6 @@ _Balade en vélo avec un peu beaucoup de vent. _
 _Nous prenons le bateau ⛵ avec Tic pour l'île de Texel - Aujourd’hui, nous avons fait la traversée en bateau pour l’île de Texel . Pas de vent, on ne s’est rendu compte de rien. Nous nous posons deux nuits au vakantiepark De Krim avec toutes ses commodités, centre aquatique…_
 
  *☀️ 10°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=52.9623849,4.777123)
 
 ---
 
@@ -158,8 +142,6 @@ Que du bonheur !_
 
  *☀️ 10°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=53.15141271235711,4.859353651183851)
-
 ---
 
 ### 13. Texel — 31/03/2026
@@ -168,8 +150,6 @@ _Phare Rouge _
 
  *☀️ 10°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=53.16451105543949,4.87525684369445)
-
 ---
 
 ### 14. Het Hogeland — 02/04/2026
@@ -177,8 +157,6 @@ _Phare Rouge _
 _Pour notre 5 ème étape, après avoir repris le bateau, nous sommes arrivés à Lauwersoog à l’extrême nord des Pays-Bas. Nous sommes installés au Siblu, très grand centre de vacances. De ce côté, on ne retrouve ni les jonquilles ni les éoliennes mais un petit vent extrêmement glacial. Lauwersoog est connu pour sa réserve naturelle, son grand port de pêche très actif et son accès à la mer des Wadden._
 
  *⛅ 9°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=53.402027210773674,6.211829430956732)
 
 ---
 
@@ -189,8 +167,6 @@ Ville maritime de la Frise célèbre pour sa porte d’eau ( waterpoort) datant 
 
  *⛅ 10°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=53.03572106536211,5.67933230708929)
-
 ---
 
 ### 16. Coxyde — 04/04/2026
@@ -198,8 +174,6 @@ Ville maritime de la Frise célèbre pour sa porte d’eau ( waterpoort) datant 
 _7 ème et dernière étape avant de rentrer à la maison, un détour obligé par Nieuwpoort  et l’incontournable restaurant De Mikke à Oostduikerke_
 
  *⛅ 17°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=51.11262624749377,2.6571473318070544)
 
 ---
 
@@ -209,8 +183,6 @@ _Passage par notre station préférée et ensuite restaurant chez De Mikke _
 
  *⛅ 16°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=51.1495447,2.7191147)
-
 ---
 
 ### 18. Koksijde — 04/04/2026
@@ -219,8 +191,6 @@ _Notre restaurant incontournable _
 
  *⛅ 16°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=51.1336455,2.6766024)
-
 ---
 
 ### 19. Sombreffe — 04/04/2026
@@ -228,8 +198,6 @@ _Notre restaurant incontournable _
 _Remisé à sa place _
 
  *☀️ 16°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=50.53546571457049,4.604046497965827)
 
 ---
 

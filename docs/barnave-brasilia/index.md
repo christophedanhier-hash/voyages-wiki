@@ -20,6 +20,12 @@ _Vacances de Juin avec un passage a Barnave les 50 ans 1er fois et Brasilia _
 | **Visibilité** | 🌐 Public |
 | **Pays** | 🇫🇷 FR, 🇧🇪 BE |
 
+## 🗺️ Carte du trajet
+
+![Tracé du voyage](barnave-brasilia/map.png)
+
+---
+
 ---
 
 ## 🗺️ Itinéraire — Étapes
@@ -28,15 +34,11 @@ _Vacances de Juin avec un passage a Barnave les 50 ans 1er fois et Brasilia _
 
  *⛅ 18°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=49.1204242,4.2429101)
-
 ---
 
 ### 2. Is-Sur-Tille — 07/06/2025
 
  *⛅ 21°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=47.5132157,5.1125909)
 
 ---
 
@@ -46,15 +48,11 @@ _Nous sommes donc pour 3 jours au camping 🏕️ Les Écureuils. _
 
  *☀️ 24°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=44.652584236890945,5.412541132428977)
-
 ---
 
 ### 4. Châtillon en Diois — 09/06/2025
 
  *☀️ 24°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=44.6951886,5.4852392)
 
 ---
 
@@ -62,15 +60,11 @@ _Nous sommes donc pour 3 jours au camping 🏕️ Les Écureuils. _
 
  *☀️ 27°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=44.5996825,5.4589852)
-
 ---
 
 ### 6. Col de Penne — 10/06/2025
 
  *☀️ 30°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=44.65222998943204,5.412522132749262)
 
 ---
 
@@ -78,23 +72,17 @@ _Nous sommes donc pour 3 jours au camping 🏕️ Les Écureuils. _
 
  *☀️ 32°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=42.7106146,3.0361403)
-
 ---
 
 ### 8. Canet-en-Roussillon — 11/06/2025
 
  *☀️ 32°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=42.7105945,3.0362192)
-
 ---
 
 ### 9. Plage — 20/06/2025
 
  *☀️ 34°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=42.709683418273926,3.0389033555984497)
 
 ---
 
@@ -104,8 +92,6 @@ _Arrêt dans le camping car Park. L'endroit est vraiment très bien avec WC et D
 
  *☀️ 31°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=46.9026736,5.0178721)
-
 ---
 
 ### 11. Maison - Sombreffe  — 06/07/2025
@@ -113,8 +99,6 @@ _Arrêt dans le camping car Park. L'endroit est vraiment très bien avec WC et D
 _Fin de notre périple Barnave-Le Brasilia - très bonnes vacances avec de jolies étapes. _
 
  *⛅ 18°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=50.535547,4.6040732)
 
 ---
 

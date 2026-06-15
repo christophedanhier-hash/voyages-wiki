@@ -18,6 +18,12 @@
 | **Visibilité** | 🌐 Public |
 | **Pays** | 🇧🇪 BE, 🇫🇷 FR |
 
+## 🗺️ Carte du trajet
+
+![Tracé du voyage](tic-tac-berck-bretagne/map.png)
+
+---
+
 ---
 
 ## 🗺️ Itinéraire — Étapes
@@ -28,8 +34,6 @@ _Départ de l'aventure de Tic&Tac sur les routes de la côte d'Opale et de Breta
 
  *☀️ 15°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=50.5225432,4.5991932)
-
 ---
 
 ### 2. Merlimont — 18/04/2025
@@ -37,8 +41,6 @@ _Départ de l'aventure de Tic&Tac sur les routes de la côte d'Opale et de Breta
 _Une halte à Merlimont, au camping les Jardins de la mer, pour se rendre ensuite aux Cerfs-Volants de Berck._
 
  *☀️ 19°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=50.4553061,1.614809)
 
 ---
 
@@ -48,8 +50,6 @@ _Arrêt au Camping-Car Parc à Hirel prés de Cancales avec un passage en Norman
 
  *⛅ 15°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=48.606156,-1.8019488)
-
 ---
 
 ### 4. Perros-Guirec — 22/04/2025
@@ -57,8 +57,6 @@ _Arrêt au Camping-Car Parc à Hirel prés de Cancales avec un passage en Norman
 _Sur la route du camping « les Ranolien », nous avons été émerveillés par le Fort la Latte, le Cap Fréhel et le Gouffre de Plougrescant. À Ploumanach, nous avons suivi le sentier des douaniers pour contempler la côte de granit rose et découvert la presqu’île de Renote._
 
  *⛅ 16°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=48.8317817,-3.4844446)
 
 ---
 
@@ -68,23 +66,17 @@ _Entre Péros et Brignogan, notre chemin nous mènera à l'Île de Callot et au 
 
  *⛅ 14°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=48.6646534,-4.3268166)
-
 ---
 
 ### 6. Pointe Saint Mathieu  — 26/04/2025
 
  *⛅ 14°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=48.3295464,-4.7706354)
-
 ---
 
 ### 7. Camaret sur Mer  — 26/04/2025
 
  *⛅ 15°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=48.2748606,-4.6124274)
 
 ---
 
@@ -94,15 +86,11 @@ _Nous sommes dans le Finistère au camping "Pré de la Mer" sur la plage de Kerv
 
  *⛅ 15°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=48.1267385,-4.2201939)
-
 ---
 
 ### 9. Pointe du Raz  — 28/04/2025
 
  *☀️ 20°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=48.0397374,-4.733987)
 
 ---
 
@@ -112,23 +100,17 @@ _Voilà nous sommes à Loctudy au camping 🏕️ Les Hortensias _
 
  *☀️ 22°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=47.8127009,-4.1814159)
-
 ---
 
 ### 11. Plobannalec-Lesconil — 29/04/2025
 
  *☀️ 20°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=47.7928839,-4.2193567)
-
 ---
 
 ### 12. Poul Fétan — 30/04/2025
 
  *☀️ 26°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=47.8923862,-3.1484616)
 
 ---
 
@@ -138,23 +120,17 @@ _Visite du site des menhirs de Carnac _
 
  *☀️ 24°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=47.5836629,-3.0794428)
-
 ---
 
 ### 14. Golf du Morbihan  — 01/05/2025
 
  *⛅ 20°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=47.5691111,-2.8319384)
-
 ---
 
 ### 15. Vannes — 02/05/2025
 
  *⛅ 24°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=47.6427311,-2.7542286)
 
 ---
 
@@ -164,15 +140,11 @@ _Nous sommes au camping 🏕️ Me moulin de l'Eclis _
 
  *⛅ 24°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=47.4450679,-2.4509027)
-
 ---
 
 ### 17. Plage Mine d'Or - Penestin — 03/05/2025
 
  *☀️ 22°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=47.4445372,-2.4516273)
 
 ---
 
@@ -182,15 +154,11 @@ _Arrêt une nuit et visite de la Cathédrale _
 
  *⛅ 17°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=48.4358118,1.5002225)
-
 ---
 
 ### 19. Maison 🏡 Picassiette  — 04/05/2025
 
  *⛅ 16°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=48.4421641,1.5067973)
 
 ---
 
@@ -200,15 +168,11 @@ _Visite des nos amis remois_
 
  *⛅ 13°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=49.2664164,3.970771)
-
 ---
 
 ### 21. Sombreffe — 06/05/2025
 
  *☀️ 14°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=50.5355062,4.6038954)
 
 ---
 

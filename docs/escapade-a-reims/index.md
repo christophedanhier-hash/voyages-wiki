@@ -20,6 +20,12 @@ _Nous sommes en visite à Reims pour voir nos amis Henri et Liliane. _
 | **Visibilité** | 🌐 Public |
 | **Pays** | 🇫🇷 FR |
 
+## 🗺️ Carte du trajet
+
+![Tracé du voyage](escapade-a-reims/map.png)
+
+---
+
 ---
 
 ## 🗺️ Itinéraire — Étapes
@@ -30,8 +36,6 @@ _La cathédrale _
 
  *☁️ 9°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=49.2523943,4.0304085)
-
 ---
 
 ### 2. Champigny — 13/12/2025
@@ -40,8 +44,6 @@ _Visite à nos amis Henri et Liliane _
 
  *☁️ 10°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=49.26309287548065,3.9628576040267944)
-
 ---
 
 ### 3. A l'hôpital  — 13/12/2025
@@ -49,8 +51,6 @@ _Visite à nos amis Henri et Liliane _
 _Visite à notre ami Henri avec son epouse Liliane _
 
  *☁️ 8°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=49.2495841,4.0180568)
 
 ---
 

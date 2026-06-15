@@ -20,6 +20,12 @@ _France, Espagne et Portugal pour un périples en CC_
 | **Visibilité** | 🌐 Public |
 | **Pays** | 🇧🇪 BE, 🇫🇷 FR, 🇪🇸 ES, 🇵🇹 PT |
 
+## 🗺️ Carte du trajet
+
+![Tracé du voyage](france-espagne-portugal/map.png)
+
+---
+
 ---
 
 ## 🗺️ Itinéraire — Étapes
@@ -30,8 +36,6 @@ _En route pour de nouvelles aventures _
 
  *⛅ 22°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=50.5354875,4.6038499)
-
 ---
 
 ### 2. Vatan  — 30/08/2025
@@ -39,8 +43,6 @@ _En route pour de nouvelles aventures _
 _Voilà 1er étape dans la Ville de Vatan. Nous sommes dans un Camping Car Park Top. Emplacement vraiment top. _
 
  *⛅ 22°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=47.0721334,1.8060852)
 
 ---
 
@@ -50,8 +52,6 @@ _Camping 🏕️ Sylvamar avec installation. Nous avons même des sanitaires sur
 
  *⛅ 22°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=43.5928681,-1.4313513)
-
 ---
 
 ### 4. Labenne Océan  — 01/09/2025
@@ -59,8 +59,6 @@ _Camping 🏕️ Sylvamar avec installation. Nous avons même des sanitaires sur
 _Nous sommes sur la côte atlantique devant nous l'Amérique _
 
  *⛅ 21°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=43.5996723,-1.4726162)
 
 ---
 
@@ -70,8 +68,6 @@ _Nous sommes au cap Breton - magnifique avec de grosse 🌊 vagues _
 
  *⛅ 21°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=43.59864229933101,-1.470464270222888)
-
 ---
 
 ### 6. Biarritz — 02/09/2025
@@ -79,8 +75,6 @@ _Nous sommes au cap Breton - magnifique avec de grosse 🌊 vagues _
 _Aujourd'hui balade en vélo direction Biarritz _
 
  *⛅ 25°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=43.4829001,-1.5639007)
 
 ---
 
@@ -90,8 +84,6 @@ _Parcours vélo entre Labenne, Bayonne et Biarritz _
 
  *⛅ 25°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=43.4930292,-1.4761337)
-
 ---
 
 ### 8. Ribadedeva — 03/09/2025
@@ -100,15 +92,11 @@ _Voilà nous sommes arrivés en Asturies - Camping 🏕️ Las Hortensias - avec
 
  *⛅ 26°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=43.3870032,-4.5760224)
-
 ---
 
 ### 9. Ribadedeva - Plage — 04/09/2025
 
  *⛅ 22°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=43.393001,-4.5756753)
 
 ---
 
@@ -118,8 +106,6 @@ _Restaurant sur la plage _
 
  *⛅ 22°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=43.3922865,-4.5755489)
-
 ---
 
 ### 11. Santiago de Compostela — 06/09/2025
@@ -127,8 +113,6 @@ _Restaurant sur la plage _
 _Voilà nous sommes à Santiago au camping 🏕️ As Cancelas _
 
  *☀️ 24°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=42.9033008,-8.4933252)
 
 ---
 
@@ -138,8 +122,6 @@ _Visite de la ville en petit train ensuite restaurant a la Casa Camillo _
 
  *☀️ 22°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=42.8807385,-8.5456773)
-
 ---
 
 ### 13. Santiago — 07/09/2025
@@ -147,8 +129,6 @@ _Visite de la ville en petit train ensuite restaurant a la Casa Camillo _
 _Deuxième jour avec la visite du musée et de la cathédrale nous avons un guide francophone. Avant celles-ci nous sommes dans un Bar-Cafe._
 
  *🌧️ 20°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=42.8786989,-8.5424344)
 
 ---
 
@@ -158,8 +138,6 @@ _Nous voici à Porto en périphérie Nova Gaia - camping 🏕️ incroyable avec
 
  *☀️ 22°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=41.1718866,-8.5966755)
-
 ---
 
 ### 15. Vila Nova de Gaia — 08/09/2025
@@ -167,8 +145,6 @@ _Nous voici à Porto en périphérie Nova Gaia - camping 🏕️ incroyable avec
 _Restaurant ce soir avec un menu poisson 🐟_
 
  *☀️ 21°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=41.1095766,-8.6471703)
 
 ---
 
@@ -178,8 +154,6 @@ _Visite de la ville de Porto avec croisière avec les 6 ponts sur le Douro,  tuk
 
  *☀️ 20°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=41.14065423727226,-8.601543804296671)
-
 ---
 
 ### 17. Porto — 11/09/2025
@@ -187,8 +161,6 @@ _Visite de la ville de Porto avec croisière avec les 6 ponts sur le Douro,  tuk
 _3eme visite de la Ville - Librairie Lello, Gare, Palacio.... _
 
  *⛅ 20°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=41.1512931,-8.633094)
 
 ---
 
@@ -198,8 +170,6 @@ _Un grave problème de santé a frappé Sylvie hier. Nous avons dû nous rendre 
 
  *⛅ 22°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=41.108549,-8.646433)
-
 ---
 
 ### 19. Palencia — 14/09/2025
@@ -207,8 +177,6 @@ _Un grave problème de santé a frappé Sylvie hier. Nous avons dû nous rendre 
 _Nous voilà sur le chemin du retour, car notre Sylvie a un souci avec son œil. Nous sommes sur une aire CC gratuite à Palencia top. En route vers la France pour notre deuxième arrêt._
 
  *☀️ 28°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=42.01,-4.545314)
 
 ---
 
@@ -218,8 +186,6 @@ _Étape dans un CCP à Prahecq - top 👌_
 
  *⛅ 20°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=46.26328567498795,-0.3463649282632691)
-
 ---
 
 ### 21. Sombreffe — 16/09/2025
@@ -227,8 +193,6 @@ _Étape dans un CCP à Prahecq - top 👌_
 _Voilà nous sommes de retour à la maison 🏡 et nous avons déjà des idée pour repartir rapidement au soleil ☀️ encore cette année. Nous allons d'abord voir avec Dr et Sylvie cette semaine et puis en route ...._
 
  *⛅ 17°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=50.53541830876259,4.60403115471096)
 
 ---
 

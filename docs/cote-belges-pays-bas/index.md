@@ -20,6 +20,12 @@ _TIC&Tac à la mer et ensuite TIC au Pays-Bas _
 | **Visibilité** | 🌐 Public |
 | **Pays** | 🇧🇪 BE, 🇳🇱 NL |
 
+## 🗺️ Carte du trajet
+
+![Tracé du voyage](cote-belges-pays-bas/map.png)
+
+---
+
 ---
 
 ## 🗺️ Itinéraire — Étapes
@@ -30,8 +36,6 @@ _Départ de TIC pour la mer _
 
  *⛅ 6°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=50.5225432,4.5991932)
-
 ---
 
 ### 2. Camper Duin à Koksijde — 14/03/2025
@@ -39,8 +43,6 @@ _Départ de TIC pour la mer _
 _Nous avons passé deux nuits avec Tic et Tac, Tac nous rejoignant le samedi. Nous avons fait une promenade à vélo, puis nous sommes allés souper Chez DeMikke._
 
  *☀️ 6°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=51.11877229999995,2.6349276999999915)
 
 ---
 
@@ -50,15 +52,11 @@ _Camping 🏕️ à Amsterdam et visite de la ville deux jours _
 
  *☀️ 8°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=52.3730796,4.8924534)
-
 ---
 
 ### 4. Den Helder — 18/03/2025
 
  *☀️ 9°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=52.957976,4.760279)
 
 ---
 
@@ -66,15 +64,11 @@ _Camping 🏕️ à Amsterdam et visite de la ville deux jours _
 
  *☀️ 18°C*
 
- · [[Google Maps]](https://www.google.com/maps?q=52.741105,6.077431)
-
 ---
 
 ### 6. Retour maison - Sombreffe — 21/03/2025
 
  *⛅ 20°C*
-
- · [[Google Maps]](https://www.google.com/maps?q=50.5225432,4.5991932)
 
 ---
 
