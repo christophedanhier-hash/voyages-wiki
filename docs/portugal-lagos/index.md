@@ -22,7 +22,7 @@ _Nous allons poursuivre notre aventure au Portugal avec 15 jours en Algarve._
 
 ## 🗺️ Carte du trajet
 
-![Tracé du voyage](portugal-lagos/map.png)
+![Tracé du voyage](map.png)
 
 ---
 

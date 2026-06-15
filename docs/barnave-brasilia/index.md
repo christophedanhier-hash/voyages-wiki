@@ -22,7 +22,7 @@ _Vacances de Juin avec un passage a Barnave les 50 ans 1er fois et Brasilia _
 
 ## 🗺️ Carte du trajet
 
-![Tracé du voyage](barnave-brasilia/map.png)
+![Tracé du voyage](map.png)
 
 ---
 

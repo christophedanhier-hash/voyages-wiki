@@ -20,7 +20,7 @@
 
 ## 🗺️ Carte du trajet
 
-![Tracé du voyage](tic-tac-berck-bretagne/map.png)
+![Tracé du voyage](map.png)
 
 ---
 

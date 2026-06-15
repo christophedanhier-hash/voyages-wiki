@@ -22,7 +22,7 @@ _TIC&Tac à la mer et ensuite TIC au Pays-Bas _
 
 ## 🗺️ Carte du trajet
 
-![Tracé du voyage](cote-belges-pays-bas/map.png)
+![Tracé du voyage](map.png)
 
 ---
 

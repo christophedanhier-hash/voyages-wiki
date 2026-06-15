@@ -22,7 +22,7 @@ _France, Espagne et Portugal pour un périples en CC_
 
 ## 🗺️ Carte du trajet
 
-![Tracé du voyage](france-espagne-portugal/map.png)
+![Tracé du voyage](map.png)
 
 ---
 

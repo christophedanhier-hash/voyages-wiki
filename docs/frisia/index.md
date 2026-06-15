@@ -22,7 +22,7 @@ _Destination les PB pour la visite de la Frise et de l'île de Texel. _
 
 ## 🗺️ Carte du trajet
 
-![Tracé du voyage](frisia/map.png)
+![Tracé du voyage](map.png)
 
 ---
 

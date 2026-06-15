@@ -22,7 +22,7 @@ _Nous sommes en visite à Reims pour voir nos amis Henri et Liliane. _
 
 ## 🗺️ Carte du trajet
 
-![Tracé du voyage](escapade-a-reims/map.png)
+![Tracé du voyage](map.png)
 
 ---
 
