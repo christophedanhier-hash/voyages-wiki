@@ -30,7 +30,7 @@ _Roadbook préparatoire — Premier test du Bureau Sylvie (BAVI LEO)_
 | **Durée** | ~61 jours (2 mois) |
 | **Période** | 2 septembre → 31 octobre 2026 |
 | **Distance estimée** | ~9,000 km |
-| **Pays** | 🇧🇪 Belgique → 🇩🇪 Allemagne → 🇸🇪 Suède → 🇳🇴 Norvège |
+| **Pays** | 🇧🇪 Belgique → 🇩🇪 Allemagne → 🇸🇪 Suède → 🇳🇴 Norvège → 🇩🇰 Danemark → 🇩🇪 Allemagne → 🇧🇪 |
 | **⛴️ Ferry** | Rostock → Trelleborg (02/09 14h) — ✅ Réservé |
 | **Budget estimé** | ~5,000–6,000 € (85–100 €/jour)
 
@@ -39,12 +39,11 @@ _Roadbook préparatoire — Premier test du Bureau Sylvie (BAVI LEO)_
 ## 🗺️ Itinéraire général
 
 ```
-8 étapes majeures pour une boucle scandinave complète :
+7 étapes majeures pour une boucle scandinave complète :
 
-Gerpinnes → Rostock (ferry ⛴️) → Trelleborg → Suède Sud
-  → Stockholm → Norvège (Fjords) → Norvège (Nord)
-  → Lofoten / Tromsø / Cap Nord → Retour via Suède
-  → Ferry ou route → Allemagne → Gerpinnes
+Gerpinnes → Rostock (ferry ⛴️) → Trelleborg → Suède Ouest
+  → Fjords Norvégiens → Trondheim → Lofoten → Cap Nord
+  → Retour par Suède (Stockholm 🏛️) → Danemark → Gerpinnes
 ```
 
 ---
@@ -93,52 +92,32 @@ Gerpinnes → Rostock (ferry ⛴️) → Trelleborg → Suède Sud
 
 ---
 
-### Étape 3 : 🇸🇪 Göteborg → Stockholm
-**~470 km · J5–J7 (06–08/09)**
+### Étape 3 : 🇸🇪 Göteborg → 🇳🇴 Stavanger → Fjords Ouest
+**~800 km · J5–J12 (06–12/09)**
 
 | Segment | Distance |
 |---------|:--------:|
-| Göteborg → Stockholm (E4) | 470 km |
-| *Détour par lac Vättern (Jönköping)* | +60 km |
-
-**Stockholm :** 3-4 jours recommandés. Camping-car : **Bysjöns Camping** ou **Djurö Värdshus** à 30 min.
-
-**POI :**
-- 🏛️ Musée Vasa (navire du XVIIe siècle)
-- 🏛️ Skansen (musée en plein air)
-- 🏛️ Gamla Stan (vieille ville)
-- 🛶 Archipel de Stockholm (bateau)
-
-**Service van :** Vérifier vidange et eau propre au **Stockholm Stellplatz** (Norra Djurgården).
-
----
-
-### Étape 4 : 🇸🇪 Stockholm → 🇳🇴 Oslo → Fjords Ouest
-**~1,100 km · J8–J14 (09–15/09)**
-
-| Segment | Distance |
-|---------|:--------:|
-| Stockholm → Oslo | 530 km |
+| Göteborg → Oslo (transit, sans arrêt) | 300 km |
 | Oslo → Stavanger | 450 km |
 | Stavanger → Bergen | 200 km |
 
-**Oslo :** 1-2 jours. Musée des navires vikings, Opéra d'Oslo, Vigelandsparken.
+**Transit Oslo :** Traversée sans arrêt. Possibilité pause déjeuner courte en périphérie.
 
 **Fjords — section reine du voyage :**
 
 | Arrêt | Jour | Distance | POI |
 |-------|:----:|:--------:|-----|
-| **Stavanger** | J11 | — | 🥾 Preikestolen (chaire), Lysefjord |
-| **Bergen** | J13 | 200 km | 🏘️ Bryggen (UNESCO), Marché au poisson |
-| **Flåm** | J14 | 170 km | 🚂 Chemin de fer de Flåm, Sognefjord |
-| **Geiranger** | J16 | 300 km | 🌊 Geirangerfjord (UNESCO), Trollstigen |
+| **Stavanger** | J8 | — | 🥾 Preikestolen (chaire), Lysefjord |
+| **Bergen** | J10 | 200 km | 🏘️ Bryggen (UNESCO), Marché au poisson |
+| **Flåm** | J11 | 170 km | 🚂 Chemin de fer de Flåm, Sognefjord |
+| **Geiranger** | J13 | 300 km | 🌊 Geirangerfjord (UNESCO), Trollstigen |
 
 **Info pratique :** De nombreux ferries locaux sont gratuits ou peu chers (intégrés au réseau routier norvégien). Les tunnels sont nombreux et impressionnants (Lærdalstunnelen : 24,5 km !).
 
 ---
 
-### Étape 5 : 🇳🇴 Fjords Ouest → Trondheim → Îles Lofoten
-**~1,200 km · J15–J25 (16–26/09)**
+### Étape 4 : 🇳🇴 Fjords Ouest → Trondheim → Îles Lofoten
+**~1,200 km · J13–J23 (13–23/09)**
 
 | Segment | Distance |
 |---------|:--------:|
@@ -167,8 +146,8 @@ Gerpinnes → Rostock (ferry ⛴️) → Trelleborg → Suède Sud
 
 ---
 
-### Étape 6 : 🇳🇴 Lofoten → Tromsø → Cap Nord
-**~800 km · J26–J32 (27/09–03/10)**
+### Étape 5 : 🇳🇴 Lofoten → Tromsø → Cap Nord
+**~800 km · J24–J30 (24–30/09)**
 
 | Segment | Distance |
 |---------|:--------:|
@@ -191,50 +170,48 @@ Gerpinnes → Rostock (ferry ⛴️) → Trelleborg → Suède Sud
 
 ---
 
-### Étape 7 : 🇳🇴 Cap Nord → Retour via 🇸🇪 Suède / 🇫🇮 Finlande
-**~2,000 km · J33–J45 (04–16/10)**
+### Étape 6 : 🇳🇴 Cap Nord → 🇸🇪 Stockholm → 🇩🇰 Danemark → 🇧🇪 Retour
+**~3,000 km · J31–J45 (01–15/10)**
 
-**Option A : Retour par la Suède (recommandé)**
-```
-Cap Nord → Kiruna (Suède, 400 km)
-Kiruna → Luleå → Sundsvall → Stockholm (1,400 km)
-Stockholm → Malmö (600 km)
-```
-**Option B : Retour par la Finlande (variante)**
-```
-Cap Nord → Karasjok → Rovaniemi (Finlande, +500 km)
-Rovaniemi → Helsinki (+800 km)
-Ferry Helsinki → Travemünde (~830 € van, 20h)
-Travemünde → Gerpinnes (+800 km)
-```
+| Segment | Distance | Jours |
+|---------|:--------:|:-----:|
+| Cap Nord → Kiruna (Suède) | 400 km | J31 |
+| Kiruna → Luleå → Sundsvall | 900 km | J32–J34 |
+| Sundsvall → **Stockholm** 🏛️ | 400 km | J34 |
+| **Stockholm** (visite) | — | **J35–J37** |
+| Stockholm → Malmö | 600 km | J38–J39 |
+| Malmö → Copenhague (pont Øresund) | 40 km | J39 |
+| Copenhague → Rødby (ferry) ou Pont | 200 km | J40 |
+| ⛴️ Rødby → Puttgarden (Danemark → Allemagne) | 45 min ferry | J40 |
+| Hambourg → Gerpinnes | 580 km | J41–J42 |
 
-**Kiruna (J34) :** Mine de fer souterraine, Icehotel (Jukkasjärvi).
+**Stockholm — 3 jours sur le retour :**
+- 🏛️ **Musée Vasa** — navire du XVIIe siècle incroyablement préservé
+- 🏛️ **Skansen** — musée en plein air, zoo nordique
+- 🏛️ **Gamla Stan** — vieille ville, palais royal
+- 🛶 **Archipel de Stockholm** — excursion en bateau
+- 🅿️ **Stockholm Stellplatz** (Norra Djurgården) — vidange + eau
 
-**Conseil :** En octobre, les jours raccourcissent. Prévoir arrivée au sud de la Suède avant mi-octobre pour la lumière.
+**Retour par le Danemark :**
+- 🌉 **Pont de l'Øresund** (Malmö → Copenhague, ~50 € van)
+- 🏰 **Copenhague** : visite rapide (Nyhavn, Petite Sirène)
+- ⛴️ **Ferry Puttgarden–Rødby** (45 min, ~45 €) ou Pont Storebælt
+- 🛒 **Dernières courses en Allemagne** (bien moins cher que la Norvège)
 
----
-
-### Étape 8 : 🇸🇪 Suède Sud → 🇩🇪 Allemagne → 🇧🇪 Retour
-**~1,200 km · J46–J50 (17–21/10)**
-
-| Segment | Distance |
-|---------|:--------:|
-| Malmö → Hambourg (ferry ou pont) | 300 km |
-| Hambourg → Gerpinnes | 580 km |
-| *Tampon / visites* | +300 km |
-
-**Retour flexible :** 5 jours de marge pour ralentir, visiter, ou faire face aux imprévus météo.
+**Conseil :** Prévoir arrivée en Suède sud avant le 10 octobre pour encore profiter de la lumière. En octobre, les jours raccourcissent vite (8-10h de jour).
 
 ---
 
-### Étape 9 : Marge / Jours tampon
-**J51–J61 (22–31/10) — 10 jours de flexibilité**
+### Étape 7 : Marge / Jours tampon
+**J43–J50 (15–22/10) — 8 jours de flexibilité**
 
 Ces jours peuvent être répartis tout au long du voyage pour :
-- 🏕️ Rester plus longtemps aux endroits qui plaisent
+- 🏕️ Rester plus longtemps aux endroits qui plaisent (Lofoten, Stockholm !)
 - 🌧️ Attendre une meilleure météo
 - 🛠️ Entretien van / lessive / repos
 - 🎯 Visites imprévues
+
+**J51–J61 (23–31/10) :** Marge de sécurité — si le voyage s'allonge, ces jours sont disponibles.
 
 ---
 
