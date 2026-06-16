@@ -1,6 +1,8 @@
-# Scandinavie 2026 🚐🇪🇺🇩🇰🇸🇪🇳🇴
+# Scandinavie 2026 🚐🇪🇺🇩🇪🇸🇪🇳🇴
 
-**🔒 Privé** · 31/08/2026 → 31/10/2026 · 61 jours · ~9,000 km estimés · 🇧🇪 🇩🇪 🇩🇰 🇸🇪 🇳🇴
+**🔒 Privé** · 02/09/2026 → 31/10/2026 · ~61 jours · ~9,000 km estimés · 🇧🇪 🇩🇪 🇸🇪 🇳🇴
+
+**⛴️ Ferry réservé :** Rostock → Trelleborg (Stena Line) — 02/09 à 14h
 
 _Roadbook préparatoire — Premier test du Bureau Sylvie (BAVI LEO)_
 
@@ -25,11 +27,12 @@ _Roadbook préparatoire — Premier test du Bureau Sylvie (BAVI LEO)_
 |:---|---:|
 | **Départ** | Gerpinnes (Belgique) |
 | **Véhicule** | Van 6,50 m — 2 personnes |
-| **Durée** | 61 jours (2 mois) |
-| **Période** | 31 août → 31 octobre 2026 |
+| **Durée** | ~61 jours (2 mois) |
+| **Période** | 2 septembre → 31 octobre 2026 |
 | **Distance estimée** | ~9,000 km |
-| **Pays** | 🇧🇪 Belgique → 🇩🇪 Allemagne → 🇩🇰 Danemark → 🇸🇪 Suède → 🇳🇴 Norvège |
-| **Budget estimé** | ~4,500–5,500 € (75–90 €/jour) |
+| **Pays** | 🇧🇪 Belgique → 🇩🇪 Allemagne → 🇸🇪 Suède → 🇳🇴 Norvège |
+| **⛴️ Ferry** | Rostock → Trelleborg (02/09 14h) — ✅ Réservé |
+| **Budget estimé** | ~5,000–6,000 € (85–100 €/jour)
 
 ---
 
@@ -38,66 +41,54 @@ _Roadbook préparatoire — Premier test du Bureau Sylvie (BAVI LEO)_
 ```
 8 étapes majeures pour une boucle scandinave complète :
 
-Gerpinnes → Allemagne → Danemark → Suède Sud
+Gerpinnes → Rostock (ferry ⛴️) → Trelleborg → Suède Sud
   → Stockholm → Norvège (Fjords) → Norvège (Nord)
   → Lofoten / Tromsø / Cap Nord → Retour via Suède
-  → Ferry → Allemagne → Gerpinnes
+  → Ferry ou route → Allemagne → Gerpinnes
 ```
 
 ---
 
 ## 📋 Roadbook détaillé
 
-### Étape 1 : 🇧🇪 Gerpinnes → 🇩🇪 Hambourg
-**~580 km · J1 (31/08)**
+### Étape 1 : 🇧🇪 Gerpinnes → 🇩🇪 Rostock → ⛴️ Ferry
+**~620 km + ferry 7h · J1 (02/09)**
 
 | Info | Détail |
 |------|--------|
 | **Départ** | Gerpinnes, Belgique |
-| **Trajet** | E42 → E40 → A61 (Aachen → Köln → Bremen → Hamburg) |
-| **Arrivée** | Hambourg (ou environs) |
-| **Conseil** | Étape de transit. Nuit possible aire de service près de Hambourg ou camping Stellplatz. |
+| **Trajet** | E42 → A61 → A1 (Köln → Bremen → Hambourg → Rostock) |
+| **⛴️ Ferry** | **Rostock → Trelleborg** — Stena Line, 14h00, ~6-7h traversée |
+| **Réservation** | ✅ **Déjà réservé** |
+| **Arrivée** | Trelleborg (Suède) en soirée |
 
-**Services :** Stations-service tous les 30-50 km sur autoroute allemande. Pause déjeuner conseillée vers Köln ou Bremen.
+**Ferry Rostock–Trelleborg :** Navire Stena Line, cabine possible si réservé. Van 6.50m OK, hauteur max standard. Se présenter 1h avant à Rostock-Überseehafen.
 
----
-
-### Étape 2 : 🇩🇪 Hambourg → 🇩🇰 Copenhague
-**~350 km · J2 (01/09)**
-
-| Info | Détail |
-|------|--------|
-| **Trajet** | A1 → ferry **Puttgarden → Rødby** (45 min, ~45 € van) |
-| **Arrivée** | Copenhague |
-| **Alternative** | Pont Storebælt (péage ~50 €) — plus rapide mais plus cher |
-
-**Ferry Puttgarden–Rødby :** Départs très fréquents (toutes les 30 min), réservation non obligatoire hors pointe. Hauteur max 4m — OK pour van 6.5m. Paiement sur place ou via Scandlines app.
-
-**Points d'intérêt :**
-- 🏰 Copenhague : Nyhavn, Petite Sirène, Tivoli, Christiania
-- 🌉 Pont de l'Øresund (Copenhague → Malmö)
+**Conseil :** Arriver à Rostock en milieu de matinée (départ Gerpinnes vers 5-6h). Possibilité de visiter rapidement Rostock (centre historique, Warnemünde) avant l'embarquement.
 
 ---
 
-### Étape 3 : 🇩🇰🇸🇪 Danemark → Suède Sud → Göteborg
-**~300 km · J3–J4 (02–03/09)**
+### Étape 2 : 🇸🇪 Trelleborg → Suède Sud → Göteborg
+**~400 km · J2–J4 (03–05/09)**
 
 | Segment | Distance |
 |---------|:--------:|
-| Copenhague → Malmö (pont Øresund, ~50 €) | 40 km |
+| Trelleborg → Malmö | 40 km |
 | Malmö → Göteborg | 280 km |
 
-**Göteborg :** 2e ville de Suède, archipel magnifique. Aire de camping-car au **Liseberg Stellplatz** ou **Kungsladugård**.
+**Malmö :** 30 min de Trelleborg. Pont de l'Øresund, quartier Västra Hamnen, Turning Torso.
 
-**POI :**
+**Göteborg :** 2e ville de Suède, archipel magnifique. Aire de camping-car au **Liseberg Stellplatz**.
+
+**POI Göteborg :**
 - 🏛️ Universeum (science center)
 - 🏝️ Archipel de Göteborg (ferry local)
 - 🎨 Musée d'Art de Göteborg
 
 ---
 
-### Étape 4 : 🇸🇪 Göteborg → Stockholm
-**~470 km · J5–J7 (04–06/09)**
+### Étape 3 : 🇸🇪 Göteborg → Stockholm
+**~470 km · J5–J7 (06–08/09)**
 
 | Segment | Distance |
 |---------|:--------:|
@@ -116,8 +107,8 @@ Gerpinnes → Allemagne → Danemark → Suède Sud
 
 ---
 
-### Étape 5 : 🇸🇪 Stockholm → 🇳🇴 Oslo → Fjords Ouest
-**~1,100 km · J8–J14 (07–13/09)**
+### Étape 4 : 🇸🇪 Stockholm → 🇳🇴 Oslo → Fjords Ouest
+**~1,100 km · J8–J14 (09–15/09)**
 
 | Segment | Distance |
 |---------|:--------:|
@@ -140,8 +131,8 @@ Gerpinnes → Allemagne → Danemark → Suède Sud
 
 ---
 
-### Étape 6 : 🇳🇴 Fjords Ouest → Trondheim → Îles Lofoten
-**~1,200 km · J15–J25 (14–24/09)**
+### Étape 5 : 🇳🇴 Fjords Ouest → Trondheim → Îles Lofoten
+**~1,200 km · J15–J25 (16–26/09)**
 
 | Segment | Distance |
 |---------|:--------:|
@@ -170,8 +161,8 @@ Gerpinnes → Allemagne → Danemark → Suède Sud
 
 ---
 
-### Étape 7 : 🇳🇴 Lofoten → Tromsø → Cap Nord
-**~800 km · J26–J32 (25/09–01/10)**
+### Étape 6 : 🇳🇴 Lofoten → Tromsø → Cap Nord
+**~800 km · J26–J32 (27/09–03/10)**
 
 | Segment | Distance |
 |---------|:--------:|
@@ -194,8 +185,8 @@ Gerpinnes → Allemagne → Danemark → Suède Sud
 
 ---
 
-### Étape 8 : 🇳🇴 Cap Nord → Retour via 🇸🇪 Suède / 🇫🇮 Finlande
-**~2,000 km · J33–J45 (02–14/10)**
+### Étape 7 : 🇳🇴 Cap Nord → Retour via 🇸🇪 Suède / 🇫🇮 Finlande
+**~2,000 km · J33–J45 (04–16/10)**
 
 **Option A : Retour par la Suède (recommandé)**
 ```
@@ -217,8 +208,8 @@ Travemünde → Gerpinnes (+800 km)
 
 ---
 
-### Étape 9 : 🇸🇪 Suède Sud → 🇩🇰 Allemagne → 🇧🇪 Retour
-**~1,200 km · J46–J50 (15–19/10)**
+### Étape 8 : 🇸🇪 Suède Sud → 🇩🇪 Allemagne → 🇧🇪 Retour
+**~1,200 km · J46–J50 (17–21/10)**
 
 | Segment | Distance |
 |---------|:--------:|
@@ -230,8 +221,8 @@ Travemünde → Gerpinnes (+800 km)
 
 ---
 
-### Étape 10 : Marge / Jours tampon
-**J51–J61 (20–31/10) — 11 jours de flexibilité**
+### Étape 9 : Marge / Jours tampon
+**J51–J61 (22–31/10) — 10 jours de flexibilité**
 
 Ces jours peuvent être répartis tout au long du voyage pour :
 - 🏕️ Rester plus longtemps aux endroits qui plaisent
