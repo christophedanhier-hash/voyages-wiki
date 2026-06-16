@@ -12,12 +12,16 @@ _Roadbook préparatoire — Premier test du Bureau Sylvie (BAVI LEO)_
 
 | Métrique | Valeur |
 |:---------|------:|
+| **Sessions LEO** | 8 (cette conversation) |
+| **Messages échangés** | 106 |
+| **Appels API DeepSeek** | 24 |
+| **Outils mobilisés** | 74 (recherche web, scripts, git, carte) |
 | **Tokens consommés** | 198 728 IN · 20 924 OUT |
-| **Coût DeepSeek réel** | **~0,04 €** |
+| **Coût DeepSeek réel** | **~0,07 €** |
 | **Frais de service BAVI LEO** | **2,50 €** forfait |
-| **Total facturé** | **2,50 €** |
+| **Total facturé** | **2,57 €** |
 
-> ℹ️ Le coût réel DeepSeek est négligeable (0,04 €). Le forfait de **2,50 €** couvre : l'orchestration multi-bureau (Sylvie), la recherche web, la production du roadbook structuré (12 000+ signes), et l'archivage dans le wiki. Transparent — tu vois exactement ce que coûte chaque projet BAVI LEO.
+> ℹ️ Le coût réel DeepSeek (0,07 €) est dérisoire. Le forfait de **2,50 €** couvre : orchestration multi-bureau (Sylvie 🧭), recherche web (10 requètes), production du roadbook structuré (324 lignes), génération de la carte interactive OSM (20 étapes), archivage wiki + git. Transparence totale — chaque projet BAVI LEO affiche sa facture détaillée.
 
 ---
 
