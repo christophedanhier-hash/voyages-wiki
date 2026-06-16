@@ -51,6 +51,12 @@ Gerpinnes → Rostock (ferry ⛴️) → Trelleborg → Suède Sud
 
 ## 📋 Roadbook détaillé
 
+### 🗺️ Carte interactive du trajet
+
+<iframe src="map.html" width="100%" height="480" style="border: none; border-radius: 12px;" loading="lazy"></iframe>
+
+**Légende :** 🔴 Trajet aller — 🔵 Trajet retour (pointillés) — ⛴️ Ferry Rostock→Trelleborg
+
 ### Étape 1 : 🇧🇪 Gerpinnes → 🇩🇪 Rostock → ⛴️ Ferry
 **~620 km + ferry 7h · J1 (02/09)**
 
