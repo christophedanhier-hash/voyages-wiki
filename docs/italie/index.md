@@ -196,6 +196,38 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 6. 🏛️ **Forum + Basilique + Temple d'Apollon** (30 min)
 7. 🖼️ **Antiquarium** (frais, moulages des victimes, 20 min)
 8. Sortie Piazza Anfiteatro (replat) → pause café au CHORA
+---
+
+**🔄 Alternative : Herculanum (plus petit, mieux conservé)**
+
+| Critère | Pompéi | Herculanum |
+|:--------|:------:|:----------:|
+| **Superficie** | 66 ha (dont 44 ha fouillés) | **20 ha (dont 4,5 ha fouillés)** |
+| **Temps visite** | 3-6h | **2-3h** ✅ |
+| **Marche minimale** | ~2,5 km (parcours accessible) | **~1,5 km** ✅ |
+| **Foule** | 3 millions/an | **10× moins** ✅ |
+| **Conservation** | Bonne (murs, fresques) | **Exceptionnelle** (bois, toits, papyrus) |
+
+> 💡 **Notre conseil :** visite Pompéi 2h (parcours accessible via Piazza Anfiteatro) puis direction Herculanum l'après-midi pour une visite plus tranquille et mieux conservée. Les 2 sites se complètent parfaitement.
+
+**⚠️ Astuces CC 8m :**
+- **Camping Spartacus** (Via Plinio, 127 — 50 m des fouilles) : 🏕️ Piazzole avec eau + électricité. Chiens admis. Ouvert toute l'année. Tél: +39 081 862 40 78.
+- **Camping Pompei** (face à l'entrée) : alternative, en face des fouilles.
+- Parking Via Plinio (parkings restaurants) — 10 €/jour si camping complet.
+- Arriver avant **9h** en haute saison.
+- Le CC reste au parking/camping, les fouilles sont à **50 m à pied** ✅
+- Pompéi est très chaude l'été — prévoir eau + chapeau (Nala au CC climatisé ✅)
+
+### 🍝 Manger près de Pompéi
+
+| Restaurant | Type | Ambiance |
+|:-----------|:----:|:---------|
+| **Trammiere** | 🍕 Pizza | À 3 km, four au bois, pâtes aussi |
+| **La Bettola del Gusto** | 🍝 Cuisine locale | Produits frais, conviviale |
+| **Pub27** | 🍔 Burgers | Pas cher, rapide |
+| **Enoteca Masseria** | 🍷 Vins + planches | Dégustation produits du terroir |
+
+
 
 ---
 
@@ -360,39 +392,6 @@ Les vélos sont depuis Monopoli (20-30 km/jour max pour Sylvie).
 - **Sunny Cars #15253750** : vérifier si l'agence livre à Monopoli ou si navette Bari.
 - **🔑 Le CC reste à la Residence** pendant tout le séjour — transports : location voiture, vélo, taxi ou à pied.
 - **⚠️ ZTL :** de nombreuses villes des Pouilles (Ostuni, Martina Franca, Lecce, Polignano) ont des ZTL. **Ne pas entrer dans les centres historiques** avec la voiture de location. Parking en périphérie toujours (1-2 €/h).
-
----
-
-**🔄 Alternative : Herculanum (plus petit, mieux conservé)**
-
-| Critère | Pompéi | Herculanum |
-|:--------|:------:|:----------:|
-| **Superficie** | 66 ha (dont 44 ha fouillés) | **20 ha (dont 4,5 ha fouillés)** |
-| **Temps visite** | 3-6h | **2-3h** ✅ |
-| **Marche minimale** | ~2,5 km (parcours accessible) | **~1,5 km** ✅ |
-| **Foule** | 3 millions/an | **10× moins** ✅ |
-| **Conservation** | Bonne (murs, fresques) | **Exceptionnelle** (bois, toits, papyrus) |
-
-> 💡 **Notre conseil :** visite Pompéi 2h (parcours accessible via Piazza Anfiteatro) puis direction Herculanum l'après-midi pour une visite plus tranquille et mieux conservée. Les 2 sites se complètent parfaitement.
-
-**⚠️ Astuces CC 8m :**
-- **Camping Spartacus** (Via Plinio, 127 — 50 m des fouilles) : 🏕️ Piazzole avec eau + électricité. Chiens admis. Ouvert toute l'année. Tél: +39 081 862 40 78.
-- **Camping Pompei** (face à l'entrée) : alternative, en face des fouilles.
-- Parking Via Plinio (parkings restaurants) — 10 €/jour si camping complet.
-- Arriver avant **9h** en haute saison.
-- Le CC reste au parking/camping, les fouilles sont à **50 m à pied** ✅
-- Pompéi est très chaude l'été — prévoir eau + chapeau (Nala au CC climatisé ✅)
-
-### 🍝 Manger près de Pompéi
-
-| Restaurant | Type | Ambiance |
-|:-----------|:----:|:---------|
-| **Trammiere** | 🍕 Pizza | À 3 km, four au bois, pâtes aussi |
-| **La Bettola del Gusto** | 🍝 Cuisine locale | Produits frais, conviviale |
-| **Pub27** | 🍔 Burgers | Pas cher, rapide |
-| **Enoteca Masseria** | 🍷 Vins + planches | Dégustation produits du terroir |
-
----
 
 ### 🛶 Venise — Cavallino (J19–J22 · 4 nuits · 3 jours pleins)
 
