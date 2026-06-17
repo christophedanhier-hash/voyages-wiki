@@ -70,6 +70,114 @@
 
 ---
 
+## 🏛️ Visites & Culture
+
+### 🏞️ Lac de Côme (J2–J3 · 2 nuits)
+
+**Base :** The Camp by Maggiore Suites
+
+**🎭 Visites accessibles :**
+
+| Site | Distance à pied | Accès | Prix | Durée | Astuce |
+|:-----|:---------------:|:-----:|:----:|:-----:|:-------|
+| 🏡 **Villa Carlotta** (Tremezzo) | 200 m plat ✅ | Ferry 15 min | 15 € | 1h30 | Jardins + musée, idéal |
+| 🌸 **Villa Monastero** (Varenna) | 300 m plat ✅ | Ferry 15 min | 7-13 € | 1h | Jardin lacustre, superbe vue |
+| 🏡 **Villa Melzi** (Bellagio) | 500 m plat ✅ | Ferry 20 min | 10 € | 1h | Jardin romantique, cygnes |
+| 🏛️ **Côme centre** (Duomo) | 0 (débarquer à Côme) | Ferry 30 min | Gratuit | 1h | Duomo + vieille ville plate |
+| 🏰 **Villa Balbianello** (Lenno) | Montée ⚠️ | Bateau-taxi 6-9 € | 12 € | 1h30 | Préférer accès bateau (pas de marche) |
+
+**🛥️ Meilleur plan :** Prendre le **Pass Centro Lago** (15 €/jour, ferry illimité) pour enchaîner Menaggio → Bellagio → Varenna → Tremezzo dans la journée. Le ferry est accessible, peu de marche à chaque arrêt.
+
+**🚲 Balade vélo électrique (20-30 km) :**
+| Itinéraire | Distance | Dénivelé | Départ |
+|:-----------|:--------:|:--------:|:-------|
+| **Menaggio → Porlezza** (piste ex-voie ferrée) | 13,5 km → 27 km A/R | Plat ✅ | À 3 km du camping |
+| **Gera Lario → Dongo** (bord lac) | 10 km → 20 km A/R | Plat ✅ | Rive nord |
+| **Greenway del Lago** (fractionnable) | 10 km | Léger | Tremezzo → Cadenabbia |
+
+**⚠️ Astuces CC 8m :**
+- Ne pas prendre le CC dans Bellagio (ruelles trop étroites)
+- Parking Menaggio : grand parking via Fournier (payant, accessible 8m)
+- Aires CC à Côme : **Viale Aldo Moro** (~12 €/nuit, services)
+- Ferry depuis Menaggio : le CC reste au camping, on visite en ferry + pied
+
+---
+
+### 🏛️ Florence (J4–J6 · 3 nuits)
+
+**Base :** Florence Sud — Confort et Nature
+
+**⚠️ RÈGLE #1 : ZTL Florence — NE JAMAIS entrer dans la ZTL avec le CC (amende 80-300 € par flash).**
+
+**🅿️ Parking recommandé CC 8m : Florence Park Scandicci** (bus n°6 + Tram T1 → centre en 15 min, 20 €/jour, pas de limite de taille).
+
+**🎭 Plan de visite (2 jours, accessibilité optimisée) :**
+
+**Jour 1 — Centre historique (~3,5 km, plat ✅)**
+: Tram T1 (gare SMN) → **Duomo** (extérieur + intérieur, gratuit, accessible) → **Accademia — David** (650 m, rampe à droite, ascenseur ✅) → Déjeuner → **Piazza Signoria** (300 m, plat) → **Galerie des Offices** (250 m, rampe via della Ninna, ascenseurs ✅, ~2h) → **Ponte Vecchio** (250 m, piéton, plat) → Tram retour
+
+**Jour 2 — Oltrarno + Piazzale Michelangelo (~4 km, côte modérée)**
+: Tram T1 → **Palazzo Pitti** (depuis Ponte Vecchio, 500 m) → **Jardins de Boboli** (accès direct, terrain vallonné) → Déjeuner Oltrarno → **Piazzale Michelangelo** (1,5 km montée — à faire **à vélo électrique** ou bus 12/13) → Panorama 360° sur Florence
+
+**🎟️ Billets coupe-file** : Réserver Uffizi et Accademia sur [B-ticket.com](https://www.b-ticket.com) ou [Uffizi.it](https://www.uffizi.it). Sans réservation, compter 2-3h de queue l'été.
+
+**🚲 Balade vélo électrique :**
+| Itinéraire | Distance | Dénivelé | Départ |
+|:-----------|:--------:|:--------:|:-------|
+| **Montée au Piazzale Michelangelo** | 3 km aller | Côte ✅ (VAE) | Du centre |
+| **Piste Arno → Parc delle Cascine** | 3 km → 6 km A/R | Plat ✅ | Lungarno |
+| **Florence → Fiesole** (vue panoramique) | 8 km → 16 km A/R | Côte ✅ (VAE) | Depuis Scandicci |
+
+**Location VAE :** Fat Tire Tours (centre) ~15 €/2h, Unlimited Biking ~40 €/journée.
+
+---
+
+### 🌋 Pompéi (J7–J8 · 2 nuits)
+
+**Base :** Fortuna Village Pompei
+
+**🎭 Parcours adapté à Sylvie :**
+
+Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. Mais il existe un **parcours accessible « Pompei per tutti »** :
+
+| 💡 | Info |
+|:---|:-----|
+| **Entrée recommandée** | **Piazza Anfiteatro** (plate) — parking à 8 min |
+| **Parcours** | Amphithéâtre → Via dell'Abbondanza → Forum → Antiquarium |
+| **Distance** | **~2,5 km** (bien dans la limite de Sylvie ✅) |
+| **Fauteuil roulant** | Prêt **gratuit** à l'entrée Piazza Anfiteatro (arriver avant 9h) |
+| **Tarif handicap** | **Gratuit** pour Sylvie + 1 accompagnateur (carte handicap UE) |
+| **Points d'eau** | Fontaines partout, bancs, café CHORA au Forum |
+
+**Parcours recommandé :**
+1. 🏟️ **Amphithéâtre** (15 min)
+2. 🏛️ **Grande Palestre** (10 min)
+3. 🏘️ **Via dell'Abbondanza** (rue commerçante, thermopolia, graffitis)
+4. 🏠 **Maison de la Vénus à la Coquille** (10 min)
+5. 🏠 **Maison d'Octavius Quartio** (10 min)
+6. 🏛️ **Forum + Basilique + Temple d'Apollon** (30 min)
+7. 🖼️ **Antiquarium** (frais, moulages des victimes, 20 min)
+8. Sortie Piazza Anfiteatro (replat) → pause café au CHORA
+
+**🔄 Alternative : Herculanum (plus petit, mieux conservé)**
+| Critère | Pompéi | Herculanum |
+|:--------|:------:|:----------:|
+| **Superficie** | 66 ha (dont 44 ha fouillés) | **20 ha (dont 4,5 ha fouillés)** |
+| **Temps visite** | 3-6h | **2-3h** ✅ |
+| **Marche minimale** | ~2,5 km (parcours accessible) | **~1,5 km** ✅ |
+| **Foule** | 3 millions/an | **10× moins** ✅ |
+| **Conservation** | Bonne (murs, fresques) | **Exceptionnelle** (bois, toits, papyrus) |
+
+> 💡 **Notre conseil :** visite Pompéi 2h (parcours accessible via Piazza Anfiteatro) puis direction Herculanum l'après-midi pour une visite plus tranquille et mieux conservée. Les 2 sites se complètent parfaitement.
+
+**⚠️ Astuces CC 8m :**
+- Parking recommandé : **Via Plinio** (parkings restaurants) — 10 €/jour, gratuit avec repas
+- Arriver avant **9h** pour une place en haute saison
+- Le CC reste au parking, tout se fait à pied depuis l'entrée Piazza Anfiteatro
+- Pompeï est très chaude l'été — prévoir eau + chapeau (Nala au CC climatisé ✅)
+
+---
+
 ## 🗺️ Carte du trajet
 
 <iframe src="carte-italie.html" width="100%" height="550" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
