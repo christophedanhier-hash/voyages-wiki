@@ -123,14 +123,19 @@
 
 ---
 
-### Jour 2 — Samedi 20/06 : Collioure → La Jonquera
+### Jour 2 — Samedi 20/06 : Collioure → La Jonquera 🛍️ → Castellfollit 🏰
 
 | Horaire | Activité |
 |:-------:|----------|
 | **09h00** | ☕ Petit-déjeuner à Collioure |
 | **10h00** | 🚐 Départ vers **La Jonquera** (~55 km / 45 min) |
-| **11h00 → 15h00** | 🛍️ **Shopping — Gran Jonquera Outlet** |
-| **15h00+** | 🚐 Retour libre (Canet, Perpignan ou suite voyage) |
+| **11h00 → 13h00** | 🛍️ **Shopping — Gran Jonquera Outlet** |
+| **13h00 → 14h00** | 🥪 Déjeuner sur place |
+| **14h00 → 14h45** | 🚐 Route vers **Castellfollit de la Roca** (~50 km / 45 min) |
+| **15h00 → 17h00** | 🏰 **Visite de Castellfollit de la Roca** |
+| **17h00 → 18h15** | 🚐 Retour à **Collioure** (~90 km / 1h15) |
+| **Soir** | 🍷 Dernier apéro à Collioure |
+| **Nuit** | 🌙 Nuit à l'Aire Cap Dourats (déjà sur place) |
 
 #### 🛍️ Gran Jonquera Outlet & Shopping
 
@@ -146,6 +151,20 @@
 > ⚠️ **Pièces d'identité** obligatoires (carte d'identité ou passeport). Limites douanières : 200 cigarettes / 1L alcool fort par personne.
 
 > 📜 **Un peu d'histoire :** Village frontalier de Catalogne espagnole, La Jonquera devient un point de passage stratégique après le **Traité des Pyrénées (1659)** qui fixe la frontière. Dès les années 1950, le commerce frontalier (alcool, tabac, essence) s'y développe massivement. Le **Musée Mémorial de l'Exil (MUME)** rappelle son rôle tragique lors de la Retirada de 1939. Aujourd'hui, c'est le paradis du shopping duty-free ! 🛍️
+
+---
+
+#### 🏰 Castellfollit de la Roca
+
+| Info | Détail |
+|:-----|--------|
+| **📍 GPS** | **42.2193323, 2.5512465** |
+| ⏱️ **Distance** | 50 km / 45 min de La Jonquera |
+| 🏰 **À voir** | Village perché sur une falaise de basalte, église Sant Salvador, vieille ville |
+| ⏱️ **Visite** | 1h-2h — flânerie dans les ruelles |
+| 🅿️ **Stationnement CC** | Parking gratuit à l'entrée du village |
+
+> 📜 **Un peu d'histoire :** Castellfollit de la Roca est perché sur une **falaise de basalte** de 50 m de haut et 1 km de long, formée par l'érosion d'une coulée volcanique vieille de **217 000 ans**. Le village médiéval d'origine, construit sur cette crête, est l'un des plus spectaculaires de Catalogne. Son nom signifie « château perché sur le rocher » ! 🏰
 
 ---
 
@@ -237,12 +256,12 @@
 |:---|---:|
 | **Départ** | Canet-en-Roussillon (66) |
 | **Destination** | Gerpinnes (Belgique) |
-| **Étapes** | Collioure → La Jonquera → Tournus → Gerpinnes |
-| **Distance totale** | ~1 080 km |
+| **Étapes** | Collioure → La Jonquera 🛍️ → **Castellfollit 🏰** → Tournus → Gerpinnes |
+| **Distance totale** | ~1 220 km |
 | **Durée** | 4 jours (3 nuits) |
-| **Nuits** | Vendredi : Aire Cap Dourats — Collioure (20 €)<br>Dimanche : Aire Quai de la Marine — Tournus (gratuit) |
+| **Nuits** | Vendredi + Samedi : Aire Cap Dourats — Collioure (20 €)<br>Dimanche : Aire Quai de la Marine — Tournus (gratuit) |
 | **Péages** | **Zéro** — 100% routes nationales |
-| **Budget estimé** | ~150-200 € (aires + repas + shopping)
+| **Budget estimé** | ~170-220 € (aires + repas + shopping)
 
 ---
 
