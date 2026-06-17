@@ -145,7 +145,7 @@
 
 **2 jours | ~970 km | Zéro péage** 🛣️
 
-### Jour 3 — Dimanche 21/06 : Collioure → Tournus (~490 km)
+### Jour 3 — Dimanche 21/06 : Collioure → **Lyon (Vieux Lyon)** 🏛️ → Tournus (~490 km)
 
 | Horaire | Activité |
 |:-------:|----------|
@@ -153,9 +153,33 @@
 | **→ N9** | Perpignan → Narbonne → Béziers (85 km) |
 | **→ N113** | Montpellier → Nîmes (55 km) |
 | **→ N7** | **La Nationale 7 !** Orange → Montélimar → Valence → Vienne → Lyon (265 km) |
-| **Pause déj** | 🥪 Montélimar — marché le dimanche, nougat à emporter |
-| **→ N346/N6** | Périph Lyon gratuit → Mâcon → **Tournus** (100 km) |
-| **~16h00** | 🏕️ Arrivée — **Aire Quai de la Marine** |
+| **Pause** | 🥪 Petit arrêt à Montélimar — nougat à emporter |
+| **~12h30** | 🏛️ **Arrivée LYON** — stationnement Confluence (gratuit dimanche) |
+
+#### 🅿️ Stationnement CC à Lyon (dimanche gratuit)
+
+| Option | Détail |
+|:-------|--------|
+| **🅿️ Confluence** | Parking de surface côté Ikea — 45.7380, 4.8212 — Pas de hauteur limitée |
+| **🚋 Tram T1** | Arrêt "Hôtel de Région" → "Hôtel de Ville" (10 min) → 5 min à pied Vieux Lyon |
+| **🌉 Quais Saône** | Quai Tilsitt/Saint-Vincent — direct face Vieux Lyon, gratuit dimanche (pont piéton) |
+
+#### 🏛️ Visite du Vieux Lyon (UNESCO)
+
+| Quoi | Durée | Détail |
+|:-----|:-----:|--------|
+| ⛪ **Cathédrale Saint-Jean** | 20 min | Horloge astronomique, vitraux |
+| 🚪 **Les Traboules** | 30 min | Passages secrets — rue Saint-Jean, rue du Bœuf |
+| 🚋 **Funiculaire Fourvière** | 30 min | Vue panoramique sur Lyon — 3 € AR/pers |
+| 🍷 **Déjeuner** | 1h | Bouchon lyonnais typique ! |
+| 🛍️ **Rue Saint-Jean** | 20 min | Boutiques d'artisans |
+
+| Timing | Activité |
+|:------:|----------|
+| **13h00 → 15h30** | 🎯 **Balade dans le Vieux Lyon** |
+| **15h30 → 16h00** | 🚐 Retour au CC |
+| **16h00 → 17h00** | 🚐 Route vers **Tournus** (100 km — N6) |
+| **~17h00** | 🏕️ Arrivée — **Aire Quai de la Marine** |
 
 #### ⛺ Spot Nuit — Tournus, Quai de la Marine
 
