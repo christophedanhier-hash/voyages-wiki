@@ -89,6 +89,7 @@
 **🛥️ Meilleur plan :** Prendre le **Pass Centro Lago** (15 €/jour, ferry illimité) pour enchaîner Menaggio → Bellagio → Varenna → Tremezzo dans la journée. Le ferry est accessible, peu de marche à chaque arrêt.
 
 **🚲 Balade vélo électrique (20-30 km) :**
+
 | Itinéraire | Distance | Dénivelé | Départ |
 |:-----------|:--------:|:--------:|:-------|
 | **Menaggio → Porlezza** (piste ex-voie ferrée) | 13,5 km → 27 km A/R | Plat ✅ | À 3 km du camping |
@@ -122,6 +123,7 @@
 **🎟️ Billets coupe-file** : Réserver Uffizi et Accademia sur [B-ticket.com](https://www.b-ticket.com) ou [Uffizi.it](https://www.uffizi.it). Sans réservation, compter 2-3h de queue l'été.
 
 **🚲 Balade vélo électrique :**
+
 | Itinéraire | Distance | Dénivelé | Départ |
 |:-----------|:--------:|:--------:|:-------|
 | **Montée au Piazzale Michelangelo** | 3 km aller | Côte ✅ (VAE) | Du centre |
@@ -160,6 +162,7 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 8. Sortie Piazza Anfiteatro (replat) → pause café au CHORA
 
 **🔄 Alternative : Herculanum (plus petit, mieux conservé)**
+
 | Critère | Pompéi | Herculanum |
 |:--------|:------:|:----------:|
 | **Superficie** | 66 ha (dont 44 ha fouillés) | **20 ha (dont 4,5 ha fouillés)** |
@@ -201,6 +204,7 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 | Colmar (retour) | Aire CC Schoenau | ❌ Non | 1 nuit | 14,00 € | — |
 
 **Détails des réservations :**
+
 | Camping | À savoir |
 |:--------|:---------|
 | **The Camp by Maggiore Suites** | Pitch FRONT FR1 (8m ✅). ⚠️ Hauteur >2,60m → passer par Via Giuseppe Verdi. Check-in 16h. Code portail: 1593. Plaque: 2FUQ668 |
