@@ -44,10 +44,10 @@
 
 | Roadbook | Tokens | Coût DeepSeek | Frais service | Total facturé |
 |----------|:------:|:-------------:|:-------------:|:-------------:|
-| **🇳🇴 Scandinavie 2026** | 4 048 578 IN · 1 478 470 OUT | ~4,33 € | 2,50 € | **6,83 €** |
-| **🇮🇹 Italie** | 1 200 000 IN · 400 000 OUT (est.) | ~0,42 € | 2,50 € | **2,92 €** |
+| **🇳🇴 Scandinavie 2026** | 241 539 IN · 30 141 OUT | ~0,05 € | 2,50 € | **2,55 €** |
+| **🇮🇹 Italie** | 175 684 IN · 55 320 OUT | ~0,06 € | 2,50 € | **2,56 €** |
 | **🇫🇷 Canet → Collioure → Gerpinnes** | 28 000 IN · 5 000 OUT | ~0,01 € | 2,50 € | **2,51 €** |
-| **Total BAVI LEO** | | | | **12,26 €** |
+| **Total BAVI LEO** | | | | **7,62 €** |
 
 > 💡 Chaque roadbook inclut une section `💳 Coût du service BAVI LEO` détaillée avec les métriques exactes de sa session de création.
 
