@@ -108,7 +108,7 @@
 
 ---
 
-### Jour 3 — Dimanche 21/06 : Peyriac 🧂 → **LYON** 🏛️ (~350 km) — Nuit à Lyon
+### Jour 3 — Dimanche 21/06 : Peyriac 🧂 → **LYON** 🏛️ (~350 km) — Nuit 1/2
 
 | Horaire | Activité |
 |:-------:|----------|
@@ -121,43 +121,42 @@
 | **~16h00** | 🏛️ **Arrivée LYON** — Parking Confluence (gratuit dimanche) |
 | **16h00 → 19h00** | 🎯 **Visite Vieux Lyon** |
 | **Soir** | 🍷 Bouchon lyonnais |
-| **Nuit** | 🌙 **Nuit Lyon** — parking Confluence 🆓 |
+| **🌙 Nuit 1** | Parking Confluence 🆓 |
 
-#### 🏛️ Visite Vieux Lyon (UNESCO)
-
-| Quoi | Durée |
-|:-----|:-----:|
-| ⛪ **Cathédrale Saint-Jean** | 20 min |
-| 🚪 **Traboules** (rues Saint-Jean, du Bœuf) | 30 min |
-| 🚋 **Funiculaire Fourvière** (3€ AR) | 30 min — vue panoramique |
-| 🍷 **Bouchon lyonnais** | 1h |
-| 🛍️ **Rue Saint-Jean** | 20 min |
-
-#### 🅿️ Stationnement Lyon
-
-| Option | Détail |
-|:-------|--------|
-| **🅿️ Confluence** | Parking surface côté Ikea — 45.7380, 4.8212 |
-| **🚋 Tram T1** | "Hôtel de Région" → "Hôtel de Ville" (10 min) |
-| **💵 Dimanche** | **GRATUIT** toute la journée |
-
----
-
-### Jour 4 — Lundi 22/06 (ou +) : Lyon 🏛️ → direction Gerpinnes 🏠
+### Jour 4 — Lundi 22/06 : Visite Lyon 🏛️ — Nuit 2/2
 
 | Horaire | Activité |
 |:-------:|----------|
-| **09h00** | ☕ Café à Lyon — dernière balade si envie |
-| **10h00** | 🚐 Départ de Lyon |
-| **→ N6** | Chalon-sur-Saône → Beaune → **Dijon** (110 km) |
-| **→ N5/D974** | Dijon → **Langres** (100 km) |
+| **09h00** | ☕ Petit-déjeuner |
+| **09h30 → 12h00** | 🏛️ **Suite visite Lyon** — Fourvière, Presqu'île, traboules |
+| **12h00 → 14h00** | 🥪 Déjeuner (bouchon ou marché) |
+| **14h00 → 18h00** | 🎯 Promenade libre — Croix-Rousse, Parc de la Tête d'Or |
+| **19h00** | 🚐 Retour CC — stationnement **gratuit après 19h** |
+| **🌙 Nuit 2** | Parking Confluence 🆓 |
+
+> 💡 **Stationnement Lyon** : Gratuit le **dimanche** toute la journée + toutes les **nuits de 19h à 9h**. Donc arrivée dimanche 16h → gratuit jusqu'à mardi 9h (avec juste la journée du lundi payante si vous restez garé, ou gratuit si vous partez dans la journée et revenez après 19h).
+
+#### 🏛️ Que visiter à Lyon en 2 jours
+
+| Jour | Activités |
+|:-----|-----------|
+| **Dim 16h-19h** | ⛪ Cathédrale Saint-Jean — 🚪 Traboules (rue Saint-Jean, rue du Bœuf) — 🚋 Funiculaire Fourvière (3€ AR, vue panoramique) — 🍷 Bouchon lyonnais |
+| **Lun 9h-18h** | 🏛️ Basilique Fourvière + vue — 🏙️ Presqu'île (Bellecour, Cordeliers) — 🏘️ Croix-Rousse (traboules des canuts) — 🌳 Parc de la Tête d'Or |
+
+### Jour 5 — Mardi 23/06 (ou +) : Lyon 🏛️ → Gerpinnes 🏠
+
+| Horaire | Activité |
+|:-------:|----------|
+| **08h00** | Départ de Lyon (avant 9h si au Confluence) |
+| **→ N6** | Chalon-sur-Saône → Beaune → Dijon (110 km) |
+| **→ N5/D974** | Dijon → Langres (100 km) |
 | **→ N74** | Langres → Neufchâteau → Toul (130 km) |
-| **Pause déj** | 🥪 Nancy |
+| **Pause déj** | Nancy |
 | **→ N57/N53** | Nancy → Metz → Thionville → Luxembourg |
 | **→ N89/N40** | Arlon → Libramont → Dinant |
-| **~18h00** | 🏠 **Gerpinnes** (ou étape à Dinant si trop long) |
+| **~18h00** | 🏠 **Gerpinnes** |
 
-> ⏰ **Flexible jusqu'au 26/06** — Possible de couper avec une nuit à **Dinant** (parking bord de Meuse gratuit : 50.2619, 4.9127)
+> ⏰ **Flexible jusqu'au 26/06** — possible étape à Dinant (parking Meuse gratuit)
 
 ---
 
@@ -167,11 +166,10 @@
 |:---|---:|
 | **🚐** | Pascal & Agnès |
 | **📍 Départ** | Canet-en-Roussillon |
-| **🏁 Arrivée** | Gerpinnes (max 26/06) |
-| **📏 Total** | ~1 350 km |
+| **🛏️ Nuits** | Ven : Castellfollit (gratuit 🆓)<br>Sam : Peyriac (8€)<br>**Dim + Lun : LYON Confluence (gratuit 🆓)**<br>Mar : Selon route |
+| **📏 Total** | ~1 500 km |
 | **⛔ Péages** | **Zéro** |
-| **🛏️ Nuits** | Ven : Castellfollit (gratuit)<br>Sam : Peyriac (8€)<br>Dim : Lyon Confluence (gratuit)<br>Lun : Selon route (Dinant gratuit ou Tournus gratuit) |
-| **💰 Budget** | ~150-200 € |
+| **💰 Budget** | ~160-200 € |
 
 ---
 
