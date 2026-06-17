@@ -4,6 +4,21 @@
 
 **⛴️ Ferry réservé :** Rostock → Trelleborg (Stena Line) — 02/09 à 14h
 
+---
+
+## 👥 Contexte du voyage
+
+| | |
+|:---|:---|
+| **Voyageurs** | Christophe, Sylvie + 🐕 Nala |
+| **Véhicule** | Van 6,50m × ~2,3m (hauteur à vérifier) |
+| **Mobilité** | Sylvie : max 5-7 km/j à pied. Balades à **vélo électrique** possible (20-30 km/j) |
+| **Nala** | Reste au CC climatisé pendant les visites |
+| **Équipement** | 2 vélos électriques — vérifier pistes cyclables et parkings sécurisés |
+| **Camping** | Allemansrätten 🇸🇪🇳🇴 possible — camping sauvage autorisé |
+
+---
+
 _Roadbook préparatoire — Premier test du Bureau Sylvie (BAVI LEO)_
 
 ---
