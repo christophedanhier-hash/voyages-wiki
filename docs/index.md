@@ -12,8 +12,8 @@
 | **Distance totale** | 15,737 km |
 | **Étapes enregistrées** | 2622 |
 | **Voyages réalisés** | 6 |
-| **Voyages en prépa (Tof)** | 2 |
-| **Voyages en prépa (Amis)** | 1 |
+| **Voyages en prépa (Tof)** | 1 |
+| **Voyages en prépa (Amis)** | 2 |
 
 ---
 
@@ -35,7 +35,6 @@
 
 | Voyage | Période | Statut |
 |--------|---------|:------:|
-| **🇳🇴 Scandinavie 2026** | 31/08 → 31/10/2026 | 📋 Roadbook prêt |
 | **🇮🇹 Italie** | 09/2026 → TBD | 📋 En cours |
 
 ---
@@ -44,6 +43,7 @@
 
 | Voyage | Période | Voyageurs | Statut |
 |--------|---------|:---------:|:------:|
+| **🇳🇴 Scandinavie 2026** | 31/08 → 31/10/2026 | Pascal | 📋 Roadbook prêt |
 | **🇫🇷 Canet → Collioure → Gerpinnes** | 19/06 → 22/06/2026 | Pascal & Agnès | 🚐 Week-end prêt |
 
 ---
