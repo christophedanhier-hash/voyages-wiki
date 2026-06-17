@@ -170,7 +170,7 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 
 ### 🏖️ Monopoli — Pouilles (J9–J17 · 9 nuits)
 
-**Base :** Residence Atlantide (C.da Lamandia 13/E, Monopoli)
+**🏠 Base :** Residence Atlantide (C.da Lamandia 13/E, Monopoli) — le CC reste **garé** pendant tout le séjour (9 nuits). Déplacements uniquement à pied 🚶, vélo 🚲, taxi 🚕 ou voiture de location 🚗.
 
 **🚗 Location voiture :** Sunny Cars réservation **#15253750** — 5 jours (Lun 21 → Ven 25/9). Idéal pour rayonner : Alberobello, Ostuni, Lecce, Matera à portée.
 
@@ -208,8 +208,7 @@ Le centre historique est compact et plat — se visite en **1-2h** à votre ryth
 **📌 Astuces :**
 - Meilleur moment : **fin d'après-midi** pour la lumière dorée sur le port
 - Gelato chez **Dal Siciliano** (arancini aussi) ou **Caffè Roma**
-- **Parking CC :** parking gratuit Via Procaccia (rare) ou payant près Porto Rosso (~2 €/h)
-- **⚠️ ZTL active** dans le centre — ne pas entrer en voiture sans autorisation
+- **⚠️ ZTL active** dans le centre — la voiture de location ne doit pas y entrer
 
 ---
 
@@ -324,14 +323,12 @@ Les vélos sont depuis Monopoli (20-30 km/jour max pour Sylvie).
 
 ---
 
-### ⚠️ Astuces CC & pratiques
+### ⚠️ Astuces pratiques
 
-- **Résidence Atlantide :** C.da Lamandia 13/E, Monopoli. 9 nuits confirmées via wubook (CD-0008).
-- **Sunny Cars #15253750** : location 5 jours. Vérifier si l'agence livre à Monopoli ou si navette Bari.
-- **⚠️ ZTL :** de nombreuses villes des Pouilles (Ostuni, Martina Franca, Lecce, Polignano) ont des ZTL. **Ne pas entrer dans les centres historiques** sans autorisation. Parking en périphérie toujours.
-- **Parkings conseillés :** voir les indications par ville ci-dessus. Les parkings périphériques sont généralement grands et pas chers (1-2 €/h).
-- **Régler le CC à Monopoli :** le CC reste au Residence Atlantide pendant la semaine — la voiture de location est le moyen de transport principal.
-- **⚠️ Attention hauteur CC 2,5m** : vérifier les accès au Residence Atlantide avant de s'engager.
+- **Residence Atlantide :** C.da Lamandia 13/E, Monopoli. 9 nuits confirmées via wubook (CD-0008).
+- **Sunny Cars #15253750** : vérifier si l'agence livre à Monopoli ou si navette Bari.
+- **🔑 Le CC reste à la Residence** pendant tout le séjour — transports : location voiture, vélo, taxi ou à pied.
+- **⚠️ ZTL :** de nombreuses villes des Pouilles (Ostuni, Martina Franca, Lecce, Polignano) ont des ZTL. **Ne pas entrer dans les centres historiques** avec la voiture de location. Parking en périphérie toujours (1-2 €/h).
 
 ---
 
@@ -414,7 +411,7 @@ Les vélos sont depuis Monopoli (20-30 km/jour max pour Sylvie).
 - **The Camp by Maggiore Suites (Lac de Côme)** : front pitch FR1 (8m OK). Hauteur 2,5m OK (<2,60m). Code portail: 1593
 - **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². Love Pet Pack 15€ pour Nala. Check-in 24h/24. Tram T1 depuis/vers le centre
 - **Pompéi** : camping à réserver. **Camping Spartacus** (Via Plinio 127, 50m des fouilles, chiens OK, tél +39 081 862 40 78) ou **Camping Pompei** (face entrée). Parking Via Plinio possible sans résa
-- **Residence Atlantide (Monopoli)** : séjour de 9 nuits dans les Pouilles (19→28/09). Centre-ville à 15 min à pied. Sunny Cars #15253750 réservé 5 jours (Lun→Ven). Voir section dédiée pour le programme jour par jour : Alberobello, Ostuni, Matera, Lecce, Polignano 🚗 + balades vélo côtières 🚲
+- **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), vélo, taxi, à pied. Centre-ville à 15 min à pied. Voir section dédiée pour le programme jour par jour 🚗🚲
 - **Camping Europa Village (Cavallino)** : réservé via Sandaya. Ferry/bus pour Venise et Murano. Paiement reçu
 - **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte €140,40 payé le 14/01/2026. Solde ~327,60€ à prévoir. 7 nuits
 - **Location voiture** : prévue 2 fois (Pouilles + Lac de Garde) via Sunny Cars (réservations #15253750 et #15253704)
