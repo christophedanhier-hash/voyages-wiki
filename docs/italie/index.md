@@ -119,6 +119,15 @@
 - Aires CC à Côme : **Viale Aldo Moro** (~12 €/nuit, services)
 - Ferry depuis Menaggio : le CC reste au camping, on visite en ferry + pied
 
+### 🍝 Manger près du camping (Menaggio)
+
+| Restaurant | Type | Ambiance |
+|:-----------|:----:|:---------|
+| **Osteria Il Pozzo** | 🐟 Poisson, pâtes | Cuisine locale, produit du lac, terrasse |
+| **La Darsena** | 🍕 Pizza, poisson | Vue lac, terrasse, familial |
+| **Trattoria Bellavista** | 🍝 Traditionnel | Menu ouvrier, prix doux |
+| **Gelateria** 🍨 | Via Calvi | Glaces artisanales, balade digestive |
+
 ---
 
 ### 🏛️ Florence (J4–J6 · 3 nuits)
@@ -148,6 +157,16 @@
 | **Florence → Fiesole** (vue panoramique) | 8 km → 16 km A/R | Côte ✅ (VAE) | Depuis Scandicci |
 
 **Location VAE :** Fat Tire Tours (centre) ~15 €/2h, Unlimited Biking ~40 €/journée.
+
+### 🍝 Manger à Florence
+
+| Restaurant | Type | Coin | Ambiance |
+|:-----------|:----:|:----:|:---------|
+| **Trattoria Mario** | 🍝 Traditionnel | San Lorenzo | Authentique, pas cher, menu du jour |
+| **All'Antico Vinaio** | 🥪 Sandwichs | Via dei Neri | Mythique, énormes, 7 € |
+| **Gusta Pizza** | 🍕 Pizza | Santo Spirito | La meilleure pizza de Florence |
+| **Mercato Centrale** | 🥟 Street food | San Lorenzo | Halles, étages, tout type |
+| **La Carraia** | 🍨 Gelato | Lungarno | Réputée meilleure glace de Florence |
 
 ---
 
@@ -363,6 +382,15 @@ Les vélos sont depuis Monopoli (20-30 km/jour max pour Sylvie).
 - Arriver avant **9h** en haute saison.
 - Le CC reste au parking/camping, les fouilles sont à **50 m à pied** ✅
 - Pompéi est très chaude l'été — prévoir eau + chapeau (Nala au CC climatisé ✅)
+
+### 🍝 Manger près de Pompéi
+
+| Restaurant | Type | Ambiance |
+|:-----------|:----:|:---------|
+| **Trammiere** | 🍕 Pizza | À 3 km, four au bois, pâtes aussi |
+| **La Bettola del Gusto** | 🍝 Cuisine locale | Produits frais, conviviale |
+| **Pub27** | 🍔 Burgers | Pas cher, rapide |
+| **Enoteca Masseria** | 🍷 Vins + planches | Dégustation produits du terroir |
 
 ---
 
@@ -619,6 +647,16 @@ Les vélos sont depuis Monopoli (20-30 km/jour max pour Sylvie).
 | **Tour du port → plages sud** | 10 km A/R | Plat ✅ | Plages de sable fin, eau peu profonde |
 
 > 💡 Location de vélos directement au **San Francesco Camping Village** 🚲. Parcours plats majoritairement.
+
+### 🍝 Manger autour du lac
+
+| Restaurant | Type | Coin | Ambiance |
+|:-----------|:----:|:----:|:---------|
+| **Ristorante Esplanade** | 🐟 Poisson, vue 🌅 | Desenzano | Terrasse lac, chic décontracté |
+| **La Locanda del Pescatore** | 🐟 Poisson, pizza | Desenzano | Familial, terrasse, poisson frais |
+| **Osteria Al Borgo** | 🍝 Traditionnel | Sirmione | Cuisine locale, cadre charmant |
+| **Trattoria Al Vecchio** | 🍝 Pâtes maisons | Desenzano | Prix doux, menu du jour |
+| **Gelateria Artigianale** 🍨 | Glaces | Desenzano | Via Roma, artisanales |
 
 ---
 
