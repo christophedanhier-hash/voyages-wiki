@@ -1,4 +1,4 @@
-# Barnave & Brasilia
+# 🌐 Barnave & Brasilia 06/2025
 
 🌐 Public · 06/06/2025 → 06/07/2025 · 30 jours · 2,538.7 km · 🇧🇪 🇫🇷
 
@@ -20,9 +20,22 @@ _Vacances de Juin avec un passage a Barnave les 50 ans 1er fois et Brasilia _
 | **Visibilité** | 🌐 Public |
 | **Pays** | 🇫🇷 FR, 🇧🇪 BE |
 
+## 💰 Coûts BAVI
+
+| | |
+|:---|---:|
+| **Camping Les Écureuils (3 nuits)** | 63.00 € |
+| **Camping Le Brasilia (24 nuits)** | 456.00 € |
+| **Camping Car Park Verdun** | 15.00 € |
+| **Total Hébergement** | **534.00 €** |
+| **Autoroute / Péage** | 87.50 € |
+| **Carburant** | 320.00 € |
+| **Total Transport** | **407.50 €** |
+| **Total Général** | **941.50 €** |
+
 ## 🗺️ Carte du trajet
 
-![Tracé du voyage](map.png)
+<iframe src="map.html" width="100%" height="500" frameborder="0"></iframe>
 
 ---
 

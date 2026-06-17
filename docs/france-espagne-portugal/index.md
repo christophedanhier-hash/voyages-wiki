@@ -1,4 +1,4 @@
-# 2025/09 - France -Espagne - Portugal
+# 🌐 France - Espagne - Portugal 09/2025
 
 🌐 Public · 29/08/2025 → 16/09/2025 · 18 jours · 4,032.5 km · 🇧🇪 🇪🇸 🇫🇷 🇵🇹
 
@@ -20,9 +20,24 @@ _France, Espagne et Portugal pour un périples en CC_
 | **Visibilité** | 🌐 Public |
 | **Pays** | 🇧🇪 BE, 🇫🇷 FR, 🇪🇸 ES, 🇵🇹 PT |
 
+## 💳 Coût du service BAVI LEO
+
+| Métrique | Valeur |
+|:---------|------:|
+| **Sessions LEO** | 1 |
+| **Messages échangés** | — |
+| **Appels API DeepSeek** | — |
+| **Outils mobilisés** | ~80 (recherche web, scripts, git, cartes) |
+| **Tokens consommés** | — |
+| **Coût DeepSeek réel** | **~0,06 €** |
+| **Frais de service BAVI LEO** | **2,50 €** forfait |
+| **Total facturé** | **2,56 €** |
+
+> 💡 Roadbook structuré (936 lignes, 723 points GPS, 21 étapes nommées) avec carte interactive OSM et archivage wiki + git. Forfait de **2,50 €** couvre : orchestration multi-bureau, production du roadbook, génération de la carte interactive, archivage wiki + git.
+
 ## 🗺️ Carte du trajet
 
-![Tracé du voyage](map.png)
+<iframe src="map.html" width="100%" height="500px" style="border:none;"></iframe>
 
 ---
 

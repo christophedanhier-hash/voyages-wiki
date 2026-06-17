@@ -1,4 +1,4 @@
-# Tic&Tac à Berck & Bretagne
+# 🌐 Tic&Tac à Berck & Bretagne 04/2025
 
 🌐 Public · 16/04/2025 → 05/05/2025 · 19 jours · 1,766.2 km · 🇧🇪 🇫🇷
 
@@ -18,9 +18,20 @@
 | **Visibilité** | 🌐 Public |
 | **Pays** | 🇧🇪 BE, 🇫🇷 FR |
 
+## 💰 Coûts BAVI
+
+| | |
+|:---|---:|
+| **Carburant** | — |
+| **Péages** | — |
+| **Hébergement** | — |
+| **Alimentation** | — |
+| **Activités / Loisirs** | — |
+| **Total** | — |
+
 ## 🗺️ Carte du trajet
 
-![Tracé du voyage](map.png)
+<iframe src="map.html" width="100%" height="500" style="border:0; border-radius:8px;" allowfullscreen loading="lazy"></iframe>
 
 ---
 

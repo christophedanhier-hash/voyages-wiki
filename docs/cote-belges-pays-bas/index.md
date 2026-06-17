@@ -1,10 +1,8 @@
-# La côte Belges et les Pays-Bas
+# 🌐 La côte belge et les Pays-Bas 03/2025
 
 🌐 Public · 13/03/2025 → 21/03/2025 · 8 jours · 787.0 km · 🇧🇪 🇳🇱
 
 _TIC&Tac à la mer et ensuite TIC au Pays-Bas _
-
----
 
 ## 📊 Résumé
 
@@ -19,6 +17,18 @@ _TIC&Tac à la mer et ensuite TIC au Pays-Bas _
 | **Pays visités** | 🇧🇪 🇳🇱 |
 | **Visibilité** | 🌐 Public |
 | **Pays** | 🇧🇪 BE, 🇳🇱 NL |
+
+---
+
+## 💳 Coût du service BAVI LEO
+
+| Métrique | Valeur |
+|:---|---:|
+| **DeepSeek réel** | ~0,01 € |
+| **Frais de service BAVI LEO** | 2,50 € forfait |
+| **Total facturé** | **2,51 €** |
+
+> 💡 Voyage réalisé avant la création du service BAVI LEO — forfait restructuration rétroactive.
 
 ## 🗺️ Carte du trajet
 

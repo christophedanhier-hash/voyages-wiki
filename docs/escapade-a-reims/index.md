@@ -1,4 +1,4 @@
-# Escapade à Reims
+# 🌐 Escapade à Reims 12/2025
 
 🌐 Public · 12/12/2025 → 13/12/2025 · 1 jours · 186.6 km · 🇫🇷
 
@@ -20,9 +20,19 @@ _Nous sommes en visite à Reims pour voir nos amis Henri et Liliane. _
 | **Visibilité** | 🌐 Public |
 | **Pays** | 🇫🇷 FR |
 
+## 💳 Coût du service BAVI LEO
+
+| Métrique | Valeur |
+|:---|---:|
+| **DeepSeek réel** | ~0,01 € |
+| **Frais de service BAVI LEO** | 2,50 € forfait |
+| **Total facturé** | **2,51 €** |
+
+> 💡 Voyage réalisé avant la création du service BAVI LEO — forfait restructuration rétroactive.
+
 ## 🗺️ Carte du trajet
 
-![Tracé du voyage](map.png)
+<iframe src="map.html" width="100%" height="500px" style="border:none;"></iframe>
 
 ---
 

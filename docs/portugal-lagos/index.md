@@ -1,4 +1,4 @@
-# 2025 - Novembre au Portugal - Lagos
+# 🌐 Portugal 11/2025
 
 🌐 Public · 06/11/2025 → 29/11/2025 · 23 jours · 5,084.6 km · 🇕🇕 🇧🇪 🇪🇸 🇫🇷 🇵🇹
 
@@ -20,9 +20,23 @@ _Nous allons poursuivre notre aventure au Portugal avec 15 jours en Algarve._
 | **Visibilité** | 🌐 Public |
 | **Pays** | 🇧🇪 BE, 🇫🇷 FR, 🇪🇸 ES, 🇵🇹 PT |
 
+---
+
+## 💳 Coût du service BAVI LEO
+
+| Métrique | Valeur |
+|:---|---:|
+| **DeepSeek réel** | ~0,01 € |
+| **Frais de service BAVI LEO** | 2,50 € forfait |
+| **Total facturé** | **2,51 €** |
+
+> 💡 Voyage réalisé avant la création du service BAVI LEO — forfait restructuration rétroactive.
+
+---
+
 ## 🗺️ Carte du trajet
 
-![Tracé du voyage](map.png)
+<iframe src="map.html" width="100%" height="500px" style="border:none;"></iframe>
 
 ---
 
