@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_91435f61cf4386faa8ff413bfac0a6d8 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_91435f61cf4386faa8ff413bfac0a6d8" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_91435f61cf4386faa8ff413bfac0a6d8 = L.map(
+                "map_91435f61cf4386faa8ff413bfac0a6d8",
+                {
+                    center: [42.55, 2.98],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 11,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_91435f61cf4386faa8ff413bfac0a6d8);
+
+            
+
+        
+    
+            var tile_layer_658a7354fc981f66b382646be5617122 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_658a7354fc981f66b382646be5617122.addTo(map_91435f61cf4386faa8ff413bfac0a6d8);
+        
+    
+            var poly_line_c595c4d6f954d1bc4c0f44f7c521707c = L.polyline(
+                [[42.704359, 3.0105105], [42.52505, 3.0831554], [42.4207991, 2.8728485]],
+                {"bubblingMouseEvents": true, "color": "#e63946", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#e63946", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(map_91435f61cf4386faa8ff413bfac0a6d8);
+        
+    
+        var popup_5126924bdadb0052d4cc0027989f4e5d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_cb891bd69aa6b3a9683b782add45dc0e = $(`<div id="html_cb891bd69aa6b3a9683b782add45dc0e" style="width: 100.0%; height: 100.0%;">Trajet</div>`)[0];
+                popup_5126924bdadb0052d4cc0027989f4e5d.setContent(html_cb891bd69aa6b3a9683b782add45dc0e);
+            
+        
+
+        poly_line_c595c4d6f954d1bc4c0f44f7c521707c.bindPopup(popup_5126924bdadb0052d4cc0027989f4e5d)
+        ;
+
+        
+    
+    
+            var marker_35ef23b764c3aebdc82b293975b5a340 = L.marker(
+                [42.704359, 3.0105105],
+                {
+}
+            ).addTo(map_91435f61cf4386faa8ff413bfac0a6d8);
+        
+    
+            var icon_f5dae25dbb7deefcf53e525dc4a718f6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ebfbf67065b91fdb971c0aec10cb8dc7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_dc5fdd3ebac73e521d45762346007a9c = $(`<div id="html_dc5fdd3ebac73e521d45762346007a9c" style="width: 100.0%; height: 100.0%;"><b>🇫🇷 Canet-en-Roussillon</b><br>Départ vendredi 12h00</div>`)[0];
+                popup_ebfbf67065b91fdb971c0aec10cb8dc7.setContent(html_dc5fdd3ebac73e521d45762346007a9c);
+            
+        
+
+        marker_35ef23b764c3aebdc82b293975b5a340.bindPopup(popup_ebfbf67065b91fdb971c0aec10cb8dc7)
+        ;
+
+        
+    
+    
+            marker_35ef23b764c3aebdc82b293975b5a340.bindTooltip(
+                `<div>
+                     🇫🇷 Canet-en-Roussillon
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_35ef23b764c3aebdc82b293975b5a340.setIcon(icon_f5dae25dbb7deefcf53e525dc4a718f6);
+            
+    
+            var marker_644316176835cc4b83636452c59e5e53 = L.marker(
+                [42.52505, 3.0831554],
+                {
+}
+            ).addTo(map_91435f61cf4386faa8ff413bfac0a6d8);
+        
+    
+            var icon_f01a8b1dd9eaff3d40e8f89e407912cc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ddb6a665475005e30e582f32dcf3a4c7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b18c0c4fcff5e14c48ed6bc360b0a427 = $(`<div id="html_b18c0c4fcff5e14c48ed6bc360b0a427" style="width: 100.0%; height: 100.0%;"><b>🎨 Collioure</b><br>Visite après-midi + nuit aire Cap Dourats</div>`)[0];
+                popup_ddb6a665475005e30e582f32dcf3a4c7.setContent(html_b18c0c4fcff5e14c48ed6bc360b0a427);
+            
+        
+
+        marker_644316176835cc4b83636452c59e5e53.bindPopup(popup_ddb6a665475005e30e582f32dcf3a4c7)
+        ;
+
+        
+    
+    
+            marker_644316176835cc4b83636452c59e5e53.bindTooltip(
+                `<div>
+                     🎨 Collioure
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_644316176835cc4b83636452c59e5e53.setIcon(icon_f01a8b1dd9eaff3d40e8f89e407912cc);
+            
+    
+            var marker_c734b7fc06622334fc3ec5e1a6e21298 = L.marker(
+                [42.4207991, 2.8728485],
+                {
+}
+            ).addTo(map_91435f61cf4386faa8ff413bfac0a6d8);
+        
+    
+            var icon_19016efa49ed82580d781d58fec637bf = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "shopping-cart",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_88b272f5b9b6579f2dee636142f5dd8a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4e1682269585923fcce988f5e1905569 = $(`<div id="html_4e1682269585923fcce988f5e1905569" style="width: 100.0%; height: 100.0%;"><b>🛍️ La Jonquera</b><br>Shopping samedi (Gran Jonquera Outlet)</div>`)[0];
+                popup_88b272f5b9b6579f2dee636142f5dd8a.setContent(html_4e1682269585923fcce988f5e1905569);
+            
+        
+
+        marker_c734b7fc06622334fc3ec5e1a6e21298.bindPopup(popup_88b272f5b9b6579f2dee636142f5dd8a)
+        ;
+
+        
+    
+    
+            marker_c734b7fc06622334fc3ec5e1a6e21298.bindTooltip(
+                `<div>
+                     🛍️ La Jonquera
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c734b7fc06622334fc3ec5e1a6e21298.setIcon(icon_19016efa49ed82580d781d58fec637bf);
+            
+    
+            var marker_e0c551d93c28d67262059c9395409714 = L.marker(
+                [42.5246573, 3.0659552],
+                {
+}
+            ).addTo(map_91435f61cf4386faa8ff413bfac0a6d8);
+        
+    
+            var icon_280787554336304c3cb606027baae5ce = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "tent",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_25bad66aa8bf8956847d883446dd645c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d2eaed44333dda79def8929640dd2b1b = $(`<div id="html_d2eaed44333dda79def8929640dd2b1b" style="width: 100.0%; height: 100.0%;"><b>🚐 Aire Cap Dourats</b><br>20€/24h, navette gratuite, services</div>`)[0];
+                popup_25bad66aa8bf8956847d883446dd645c.setContent(html_d2eaed44333dda79def8929640dd2b1b);
+            
+        
+
+        marker_e0c551d93c28d67262059c9395409714.bindPopup(popup_25bad66aa8bf8956847d883446dd645c)
+        ;
+
+        
+    
+    
+            marker_e0c551d93c28d67262059c9395409714.bindTooltip(
+                `<div>
+                     🚐 Aire CC Cap Dourats
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_e0c551d93c28d67262059c9395409714.setIcon(icon_280787554336304c3cb606027baae5ce);
+            
+    
+            var marker_cfe2f8b2dd2989a6363f1de9004fb12d = L.marker(
+                [42.4024259, 2.8810985],
+                {
+}
+            ).addTo(map_91435f61cf4386faa8ff413bfac0a6d8);
+        
+    
+            var icon_b6622d356369b0b19a4f427198c2114c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "shopping-cart",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0fe7fe52e6fba841dcde35ba1b87e4e6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e0b774618b028c660b34dfe7fb0a6d29 = $(`<div id="html_e0b774618b028c660b34dfe7fb0a6d29" style="width: 100.0%; height: 100.0%;"><b>🛍️ Gran Jonquera Outlet</b><br>~50 boutiques, parking gratuit 1500 places</div>`)[0];
+                popup_0fe7fe52e6fba841dcde35ba1b87e4e6.setContent(html_e0b774618b028c660b34dfe7fb0a6d29);
+            
+        
+
+        marker_cfe2f8b2dd2989a6363f1de9004fb12d.bindPopup(popup_0fe7fe52e6fba841dcde35ba1b87e4e6)
+        ;
+
+        
+    
+    
+            marker_cfe2f8b2dd2989a6363f1de9004fb12d.bindTooltip(
+                `<div>
+                     🛍️ Gran Jonquera
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_cfe2f8b2dd2989a6363f1de9004fb12d.setIcon(icon_b6622d356369b0b19a4f427198c2114c);
+            
+</script>
+</html>
