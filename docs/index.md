@@ -30,4 +30,4 @@
 
 ---
 
-*Données extraites depuis [Polarsteps](https://www.polarsteps.com/christophedanhier/) via navigateur — Roadbooks générés par le [BAVI LEO Voyages Bot](https://github.com/christophedanhier-hash/BAVI_LEO)*
+*Roadbooks générés par le [BAVI LEO Voyages Bot](https://github.com/christophedanhier-hash/BAVI_LEO)*
