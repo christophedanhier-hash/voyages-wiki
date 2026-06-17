@@ -9,9 +9,9 @@
 |  |  |
 |:---|---:|
 | **Pays visités** | 6  🇧🇪 🇪🇸 🇫🇷 🇳🇱 🇵🇹 🇮🇹 |
-| **Distance totale** | 15 737 km |
-| **Étapes enregistrées** | 2 622 |
-| **Voyages Tof** | 8 (7 faits + 1 en prépa) |
+| **Distance totale** | 15 550 km |
+| **Étapes enregistrées** | 2 618 |
+| **Voyages Tof** | 7 (6 faits + 1 en prépa) |
 | **Voyages Amis (Bot)** | 2 |
 
 ---
@@ -20,7 +20,6 @@
 
 - **🇮🇹 Italie → 📋 En préparation (09/2026)**
 - 🔒 [Frisia 03/2026](frisia/) → ✅ Fait
-- 🌐 [Escapade à Reims 12/2025](escapade-a-reims/) → ✅ Fait
 - 🌐 [Portugal 11/2025](portugal-lagos/) → ✅ Fait
 - 🌐 [France - Espagne - Portugal 09/2025](france-espagne-portugal/) → ✅ Fait
 - 🌐 [Barnave & Brasilia 06/2025](barnave-brasilia/) → ✅ Fait
