@@ -10,11 +10,11 @@
 
 | | |
 |:---|:---|
-| **Voyageurs** | Christophe, Sylvie + 🐕 Nala |
-| **Véhicule** | Van 6,50m × ~2,3m (hauteur à vérifier) |
-| **Mobilité** | Sylvie : max 5-7 km/j à pied. Balades à **vélo électrique** possible (20-30 km/j) |
-| **Nala** | Reste au CC climatisé pendant les visites |
-| **Équipement** | 2 vélos électriques — vérifier pistes cyclables et parkings sécurisés |
+| **Voyageurs** | Pascal & Agnès |
+| **Véhicule** | Camping-car (précisez taille) |
+| **Mobilité** | Max 5 km/j à pied |
+| **Nala** | Pas de chien |
+| **Équipement** | À préciser |
 | **Camping** | Allemansrätten 🇸🇪🇳🇴 possible — camping sauvage autorisé |
 
 ---
@@ -44,8 +44,8 @@ _Roadbook préparatoire — Premier test du Bureau Sylvie (BAVI LEO)_
 
 | | |
 |:---|---:|
-| **Départ** | Gerpinnes (Belgique) |
-| **Véhicule** | Van 6,50 m — 2 personnes |
+| **Départ** | Belgique (à préciser) |
+| **Véhicule** | Camping-car — 2 personnes |
 | **Durée** | ~61 jours (2 mois) |
 | **Période** | 2 septembre → 31 octobre 2026 |
 | **Distance estimée** | ~9,000 km |
@@ -209,7 +209,11 @@ Gerpinnes → Rostock (ferry ⛴️) → Trelleborg → Suède Ouest
 - 🏛️ **Skansen** — musée en plein air, zoo nordique
 - 🏛️ **Gamla Stan** — vieille ville, palais royal
 - 🛶 **Archipel de Stockholm** — excursion en bateau
-- 🅿️ **Stockholm Stellplatz** (Norra Djurgården) — vidange + eau
+- 🅿️ **Camping Bredäng** — camping officiel, bus 133 vers le centre
+
+> 🗺️ **Carte des POIs de Stockholm** : [cliquez ici](carte-stockholm.html)
+
+<iframe src="carte-stockholm.html" width="100%" height="400" style="border: none; border-radius: 12px; margin-top: 8px;" loading="lazy"></iframe>
 
 **Retour par le Danemark :**
 - 🌉 **Pont de l'Øresund** (Malmö → Copenhague, ~50 € van)
