@@ -54,6 +54,8 @@
 | ⏱️ **Visite** | ~1h — visite libre |
 | 🌄 **Description** | Paysages lunaires, cheminées de fées — site unique en France |
 | 📞 **Contact** | +33 4 68 84 13 13 |
+|
+> 📜 **Un peu d'histoire :** Les Orgues sont des « cheminées de fée » vieilles de **4 millions d'années** — des colonnes de sédiments coiffées d'une couche protectrice. Façonnées par la pluie et le vent, elles offrent un paysage lunaire unique classé monument naturel depuis 1981.
 </details>
 
 <details>
@@ -67,6 +69,8 @@
 | 💰 **Tarifs** | Village gratuit / Château ~5 € |
 | ⏱️ **Visite** | 1h-1h30 |
 | 🏆 **Description** | Village médiéval classé, château vicomtal Xe siècle, ruelles pavées, artisans |
+|
+> 📜 **Un peu d'histoire :** Fondé vers 990, Castelnou (le « château neuf » en catalan) fut la capitale de la **vicomté du Vallespir** pendant plus de 300 ans. Son château vicomtal construit en 990 domine le village ceint de remparts à **8 tours et 4 portes**. Classé **Plus Beau Village de France**.
 </details>
 
 <details>
@@ -115,6 +119,8 @@
 | **💳 Paiement** | CB + espèces — 24h/24 |
 | **📞 Contact** | +33 4 48 50 05 63 |
 
+> 📜 **Un peu d'histoire :** Port de pêche catalan mentionné dès le **VIIᵉ siècle**, Collioure fut la résidence d'été des rois de Majorque au XIIIᵉ siècle. En 1905, **Matisse et Derain** y peignent ensemble et inventent le **fauvisme** — la couleur pure fait scandale ! Élu **Village Préféré des Français**, Collioure reste célèbre pour ses anchois, son église au bord de l'eau et le chemin du Fauvisme.
+
 ---
 
 ### Jour 2 — Samedi 20/06 : Collioure → La Jonquera
@@ -138,6 +144,8 @@
 | **🔌 Bornes VE** | Gratuites |
 
 > ⚠️ **Pièces d'identité** obligatoires (carte d'identité ou passeport). Limites douanières : 200 cigarettes / 1L alcool fort par personne.
+
+> 📜 **Un peu d'histoire :** Village frontalier de Catalogne espagnole, La Jonquera devient un point de passage stratégique après le **Traité des Pyrénées (1659)** qui fixe la frontière. Dès les années 1950, le commerce frontalier (alcool, tabac, essence) s'y développe massivement. Le **Musée Mémorial de l'Exil (MUME)** rappelle son rôle tragique lors de la Retirada de 1939. Aujourd'hui, c'est le paradis du shopping duty-free ! 🛍️
 
 ---
 
@@ -172,7 +180,9 @@
 | 🚪 **Les Traboules** | 30 min | Passages secrets — rue Saint-Jean, rue du Bœuf |
 | 🚋 **Funiculaire Fourvière** | 30 min | Vue panoramique sur Lyon — 3 € AR/pers |
 | 🍷 **Déjeuner** | 1h | Bouchon lyonnais typique ! |
-| 🛍️ **Rue Saint-Jean** | 20 min | Boutiques d'artisans |
+| **🛍️ Rue Saint-Jean** | 20 min | Boutiques d'artisans |
+|
+> 📜 **Un peu d'histoire :** Lyon, la **capitale des Gaules** romaines (Lugdunum), fut fondée en **43 av. J.-C.** Le Vieux Lyon, classé **UNESCO** depuis 1998, est l'un des plus vastes quartiers **Renaissance** d'Europe avec ses 300 immeubles des XVᵉ-XVIIᵉ siècles. Ses célèbres **traboules** — passages secrets traversant les immeubles — servaient aux canuts (tisseurs de soie), puis à la Résistance pendant la guerre.
 
 | Timing | Activité |
 |:------:|----------|
@@ -192,6 +202,8 @@
 | **✅ Services** | Eau potable, vidange eaux grises/noires, WC |
 | **🏞️ Cadre** | Bord de Saône, calme, à l'écart de la ville |
 | **🚶 Balade à pied** | • 🏛️ **Abbaye Saint-Philibert** (10 min — chefd'œuvre roman)<br>• 🏘️ **Vieux Tournus** — ruelles médiévales<br>• 🏞️ **Quais de Saône** — promenade bucolique<br>• 🎨 **Musée Greuze** |
+
+> 📜 **Un peu d'histoire :** Ancienne garnison romaine, Tournus accueille en **875** des moines fuyant les Vikings avec les reliques de saint Philibert. L'**abbatiale romane** construite à partir de 1006 est l'un des plus prestigieux sanctuaires de l'art roman — sa nef aux voûtes transversales est presque unique en France !
 
 **Bon à savoir :** Faire le plein d'eau le soir. Boulangeries et commerces à 5-10 min à pied.
 
