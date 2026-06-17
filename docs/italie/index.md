@@ -25,11 +25,11 @@
 | **Appels API DeepSeek** | ~45 |
 | **Outils mobilisés** | ~120 (recherche web, scripts, git, cartes) |
 | **Tokens consommés** | 175 684 IN · 55 320 OUT |
-| **Coût DeepSeek réel** | **~0,07 €** |
+| **Coût DeepSeek réel** | **~0,06 €** |
 | **Frais de service BAVI LEO** | **2,50 €** forfait |
-| **Total facturé** | **2,57 €** |
+| **Total facturé** | **2,56 €** |
 
-> ℹ️ Le coût réel DeepSeek (0,07 €) est dérisoire. Le forfait de **2,50 €** couvre : orchestration multi-bureau (Sylvie 🧭), recherche web, production du roadbook structuré (583 lignes), génération de la carte interactive OSM, archivage wiki + git. Transparence totale — chaque projet BAVI LEO affiche sa facture détaillée.
+> ℹ️ Le coût réel DeepSeek (~0,06 €) est dérisoire. Le forfait de **2,50 €** couvre : orchestration multi-bureau (Sylvie 🧭), recherche web, production du roadbook structuré (583 lignes), génération de la carte interactive OSM, archivage wiki + git. Transparence totale — chaque projet BAVI LEO affiche sa facture détaillée.
 
 ---
 

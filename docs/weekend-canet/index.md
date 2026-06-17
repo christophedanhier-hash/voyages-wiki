@@ -18,7 +18,14 @@
 
 | Métrique | Valeur |
 |:---------|------:|
-| **Total facturé** | **2,50 €** (forfait) |
+| **Sessions LEO** | 3 (cette conversation) |
+| **Messages échangés** | ~60 |
+| **Appels API DeepSeek** | ~15 |
+| **Outils mobilisés** | ~40 (recherche web, géocodage, git) |
+| **Tokens consommés** | 28 000 IN · 5 000 OUT |
+| **Coût DeepSeek réel** | **~0,01 €** |
+| **Frais de service BAVI LEO** | **2,50 €** forfait |
+| **Total facturé** | **2,51 €** |
 
 ---
 
