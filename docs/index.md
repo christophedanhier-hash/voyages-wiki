@@ -36,7 +36,7 @@
 | Voyage | Période | Statut |
 |--------|---------|:------:|
 || **🇳🇴 Scandinavie** | 31/08 → 31/10/2026 | 📋 Roadbook prêt — BAVI LEO |
-|| **🇫🇷 Week-end Canet-Collioure** | 19/06 → 20/06/2026 | 🚐 Petit week-end shopping |
+|| **🇫🇷 Canet-Collioure-Gerpinnes** | 19/06 → 22/06/2026 | 🚐 Week-end + retour Belgique |
 
 ---
 

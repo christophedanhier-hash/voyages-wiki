@@ -40,7 +40,7 @@ nav:
   - Voyages en préparation:
     - 🇳🇴 Scandinavie 2026: scandinavie-2026/index.md
     - 🇮🇹 Italie (09/2026): italie/index.md
-    - 🇫🇷 Week-end Canet-Collioure: weekend-canet/index.md
+    - 🇫🇷 Canet-Collioure-Gerpinnes: weekend-canet/index.md
 
 markdown_extensions:
   - admonition

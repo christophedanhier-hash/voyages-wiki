@@ -1,6 +1,6 @@
-# 🇫🇷 Week-end Canet → Collioure → La Jonquera
+# 🇫🇷 Canet → Collioure → La Jonquera → Gerpinnes
 
-> **🗓️ 19/06/2026 → 20/06/2026 | 🚐 2 jours | 📏 ~110 km**
+> **🗓️ 19/06/2026 → 22/06/2026 | 🚐 4 jours | 📏 ~1 080 km**
 
 ---
 
@@ -141,16 +141,72 @@
 
 ---
 
-## 📊 Résumé
+## 🚐 Retour vers Gerpinnes — Dimanche 21 & Lundi 22 juin
+
+**2 jours | ~970 km | Zéro péage** 🛣️
+
+### Jour 3 — Dimanche 21/06 : Collioure → Tournus (~490 km)
+
+| Horaire | Activité |
+|:-------:|----------|
+| **07h00** | 🚐 Départ de Collioure |
+| **→ N9** | Perpignan → Narbonne → Béziers (85 km) |
+| **→ N113** | Montpellier → Nîmes (55 km) |
+| **→ N7** | **La Nationale 7 !** Orange → Montélimar → Valence → Vienne → Lyon (265 km) |
+| **Pause déj** | 🥪 Montélimar — marché le dimanche, nougat à emporter |
+| **→ N346/N6** | Périph Lyon gratuit → Mâcon → **Tournus** (100 km) |
+| **~16h00** | 🏕️ Arrivée — **Aire Quai de la Marine** |
+
+#### ⛺ Spot Nuit — Tournus, Quai de la Marine
+
+| Info | Détail |
+|:-----|--------|
+| **📍 GPS** | **46.56739, 4.91104** |
+| **💰 Stationnement** | 🆓 **GRATUIT** |
+| **💧 Eau** | 5 € (borne AireServices/Qipeo) |
+| **🔌 Électricité** | 5 € |
+| **✅ Services** | Eau potable, vidange eaux grises/noires, WC |
+| **🏞️ Cadre** | Bord de Saône, calme, à l'écart de la ville |
+| **🚶 Balade à pied** | • 🏛️ **Abbaye Saint-Philibert** (10 min — chefd'œuvre roman)<br>• 🏘️ **Vieux Tournus** — ruelles médiévales<br>• 🏞️ **Quais de Saône** — promenade bucolique<br>• 🎨 **Musée Greuze** |
+
+**Bon à savoir :** Faire le plein d'eau le soir. Boulangeries et commerces à 5-10 min à pied.
+
+---
+
+### Jour 4 — Lundi 22/06 : Tournus → Gerpinnes (~480 km)
+
+| Horaire | Activité |
+|:-------:|----------|
+| **07h30** | 🚐 Départ de Tournus |
+| **→ N6** | Chalon-sur-Saône → Beaune → **Dijon** (110 km) |
+| **→ N5/D974** | Dijon → **Langres** (100 km — plateaux bourguignons) |
+| **→ N74** | Langres → Neufchâteau → Toul (130 km) |
+| **Pause déj** | 🥪 **Nancy** — place Stanislas en coup de vent |
+| **→ N57** | Nancy → **Metz** (55 km — 2x2 voies gratuite) |
+| **→ N53** | Metz → Thionville → 🇱🇺 Luxembourg (45 km) |
+| **→ N6/N81** | 🇧🇪 Arlon (20 km) |
+| **→ N89** | Arlon → Libramont — traversée des **Ardennes** (40 km) |
+| **→ N40/N97** | Rochefort → Dinant → **Gerpinnes** (80 km) |
+| **~17h00** | 🏠 **Arrivée à la maison !** |
+
+**🎯 Petite pause sympa vers 15h à Dinant :**
+- Parking gratuit bord de Meuse : **50.2619, 4.9127**
+- 🚶 Balade vers la Citadelle ou les quais de la Meuse
+
+---
+
+## 📊 Résumé complet
 
 | | |
 |:---|---:|
 | **Départ** | Canet-en-Roussillon (66) |
-| **Étapes** | Collioure → La Jonquera |
-| **Distance totale** | ~110 km |
-| **Durée** | 2 jours (1 nuit) |
-| **Nuit** | Aire Cap Dourats — Collioure (20 €) |
-| **Budget estimé** | ~70-100 € (aire + resto + shopping) |
+| **Destination** | Gerpinnes (Belgique) |
+| **Étapes** | Collioure → La Jonquera → Tournus → Gerpinnes |
+| **Distance totale** | ~1 080 km |
+| **Durée** | 4 jours (3 nuits) |
+| **Nuits** | Vendredi : Aire Cap Dourats — Collioure (20 €)<br>Dimanche : Aire Quai de la Marine — Tournus (gratuit) |
+| **Péages** | **Zéro** — 100% routes nationales |
+| **Budget estimé** | ~150-200 € (aires + repas + shopping)
 
 ---
 
