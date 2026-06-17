@@ -134,7 +134,8 @@
 | **19h00** | 🚐 Retour CC — stationnement **gratuit après 19h** |
 | **🌙 Nuit 2** | Parking Confluence 🆓 |
 
-> 💡 **Stationnement Lyon** : Gratuit le **dimanche** toute la journée + toutes les **nuits de 19h à 9h**. Donc arrivée dimanche 16h → gratuit jusqu'à mardi 9h (avec juste la journée du lundi payante si vous restez garé, ou gratuit si vous partez dans la journée et revenez après 19h).
+> 💡 **Stationnement Lyon** : Gratuit le **dimanche** toute la journée + toutes les **nuits de 19h à 9h**.
+> **Lundi journée** : Laissez le CC au **Parking Confluence** (~10-15€ la journée) ou au **Parc relais Gorge de Loup** (métro D, ~2€ avec ticket TCL). Évitez la voirie (tarif majoré CC = ~80€/jour ❌).
 
 #### 🏛️ Que visiter à Lyon en 2 jours
 
