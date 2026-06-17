@@ -1,25 +1,22 @@
 # Voyages Wiki 🧭
 
-Carnet de voyages alimenté depuis Polarsteps — [Voir le site](https://christophedanhier-hash.github.io/voyages-wiki/)
+Carnet de voyages BAVI LEO — [Voir le site](https://christophedanhier-hash.github.io/voyages-wiki/)
 
 ## Structure
 
 ```
 voyages-wiki/
-├── docs/               # Pages du wiki (Markdown)
-│   ├── index.md        # Accueil
-│   ├── italie/         # Voyages à venir
-│   ├── france-espagne-portugal/
-│   └── ...
-├── mkdocs.yml          # Configuration MkDocs
-├── .github/workflows/  # Auto-déploiement GH Pages
-└── polarsteps_extract.py  # Script d'extraction (manuel)
+├── docs/
+│   ├── index.md              # Accueil
+│   ├── italie/               # 🇮🇹 Italie (09/2026)
+│   └── ... (autres roadbooks)
+├── mkdocs.yml                # Configuration MkDocs
+├── .github/workflows/        # Auto-déploiement GH Pages
+└── scripts/                  # Outils de maintenance
 ```
 
-## Extraire un nouveau voyage
+## Roadbooks
 
-```bash
-echo 'ton_token' | python3 polarsteps_extract.py
-```
+Chaque roadbook au format standard : résumé, coûts BAVI LEO, carte interactive, itinéraire détaillé, budget, astuces.
 
-Le script produit des fichiers Markdown prêts pour le wiki + les données brutes en JSON.
+Les voyages réalisés sont archivés sur [Polarsteps](https://www.polarsteps.com/christophedanhier/).

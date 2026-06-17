@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Extract GPS coordinates from old voyages and generate interactive Folium maps."""
+"""Generate interactive Folium maps for active roadbooks."""
 
 import re
 import os
@@ -7,13 +7,7 @@ import folium
 
 BASE = "/opt/data/voyages-wiki/docs"
 VOYAGES = [
-    "frisia",
-    "escapade-a-reims",
-    "portugal-lagos",
-    "france-espagne-portugal",
-    "barnave-brasilia",
-    "tic-tac-berck-bretagne",
-    "cote-belges-pays-bas",
+    "italie",
 ]
 
 def extract_coords(filepath):
@@ -21,7 +15,6 @@ def extract_coords(filepath):
     with open(filepath, 'r') as f:
         content = f.read()
 
-    # Find GPS trace section
     gps_section = re.search(r'Traces GPS complètes.*?(\|\s*#.*?\|.*?)(.*?)(?:\n\n|\n---|</details>)', content, re.DOTALL)
     if not gps_section:
         gps_section = re.search(r'Traces GPS.*?(\|.*?\|.*?\|.*?\|.*?\|.*?\|.*?)(.*?)(?:\n\n|\n---)', content, re.DOTALL)
@@ -32,7 +25,6 @@ def extract_coords(filepath):
     table_text = gps_section.group(0)
     coords = []
 
-    # Extract [lat, lng] pattern from coord links
     pattern = r'\|\s*\d+\s*\|\s*[^|]*\|\s*\[([0-9.-]+),\s*([0-9.-]+)\]'
     matches = re.findall(pattern, table_text)
     for lat, lng in matches:
@@ -47,31 +39,26 @@ def generate_map(voyage_name, coords):
         print(f"  Skipping {voyage_name} — no coordinates")
         return
 
-    # Center on first point or midpoint
     mid_lat = sum(c[0] for c in coords) / len(coords)
     mid_lng = sum(c[1] for c in coords) / len(coords)
 
     m = folium.Map(location=[mid_lat, mid_lng], zoom_start=8,
                    tiles="OpenStreetMap", control_scale=True)
 
-    # Draw the route line
     folium.PolyLine(coords, color="blue", weight=3, opacity=0.7).add_to(m)
 
-    # Start marker
     folium.Marker(
         coords[0],
         popup="Départ",
         icon=folium.Icon(color="green", icon="play", prefix="fa"),
     ).add_to(m)
 
-    # End marker
     folium.Marker(
         coords[-1],
         popup="Arrivée",
         icon=folium.Icon(color="red", icon="flag-checkered", prefix="fa"),
     ).add_to(m)
 
-    # Save
     out_path = os.path.join(BASE, voyage_name, "map.html")
     m.save(out_path)
     print(f"  → Saved {out_path}")
