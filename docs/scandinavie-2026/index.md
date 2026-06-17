@@ -27,16 +27,16 @@ _Roadbook préparatoire — Premier test du Bureau Sylvie (BAVI LEO)_
 
 | Métrique | Valeur |
 |:---------|------:|
-| **Sessions LEO** | 8 (cette conversation) |
-| **Messages échangés** | 106 |
-| **Appels API DeepSeek** | 24 |
-| **Outils mobilisés** | 74 (recherche web, scripts, git, carte) |
-| **Tokens consommés** | 198 728 IN · 20 924 OUT |
-| **Coût DeepSeek réel** | **~0,07 €** |
+| **Sessions LEO** | 9 (8 création + 1 mise à jour Stockholm) |
+| **Messages échangés** | 120 |
+| **Appels API DeepSeek** | 28 |
+| **Outils mobilisés** | 86 (recherche web, géocodage, carte folium, git) |
+| **Tokens consommés** | 241 539 IN · 30 141 OUT |
+| **Coût DeepSeek réel** | **~0,08 €** |
 | **Frais de service BAVI LEO** | **2,50 €** forfait |
-| **Total facturé** | **2,57 €** |
+| **Total facturé** | **2,58 €** |
 
-> ℹ️ Le coût réel DeepSeek (0,07 €) est dérisoire. Le forfait de **2,50 €** couvre : orchestration multi-bureau (Sylvie 🧭), recherche web (10 requètes), production du roadbook structuré (324 lignes), génération de la carte interactive OSM (20 étapes), archivage wiki + git. Transparence totale — chaque projet BAVI LEO affiche sa facture détaillée.
+> ℹ️ Mise à jour du 17/06/2026 : ajout profil Pascal & Agnès + carte interactive des POIs de Stockholm (13 marqueurs). Le forfait de **2,50 €** couvre l'ensemble du projet Scandinavie 2026.
 
 ---
 
