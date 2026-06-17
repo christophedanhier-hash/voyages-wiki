@@ -1,6 +1,6 @@
-# 🇫🇷 Canet → Collioure → La Jonquera → Gerpinnes
+# 🇫🇷 Canet → Collioure → Castellfollit → Gerpinnes
 
-> **🗓️ 19/06/2026 → 22/06/2026 | 🚐 4 jours | 📏 ~1 080 km**
+> **🗓️ 19/06/2026 → 22/06/2026 (flexible jusqu'au 26) | 🚐 4+ jours | 📏 ~1 220 km**
 
 ---
 
@@ -133,9 +133,11 @@
 | **13h00 → 14h00** | 🥪 Déjeuner sur place |
 | **14h00 → 14h45** | 🚐 Route vers **Castellfollit de la Roca** (~50 km / 45 min) |
 | **15h00 → 17h00** | 🏰 **Visite de Castellfollit de la Roca** |
-| **17h00 → 18h15** | 🚐 Retour à **Collioure** (~90 km / 1h15) |
-| **Soir** | 🍷 Dernier apéro à Collioure |
-| **Nuit** | 🌙 Nuit à l'Aire Cap Dourats (déjà sur place) |
+| **17h00** | 🚐 Installation parking gratuit (point d'eau dispo) |
+| **Soir** | 🍷 Balade au coucher du soleil sur la falaise |
+| **Nuit** | 🌙 **Nuit sur place — parking gratuit** |
+
+> 💡 **Avantage :** Plutôt que de refaire 1h15 pour retourner à Collioure, on dort ici ! **Parking gratuit** avec point d'eau, vue sur la falaise, calme. Vous avez jusqu'au 26 juin max, donc on prend le temps 😎
 
 #### 🛍️ Gran Jonquera Outlet & Shopping
 
@@ -162,7 +164,8 @@
 | ⏱️ **Distance** | 50 km / 45 min de La Jonquera |
 | 🏰 **À voir** | Village perché sur une falaise de basalte, église Sant Salvador, vieille ville |
 | ⏱️ **Visite** | 1h-2h — flânerie dans les ruelles |
-| 🅿️ **Stationnement CC** | Parking gratuit à l'entrée du village |
+| 🅿️ **Stationnement CC** | Parking gratuit à l'entrée du village + parking Plaça Sant Roc |
+| 🆓 **Nuit possible** | ✅ **Parking gratuit, point d'eau à 4 min à pied** |
 
 > 📜 **Un peu d'histoire :** Castellfollit de la Roca est perché sur une **falaise de basalte** de 50 m de haut et 1 km de long, formée par l'érosion d'une coulée volcanique vieille de **217 000 ans**. Le village médiéval d'origine, construit sur cette crête, est l'un des plus spectaculaires de Catalogne. Son nom signifie « château perché sur le rocher » ! 🏰
 
@@ -172,11 +175,11 @@
 
 **2 jours | ~970 km | Zéro péage** 🛣️
 
-### Jour 3 — Dimanche 21/06 : Collioure → **Lyon (Vieux Lyon)** 🏛️ → Tournus (~490 km)
+### Jour 3 — Dimanche 21/06 : Castellfollit → **Lyon (Vieux Lyon)** 🏛️ → Tournus (~510 km)
 
 | Horaire | Activité |
 |:-------:|----------|
-| **07h00** | 🚐 Départ de Collioure |
+| **07h00** | 🚐 Départ de **Castellfollit de la Roca** |
 | **→ N9** | Perpignan → Narbonne → Béziers (85 km) |
 | **→ N113** | Montpellier → Nîmes (55 km) |
 | **→ N7** | **La Nationale 7 !** Orange → Montélimar → Valence → Vienne → Lyon (265 km) |
@@ -259,7 +262,8 @@
 | **Étapes** | Collioure → La Jonquera 🛍️ → **Castellfollit 🏰** → Tournus → Gerpinnes |
 | **Distance totale** | ~1 220 km |
 | **Durée** | 4 jours (3 nuits) |
-| **Nuits** | Vendredi + Samedi : Aire Cap Dourats — Collioure (20 €)<br>Dimanche : Aire Quai de la Marine — Tournus (gratuit) |
+| **Nuits** | Vendredi : Aire Cap Dourats — Collioure (20 €)<br>Samedi : Parking gratuit — Castellfollit 🆓<br>Dimanche : Aire Quai de la Marine — Tournus (gratuit) |
+| **Flexibilité** | ⏰ Retour **max 26/06** — vous avez 4 jours de marge ! |
 | **Péages** | **Zéro** — 100% routes nationales |
 | **Budget estimé** | ~170-220 € (aires + repas + shopping)
 
