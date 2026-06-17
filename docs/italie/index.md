@@ -60,8 +60,12 @@
 | 21 | Jeu 1/10 | 🏝️ *Jour 2 Venise — Murano & Burano* 🎨 | — | 2935 | — | — | — |
 | 22 | Ven 2/10 | 🚲 *Jour 3 Venise — Lido ou quartiers au choix* 🎯 | — | 2935 | — | — | — |
 | 23 | Sam 3/10 | 🌊 **Venise** → **Lac de Garde** | 164 km | 3099 | 7 | San Francesco Camping Village | 468,00 € |
-| 24-28 | Dim 4/10→Jeu 8/10 | ⛱️ *Séjour Lac de Garde* + 🚗 *location voiture 5j* | — | 3099 | — | — | — |
-| 29 | Ven 9/10 | ⛱️ *Dernier jour Lac de Garde* | — | 3099 | — | — | — |
+| 24 | Dim 4/10 | 🏖️ *Installation + balade Desenzano à vélo* 🚲 | — | 3099 | — | — | — |
+| 25 | Lun 5/10 | 🚗 *Jour 1 voiture — Sirmione + rive ouest* 🏰 | — | 3099 | — | — | — |
+| 26 | Mar 6/10 | 🚗 *Jour 2 voiture — Rive est & nord* 🏔️ | — | 3099 | — | — | — |
+| 27 | Mer 7/10 | 🚗 *Jour 3 voiture — Vérone* 🏛️ | — | 3099 | — | — | — |
+| 28 | Jeu 8/10 | 🚗 *Jour 4 voiture — Riva del Garda* 🌊 | — | 3099 | — | — | — |
+| 29 | Ven 9/10 | 🚲 *Dernier jour — vélo plages & farniente* ☀️ | — | 3099 | — | — | — |
 | 30 | Sam 10/10 | 🇫🇷 **Lac de Garde** → **Colmar** | 547 km | 3646 | 1 | Aire CC Schoenau | 14,00 € |
 | 31 | Dim 11/10 | 🏁 **Colmar** → **Sombreffe** — *Retour maison* | 445 km | **4091** | — | — | — |
 
@@ -503,7 +507,132 @@ Les vélos sont depuis Monopoli (20-30 km/jour max pour Sylvie).
 
 ---
 
+### 🌊 Lac de Garde — Desenzano (J23–J29 · 7 nuits · 6 jours)
+
+**🏠 Base :** **San Francesco Camping Village** — Desenzano del Garda (BS). ⭐⭐⭐⭐. Réservé #654795826. Acompte 140,40 € payé ✔️ MC.
+
+**🚐 CC :** Garé au camping. Location voiture Sunny Cars **#15253704** — 5 jours (Lun 5 → Ven 9/10).
+
+**📋 Organisation du séjour :**
+
+| Jour | Date | Activité | Transport |
+|:----:|:----:|----------|:---------:|
+| 🏁 | Sam 3/10 | Arrivée, installation — balade Desenzano à pied | 🚶 |
+| 🏖️ | Dim 4/10 | Découverte Desenzano + balade vélo côtière | 🚲 |
+| 🏰 | Lun 5/10 | **Jour 1 voiture — Sirmione + rive ouest** | 🚗 |
+| 🏔️ | Mar 6/10 | **Jour 2 voiture — Rive est** (Malcesine, Torri) | 🚗 |
+| 🏛️ | Mer 7/10 | **Jour 3 voiture — Vérone** (journée) | 🚗 |
+| 🌊 | Jeu 8/10 | **Jour 4 voiture — Riva del Garda + nord** | 🚗 |
+| 🚲 | Ven 9/10 | Dernier jour — vélo, plages, farniente | 🚲 |
+| ⬆️ | Sam 10/10 | Départ → Colmar | 🚐 |
+
+---
+
+**🎭 Visites à pied / vélo à Desenzano (accessible ✅) :**
+
+| Site | Description | Temps | Entrée |
+|:-----|:------------|:-----:|:------:|
+| 🏰 **Château de Desenzano** | Forteresse, vue panoramique sur le lac | 30 min | Gratuit |
+| ⛪ **Cathédrale Sainte Marie** | Baroque, tableau du Titien | 15 min | Gratuit |
+| 🚤 **Port de Desenzano** | Embarcadère ferries, promenade, bars | Libre | Gratuit |
+| 🏖️ **Spaggia d'Desenzano** | Plage publique près du centre | Libre | Gratuit |
+
+> 💡 **Piste cyclable Desenzano → Sirmione** : ~12 km longeant le lac, plate ✅. Parcours magnifique en VAE. Location vélos au camping.
+
+---
+
+### 🚗 Excursions en voiture — jour par jour
+
+**🗓️ Jour 1 — Sirmione + rive ouest (Lun 5/10 — ~50 km)**
+
+| Horaire | Site | Distance de Desenzano | Temps visite |
+|:-------:|:-----|:--------------------:|:-----------:|
+| 9h30 | 🏰 **Sirmione** — château + Grotte di Catullo | 15 km / 20 min | 2h |
+| 12h | 🍝 Déjeuner Sirmione | — | 1h |
+| 14h | 🏘️ **Salò** — promenade lacustre | 25 km / 30 min | 1h |
+| 15h30 | 🏡 **Gardone Riviera** — Vittoriale degli Italiani | 30 km / 35 min | 1h30 |
+| 17h | 🍋 **Limone sul Garda** — citronniers, vieille ville | 50 km / 55 min | 1h |
+
+- **Sirmione :** château scaligero (6 €), Grotte di Catullo (ruines romaines, 10 €). Parking : Parcheggio Montebaldo (grand, proche centre).
+- **Salò :** promenade élégante, place, cafés. Ville plate ✅.
+- **Vittoriale :** demeure de D'Annunzio, maison-musée extraordinaire. Parking sur place.
+- **Limone :** vieux village piéton, citronniers, ruelles fleuries. Parking entrée ville.
+- ⚠️ **ZTL :** active dans plusieurs villages — se garer en périphérie.
+
+**🗓️ Jour 2 — Rive est du lac (Mar 6/10 — ~80 km)**
+
+| Horaire | Site | Distance de Desenzano | Temps visite |
+|:-------:|:-----|:--------------------:|:-----------:|
+| 9h30 | 🚤 **Ferry Desenzano → Malcesine** (option) | 30 min de traversée | — |
+| 10h30 | 🏰 **Malcesine** — château + téléphérique Monte Baldo | 50 km route / 30 min ferry | 2h30 |
+| 13h | 🍝 Déjeuner Malcesine | — | 1h |
+| 15h | 🏘️ **Torri del Benaco** — château, port | 40 km / 45 min | 1h |
+| 16h30 | 🍷 **Bardolino** — vignobles, dégustation | 45 km / 50 min | 1h |
+
+- **Malcesine :** château Scaligero (6 €). **Téléphérique du Monte Baldo** (25 € A/R) — vue à 360° sur le lac et les Alpes ❤️. Accessible (cabine). Parking : Via Gardesana.
+- **Torri del Benaco :** château + musée ethnographique (5 €).
+- **Bardolino :** vignoble, dégustation de vin locale.
+- **Alternative au ferry :** contourner le lac par la route (plus long mais voiture).
+
+**🗓️ Jour 3 — Vérone (Mer 7/10 — ~80 km A/R)**
+
+| Horaire | Site | Distance de Desenzano |
+|:-------:|:-----|:--------------------:|
+| 9h-9h30 | 🚗 Route → **Vérone** | 40 km / 35 min |
+| 10h-12h | 🏛️ **Arène de Vérone** + Piazza Bra | Visite 1h |
+| 12h | 🍝 Déjeuner | — |
+| 13h30-15h | 💔 **Maison de Juliette** + Piazza delle Erbe | 1h30 |
+| 15h-16h | 🏛️ **Castelvecchio** ou promenade sur l'Adige | 1h |
+| 16h-17h | 🚗 Retour Desenzano | 40 km / 35 min |
+
+- **Arène :** amphithéâtre romain, 3e plus grand du monde. 10 €, coupe-file conseillé.
+- **Mobilité Sylvie :** vieille ville **plate** ✅, grand piétonnier. Maison de Juliette accessible. 
+- **Parking :** Parcheggio Piazza Cittadella (grand, 10 min à pied du centre).
+- **Astuce :** éviter de prendre la voiture dans le centre historique (ZTL). 
+
+**🗓️ Jour 4 — Riva del Garda + nord du lac (Jeu 8/10 — ~110 km A/R)**
+
+| Horaire | Site | Distance de Desenzano |
+|:-------:|:-----|:--------------------:|
+| 9h | 🚗 Route → **Riva del Garda** | 55 km / 1h |
+| 10h-12h | 🏖️ **Riva del Garda** — vieille ville, port | Visite 2h |
+| 12h | 🍝 Déjeuner Riva | — |
+| 14h | 🏞️ **Torbole** — plage + vue nord lac | 5 km / 8 min |
+| 15h | 🌿 **Gola del Ponale** (belvédère accessible) | 8 km / 12 min |
+| 16h | 🚗 Retour Desenzano | 55 km / 1h |
+
+- **Riva del Garda :** ville la plus au nord du lac. Vieille ville piétonne, place III Novembre, tour Apponale. 
+- **Gola del Ponale :** route panoramique taillée dans la falaise, vue spectaculaire.
+- **Mobilité Sylvie :** Riva = plat ✅, belle promenade le long du lac.
+
+> 💡 **Alternative Jour 4 :** au lieu de Riva, **Brescia** (25 km, 25 min) — musées, place de la Loggia, château. Moins touristique.
+
+---
+
+### 🚲 Balades à vélo électrique
+
+| Itinéraire | Distance | Dénivelé | Description |
+|:-----------|:--------:|:--------:|:------------|
+| **Desenzano → Sirmione** (piste cyclable lac) | 24 km A/R | Plat ✅ | Piste aménagée, vue lac, arrêt baignade à Sirmione |
+| **Desenzano → Salò** (rive ouest) | 16 km A/R | Plat ✅ | Promenade bord de lac, cafés à Salò |
+| **Boucle du camping** (arrière-pays) | 15-20 km | Léger | Collines de Desenzano, oliveraies et vignes |
+| **Tour du port → plages sud** | 10 km A/R | Plat ✅ | Plages de sable fin, eau peu profonde |
+
+> 💡 Location de vélos directement au **San Francesco Camping Village** 🚲. Parcours plats majoritairement.
+
+---
+
+### ⚠️ Astuces pratiques
+
+- **San Francesco Camping Village :** piscine, location vélos, accès direct plage. 7 nuits (3→10/10). Acompte 140,40 € payé. Solde ~327,60 € à régler sur place.
+- **Sunny Cars #15253704** : 5 jours. Vérifier si agence livre au camping ou navette Desenzano gare.
+- **Nala au camping :** chiens admis. Vérifier à l'arrivée.
+- **⚠️ ZTL :** active dans Sirmione, Malcesine, Salò, Vérone. Se garer en périphérie.
+- **Parking recommandé Sirmione :** Parcheggio Montebaldo (grand, ombragé, 2 €/h).
+- **Ferry lac de Garde :** possibilité de traverser le lac en bateau (Desenzano → Malcesine, etc.). Voiture possible sur certaines lignes.
+- **Dernier jour (Ven 9/10) :** profiter de la piscine du camping, balade vélo, plage. Dernier soir au lac ❤️.
 ## 🗺️ Carte du trajet
+
 
 <iframe src="carte-italie.html" width="100%" height="550" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
 
@@ -564,7 +693,7 @@ Les vélos sont depuis Monopoli (20-30 km/jour max pour Sylvie).
 - **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), vélo, taxi, à pied. Centre-ville à 15 min à pied. Voir section dédiée 🚗🚲
 - **Santa Irene** : simple étape repos (aire CC, 10 €), rien à voir sur place
 - **Camping Europa Village (Cavallino)** : réservé via Sandaya (N°06426005202000), payé ✔️. Accès Venise : bus + ferry ACTV (45 min). 4 nuits, 3 jours pleins. Voir section Venise dédiée 🛶
-- **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte €140,40 payé le 14/01/2026. Solde ~327,60€ à prévoir. 7 nuits
+- **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte 140,40 € payé le 14/01/2026. Solde ~327,60 €. Piscine, plage, location vélos. Sunny Cars #15253704 (5j). Voir section dédiée 🚗🚲
 - **Location voiture** : prévue 2 fois (Pouilles + Lac de Garde) via Sunny Cars (réservations #15253750 et #15253704)
 - **⚠️ Attention hauteur CC 2,5m** : vérifier les parkings souterrains et entrées de ville. Florence ZTL interdite au CC. Parkings conseillés en périphérie (Scandicci, Villa Costanza)
 
