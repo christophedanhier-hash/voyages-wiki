@@ -174,10 +174,12 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 > 💡 **Notre conseil :** visite Pompéi 2h (parcours accessible via Piazza Anfiteatro) puis direction Herculanum l'après-midi pour une visite plus tranquille et mieux conservée. Les 2 sites se complètent parfaitement.
 
 **⚠️ Astuces CC 8m :**
-- Parking recommandé : **Via Plinio** (parkings restaurants) — 10 €/jour, gratuit avec repas
-- Arriver avant **9h** pour une place en haute saison
-- Le CC reste au parking, tout se fait à pied depuis l'entrée Piazza Anfiteatro
-- Pompeï est très chaude l'été — prévoir eau + chapeau (Nala au CC climatisé ✅)
+- **Camping Spartacus** (Via Plinio, 127 — 50 m des fouilles) : 🏕️ Piazzole avec eau + électricité. Chiens admis. Ouvert toute l'année. Tél: +39 081 862 40 78.
+- **Camping Pompei** (face à l'entrée) : alternative, en face des fouilles.
+- Parking Via Plinio (parkings restaurants) — 10 €/jour si camping complet.
+- Arriver avant **9h** en haute saison.
+- Le CC reste au parking/camping, les fouilles sont à **50 m à pied** ✅
+- Pompéi est très chaude l'été — prévoir eau + chapeau (Nala au CC climatisé ✅)
 
 ---
 
@@ -196,7 +198,7 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 | Colmar | Aire CC Schoenau | ❌ Sans résa | 1 nuit | 14,00 € | — |
 | Lac de Côme | **The Camp by Maggiore Suites** | ✅ #32877 | 2 nuits | 154,00 € | **30,80 €** ✔️ Stripe |
 | Florence | **hu Firenze camping in town** | ✅ #314185774 | 3 nuits | 165,00 € | ❌ Carte garantie |
-| Pompéi | Camping Fortuna Village | ❌ Pas de confirmation | 2 nuits | — | ❌ |
+| Pompéi | Camping à réserver | ⏳ *Voir ci-dessous* | 2 nuits | ~50-80 € | ❌ |
 | Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ❓ |
 | Santa Irene | Area Sosta Camper Santa Irene | ❌ Sans résa | 1 nuit | 10,00 € | — |
 | Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | **Payé** ✔️ Sandaya |
@@ -209,7 +211,7 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 |:--------|:---------|
 | **The Camp by Maggiore Suites** | Pitch FRONT FR1 (8m ✅). ⚠️ Hauteur >2,60m → passer par Via Giuseppe Verdi. Check-in 16h. Code portail: 1593. Plaque: 2FUQ668 |
 | **hu Firenze camping in town** | Emplacement 50-60m². Love Pet Pack 15€ (Nala ✅). Check-in 24h/24. Adresse: Via della Chiesa 1/3, 50136 Firenze |
-| **Fortuna Village Pompei** | Demande d'info envoyée via ACSI Eurocampings le 05/06 — pas de retour confirmé |
+| **Pompéi** | À réserver. Recommandé : **Camping Spartacus** (Via Plinio 127, 50m des fouilles, chiens OK ✅) ou **Camping Pompei** (face entrée). Tél Spartacus : +39 081 862 40 78 |
 | **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). Confirmé via wubook |
 | **Europa Village** | Réservé via Sandaya (N°06426005202000). Paiement reçu. Cavallino-Treporti, ferry Venise |
 | **San Francesco Camping Village** | Desenzano del Garda (BS). €140,40 payé le 14/01/2026 via Mastercard (acompte). Solde restant: ~327,60 € |
@@ -237,7 +239,7 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 - **Aire Schoenau (Colmar)** : pratique pour la pause avant/après l'Italie, gratuite ou ~14€ selon saison
 - **The Camp by Maggiore Suites (Lac de Côme)** : front pitch FR1 (8m OK). ⚠️ **Hauteur CC >2,60m** → passer par Via Giuseppe Verdi (pas par le centre de Maccagno). Code portail: 1593
 - **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². Love Pet Pack 15€ pour Nala. Check-in 24h/24. Tram T1 depuis/vers le centre
-- **Fortuna Village Pompei** : pas de confirmation reçue à date. Alternative : **Herculanum** (plus petit, mieux conservé, 2h de visite)
+- **Pompéi** : camping à réserver. **Camping Spartacus** (Via Plinio 127, 50m des fouilles, chiens OK, tél +39 081 862 40 78) ou **Camping Pompei** (face entrée). Parking Via Plinio possible sans résa
 - **Residence Atlantide (Monopoli)** : séjour de 9 nuits dans les Pouilles — belle région. Location voiture recommandée (Sunny Cars #15253750 réservé)
 - **Camping Europa Village (Cavallino)** : réservé via Sandaya. Ferry/bus pour Venise et Murano. Paiement reçu
 - **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte €140,40 payé le 14/01/2026. Solde ~327,60€ à prévoir. 7 nuits
