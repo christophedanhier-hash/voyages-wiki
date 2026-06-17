@@ -11,13 +11,12 @@
 | **Pays visités** | 6 🇕🇕 🇧🇪 🇪🇸 🇫🇷 🇳🇱 🇵🇹 |
 | **Distance totale** | 15,737 km |
 | **Étapes enregistrées** | 2622 |
-| **Voyages réalisés** | 6 |
-| **Voyages en prépa (Tof)** | 1 |
-| **Voyages en prépa (Amis)** | 2 |
+| **Voyages Tof** | 8 (7 réalisés + 1 en prépa) |
+| **Voyages Amis (Bot)** | 2 |
 
 ---
 
-## 🗺️ Voyages réalisés
+## 🧑‍✈️ Voyages Tof
 
 |   | Voyage | Période | Durée | Distance | Étapes |
 |---|--------|---------|:-----:|:--------:|:------:|
@@ -28,18 +27,11 @@
 | 🌐 [Barnave & Brasilia](barnave-brasilia/) | 06/06/2025 → 06/07/2025 | 30j | 2,539 km | 621 étapes |
 | 🌐 [Tic&Tac à Berck & Bretagne](tic-tac-berck-bretagne/) | 16/04/2025 → 05/05/2025 | 19j | 1,766 km | 44 étapes |
 | 🌐 [La côte Belges et les Pays-Bas](cote-belges-pays-bas/) | 13/03/2025 → 21/03/2025 | 8j | 787 km | 6 étapes |
+|| **🇮🇹 Italie** | 09/2026 → TBD | 📋 **En cours** | |
 
 ---
 
-## 🚀 Voyages en préparation — Tof 🧑‍✈️
-
-| Voyage | Période | Statut |
-|--------|---------|:------:|
-| **🇮🇹 Italie** | 09/2026 → TBD | 📋 En cours |
-
----
-
-## 🤖 Voyages en préparation — Amis (via le Bot BAVI Voyages)
+## 🤖 Voyages Amis (Bot)
 
 | Voyage | Période | Voyageurs | Statut |
 |--------|---------|:---------:|:------:|
