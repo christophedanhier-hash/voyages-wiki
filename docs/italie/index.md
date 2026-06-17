@@ -45,21 +45,21 @@
 | 6 | Mer 16/9 | 🎨 *Visite Florence* | — | 1210 | — | — | — |
 | 7 | Jeu 17/9 | 🌋 **Florence** → **Pompéi** | 484 km | 1694 | 2 | Fortuna Village Pompei | *en demande* |
 | 8 | Ven 18/9 | 🏛️ *Visite Pompéi* | — | 1694 | — | — | — |
-|| 9 | Sam 19/9 | 🏖️ **Pompéi** → **Monopoli** (Pouilles) | 318 km | 2012 | 9 | Residence Atlantide — Monopoli | 336,00 € |
-|| 10 | Dim 20/9 | 🚗 *Arrivée + découverte Monopoli à pied* 🚶 | — | 2012 | — | — | — |
-|| 11 | Lun 21/9 | 🚗 *Jour 1 voiture — Vallée des Trulli* 🏡 | — | 2012 | — | — | — |
-|| 12 | Mar 22/9 | 🚗 *Jour 2 voiture — Côte adriatique sud* 🏛️ | — | 2012 | — | — | — |
-|| 13 | Mer 23/9 | 🚗 *Jour 3 voiture — Lecce ou Matera* 🌆 | — | 2012 | — | — | — |
-|| 14 | Jeu 24/9 | 🚗 *Jour 4 voiture — Au choix* 🎯 | — | 2012 | — | — | — |
-|| 15 | Ven 25/9 | 🚗 *Jour 5 voiture — Dernier rayonnement* 🚙 | — | 2012 | — | — | — |
-|| 16 | Sam 26/9 | 🚲 *Balade vélo & plages* 🏖️ | — | 2012 | — | — | — |
-|| 17 | Dim 27/9 | 🚲 *Dernier jour — farniente & criques* ☀️ | — | 2012 | — | — | — |
-|| 18 | Lun 28/9 | ⬆️ **Monopoli** → **Santa Irene** (simple étape repos) | 377 km | 2389 | 1 | Area Sosta Camper Santa Irene | 10,00 € |
-|| 19 | Mar 29/9 | 🛶 **Santa Irene** → **Venise** (Cavallino) | 546 km | 2935 | 4 | Camping Europa Village — Cavallino-Treporti | 222,80 € |
-|| 20 | Mer 30/9 | 🎭 *Jour 1 Venise — Cœur historique* 🏛️ | — | 2935 | — | — | — |
-|| 21 | Jeu 1/10 | 🏝️ *Jour 2 Venise — Murano & Burano* 🎨 | — | 2935 | — | — | — |
-|| 22 | Ven 2/10 | 🚲 *Jour 3 Venise — Lido ou quartiers au choix* 🎯 | — | 2935 | — | — | — |
-|| 23 | Sam 3/10 | 🌊 **Venise** → **Lac de Garde** | 164 km | 3099 | 7 | San Francesco Camping Village | 468,00 € |
+| 9 | Sam 19/9 | 🏖️ **Pompéi** → **Monopoli** (Pouilles) | 318 km | 2012 | 9 | Residence Atlantide — Monopoli | 336,00 € |
+| 10 | Dim 20/9 | 🚗 *Arrivée + découverte Monopoli à pied* 🚶 | — | 2012 | — | — | — |
+| 11 | Lun 21/9 | 🚗 *Jour 1 voiture — Vallée des Trulli* 🏡 | — | 2012 | — | — | — |
+| 12 | Mar 22/9 | 🚗 *Jour 2 voiture — Côte adriatique sud* 🏛️ | — | 2012 | — | — | — |
+| 13 | Mer 23/9 | 🚗 *Jour 3 voiture — Lecce ou Matera* 🌆 | — | 2012 | — | — | — |
+| 14 | Jeu 24/9 | 🚗 *Jour 4 voiture — Au choix* 🎯 | — | 2012 | — | — | — |
+| 15 | Ven 25/9 | 🚗 *Jour 5 voiture — Dernier rayonnement* 🚙 | — | 2012 | — | — | — |
+| 16 | Sam 26/9 | 🚲 *Balade vélo & plages* 🏖️ | — | 2012 | — | — | — |
+| 17 | Dim 27/9 | 🚲 *Dernier jour — farniente & criques* ☀️ | — | 2012 | — | — | — |
+| 18 | Lun 28/9 | ⬆️ **Monopoli** → **Santa Irene** (simple étape repos) | 377 km | 2389 | 1 | Area Sosta Camper Santa Irene | 10,00 € |
+| 19 | Mar 29/9 | 🛶 **Santa Irene** → **Venise** (Cavallino) | 546 km | 2935 | 4 | Camping Europa Village — Cavallino-Treporti | 222,80 € |
+| 20 | Mer 30/9 | 🎭 *Jour 1 Venise — Cœur historique* 🏛️ | — | 2935 | — | — | — |
+| 21 | Jeu 1/10 | 🏝️ *Jour 2 Venise — Murano & Burano* 🎨 | — | 2935 | — | — | — |
+| 22 | Ven 2/10 | 🚲 *Jour 3 Venise — Lido ou quartiers au choix* 🎯 | — | 2935 | — | — | — |
+| 23 | Sam 3/10 | 🌊 **Venise** → **Lac de Garde** | 164 km | 3099 | 7 | San Francesco Camping Village | 468,00 € |
 | 24-28 | Dim 4/10→Jeu 8/10 | ⛱️ *Séjour Lac de Garde* + 🚗 *location voiture 5j* | — | 3099 | — | — | — |
 | 29 | Ven 9/10 | ⛱️ *Dernier jour Lac de Garde* | — | 3099 | — | — | — |
 | 30 | Sam 10/10 | 🇫🇷 **Lac de Garde** → **Colmar** | 547 km | 3646 | 1 | Aire CC Schoenau | 14,00 € |
