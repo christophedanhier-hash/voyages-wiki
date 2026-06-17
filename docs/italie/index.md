@@ -191,17 +191,17 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 
 ## 🏕️ Campings & Hébergements détaillés
 
-|| Étape | Camping | Réservation | Durée | Coût | Acompte |
+| Étape | Camping | Réservation | Durée | Coût | Acompte |
 |-------|---------|:-----------:|:-----:|:----:|:-------:|
-| Colmar | Aire CC Schoenau | ❌ Non | 1 nuit | 14,00 € | — |
-| Lac de Côme | **The Camp by Maggiore Suites** | ✅ #32877 | 2 nuits | 154,00 € | **30,80 €** ✔️ *Stripe* |
+| Colmar | Aire CC Schoenau | ❌ Sans résa | 1 nuit | 14,00 € | — |
+| Lac de Côme | **The Camp by Maggiore Suites** | ✅ #32877 | 2 nuits | 154,00 € | **30,80 €** ✔️ Stripe |
 | Florence | **hu Firenze camping in town** | ✅ #314185774 | 3 nuits | 165,00 € | ❌ Carte garantie |
-| Pompéi | Fortuna Village Pompei | ⏳ *En demande* | 2 nuits | — | ❌ |
+| Pompéi | Camping Fortuna Village | ❌ Pas de confirmation | 2 nuits | — | ❌ |
 | Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ❓ |
-| Santa Irene | Area Sosta Camper Santa Irene | ❌ Non | 1 nuit | 10,00 € | — |
-| Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | **Payé** ✔️ *Sandaya* |
-| Lac de Garde | **San Francesco Camping Village** | ✅ #654795826 | 7 nuits | 468,00 € | **140,40 €** ✔️ *MC 14/01* |
-| Colmar (retour) | Aire CC Schoenau | ❌ Non | 1 nuit | 14,00 € | — |
+| Santa Irene | Area Sosta Camper Santa Irene | ❌ Sans résa | 1 nuit | 10,00 € | — |
+| Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | **Payé** ✔️ Sandaya |
+| Lac de Garde | **San Francesco Camping Village** | ✅ #654795826 | 7 nuits | 468,00 € | **140,40 €** ✔️ MC 14/01 |
+| Colmar (retour) | Aire CC Schoenau | ❌ Sans résa | 1 nuit | 14,00 € | — |
 
 **Détails des réservations :**
 
