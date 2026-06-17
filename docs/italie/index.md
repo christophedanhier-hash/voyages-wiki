@@ -9,7 +9,7 @@
 | | |
 |:---|:---|
 | **Voyageurs** | Christophe, Sylvie + 🐕 Nala |
-| **Véhicule** | Camping-car 8m × 2,4m (hauteur ~3m — vérifier tunnels & barrières) |
+| **Véhicule** | Camping-car 8m × 2,4m (hauteur 2,5m) |
 | **Mobilité** | Sylvie : max 5-7 km/j à pied. Balades à **vélo électrique** possible (20-30 km/j) |
 | **Nala** | Reste au CC climatisé pendant les visites culturelles |
 | **Équipement** | 2 vélos électriques — vérifier pistes cyclables et parkings sécurisés |
@@ -209,7 +209,7 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 
 | Camping | À savoir |
 |:--------|:---------|
-| **The Camp by Maggiore Suites** | Pitch FRONT FR1 (8m ✅). ⚠️ Hauteur >2,60m → passer par Via Giuseppe Verdi. Check-in 16h. Code portail: 1593. Plaque: 2FUQ668 |
+| **The Camp by Maggiore Suites** | Pitch FRONT FR1 (8m ✅). Hauteur 2,5m OK (<2,60m). Check-in 16h. Code portail: 1593. Plaque: 2FUQ668 |
 | **hu Firenze camping in town** | Emplacement 50-60m². Love Pet Pack 15€ (Nala ✅). Check-in 24h/24. Adresse: Via della Chiesa 1/3, 50136 Firenze |
 | **Pompéi** | À réserver. Recommandé : **Camping Spartacus** (Via Plinio 127, 50m des fouilles, chiens OK ✅) ou **Camping Pompei** (face entrée). Tél Spartacus : +39 081 862 40 78 |
 | **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). Confirmé via wubook |
@@ -237,7 +237,7 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 ## 🚐 Notes & Astuces
 
 - **Aire Schoenau (Colmar)** : pratique pour la pause avant/après l'Italie, gratuite ou ~14€ selon saison
-- **The Camp by Maggiore Suites (Lac de Côme)** : front pitch FR1 (8m OK). ⚠️ **Hauteur CC >2,60m** → passer par Via Giuseppe Verdi (pas par le centre de Maccagno). Code portail: 1593
+- **The Camp by Maggiore Suites (Lac de Côme)** : front pitch FR1 (8m OK). Hauteur 2,5m OK (<2,60m). Code portail: 1593
 - **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². Love Pet Pack 15€ pour Nala. Check-in 24h/24. Tram T1 depuis/vers le centre
 - **Pompéi** : camping à réserver. **Camping Spartacus** (Via Plinio 127, 50m des fouilles, chiens OK, tél +39 081 862 40 78) ou **Camping Pompei** (face entrée). Parking Via Plinio possible sans résa
 - **Residence Atlantide (Monopoli)** : séjour de 9 nuits dans les Pouilles — belle région. Location voiture recommandée (Sunny Cars #15253750 réservé)
