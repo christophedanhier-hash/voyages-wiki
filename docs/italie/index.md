@@ -4,6 +4,18 @@
 
 ---
 
+## 👥 Contexte du voyage
+
+| | |
+|:---|:---|
+| **Voyageurs** | Christophe, Sylvie + 🐕 Nala |
+| **Véhicule** | Camping-car 8m × 2,4m (hauteur ~3m — vérifier tunnels & barrières) |
+| **Mobilité** | Sylvie : max 5-7 km/j à pied. Balades à **vélo électrique** possible (20-30 km/j) |
+| **Nala** | Reste au CC climatisé pendant les visites culturelles |
+| **Équipement** | 2 vélos électriques — vérifier pistes cyclables et parkings sécurisés |
+
+---
+
 ## 💳 Coût du service BAVI LEO
 
 | Métrique | Valeur |
@@ -60,9 +72,9 @@
 
 ## 🗺️ Carte du trajet
 
-<iframe width="100%" height="500" src="https://www.openstreetmap.org/export/embed.html?bbox=2.0%2C38.0%2C19.0%2C48.5&amp;layer=mapnik" style="border: 1px solid #ccc"></iframe>
+<iframe src="carte-italie.html" width="100%" height="550" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
 
-> Carte interactive : [Ouvrir sur OpenStreetMap](https://www.openstreetmap.org/?mlat=43.5&mlon=12.0#zoom/6/43.5/12.0)
+> 🗺️ Carte interactive avec le **parcours réel** (11 étapes, 4091 km). Cliquez sur les marqueurs pour voir les étapes. Les distances entre chaque étape sont indiquées sur le tracé.
 
 ---
 
