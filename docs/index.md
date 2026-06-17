@@ -19,13 +19,13 @@
 ## 🧑‍✈️ Voyages Tof
 
 - **🇮🇹 Italie → 📋 En préparation (09/2026)**
-- 🔒 [Frisia](frisia/) 03/2026 → ✅ Fait
-- 🌐 [Escapade à Reims](escapade-a-reims/) 12/2025 → ✅ Fait
-- 🌐 [Portugal](portugal-lagos/) 11/2025 → ✅ Fait
-- 🌐 [France - Espagne - Portugal](france-espagne-portugal/) 09/2025 → ✅ Fait
-- 🌐 [Barnave & Brasilia](barnave-brasilia/) 06/2025 → ✅ Fait
-- 🌐 [Tic&Tac à Berck & Bretagne](tic-tac-berck-bretagne/) 04/2025 → ✅ Fait
-- 🌐 [La côte belge et les Pays-Bas](cote-belges-pays-bas/) 03/2025 → ✅ Fait
+- 🔒 [Frisia 03/2026](frisia/) → ✅ Fait
+- 🌐 [Escapade à Reims 12/2025](escapade-a-reims/) → ✅ Fait
+- 🌐 [Portugal 11/2025](portugal-lagos/) → ✅ Fait
+- 🌐 [France - Espagne - Portugal 09/2025](france-espagne-portugal/) → ✅ Fait
+- 🌐 [Barnave & Brasilia 06/2025](barnave-brasilia/) → ✅ Fait
+- 🌐 [Tic&Tac à Berck & Bretagne 04/2025](tic-tac-berck-bretagne/) → ✅ Fait
+- 🌐 [La côte belge et les Pays-Bas 03/2025](cote-belges-pays-bas/) → ✅ Fait
 
 ---
 
