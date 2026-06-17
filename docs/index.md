@@ -42,14 +42,14 @@
 
 ## 💳 Coût du service BAVI LEO
 
-| Roadbook | Tokens | Coût DeepSeek | Frais service | Total facturé |
-|----------|:------:|:-------------:|:-------------:|:-------------:|
-| **🇳🇴 Scandinavie 2026** | 241 539 IN · 30 141 OUT | ~0,05 € | 2,50 € | **2,55 €** |
-| **🇮🇹 Italie** | 175 684 IN · 55 320 OUT | ~0,06 € | 2,50 € | **2,56 €** |
-| **🇫🇷 Canet → Collioure → Gerpinnes** | 28 000 IN · 5 000 OUT | ~0,01 € | 2,50 € | **2,51 €** |
-| **Total BAVI LEO** | | | | **7,62 €** |
+| Roadbook | Ratio usage | Coût DeepSeek réel | Frais service | Total facturé |
+|----------|:-----------:|:------------------:|:-------------:|:-------------:|
+| **🇳🇴 Scandinavie 2026** | ~4 % | ~0,35 € | 2,50 € | **2,85 €** |
+| **🇮🇹 Italie** | ~3 % | ~0,26 € | 2,50 € | **2,76 €** |
+| **🇫🇷 Canet → Collioure → Gerpinnes** | ~0,5 % | ~0,04 € | 2,50 € | **2,54 €** |
+| **Total BAVI LEO** | | | | **8,15 €** |
 
-> 💡 Chaque roadbook inclut une section `💳 Coût du service BAVI LEO` détaillée avec les métriques exactes de sa session de création.
+> 💡 Chaque roadbook inclut une section `💳 Coût du service BAVI LEO` détaillée. Le coût DeepSeek réel est calculé au prorata des tokens consommés sur le budget total ($9,29 dépensés toutes sessions confondues). Les frais de service (2,50 €/roadbook) couvrent la maintenance du wiki, les cartes OSM et l'infrastructure BAVI.
 
 ---
 
