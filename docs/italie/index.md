@@ -34,7 +34,7 @@
 | 1 | Ven 11/9 | 🏠 **Sombreffe** → **Colmar** (Alsace) | 446 km | 446 | 1 | Aire CC Schoenau | 14,00 € |
 | 2 | Sam 12/9 | 🇫🇷 **Colmar** → **Lac de Côme** 🏞️ | 353 km | 799 | 2 | The Camp by Maggiore Suites | 154,00 € |
 | 3 | Dim 13/9 | ☀️ *Repos & découverte Lac de Côme* | — | 799 | — | — | — |
-| 4 | Lun 14/9 | 🏛️ **Lac de Côme** → **Florence** | 411 km | 1210 | 3 | Florence Sud — Confort et Nature | 165,00 € |
+| 4 | Lun 14/9 | 🏛️ **Lac de Côme** → **Florence** | 411 km | 1210 | 3 | **hu Firenze camping in town** 🏕️ | 165,00 € |
 | 5 | Mar 15/9 | 🎨 *Visite Florence* | — | 1210 | — | — | — |
 | 6 | Mer 16/9 | 🎨 *Visite Florence* | — | 1210 | — | — | — |
 | 7 | Jeu 17/9 | 🌋 **Florence** → **Pompéi** | 484 km | 1694 | 2 | Fortuna Village Pompei | *en demande* |
@@ -188,17 +188,27 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 
 ## 🏕️ Campings & Hébergements détaillés
 
-| Étape | Camping | Réservation | Durée | Coût |
-|-------|---------|:-----------:|:-----:|:----:|
-| Colmar | Aire de camping-car SCHOENAU | ❌ Non | 1 nuit | 14,00 € |
-| Lac de Côme | The Camp by Maggiore Suites | ✅ #32877 | 2 nuits | 154,00 € |
-| Florence | Florence Sud — Confort et Nature | ✅ #314185774 | 3 nuits | 165,00 € |
-| Pompéi | Fortuna Village Pompei | ❓ En demande | 2 nuits | — |
-| Pouilles | Residence Atlantide — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € |
-| Santa Irene | Area Sosta Camper Santa Irene | ❌ Non | 1 nuit | 10,00 € |
-| Venise | Camping Europa Village — Cavallino-Treporti | ✅ OK | 4 nuits | 222,80 € |
-| Lac de Garde | San Francesco Camping Village | ✅ #654795826 | 7 nuits | 468,00 € |
-| Colmar | Aire de camping-car SCHOENAU | ❌ Non | 1 nuit | 14,00 € |
+|| Étape | Camping | Réservation | Durée | Coût | Acompte |
+|-------|---------|:-----------:|:-----:|:----:|:-------:|
+| Colmar | Aire CC Schoenau | ❌ Non | 1 nuit | 14,00 € | — |
+| Lac de Côme | **The Camp by Maggiore Suites** | ✅ #32877 | 2 nuits | 154,00 € | **30,80 €** ✔️ *Stripe* |
+| Florence | **hu Firenze camping in town** | ✅ #314185774 | 3 nuits | 165,00 € | ❌ Carte garantie |
+| Pompéi | Fortuna Village Pompei | ⏳ *En demande* | 2 nuits | — | ❌ |
+| Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ❓ |
+| Santa Irene | Area Sosta Camper Santa Irene | ❌ Non | 1 nuit | 10,00 € | — |
+| Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | **Payé** ✔️ *Sandaya* |
+| Lac de Garde | **San Francesco Camping Village** | ✅ #654795826 | 7 nuits | 468,00 € | **140,40 €** ✔️ *MC 14/01* |
+| Colmar (retour) | Aire CC Schoenau | ❌ Non | 1 nuit | 14,00 € | — |
+
+**Détails des réservations :**
+| Camping | À savoir |
+|:--------|:---------|
+| **The Camp by Maggiore Suites** | Pitch FRONT FR1 (8m ✅). ⚠️ Hauteur >2,60m → passer par Via Giuseppe Verdi. Check-in 16h. Code portail: 1593. Plaque: 2FUQ668 |
+| **hu Firenze camping in town** | Emplacement 50-60m². Love Pet Pack 15€ (Nala ✅). Check-in 24h/24. Adresse: Via della Chiesa 1/3, 50136 Firenze |
+| **Fortuna Village Pompei** | Demande d'info envoyée via ACSI Eurocampings le 05/06 — pas de retour confirmé |
+| **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). Confirmé via wubook |
+| **Europa Village** | Réservé via Sandaya (N°06426005202000). Paiement reçu. Cavallino-Treporti, ferry Venise |
+| **San Francesco Camping Village** | Desenzano del Garda (BS). €140,40 payé le 14/01/2026 via Mastercard (acompte). Solde restant: ~327,60 € |
 
 ---
 
@@ -221,13 +231,14 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 ## 🚐 Notes & Astuces
 
 - **Aire Schoenau (Colmar)** : pratique pour la pause avant/après l'Italie, gratuite ou ~14€ selon saison
-- **The Camp by Maggiore Suites (Lac de Côme)** : camping bien situé près du lac
-- **Florence Sud** : camping à proximité de l'autoroute, navette possible pour le centre-ville
-- **Fortuna Village Pompei** : proche des fouilles, idéal pour visiter Pompéi
-- **Residence Atlantide (Monopoli)** : séjour de 9 nuits dans les Pouilles — belle région avec location voiture recommandée
-- **Camping Europa Village (Cavallino)** : bien situé face à Venise, ferry/bus pour Venise et Murano
-- **San Francesco (Lac de Garde)** : grand village camping, location voiture possible sur place
-- **Location voiture** : prévue 2 fois (Pouilles et Lac de Garde) — compter ~100€/semaine
+- **The Camp by Maggiore Suites (Lac de Côme)** : front pitch FR1 (8m OK). ⚠️ **Hauteur CC >2,60m** → passer par Via Giuseppe Verdi (pas par le centre de Maccagno). Code portail: 1593
+- **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². Love Pet Pack 15€ pour Nala. Check-in 24h/24. Tram T1 depuis/vers le centre
+- **Fortuna Village Pompei** : pas de confirmation reçue à date. Alternative : **Herculanum** (plus petit, mieux conservé, 2h de visite)
+- **Residence Atlantide (Monopoli)** : séjour de 9 nuits dans les Pouilles — belle région. Location voiture recommandée (Sunny Cars #15253750 réservé)
+- **Camping Europa Village (Cavallino)** : réservé via Sandaya. Ferry/bus pour Venise et Murano. Paiement reçu
+- **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte €140,40 payé le 14/01/2026. Solde ~327,60€ à prévoir. 7 nuits
+- **Location voiture** : prévue 2 fois (Pouilles + Lac de Garde) via Sunny Cars (réservations #15253750 et #15253704)
+- **⚠️ Attention hauteur CC (3m)** : vérifier les parkings souterrains et entrées de ville. Florence ZTL interdite au CC. Parkings conseillés en périphérie (Scandicci, Villa Costanza)
 
 ---
 
