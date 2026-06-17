@@ -1,6 +1,6 @@
 # 🧭 Carnet de Voyages
 
-*Dernière mise à jour : 15/06/2026 à 09:57*
+*Dernière mise à jour : 17/06/2026*
 
 ---
 
@@ -12,15 +12,15 @@
 | **Distance totale** | 15,737 km |
 | **Étapes enregistrées** | 2622 |
 | **Voyages réalisés** | 6 |
-| **Voyages privés** | 1 |
+| **Voyages en prépa (Tof)** | 2 |
+| **Voyages en prépa (Amis)** | 1 |
 
 ---
 
-## 🗺️ Liste des voyages
+## 🗺️ Voyages réalisés
 
 |   | Voyage | Période | Durée | Distance | Étapes |
 |---|--------|---------|:-----:|:--------:|:------:|
-| 🔒 [Prépa : Scandinavie 2026](scandinavie-2026/) | 31/08/2026 → 31/10/2026 | 61j | ~9,000 km | Roadbook |
 | 🔒 [Frisia](frisia/) | 27/03/2026 → 04/04/2026 | 8j | 1,342 km | 409 étapes |
 | 🌐 [Escapade à Reims](escapade-a-reims/) | 12/12/2025 → 13/12/2025 | 1j | 187 km | 4 étapes |
 | 🌐 [2025 - Novembre au Portugal - Lagos](portugal-lagos/) | 06/11/2025 → 29/11/2025 | 23j | 5,085 km | 794 étapes |
@@ -31,13 +31,21 @@
 
 ---
 
-## 🚀 Voyages en préparation
+## 🚀 Voyages en préparation — Tof 🧑‍✈️
 
 | Voyage | Période | Statut |
 |--------|---------|:------:|
-|| **🇳🇴 Scandinavie** | 31/08 → 31/10/2026 | 📋 Roadbook prêt — BAVI LEO |
-|| **🇫🇷 Canet-Collioure-Gerpinnes** | 19/06 → 22/06/2026 | 🚐 Week-end + retour Belgique |
+| **🇳🇴 Scandinavie 2026** | 31/08 → 31/10/2026 | 📋 Roadbook prêt |
+| **🇮🇹 Italie** | 09/2026 → TBD | 📋 En cours |
 
 ---
 
-*Données extraites depuis [Polarsteps](https://www.polarsteps.com/christophedanhier/) via navigateur*
+## 🤖 Voyages en préparation — Amis (via le Bot BAVI Voyages)
+
+| Voyage | Période | Voyageurs | Statut |
+|--------|---------|:---------:|:------:|
+| **🇫🇷 Canet → Collioure → Gerpinnes** | 19/06 → 22/06/2026 | Pascal & Agnès | 🚐 Week-end prêt |
+
+---
+
+*Données extraites depuis [Polarsteps](https://www.polarsteps.com/christophedanhier/) via navigateur — Roadbooks générés par le [BAVI LEO Voyages Bot](https://github.com/christophedanhier-hash/BAVI_LEO)*
