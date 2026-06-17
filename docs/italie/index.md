@@ -20,10 +20,10 @@
 
 | Métrique | Valeur |
 |:---------|------:|
-|| **Tokens consommés** | 136 220 IN · 42 136 OUT |
-|| **Coût DeepSeek réel** | ~0,05 € |
+|| **Tokens consommés** | 175 684 IN · 55 320 OUT |
+|| **Coût DeepSeek réel** | ~0,07 € |
 || **Frais de service BAVI** | 2,50 € |
-|| **Total facturé** | **~2,55 €** |
+|| **Total facturé** | **~2,57 €** |
 
 ---
 
@@ -48,10 +48,12 @@
 || 15 | Ven 25/9 | 🚗 *Jour 5 voiture — Dernier rayonnement* 🚙 | — | 2012 | — | — | — |
 || 16 | Sam 26/9 | 🚲 *Balade vélo & plages* 🏖️ | — | 2012 | — | — | — |
 || 17 | Dim 27/9 | 🚲 *Dernier jour — farniente & criques* ☀️ | — | 2012 | — | — | — |
-|| 18 | Lun 28/9 | ⬆️ **Monopoli** → **Santa Irene** (remontée) | 377 km | 2389 | 1 | Area Sosta Camper Santa Irene | 10,00 € |
-| 19 | Mar 29/9 | 🛶 **Santa Irene** → **Venise** (Cavallino) | 546 km | 2935 | 4 | Camping Europa Village — Cavallino-Treporti | 222,80 € |
-| 20-22 | Mer 30/9→Ven 2/10 | 🎭 *Visite Venise / Murano* | — | 2935 | — | — | — |
-| 23 | Sam 3/10 | 🌊 **Venise** → **Lac de Garde** | 164 km | 3099 | 7 | San Francesco Camping Village | 468,00 € |
+|| 18 | Lun 28/9 | ⬆️ **Monopoli** → **Santa Irene** (simple étape repos) | 377 km | 2389 | 1 | Area Sosta Camper Santa Irene | 10,00 € |
+|| 19 | Mar 29/9 | 🛶 **Santa Irene** → **Venise** (Cavallino) | 546 km | 2935 | 4 | Camping Europa Village — Cavallino-Treporti | 222,80 € |
+|| 20 | Mer 30/9 | 🎭 *Jour 1 Venise — Cœur historique* 🏛️ | — | 2935 | — | — | — |
+|| 21 | Jeu 1/10 | 🏝️ *Jour 2 Venise — Murano & Burano* 🎨 | — | 2935 | — | — | — |
+|| 22 | Ven 2/10 | 🚲 *Jour 3 Venise — Lido ou quartiers au choix* 🎯 | — | 2935 | — | — | — |
+|| 23 | Sam 3/10 | 🌊 **Venise** → **Lac de Garde** | 164 km | 3099 | 7 | San Francesco Camping Village | 468,00 € |
 | 24-28 | Dim 4/10→Jeu 8/10 | ⛱️ *Séjour Lac de Garde* + 🚗 *location voiture 5j* | — | 3099 | — | — | — |
 | 29 | Ven 9/10 | ⛱️ *Dernier jour Lac de Garde* | — | 3099 | — | — | — |
 | 30 | Sam 10/10 | 🇫🇷 **Lac de Garde** → **Colmar** | 547 km | 3646 | 1 | Aire CC Schoenau | 14,00 € |
@@ -354,6 +356,147 @@ Les vélos sont depuis Monopoli (20-30 km/jour max pour Sylvie).
 
 ---
 
+### 🛶 Venise — Cavallino (J19–J22 · 4 nuits · 3 jours pleins)
+
+**🏠 Base :** Camping **Europa Village** ⭐⭐⭐⭐⭐ — Via Fausta 332, Cavallino-Treporti. Réservé via Sandaya (N°06426005202000) — **payé** ✔️
+
+**🚐 CC :** Garé au camping pendant tout le séjour. Accès Venise uniquement par **bus + ferry** (pas de voiture dans Venise).
+
+**🚌 Accès Venise :**
+
+| Étape | Durée | Info |
+|:------|:-----:|:-----|
+| 🚶 Camping → **Arrêt bus** | 5 min | Navette camping ou bus ligne 2/5 |
+| 🚌 **Bus** → **Punta Sabbioni** (ferry) | 10-15 min | ACTV ligne 2/5, ticket ~1,50 € |
+| ⛴️ **Ferry** → **Venise (San Marco / Riva degli Schiavoni)** | 30-45 min | ACTV ligne 14, trajet magnifique |
+| 🚤 **Vaporetto** (déplacement dans Venise) | — | Pass 24h/48h/72h disponible |
+
+> 💡 **Pass ACTV recommandé :** **Venezia Unica City Pass** 72h (~45 €) — bus + ferry Cavallino + vaporetto illimité dans Venise + Murano/Burano. S'achète aux guichets ACTV ou en ligne. Alternative : tickets à l'unité (9,50 € le vaporetto seul).
+
+**🎟️ Billets à réserver à l'avance :**
+- Palais des Doges : coupe-file recommandé (30 €, réserver sur [Palaisdesdoges.it](https://palaisdesdoges.it))
+- Basilique Saint-Marc : réservation créneau obligatoire (3 € entrée, 7 € avec Pala d'Oro)
+- Campanile : pas de résa (15 €, file d'attente ~30 min en septembre)
+
+---
+
+**📋 Organisation des 3 jours :**
+
+**🗓️ Jour 1 — Cœur historique de Venise (Mer 30/9) ⛴️**
+
+*Rythme cool pour Sylvie — max 5-7 km de marche, vaporetto entre chaque étape.*
+
+| Horaire | Activité | Transport | Marche |
+|:-------:|:---------|:---------:|:-----:|
+| 9h | 🚌 Bus camping → **Punta Sabbioni** → **Ferry** | 🚌⛴️ 45 min | — |
+| 10h | 🏛️ **Place Saint-Marc** — Basilique + Campanile | 🚶 | ~200 m ✅ |
+| 12h | 🍝 Déjeuner près de San Marco | 🚶 | — |
+| 13h30 | 🏰 **Palais des Doges** + Pont des Soupirs | 🚶 | ~300 m ✅ |
+| 15h | 🛶 **Vaporetto Grand Canal** — Rialto en bateau | 🚤 Ligne 1 | 0 🚤 |
+| 16h | 🌉 **Pont du Rialto** + marché | 🚶 | ~200 m |
+| 17h | 🛍️ Flânerie San Polo ou retour camping | 🚶⛴️ | — |
+
+**Détails :**
+- **Basilique Saint-Marc :** mosaïques byzantines dorées, Pala d'Oro. Entrée payante (3 €), réservation créneau conseillée.
+- **Campanile :** ascenseur ✅ — vue panoramique à 360° sur Venise et la lagune (15 €).
+- **Palais des Doges :** salle du Grand Conseil, pont des Soupirs. Ascenseurs ✅. Compter 2h.
+- **Vaporetto Ligne 1 :** le « bus aquatique » qui parcourt tout le Grand Canal de San Marco à Piazzale Roma — 45 min de balade assise, meilleure façon de voir les palais sans marcher.
+- **Pont du Rialto :** le plus célèbre. Marché couvert à côté (fruits, légumes, poisson le matin).
+
+**Mobilité Sylvie :** place Saint-Marc et parcours vers Rialto = plat ✅. Ascenseurs au Campanile et au Palais des Doges ✅. Vaporetto = assis, reposant.
+
+---
+
+**🗓️ Jour 2 — Murano & Burano (Jeu 1/10) 🏝️**
+
+| Horaire | Activité | Transport | Marche |
+|:-------:|:---------|:---------:|:-----:|
+| 9h30 | 🚌 Bus + ferry → Venise Fondamente Nove | 🚌⛴️ 50 min | — |
+| 10h30 | 🚤 **Vaporetto → Murano** (verre soufflé) | 🚤 Ligne 12, 10 min | ~1 km sur l'île |
+| 12h | 🍝 Déjeuner Murano | 🚶 | — |
+| 14h | 🚤 **Murano → Burano** (maisons colorées) | 🚤 Ligne 12, 30 min | ~1,5 km sur l'île |
+| 16h | 🚤 **Burano → Venise** (retour Fondamente Nove) | 🚤 Ligne 12, 45 min | — |
+| 17h30 | ⛴️ Ferry retour → Camping | ⛴️🚌 | — |
+
+- **Murano :** île du verre soufflé. Assister à une démonstration dans une fornace (gratuit). Musée du Verre (10 €).
+- **Burano :** maisons colorées, dentelle, photogénique à chaque coin de rue. Plus petit, se visite en 1h-1h30.
+- **Mobilité Sylvie :** Murano et Burano sont **plats** ✅, petites îles sans ponts difficiles. Marche tranquille.
+
+> 💡 **Alternative Jour 2 :** si fatigué, zapper Burano et rester sur Murano le matin, puis farniente à Venise l'après-midi (quartier Cannaregio moins touristique, bouquin, spritz).
+
+---
+
+**🗓️ Jour 3 — Au choix (Ven 2/10) 🎯**
+
+**Option A — Lido di Venezia à vélo 🚲 (recommandé si en forme)**
+
+| Horaire | Activité |
+|:-------:|:---------|
+| 9h30 | Bus + ferry → **Punta Sabbioni** → **Lido** (vaporetto) |
+| 10h30 | 🚲 **Location vélo au Lido** — tour de l'île |
+| 13h | 🍝 Déjeuner Lido |
+| 14h30 | 🚲 Balade plages + San Nicolò |
+| 16h | Retour camping |
+
+- **Lido** : 11 km de long, plat ✅, parfait pour les VAE. Piste cyclable tout du long. Plage libre ou privée.
+- **Location VAE :** ~15-20 €/demi-journée (via *BiciLido* ou *Venezia Bike* à Santa Maria Elisabetta).
+- **Parcours :** Santa Maria Elisabetta → San Nicolò (phare, vue lagune) → plage nord → retour par le sud.
+- **Vélo sur le vaporetto :** autorisé sur les lignes de lagune (Lido, Punta Sabbioni) — pas de supplément.
+
+> ✅ **Pour Sylvie :** 11 km plat, vélo électrique, pauses glace et plage — parfait.
+
+**Option B — Quartiers hors des sentiers battus 🚶**
+
+| Horaire | Activité |
+|:-------:|:---------|
+| 9h30 | Bus + ferry → Venise |
+| 10h30 | 🚶 **Cannaregio** — quartier juif, authentique, peu de touristes |
+| 12h | 🍝 Déjeuner chez un bacaro (cicchetti vénitiens) |
+| 14h | 🚶 **Castello** — balade calme jusqu'à l'Arsenal |
+| 16h | 🚶 **Dorsoduro** — Zattere (promenade au bord de l'eau) |
+
+- **Cannaregio :** Fondamenta della Misericordia, bars à cicchetti, église Madonna dell'Orto.
+- **Castello :** promenade le long des canaux calmes, parc delle Rimembranze, Arsenale.
+- **Zattere :** large promenade piétonne côté Giudecca, super pour finir la journée au soleil.
+- **Mobilité Sylvie :** tout **plat** ✅, peu de ponts dans ces quartiers, rythme cool.
+
+---
+
+### 🚲 Balade vélo autour du camping
+
+| Itinéraire | Distance | Dénivelé | Description |
+|:-----------|:--------:|:--------:|:------------|
+| **Punta Sabbioni → Lio Piccolo** (réserve naturelle) | 20 km A/R | Plat ✅ | Piste cyclable le long de la lagune, oiseaux, cabanes de pêcheurs |
+| **Cavallino — plage nord** | 10 km A/R | Plat ✅ | Front de mer, dunes, pinède |
+| **Punta Sabbioni — ferry** | 5 km A/R | Plat ✅ | Accès camping → ferry (pratique pour prendre le bateau avec les vélos) |
+
+> 💡 La côte de Cavallino est **plate et cyclable** — idéal pour une balade VAE en fin de journée.
+
+---
+
+### 🍝 Manger & boire à Venise
+
+| Type | Adresse | Coin | Ambiance |
+|:-----|:--------|:----:|:---------|
+| **Cicchetti** 🥟 | **Cantina Do Spade** | Rialto | Authentique, vénitien, prix corrects |
+| **Pizza 🍕** | **Antico Forno** | San Marco | Pizza au poids, rapide, bon |
+| **Poisson 🐟** | **Trattoria alla Madonna** | Rialto | Cuisine vénitienne, fruits de mer |
+| **Gelato 🍨** | **Gelateria Il Doge** | San Marco | L'une des meilleures de Venise |
+| **Spritz 🍹** | **Bacaro Jazz** | Cannaregio | Ambiance locale, musique jazz |
+| **Panini 🥪** | **Casa del Parmigiano** | Rialto | Fromage, charcuterie, à emporter |
+
+### ⚠️ Astuces pratiques
+
+- **Camping Europa Village :** piscine, plage privée, pinède. Réservé via Sandaya, payé ✔️.
+- **Nala au camping :** chiens admis sur demande. Vérifier à l'arrivée.
+- **⚠️ Attention aux pickpockets** à Venise (San Marco, Rialto, vaporetto bondés) — sac fermé, poches zippées.
+- **Pass ACTV 72h** : le plus rentable (bus+ferry Cavallino + vaporetto illimité ~45 €). Sinon tickets unité 9,50 €/trajet.
+- **Marées (acqua alta)** : fin septembre possible mais rare. Consulvier aprevisioni su [Comune Venezia](https://www.comune.venezia.it).
+- **Réserver les billets coupe-file** pour Palais des Doges et Basilique Saint-Marc — éviter 1-2h de queue.
+- **Vélo au camping** : vérifier que le camping accepte les VAE (parking sécurisé). Les vélos peuvent être posés devant l'emplacement CC.
+
+---
+
 ## 🗺️ Carte du trajet
 
 <iframe src="carte-italie.html" width="100%" height="550" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
@@ -371,7 +514,7 @@ Les vélos sont depuis Monopoli (20-30 km/jour max pour Sylvie).
 | Florence | **hu Firenze camping in town** | ✅ #314185774 | 3 nuits | 165,00 € | ❌ Carte garantie |
 | Pompéi | Camping à réserver | ⏳ *Voir ci-dessous* | 2 nuits | ~50-80 € | ❌ |
 | Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ❓ |
-| Santa Irene | Area Sosta Camper Santa Irene | ❌ Sans résa | 1 nuit | 10,00 € | — |
+| Santa Irene | Area Sosta Camper Santa Irene | ❌ Sans résa (étape repos) | 1 nuit | 10,00 € | — |
 | Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | **Payé** ✔️ Sandaya |
 | Lac de Garde | **San Francesco Camping Village** | ✅ #654795826 | 7 nuits | 468,00 € | **140,40 €** ✔️ MC 14/01 |
 | Colmar (retour) | Aire CC Schoenau | ❌ Sans résa | 1 nuit | 14,00 € | — |
@@ -384,8 +527,9 @@ Les vélos sont depuis Monopoli (20-30 km/jour max pour Sylvie).
 | **hu Firenze camping in town** | Emplacement 50-60m². Love Pet Pack 15€ (Nala ✅). Check-in 24h/24. Adresse: Via della Chiesa 1/3, 50136 Firenze |
 | **Pompéi** | À réserver. Recommandé : **Camping Spartacus** (Via Plinio 127, 50m des fouilles, chiens OK ✅) ou **Camping Pompei** (face entrée). Tél Spartacus : +39 081 862 40 78 |
 | **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). Confirmé via wubook |
-| **Europa Village** | Réservé via Sandaya (N°06426005202000). Paiement reçu. Cavallino-Treporti, ferry Venise |
-| **San Francesco Camping Village** | Desenzano del Garda (BS). €140,40 payé le 14/01/2026 via Mastercard (acompte). Solde restant: ~327,60 € |
+|| **Europa Village** | Réservé via Sandaya (N°06426005202000). Paiement reçu ✔️. Cavallino-Treporti, bus+ferry ACTV Venise 45 min. Piscine, plage privée, pinède. Chiens sur demande.
+|| **Area Sosta Camper Santa Irene** | Simple étape repos (10 €, pas de résa). Rien à voir sur place — juste dormir et repartir.
+|| **San Francesco Camping Village** | Desenzano del Garda (BS). €140,40 payé le 14/01/2026 via Mastercard (acompte). Solde restant: ~327,60 € |
 
 ---
 
@@ -411,11 +555,12 @@ Les vélos sont depuis Monopoli (20-30 km/jour max pour Sylvie).
 - **The Camp by Maggiore Suites (Lac de Côme)** : front pitch FR1 (8m OK). Hauteur 2,5m OK (<2,60m). Code portail: 1593
 - **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². Love Pet Pack 15€ pour Nala. Check-in 24h/24. Tram T1 depuis/vers le centre
 - **Pompéi** : camping à réserver. **Camping Spartacus** (Via Plinio 127, 50m des fouilles, chiens OK, tél +39 081 862 40 78) ou **Camping Pompei** (face entrée). Parking Via Plinio possible sans résa
-- **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), vélo, taxi, à pied. Centre-ville à 15 min à pied. Voir section dédiée pour le programme jour par jour 🚗🚲
-- **Camping Europa Village (Cavallino)** : réservé via Sandaya. Ferry/bus pour Venise et Murano. Paiement reçu
+- **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), vélo, taxi, à pied. Centre-ville à 15 min à pied. Voir section dédiée 🚗🚲
+- **Santa Irene** : simple étape repos (aire CC, 10 €), rien à voir sur place
+- **Camping Europa Village (Cavallino)** : réservé via Sandaya (N°06426005202000), payé ✔️. Accès Venise : bus + ferry ACTV (45 min). 4 nuits, 3 jours pleins. Voir section Venise dédiée 🛶
 - **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte €140,40 payé le 14/01/2026. Solde ~327,60€ à prévoir. 7 nuits
 - **Location voiture** : prévue 2 fois (Pouilles + Lac de Garde) via Sunny Cars (réservations #15253750 et #15253704)
-- **⚠️ Attention hauteur CC 2,5m**  : vérifier les parkings souterrains et entrées de ville. Florence ZTL interdite au CC. Parkings conseillés en périphérie (Scandicci, Villa Costanza)
+- **⚠️ Attention hauteur CC 2,5m** : vérifier les parkings souterrains et entrées de ville. Florence ZTL interdite au CC. Parkings conseillés en périphérie (Scandicci, Villa Costanza)
 
 ---
 
