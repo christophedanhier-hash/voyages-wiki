@@ -144,6 +144,24 @@
 | **Dim 16h-19h** | ⛪ Cathédrale Saint-Jean — 🚪 Traboules (rue Saint-Jean, rue du Bœuf) — 🚋 Funiculaire Fourvière (3€ AR, vue panoramique) — 🍷 Bouchon lyonnais |
 | **Lun 9h-18h** | 🏛️ Basilique Fourvière + vue — 🏙️ Presqu'île (Bellecour, Cordeliers) — 🏘️ Croix-Rousse (traboules des canuts) — 🌳 Parc de la Tête d'Or |
 
+#### 🏕️ Camping de Lyon — Dardilly (2 nuits)
+
+| Info | Détail |
+|:-----|--------|
+| **📍 GPS** | **45.81888, 4.76226** |
+| **📞 Tél** | **04 78 35 64 55** |
+| **🌐 Site** | camping-lyon.com |
+| **📧 Email** | contact@camping-lyon.com |
+| **🏕️ Emplacement CC** | ✅ Oui, avec électricité (80 m²) |
+| **🚌 Bus centre** | Ligne 2 ou 70 → Vaise (métro D) → 20-30 min |
+| **💰 Tarif** | ~25-30 €/nuit (selon saison) |
+| **🅿️ Parking** | 233 emplacements, fermé 23h-7h |
+| **🏊 Piscine** | Extérieure — Snack, pizzeria, pain frais |
+
+> Réservation conseillée en juin. Appelez ou réservez en ligne sur camping-lyon.com
+
+---
+
 ### Jour 5 — Mardi 23/06 (ou +) : Lyon 🏛️ → Gerpinnes 🏠
 
 | Horaire | Activité |
