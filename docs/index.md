@@ -40,4 +40,17 @@
 
 ---
 
+## 💳 Coût du service BAVI LEO
+
+| Roadbook | Tokens | Coût DeepSeek | Frais service | Total facturé |
+|----------|:------:|:-------------:|:-------------:|:-------------:|
+| **🇳🇴 Scandinavie 2026** | 4 048 578 IN · 1 478 470 OUT | ~4,33 € | 2,50 € | **6,83 €** |
+| **🇮🇹 Italie** | 1 200 000 IN · 400 000 OUT (est.) | ~0,42 € | 2,50 € | **2,92 €** |
+| **🇫🇷 Canet → Collioure → Gerpinnes** | 28 000 IN · 5 000 OUT | ~0,01 € | 2,50 € | **2,51 €** |
+| **Total BAVI LEO** | | | | **12,26 €** |
+
+> 💡 Chaque roadbook inclut une section `💳 Coût du service BAVI LEO` détaillée avec les métriques exactes de sa session de création.
+
+---
+
 *Données extraites depuis [Polarsteps](https://www.polarsteps.com/christophedanhier/) via navigateur — Roadbooks générés par le [BAVI LEO Voyages Bot](https://github.com/christophedanhier-hash/BAVI_LEO)*
