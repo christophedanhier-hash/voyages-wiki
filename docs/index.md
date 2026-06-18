@@ -31,3 +31,5 @@
 ---
 
 *Roadbooks générés par le [BAVI LEO Voyages Bot](https://github.com/christophedanhier-hash/BAVI_LEO)*
+
+👉 **[🛡️ Portail LEO — Écosystème complet](https://christophedanhier-hash.github.io/hermes-wiki/)**
