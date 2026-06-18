@@ -35,14 +35,6 @@
 
 ---
 
-## 🏛️ Point fort : LYON — Vieux Lyon (UNESCO)
-
-> Fondée en **43 av. J.-C.** sous le nom de *Lugdunum*, Lyon fut la **capitale des Gaules romaines**. Le Vieux Lyon, classé **UNESCO** depuis 1998, est l'un des plus vastes quartiers Renaissance d'Europe. Ses célèbres **traboules** (passages secrets à travers les immeubles) servaient aux canuts puis à la Résistance. À ne pas manquer : cathédrale Saint-Jean, funiculaire de Fourvière, et un **bouchon lyonnais** typique ! 🍷
-
-**🅿️ Stationnement CC** : Parking Confluence (gratuit le dimanche) — Tram T1 direct pour le Vieux Lyon.
-
----
-
 ## 📋 Itinéraire détaillé
 
 ---
@@ -129,6 +121,16 @@
 | **16h00 → 19h00** | 🎯 **Visite Vieux Lyon** |
 | **Soir** | 🍷 Bouchon lyonnais |
 | **🌙 Nuit 1** | Parking Confluence 🆓 |
+
+---
+
+## 🏛️ Point fort : LYON — Vieux Lyon (UNESCO)
+
+> Fondée en **43 av. J.-C.** sous le nom de *Lugdunum*, Lyon fut la **capitale des Gaules romaines**. Le Vieux Lyon, classé **UNESCO** depuis 1998, est l'un des plus vastes quartiers Renaissance d'Europe. Ses célèbres **traboules** (passages secrets à travers les immeubles) servaient aux canuts puis à la Résistance. À ne pas manquer : cathédrale Saint-Jean, funiculaire de Fourvière, et un **bouchon lyonnais** typique ! 🍷
+
+**🅿️ Stationnement CC** : Parking Confluence (gratuit le dimanche) — Tram T1 direct pour le Vieux Lyon.
+
+---
 
 ### Jour 4 — Lundi 22/06 : Visite Lyon 🏛️ — Nuit 2/2
 
