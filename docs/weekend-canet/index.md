@@ -47,7 +47,7 @@
 | **12h30 → 13h00** | 🥪 Déjeuner rapide |
 | **13h00 → 13h45** | 🚐 Route vers **La Jonquera** (~65 km) |
 | **14h00 → 17h00** | 🛍️ **Shopping — Gran Jonquera Outlet** |
-| **17h00 → 18h00** | �c Route vers **Castellfollit de la Roca** (~60 km) |
+| **17h00 → 18h00** | 🚐 Route vers **Castellfollit de la Roca** (~60 km) |
 | **18h00 → 19h30** | 🏰 **Visite Castellfollit** — falaise de basalte, vieille ville |
 | **Soir** | 🍷 Balade coucher de soleil |
 | **Nuit** | 🌙 **Parking gratuit Castellfollit** (point d'eau à 4 min) |
