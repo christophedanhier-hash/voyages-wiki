@@ -130,6 +130,19 @@
 
 **🅿️ Stationnement CC** : Parking Confluence (gratuit le dimanche) — Tram T1 direct pour le Vieux Lyon.
 
+> 🚲 **Lyon à vélo (VAE)** — Lyon dispose de **540 km de pistes cyclables** et du réseau express **Voies Lyonnaises** (250 km). Très bonnes infras pour vos VAE !
+>
+> | Site | Accessibilité VAE |
+> |:-----|:-----------------:|
+> | **Confluence → Vieux Lyon** (quais de Saône) | ✅ Plat, piste continue, ~15 min |
+> | **Vieux Lyon / St-Jean** | ✅ Zone piétonne, circulez au pas |
+> | **Presqu'île (Bellecour, Cordeliers)** | ✅ Plat, voies cyclables |
+> | **Parc de la Tête d'Or** | ✅ Plat, 117 ha, allées cyclables |
+> | **⛪ Fourvière** | ⚠️ Raide (~80 m dénivelé) — VAE mode sport ou funiculaire 3€ AR |
+> | **🏘️ Croix-Rousse** | ⚠️ Pentes raides — VAE possible par le bd de la Croix-Rousse |
+>
+> 📍 Carte complète : [avelo.grandlyon.com](https://avelo.grandlyon.com/se-deplacer-a-velo/la-carto-du-velo)
+
 ---
 
 ### Jour 4 — Lundi 22/06 : Visite Lyon 🏛️ — Nuit 2/2
