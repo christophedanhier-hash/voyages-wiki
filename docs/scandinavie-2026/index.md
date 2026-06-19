@@ -57,12 +57,23 @@ _Roadbook préparatoire — Premier test du Bureau Sylvie (BAVI LEO)_
 
 ## 🗺️ Itinéraire général
 
-```
-7 étapes majeures pour une boucle scandinave complète :
+```mermaid
+flowchart LR
+    A[🇧🇪 Gerpinnes] --> B[🇩🇪 Rostock ⛴️]
+    B --> C[🇸🇪 Trelleborg]
+    C --> D[🇸🇪 Suède Ouest]
+    D --> E[🇳🇴 Fjords Norvégiens]
+    E --> F[🇳🇴 Trondheim]
+    F --> G[🏝️ Lofoten]
+    G --> H[🇳🇴 Cap Nord]
+    H --> I[🇸🇪 Stockholm 🏛️]
+    I --> J[🇩🇰 Danemark]
+    J --> K[🇧🇪 Gerpinnes 🏁]
 
-Gerpinnes → Rostock (ferry ⛴️) → Trelleborg → Suède Ouest
-  → Fjords Norvégiens → Trondheim → Lofoten → Cap Nord
-  → Retour par Suède (Stockholm 🏛️) → Danemark → Gerpinnes
+    style A fill:#e3f2fd,stroke:#1976d2
+    style K fill:#e8f5e9,stroke:#2e7d32
+    style H fill:#fff3e0,stroke:#e65100
+    linkStyle default stroke-width:2px,fill:none
 ```
 
 ---
