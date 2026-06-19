@@ -39,18 +39,21 @@
 
 ---
 
-### Jour 1 — Vendredi 19/06 : Canet 🏡 → La Jonquera 🛍️ → Castellfollit 🏰
+### Jour 1 — Vendredi 19/06 : Canet 🏡 → La Jonquera 🛍️ → Besalú 🏘️ → Castellfollit 🏰
 
 | Horaire | Activité |
 |:-------:|----------|
-| **12h00** | 🚐 Départ de **Canet-en-Roussillon** |
-| **12h30 → 13h00** | 🥪 Déjeuner rapide |
-| **13h00 → 13h45** | 🚐 Route vers **La Jonquera** (~65 km) |
-| **14h00 → 17h00** | 🛍️ **Shopping — Gran Jonquera Outlet** |
-| **17h00 → 18h00** | 🚐 Route vers **Castellfollit de la Roca** (~60 km) |
-| **18h00 → 19h30** | 🏰 **Visite Castellfollit** — falaise de basalte, vieille ville |
-| **Soir** | 🍷 Balade coucher de soleil |
+| **10h30** | 🚐 Départ de **Canet-en-Roussillon** |
+| **10h30 → 11h20** | 🚐 Route vers **La Jonquera** (~65 km) |
+| **11h20 → ~14h00** | 🛍️ **Shopping — Gran Jonquera Outlet** ✅ *Terminé* |
+| **14h00 → 14h45** | 🚐 Route vers **Besalú** (~65 km) |
+| **14h45 → 16h00** | 🏘️ **Visite Besalú** — Pont roman XIe, quartier juif, mikvé |
+| **16h00 → 16h15** | 🚐 Route vers **Castellfollit** (~15 km) |
+| **16h15 → 18h00** | 🏰 **Visite Castellfollit de la Roca** — falaise de basalte, vieille ville |
+| **18h00 → ...** | 🍷 Balade, coucher de soleil |
 | **Nuit** | 🌙 **Parking gratuit Castellfollit** (point d'eau à 4 min) |
+
+> ➕ **Ajout en direct !** Besalú n'était pas au planning initial — excellent choix ! Village médiéval magnifique avec son célèbre **pont roman à onze arches** et son **mikvé** (bain juif du XIIe siècle, unique en Catalogne).
 
 #### 🛍️ Gran Jonquera Outlet
 
@@ -214,4 +217,17 @@
 
 ---
 
-*Roadbook Bureau Sylvie (BAVI LEO) — 17/06/2026*
+## 📋 Suivi en direct — Jour 1 ✅
+
+| Heure | Événement |
+|:-----:|-----------|
+| **10h30** | 🚐 Départ Canet |
+| **~11h20** | 🛍️ Arrivée La Jonquera — shopping ✅ |
+| **~14h00** | 🚐 Direction **Besalú** 🏘️ *(ajout en direct !)* |
+| **~14h45** | 🏘️ Visite Besalú — pont roman, quartier juif |
+| **~16h15** | 🏰 Arrivée Castellfollit de la Roca |
+| **Nuit** | 🌙 Parking gratuit Castellfollit |
+
+---
+
+*Roadbook Bureau Sylvie (BAVI LEO) — Mis à jour le 19/06/2026 (suivi en direct)*
