@@ -230,4 +230,20 @@
 
 ---
 
-*Roadbook Bureau Sylvie (BAVI LEO) — Mis à jour le 19/06/2026 (suivi en direct)*
+## 📋 Suivi en direct — Jour 2 ⏳ *En cours*
+
+| Horaire prévu | Activité | Statut |
+|:-------------:|----------|:------:|
+| **09h00** | ☕ Petit-déjeuner Castellfollit | ⏳ |
+| **09h30 → 10h30** | 🚐 Route → **Castelnou** (~70 km) | ⏳ |
+| **10h30 → 12h00** | 🏰 **Castelnou** — Plus Beau Village | ⏳ |
+| **12h00 → 12h10** | 🚐 Route → **Orgues d'Ille-sur-Têt** | ⏳ |
+| **12h10 → 13h00** | 🏔️ **Orgues** — cheminées de fée | ⏳ |
+| **13h00 → 14h00** | 🥪 Déjeuner | ⏳ |
+| **14h00 → 15h00** | 🚐 Route → **Peyriac-de-Mer** (~75 km) | ⏳ |
+| **15h00 → 17h30** | 🧂 **Salins de Peyriac** — flamants roses | ⏳ |
+| **Nuit** | 🌙 **Aire Peyriac-de-Mer** — 8 € | ⏳ |
+
+---
+
+*Roadbook Bureau Sylvie (BAVI LEO) — Mis à jour le 20/06/2026 (suivi en direct)*
