@@ -95,6 +95,9 @@
 
 **Base :** The Camp by Maggiore Suites
 
+> 🗺️ **Carte interactive du Lac de Côme** — Camp de base, POIs, restaurants et itinéraire ferry conseillé :
+> <iframe src="carte-come-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
+
 **🎭 Visites accessibles :**
 
 | Site | Distance à pied | Accès | Prix | Durée | Astuce |
@@ -134,6 +137,9 @@
 ### 🏛️ Florence (J4–J6 · 3 nuits)
 
 **Base :** Florence Sud — Confort et Nature
+
+> 🗺️ **Carte interactive de Florence** — Camp de base (hu Firenze Camping in Town), POIs culturels, restaurants et parcours piéton Jour 1 :
+> <iframe src="carte-florence-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
 
 **⚠️ RÈGLE #1 : ZTL Florence — NE JAMAIS entrer dans la ZTL avec le CC (amende 80-300 € par flash).**
 
