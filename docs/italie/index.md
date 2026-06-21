@@ -702,7 +702,6 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | Lac de Côme | **The Camp by Maggiore Suites** | ✅ #32877 | 2 nuits | 154,00 € | **30,80 €** ✔️ Stripe |
 | Florence | **hu Firenze camping in town** | ✅ #314185774 | 3 nuits | 165,00 € | ❌ Carte garantie |
 | Pompéi | **Camping Spartacus** | ⏳ Demande envoyée 17/06 | 2 nuits | ❓ En attente du prix | — |
-
 | Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ✅ Confirmé wubook |
 | Santa Irene | Area Sosta Camper Santa Irene | ❌ Sans résa (étape repos) | 1 nuit | 10,00 € | — |
 | Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | **Payé** ✔️ Sandaya |
