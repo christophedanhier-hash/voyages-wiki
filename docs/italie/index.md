@@ -701,7 +701,8 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | Colmar | Aire CC Schoenau | ❌ Sans résa | 1 nuit | 14,00 € | — |
 | Lac de Côme | **The Camp by Maggiore Suites** | ✅ #32877 | 2 nuits | 154,00 € | **30,80 €** ✔️ Stripe |
 | Florence | **hu Firenze camping in town** | ✅ #314185774 | 3 nuits | 165,00 € | ❌ Carte garantie |
-| Pompéi | **Camping Pompei** | ⏳ Option jusqu'au 24/06 | 2 nuits | **78,00 €** (39€/nuit + taxes) | **39,00 €** ⏳ À virer avant 24/06 |
+| Pompéi | **Camping Spartacus** | ⏳ Demande envoyée 17/06 | 2 nuits | ❓ En attente du prix | — |
+
 | Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ✅ Confirmé wubook |
 | Santa Irene | Area Sosta Camper Santa Irene | ❌ Sans résa (étape repos) | 1 nuit | 10,00 € | — |
 | Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | **Payé** ✔️ Sandaya |
@@ -714,7 +715,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 |:--------|:---------|
 | **The Camp by Maggiore Suites** | Pitch FRONT FR1 (8m ✅). Hauteur 2,5m OK (<2,60m). Check-in 16h. Code portail: 1593. Plaque: 2FUQ668 |
 | **hu Firenze camping in town** | Emplacement 50-60m². Love Pet Pack 15€ (Nala ✅). Check-in 24h/24. Adresse: Via della Chiesa 1/3, 50136 Firenze |
-| **Pompéi** | **Camping Pompei** (Via Plinio 113) — Demande envoyée le 17/06/2026, réponse positive ✅. 39€/nuit + taxes. **Acompte 39€** à verser avant **24/06/2026** sur IBAN **IT65M0306940083100000003935** (Intesa Sanpaolo). Emplacement CC 8m OK. Chiens OK. Option en cours — **⚠️ paiement urgent sous 3 jours !** |
+| **Pompéi** | **Camping Spartacus** (Via Plinio 127) — ✅ Réservation confirmée par email le 17/06 (Emilia). Arrivée prévue ~15h00 le 17/09/2026. CC 8m OK, chiens OK (dog-sitting dispo). Piscine, restaurant, Wi-Fi. **Prix en attente** de confirmation par email. |
 || **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). ✅ Confirmé via wubook (CD-0008). 336€. Politique annulation: 30 jours. Check-in en ligne dispo |
 || **Europa Village** | Réservé via Sandaya (N°06426005202000). **Paiement reçu** ✔️ (email du 14/01/2026). Cavallino-Treporti, bus+ferry ACTV Venise 45 min. Piscine, plage privée, pinède. Chiens sur demande — à confirmer |
 || **Area Sosta Camper Santa Irene** | Simple étape repos (10 €, pas de résa). Rien à voir sur place — juste dormir et repartir.
@@ -743,7 +744,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 - **Aire Schoenau (Colmar)** : pratique pour la pause avant/après l'Italie, gratuite ou ~14€ selon saison
 - **The Camp by Maggiore Suites (Lac de Côme)** : front pitch FR1 (8m OK). Hauteur 2,5m OK (<2,60m). Code portail: 1593
 - **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². Love Pet Pack 15€ pour Nala. Check-in 24h/24. Tram T1 depuis/vers le centre
-- **Pompéi** : ✅ **Camping Pompei** (Via Plinio 113, face entrée fouilles) — demande envoyée 17/06, réponse positive. 39€/nuit + taxes. **⚠️ Acompte 39€ à virer avant 24/06/2026** sur IBAN IT65M0306940083100000003935 (Intesa Sanpaolo). CC 8m OK, chiens OK. Option expire le 24/06 — paiement urgent
+- **Pompéi** : ✅ **Camping Spartacus** (Via Plinio 127, 50m entrée fouilles) — résa confirmée avec Emilia. Arrivée ~15h00 le 17/09. CC 8m OK, chiens OK, dog-sitting dispo 🐕. Piscine, pizzeria, Wi-Fi. Prix en attente
 - **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), taxi, à pied. Centre-ville à 15 min à pied. Voir section dédiée 🚗🚶
 - **Santa Irene** : simple étape repos (aire CC, 10 €), rien à voir sur place
 - **Camping Europa Village (Cavallino)** : réservé via Sandaya (N°06426005202000), payé ✔️. Accès Venise : bus + ferry ACTV (45 min). 4 nuits, 3 jours pleins. Voir section Venise dédiée 🛶
