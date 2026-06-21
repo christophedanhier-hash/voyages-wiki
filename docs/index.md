@@ -34,3 +34,4 @@
 
 👉 **[🏛️ BAVI LEO — Bureaux Agentiques Virtuels](https://christophedanhier-hash.github.io/BAVI_LEO/)**
 👉 **[🛡️ Portail LEO](https://christophedanhier-hash.github.io/hermes-wiki/)**
+📋 **Suivi :** [leo-tracker](https://github.com/christophedanhier-hash/leo-tracker/issues/4) — Kanban avec 8 issues
