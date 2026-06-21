@@ -20,13 +20,11 @@
 
 | Métrique | Valeur |
 |:---------|------:|
-| Métrique | Valeur |
-|:---------|------:|
-| **Sessions LEO** | 9 (dont 1 màj — VAE retirés) |
-| **Messages échangés** | ~220 (vagues 1 + 2 + màj 11/06) |
-| **Appels API DeepSeek** | ~48 |
-| **Outils mobilisés** | ~135 (recherche web, scripts, git, cartes, patches) |
-| **Tokens consommés** | 190 000 IN · 60 000 OUT |
+| **Sessions LEO** | 10 (8 création + 1 màj VAE + 1 màj cartes POI) |
+| **Messages échangés** | ~235 (vagues 1 + 2 + màjs) |
+| **Appels API DeepSeek** | ~55 |
+| **Outils mobilisés** | ~155 (recherche web, scripts, git, cartes, patches, géocodage) |
+| **Tokens consommés** | 210 000 IN · 68 000 OUT |
 | **Coût DeepSeek réel** | **~0,06 €** |
 | **Frais de service BAVI LEO** | **2,50 €** forfait |
 | **Total facturé** | **2,56 €** |
