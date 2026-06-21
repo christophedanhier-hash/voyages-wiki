@@ -701,8 +701,8 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | Colmar | Aire CC Schoenau | ❌ Sans résa | 1 nuit | 14,00 € | — |
 | Lac de Côme | **The Camp by Maggiore Suites** | ✅ #32877 | 2 nuits | 154,00 € | **30,80 €** ✔️ Stripe |
 | Florence | **hu Firenze camping in town** | ✅ #314185774 | 3 nuits | 165,00 € | ❌ Carte garantie |
-| Pompéi | Camping à réserver | ⏳ *Voir ci-dessous* | 2 nuits | ~50-80 € | ❌ |
-| Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ❓ |
+| Pompéi | **Camping Pompei** | ⏳ Option jusqu'au 24/06 | 2 nuits | **78,00 €** (39€/nuit + taxes) | **39,00 €** ⏳ À virer avant 24/06 |
+| Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ✅ Confirmé wubook |
 | Santa Irene | Area Sosta Camper Santa Irene | ❌ Sans résa (étape repos) | 1 nuit | 10,00 € | — |
 | Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | **Payé** ✔️ Sandaya |
 | Lac de Garde | **San Francesco Camping Village** | ✅ #654795826 | 7 nuits | 468,00 € | **140,40 €** ✔️ MC 14/01 |
@@ -714,9 +714,9 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 |:--------|:---------|
 | **The Camp by Maggiore Suites** | Pitch FRONT FR1 (8m ✅). Hauteur 2,5m OK (<2,60m). Check-in 16h. Code portail: 1593. Plaque: 2FUQ668 |
 | **hu Firenze camping in town** | Emplacement 50-60m². Love Pet Pack 15€ (Nala ✅). Check-in 24h/24. Adresse: Via della Chiesa 1/3, 50136 Firenze |
-| **Pompéi** | À réserver. Recommandé : **Camping Spartacus** (Via Plinio 127, 50m des fouilles, chiens OK ✅) ou **Camping Pompei** (face entrée). Tél Spartacus : +39 081 862 40 78 |
-| **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). Confirmé via wubook |
-|| **Europa Village** | Réservé via Sandaya (N°06426005202000). Paiement reçu ✔️. Cavallino-Treporti, bus+ferry ACTV Venise 45 min. Piscine, plage privée, pinède. Chiens sur demande.
+| **Pompéi** | **Camping Pompei** (Via Plinio 113) — Demande envoyée le 17/06/2026, réponse positive ✅. 39€/nuit + taxes. **Acompte 39€** à verser avant **24/06/2026** sur IBAN **IT65M0306940083100000003935** (Intesa Sanpaolo). Emplacement CC 8m OK. Chiens OK. Option en cours — **⚠️ paiement urgent sous 3 jours !** |
+|| **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). ✅ Confirmé via wubook (CD-0008). 336€. Politique annulation: 30 jours. Check-in en ligne dispo |
+|| **Europa Village** | Réservé via Sandaya (N°06426005202000). **Paiement reçu** ✔️ (email du 14/01/2026). Cavallino-Treporti, bus+ferry ACTV Venise 45 min. Piscine, plage privée, pinède. Chiens sur demande — à confirmer |
 || **Area Sosta Camper Santa Irene** | Simple étape repos (10 €, pas de résa). Rien à voir sur place — juste dormir et repartir.
 || **San Francesco Camping Village** | Desenzano del Garda (BS). €140,40 payé le 14/01/2026 via Mastercard (acompte). Solde restant: ~327,60 € |
 
@@ -726,7 +726,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 
 | Poste | Coût |
 |-------|:----:|
-| 🏕️ Campings | ~1 383,80 € |
+| 🏕️ Campings | ~1 423,80 € |
 | 🚗 Locations voiture (2×5j) | ~336,96 € |
 | ⛽ Carburant (estimation) | — |
 | 🛣️ Péages | — |
@@ -743,7 +743,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 - **Aire Schoenau (Colmar)** : pratique pour la pause avant/après l'Italie, gratuite ou ~14€ selon saison
 - **The Camp by Maggiore Suites (Lac de Côme)** : front pitch FR1 (8m OK). Hauteur 2,5m OK (<2,60m). Code portail: 1593
 - **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². Love Pet Pack 15€ pour Nala. Check-in 24h/24. Tram T1 depuis/vers le centre
-- **Pompéi** : camping à réserver. **Camping Spartacus** (Via Plinio 127, 50m des fouilles, chiens OK, tél +39 081 862 40 78) ou **Camping Pompei** (face entrée). Parking Via Plinio possible sans résa
+- **Pompéi** : ✅ **Camping Pompei** (Via Plinio 113, face entrée fouilles) — demande envoyée 17/06, réponse positive. 39€/nuit + taxes. **⚠️ Acompte 39€ à virer avant 24/06/2026** sur IBAN IT65M0306940083100000003935 (Intesa Sanpaolo). CC 8m OK, chiens OK. Option expire le 24/06 — paiement urgent
 - **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), taxi, à pied. Centre-ville à 15 min à pied. Voir section dédiée 🚗🚶
 - **Santa Irene** : simple étape repos (aire CC, 10 €), rien à voir sur place
 - **Camping Europa Village (Cavallino)** : réservé via Sandaya (N°06426005202000), payé ✔️. Accès Venise : bus + ferry ACTV (45 min). 4 nuits, 3 jours pleins. Voir section Venise dédiée 🛶
@@ -765,7 +765,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | Plus long séjour | Pouilles (9 nuits) & Lac de Garde (7 nuits) |
 | KM route | ~4 091 km |
 | Temps route estimé (100 km/h) | ~41h de conduite |
-| Estimation budget campings | ~1 383,80 € |
+| Estimation budget campings | ~1 423,80 € |
 
 ---
 
