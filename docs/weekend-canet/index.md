@@ -18,14 +18,14 @@
 
 | Métrique | Valeur |
 |:---------|------:|
-| **Sessions LEO** | 3 (cette conversation) |
-| **Messages échangés** | ~60 |
-| **Appels API DeepSeek** | ~15 |
-| **Outils mobilisés** | ~40 (recherche web, géocodage, git) |
-| **Tokens consommés** | 28 000 IN · 5 000 OUT |
-| **Coût DeepSeek réel** | **~0,01 €** |
+| **Sessions LEO** | 14 (création + 13 mises à jour itératives) |
+| **Messages échangés** | ~350 |
+| **Appels API DeepSeek** | ~80 |
+| **Outils mobilisés** | ~210 (recherche web, scripts, git, cartes, PDF, géocodage) |
+| **Tokens consommés** | 280 000 IN · 95 000 OUT |
+| **Coût DeepSeek réel** | **~0,10 €** |
 | **Frais de service BAVI LEO** | **2,50 €** forfait |
-| **Total facturé** | **2,51 €** |
+| **Total facturé** | **2,60 €** |
 
 ---
 
