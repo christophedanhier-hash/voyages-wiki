@@ -43,7 +43,7 @@
 | 4 | Lun 14/9 | 🏛️ **Lac de Côme** → **Florence** | 411 km | 1210 | 3 | **hu Firenze camping in town** 🏕️ | 165,00 € |
 | 5 | Mar 15/9 | 🎨 *Visite Florence* | — | 1210 | — | — | — |
 | 6 | Mer 16/9 | 🎨 *Visite Florence* | — | 1210 | — | — | — |
-| 7 | Jeu 17/9 | 🌋 **Florence** → **Pompéi** | 484 km | 1694 | 2 | Fortuna Village Pompei | *en demande* |
+| 7 | Jeu 17/9 | 🌋 **Florence** → **Pompéi** | 484 km | 1694 | 2 | Camping Spartacus | ❓ Prix en attente |
 | 8 | Ven 18/9 | 🏛️ *Visite Pompéi* | — | 1694 | — | — | — |
 | 9 | Sam 19/9 | 🏖️ **Pompéi** → **Monopoli** (Pouilles) | 318 km | 2012 | 9 | Residence Atlantide — Monopoli | 336,00 € |
 | 10 | Dim 20/9 | 🚗 *Arrivée + découverte Monopoli à pied* 🚶 | — | 2012 | — | — | — |
@@ -173,7 +173,7 @@
 
 ### 🌋 Pompéi (J7–J8 · 2 nuits)
 
-**Base :** Fortuna Village Pompei
+**Base :** Camping Spartacus (Via Plinio 127) — à 50m de l'entrée Porta Marina ✅
 
 > 🗺️ **Carte interactive de Pompéi** — Camp de base, sites archéologiques, parcours accessible et restaurants :
 > <iframe src="carte-pompei-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
