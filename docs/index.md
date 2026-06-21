@@ -28,6 +28,14 @@
 
 > 💡 Chaque roadbook inclut une section `💳 Coût du service BAVI LEO` détaillée. Les 3 roadbooks affichent le même format pour une transparence totale. Le coût DeepSeek réel est calculé au tarif v4 Flash ($0,15/1M IN, $0,60/1M OUT). Les frais de service (2,50 €/roadbook) couvrent la maintenance du wiki, les cartes OSM et l'infrastructure BAVI.
 
+### 👤 Par utilisateur
+
+| Utilisateur | Roadbooks | Itérations | Total facturé |
+|:------------|:----------|:----------:|:-------------:|
+| **🧑‍✈️ Christophe (Tof)** | 🇮🇹 Italie | 10 | **2,56 €** |
+| **🤖 Amis (Pascal)** | 🇳🇴 Scandinavie + 🇫🇷 Canet | 24 (10+14) | **5,18 €** |
+| **Total** | **3 roadbooks** | **34** | **7,74 €** |
+
 ---
 
 *Roadbooks générés par le [BAVI LEO Voyages Bot](https://github.com/christophedanhier-hash/BAVI_LEO)*
