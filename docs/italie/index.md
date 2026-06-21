@@ -69,21 +69,25 @@
 | 30 | Sam 10/10 | 🇫🇷 **Lac de Garde** → **Colmar** | 547 km | 3646 | 1 | Aire CC Schoenau | 14,00 € |
 | 31 | Dim 11/10 | 🏁 **Colmar** → **Sombreffe** — *Retour maison* | 445 km | **4091** | — | — | — |
 
-### Distances Haversine (vol d'oiseau)
+### Distances routières & temps estimé (CC à 100 km/h max)
 
-| Trajet | Distance |
-|--------|:-------:|
-| Sombreffe → Colmar | 338 km |
-| Colmar → Lac de Côme | 274 km |
-| Lac de Côme → Florence | 293 km |
-| Florence → Pompéi | 429 km |
-| Pompéi → Monopoli (Pouilles) | 237 km |
-| Pouilles → Santa Irene | 235 km |
-| Santa Irene → Venise | 510 km |
-| Venise → Lac de Garde | 128 km |
-| Lac de Garde → Colmar | 376 km |
-| Colmar → Sombreffe | 338 km |
-| **Total Haversine** | **~3 157 km** |
+| Trajet | Distance route | Temps de route* | Via |
+|:-------|:--------------:|:---------------:|:----|
+| 🏠 **Sombreffe → Colmar** | 446 km | 4h28 | A4/E411 – Luxembourg – A31 |
+| 🏞️ **Colmar → Lac de Côme** | 353 km | 3h32 | A35 – Bâle – Gotthard – Lugano |
+| 🏛️ **Lac de Côme → Florence** | 411 km | 4h07 | A9 – Milan – A1 – Florence |
+| 🌋 **Florence → Pompéi** | 484 km | 4h50 | A1 – Rome – A30 – Pompéi |
+| 🏖️ **Pompéi → Monopoli** | 318 km | 3h11 | A30 – A16 – A14 – Bari |
+| ⬆️ **Monopoli → Santa Irene** | 377 km | 3h46 | A14 adriatique (côté est) |
+| 🛶 **Santa Irene → Venise** | 546 km | 5h28 | A14 – A13 – Venise |
+| 🌊 **Venise → Lac de Garde** | 164 km | 1h38 | A4 – Desenzano |
+| 🏁 **Lac de Garde → Colmar** | 547 km | 5h28 | A4 – Milan – Gotthard – A35 |
+| 🏁 **Colmar → Sombreffe** | 445 km | 4h27 | A31 – Luxembourg – E411/A4 |
+| | **Total** | **40h56** | |
+
+> ⏱️ *Temps de route calculé sur base d'une vitesse constante de **100 km/h** (vitesse max CC sur autoroute). Temps réel à prévoir +15-20% pour pauses, péages, ralentissements.*
+
+> 💡 **Comparaison :** la distance totale route (~4 091 km) est supérieure de ~30% à la distance vol d'oiseau (~3 157 km). En CC à 100 km/h, compter **environ 41h de conduite pures**, soit l'équivalent de **~4 jours pleins au volant** répartis sur les 11 jours de route.
 
 ---
 
@@ -748,7 +752,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | Nuits totales | 30 |
 | Plus long séjour | Pouilles (9 nuits) & Lac de Garde (7 nuits) |
 | KM route | ~4 091 km |
-| KM Haversine | ~3 157 km |
+| Temps route estimé (100 km/h) | ~41h de conduite |
 | Estimation budget campings | ~1 383,80 € |
 
 ---
