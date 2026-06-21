@@ -27,7 +27,7 @@ _Roadbook préparatoire — Premier test du Bureau Sylvie (BAVI LEO)_
 
 | Métrique | Valeur |
 |:---------|------:|
-| **Sessions LEO** | 9 (8 création + 1 mise à jour Stockholm) |
+| **Sessions LEO** | 10 (9 création + màjs + 1 carte Stockholm POIs) |
 | **Messages échangés** | 120 |
 | **Appels API DeepSeek** | 28 |
 | **Outils mobilisés** | 86 (recherche web, géocodage, carte folium, git) |
