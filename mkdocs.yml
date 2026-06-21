@@ -35,6 +35,11 @@ nav:
     - 🇳🇴 Scandinavie (08→10/2026): scandinavie-2026/index.md
     - 🇫🇷 Canet (06/2026): weekend-canet/index.md
 
+  - 🌐 Multisites:
+    - 🛡️ Portail LEO: https://christophedanhier-hash.github.io/hermes-wiki/
+    - 🏛️ BAVI LEO: https://christophedanhier-hash.github.io/BAVI_LEO/
+    - 🔭 Wiki OCA: https://christophedanhier-hash.github.io/wiki-oca/
+
 markdown_extensions:
   - admonition
   - pymdownx.details
