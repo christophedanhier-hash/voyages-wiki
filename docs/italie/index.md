@@ -20,7 +20,7 @@
 
 | Métrique | Valeur |
 |:---------|------:|
-| **Sessions LEO** | 10 (8 création + 1 màj VAE + 1 màj cartes POI) |
+| **Sessions LEO** | 11 (8 création + 1 màj VAE + 1 màj cartes POI + 1 correctif icônes) |
 | **Messages échangés** | ~235 (vagues 1 + 2 + màjs) |
 | **Appels API DeepSeek** | ~55 |
 | **Outils mobilisés** | ~155 (recherche web, scripts, git, cartes, patches, géocodage) |

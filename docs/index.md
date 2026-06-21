@@ -21,10 +21,10 @@
 
 | Roadbook | Itérations | DeepSeek réel | Frais service | Total facturé |
 |----------|:----------:|:-------------:|:-------------:|:-------------:|
-| **🇮🇹 Italie** | 10 | ~0,06 € | 2,50 € | **2,56 €** |
+| **🇮🇹 Italie** | 11 | ~0,06 € | 2,50 € | **2,56 €** |
 | **🇳🇴 Scandinavie** | 10 | ~0,08 € | 2,50 € | **2,58 €** |
 | **🇫🇷 Canet** | 14 | ~0,10 € | 2,50 € | **2,60 €** |
-| **Total BAVI LEO** | **34** | | | **7,74 €** |
+| **Total BAVI LEO** | **35** | | | **7,74 €** |
 
 > 💡 Chaque roadbook inclut une section `💳 Coût du service BAVI LEO` détaillée. Les 3 roadbooks affichent le même format pour une transparence totale. Le coût DeepSeek réel est calculé au tarif v4 Flash ($0,15/1M IN, $0,60/1M OUT). Les frais de service (2,50 €/roadbook) couvrent la maintenance du wiki, les cartes OSM et l'infrastructure BAVI.
 
@@ -32,9 +32,9 @@
 
 | Utilisateur | Roadbooks | Itérations | Total facturé |
 |:------------|:----------|:----------:|:-------------:|
-| **🧑‍✈️ Christophe (Tof)** | 🇮🇹 Italie | 10 | **2,56 €** |
+| **🧑‍✈️ Christophe (Tof)** | 🇮🇹 Italie | 11 | **2,56 €** |
 | **🤖 Amis (Pascal)** | 🇳🇴 Scandinavie + 🇫🇷 Canet | 24 (10+14) | **5,18 €** |
-| **Total** | **3 roadbooks** | **34** | **7,74 €** |
+| **Total** | **3 roadbooks** | **35** | **7,74 €** |
 
 ---
 
