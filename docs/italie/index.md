@@ -20,11 +20,11 @@
 
 | Métrique | Valeur |
 |:---------|------:|
-| **Sessions LEO** | 11 (8 création + 1 màj VAE + 1 màj cartes POI + 1 correctif icônes) |
-| **Messages échangés** | ~235 (vagues 1 + 2 + màjs) |
-| **Appels API DeepSeek** | ~55 |
-| **Outils mobilisés** | ~155 (recherche web, scripts, git, cartes, patches, géocodage) |
-| **Tokens consommés** | 210 000 IN · 68 000 OUT |
+| **Sessions LEO** | 12 (8 création + 1 VAE + 1 cartes Côme/Florence + 1 correctif icônes + 1 cartes Pompéi/Monopoli/Venise/Garde) |
+| **Messages échangés** | ~260 |
+| **Appels API DeepSeek** | ~65 |
+| **Outils mobilisés** | ~185 (recherche web, scripts, git, cartes, patches, géocodage) |
+| **Tokens consommés** | 240 000 IN · 78 000 OUT |
 | **Coût DeepSeek réel** | **~0,06 €** |
 | **Frais de service BAVI LEO** | **2,50 €** forfait |
 | **Total facturé** | **2,56 €** |
@@ -175,6 +175,9 @@
 
 **Base :** Fortuna Village Pompei
 
+> 🗺️ **Carte interactive de Pompéi** — Camp de base, sites archéologiques, parcours accessible et restaurants :
+> <iframe src="carte-pompei-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
+
 **🎭 Parcours adapté à Sylvie :**
 
 Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. Mais il existe un **parcours accessible « Pompei per tutti »** :
@@ -235,6 +238,9 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 ### 🏖️ Monopoli — Pouilles (J9–J17 · 9 nuits)
 
 **🏠 Base :** Residence Atlantide (C.da Lamandia 13/E, Monopoli) — le CC reste **garé** pendant tout le séjour (9 nuits). Déplacements : à pied 🚶, taxi 🚕 ou voiture de location 🚗.
+
+> 🗺️ **Carte interactive des Pouilles** — Camp de base (Monopoli), sites à pied, excursions en voiture et restaurants :
+> <iframe src="carte-monopoli-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
 
 **🚗 Location voiture :** Sunny Cars réservation **#15253750** — 5 jours (Lun 21 → Ven 25/9). Idéal pour rayonner : Alberobello, Ostuni, Lecce, Matera à portée.
 
@@ -398,6 +404,9 @@ Les 2 jours sans voiture (Sam 26 + Dim 27/9) se feront à pied ou en taxi pour l
 
 **🏠 Base :** Camping **Europa Village** ⭐⭐⭐⭐⭐ — Via Fausta 332, Cavallino-Treporti. Réservé via Sandaya (N°06426005202000) — **payé** ✔️
 
+> 🗺️ **Carte interactive de Venise** — Camp de base (Cavallino), sites culturels, îles et trajet ferry :
+> <iframe src="carte-venise-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
+
 **🚐 CC :** Garé au camping pendant tout le séjour. Accès Venise uniquement par **bus + ferry** (pas de voiture dans Venise).
 
 **🚌 Accès Venise :**
@@ -540,6 +549,9 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 ### 🌊 Lac de Garde — Desenzano (J23–J29 · 7 nuits · 6 jours)
 
 **🏠 Base :** **San Francesco Camping Village** — Desenzano del Garda (BS). ⭐⭐⭐⭐. Réservé #654795826. Acompte 140,40 € payé ✔️ MC.
+
+> 🗺️ **Carte interactive du Lac de Garde** — Camp de base, rives sud/est/nord et excursion Vérone :
+> <iframe src="carte-garde-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
 
 **🚐 CC :** Garé au camping. Location voiture Sunny Cars **#15253704** — 5 jours (Lun 5 → Ven 9/10).
 
