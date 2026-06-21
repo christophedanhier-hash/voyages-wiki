@@ -12,7 +12,7 @@
 | **Véhicule** | Camping-car 8m × 2,4m (hauteur 2,5m) |
 | **Mobilité** | Sylvie : max 5-7 km/j à pied. Balades à **vélo électrique** possible (20-30 km/j) |
 | **Nala** | Reste au CC climatisé pendant les visites culturelles |
-| **Équipement** | 2 vélos électriques — vérifier pistes cyclables et parkings sécurisés |
+| **Équipement** | Pas de vélos à bord — location possible sur place si besoin (Lac de Garde, Venise Lido) |
 
 ---
 
@@ -20,11 +20,13 @@
 
 | Métrique | Valeur |
 |:---------|------:|
-| **Sessions LEO** | 8 (cette conversation) |
-| **Messages échangés** | ~210 (vagues 1 + 2) |
-| **Appels API DeepSeek** | ~45 |
-| **Outils mobilisés** | ~120 (recherche web, scripts, git, cartes) |
-| **Tokens consommés** | 175 684 IN · 55 320 OUT |
+| Métrique | Valeur |
+|:---------|------:|
+| **Sessions LEO** | 9 (dont 1 màj — VAE retirés) |
+| **Messages échangés** | ~220 (vagues 1 + 2 + màj 11/06) |
+| **Appels API DeepSeek** | ~48 |
+| **Outils mobilisés** | ~135 (recherche web, scripts, git, cartes, patches) |
+| **Tokens consommés** | 190 000 IN · 60 000 OUT |
 | **Coût DeepSeek réel** | **~0,06 €** |
 | **Frais de service BAVI LEO** | **2,50 €** forfait |
 | **Total facturé** | **2,56 €** |
@@ -52,20 +54,20 @@
 | 13 | Mer 23/9 | 🚗 *Jour 3 voiture — Lecce ou Matera* 🌆 | — | 2012 | — | — | — |
 | 14 | Jeu 24/9 | 🚗 *Jour 4 voiture — Au choix* 🎯 | — | 2012 | — | — | — |
 | 15 | Ven 25/9 | 🚗 *Jour 5 voiture — Dernier rayonnement* 🚙 | — | 2012 | — | — | — |
-| 16 | Sam 26/9 | 🚲 *Balade vélo & plages* 🏖️ | — | 2012 | — | — | — |
-| 17 | Dim 27/9 | 🚲 *Dernier jour — farniente & criques* ☀️ | — | 2012 | — | — | — |
+| 16 | Sam 26/9 | ☀️ *Plages & criques* 🏖️ | — | 2012 | — | — | — |
+| 17 | Dim 27/9 | ☀️ *Dernier jour — farniente & criques* ☀️ | — | 2012 | — | — | — |
 | 18 | Lun 28/9 | ⬆️ **Monopoli** → **Santa Irene** (simple étape repos) | 377 km | 2389 | 1 | Area Sosta Camper Santa Irene | 10,00 € |
 | 19 | Mar 29/9 | 🛶 **Santa Irene** → **Venise** (Cavallino) | 546 km | 2935 | 4 | Camping Europa Village — Cavallino-Treporti | 222,80 € |
 | 20 | Mer 30/9 | 🎭 *Jour 1 Venise — Cœur historique* 🏛️ | — | 2935 | — | — | — |
 | 21 | Jeu 1/10 | 🏝️ *Jour 2 Venise — Murano & Burano* 🎨 | — | 2935 | — | — | — |
 | 22 | Ven 2/10 | 🚲 *Jour 3 Venise — Lido ou quartiers au choix* 🎯 | — | 2935 | — | — | — |
 | 23 | Sam 3/10 | 🌊 **Venise** → **Lac de Garde** | 164 km | 3099 | 7 | San Francesco Camping Village | 468,00 € |
-| 24 | Dim 4/10 | 🏖️ *Installation + balade Desenzano à vélo* 🚲 | — | 3099 | — | — | — |
+| 24 | Dim 4/10 | 🏖️ *Installation + balade Desenzano à pied* 🚶 | — | 3099 | — | — | — |
 | 25 | Lun 5/10 | 🚗 *Jour 1 voiture — Sirmione + rive ouest* 🏰 | — | 3099 | — | — | — |
 | 26 | Mar 6/10 | 🚗 *Jour 2 voiture — Rive est & nord* 🏔️ | — | 3099 | — | — | — |
 | 27 | Mer 7/10 | 🚗 *Jour 3 voiture — Vérone* 🏛️ | — | 3099 | — | — | — |
 | 28 | Jeu 8/10 | 🚗 *Jour 4 voiture — Riva del Garda* 🌊 | — | 3099 | — | — | — |
-| 29 | Ven 9/10 | 🚲 *Dernier jour — vélo plages & farniente* ☀️ | — | 3099 | — | — | — |
+| 29 | Ven 9/10 | ☀️ *Dernier jour — farniente & plages* ☀️ | — | 3099 | — | — | — |
 | 30 | Sam 10/10 | 🇫🇷 **Lac de Garde** → **Colmar** | 547 km | 3646 | 1 | Aire CC Schoenau | 14,00 € |
 | 31 | Dim 11/10 | 🏁 **Colmar** → **Sombreffe** — *Retour maison* | 445 km | **4091** | — | — | — |
 
@@ -248,8 +250,8 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 | 🌆 | Mer 23/9 | **Grande excursion** : Matera (Sassi UNESCO) toute la journée | 🚗 |
 | 🎯 | Jeu 24/9 | **Lecce** (Florence du Sud) ou Castellana Grotte | 🚗 |
 | 🚙 | Ven 25/9 | **Polignano a Mare** matin + dernier rayonnement | 🚗 |
-| 🚲 | Sam 26/9 | Balade vélo côtière + plages & criques | 🚲 |
-| ☀️ | Dim 27/9 | Dernier jour — farniente, criques, gelato | 🚶🚲 |
+| | ☀️ | Sam 26/9 | Plages & criques côtières 🏖️ | 🚶 |
+| | ☀️ | Dim 27/9 | Dernier jour — farniente, criques, gelato 🍨 | 🚶 |
 | ⬆️ | Lun 28/9 | Départ → Santa Irene | 🚐 |
 
 **🎭 Visites à pied dans Monopoli (accessible Sylvie ✅) :**
@@ -345,18 +347,18 @@ Le centre historique est compact et plat — se visite en **1-2h** à votre ryth
 
 ---
 
-### 🚲 Balades à vélo électrique
+### 🚶 Balades à pied & baignade
 
-Les vélos sont depuis Monopoli (20-30 km/jour max pour Sylvie).
+Les 2 jours sans voiture (Sam 26 + Dim 27/9) se feront à pied ou en taxi pour les criques :
 
-| Itinéraire | Distance | Dénivelé | Départ | Description |
-|:-----------|:--------:|:--------:|:-------|:------------|
-| **Côte sud** — criques en chaîne | 8-12 km A/R | Plat ✅ | Centre de Monopoli | Porto Bianco → Porto Rosso → Porto Ghiacciolo (bains, criques, eau turquoise) |
-| **Polignano a Mare par la côte** | 16 km A/R | Plat ✅ | Monopoli nord | Lido Bianco → Cala Ponte — piste côtière plate, vélo parfait |
-| **Oliveraies et campagne** | 20-25 km | Léger | Monopoli | Route vers les oliveraies millénaires et fermes agricoles (masseria) |
-| **Boucle Alberobello (téméraire)** | 42 km A/R | 750 m D+ | Monopoli | Monopoli → Castellana → Alberobello — sportif, VAE nécessaire |
+| Balade | Distance | Temps | Description |
+|:-----------|:--------:|:-----:|:------------|
+| **Criques sud à pied** (Porto Bianco → Porto Rosso → Porto Ghiacciolo) | 4-5 km A/R | 1h-1h30 | Accessible à pied depuis la résidence, eau turquoise, chaussures d'eau recommandées |
+| **Monopoli centre → vieille ville** | 2 km A/R | 1h | Centre historique plat ✅, port, remparts |
+| **Polignano a Mare en taxi 🚕** | 10 min de trajet | 2-3h sur place | Possible en taxi si envie de voir les falaises |
 
-> 💡 **Pour Sylvie :** les balades côtières sud et vers Polignano sont parfaites — plates, paysages magnifiques, pauses baignade possibles.
+> 💡 **Pour Sylvie :** les criques sud (Porto Bianco, Porto Ghiacciolo) sont accessibles à pied (~20-25 min de la résidence), plat ✅. Sinon, une petite course en taxi pour aller plus loin.
+> 🚲 **Location de vélos sur place ?** Monopoli n'a pas de location VAE évidente — privilégier marche + taxi + farniente plage.
 
 ---
 
@@ -475,12 +477,12 @@ Les vélos sont depuis Monopoli (20-30 km/jour max pour Sylvie).
 | 14h30 | 🚲 Balade plages + San Nicolò |
 | 16h | Retour camping |
 
-- **Lido** : 11 km de long, plat ✅, parfait pour les VAE. Piste cyclable tout du long. Plage libre ou privée.
-- **Location VAE :** ~15-20 €/demi-journée (via *BiciLido* ou *Venezia Bike* à Santa Maria Elisabetta).
+- **Lido** : 11 km de long, plat ✅, parfait pour le vélo. Piste cyclable tout du long. Plage libre ou privée.
+- **Location vélo :** ~15-20 €/demi-journée (via *BiciLido* ou *Venezia Bike* à Santa Maria Elisabetta).
 - **Parcours :** Santa Maria Elisabetta → San Nicolò (phare, vue lagune) → plage nord → retour par le sud.
 - **Vélo sur le vaporetto :** autorisé sur les lignes de lagune (Lido, Punta Sabbioni) — pas de supplément.
 
-> ✅ **Pour Sylvie :** 11 km plat, vélo électrique, pauses glace et plage — parfait.
+> ✅ **Pour Sylvie :** 11 km plat, location vélo possible, pauses glace et plage — parfait.
 
 **Option B — Quartiers hors des sentiers battus 🚶**
 
@@ -499,15 +501,17 @@ Les vélos sont depuis Monopoli (20-30 km/jour max pour Sylvie).
 
 ---
 
-### 🚲 Balade vélo autour du camping
+### 🚶 Balades & alternatives sans vélo
 
-| Itinéraire | Distance | Dénivelé | Description |
-|:-----------|:--------:|:--------:|:------------|
-| **Punta Sabbioni → Lio Piccolo** (réserve naturelle) | 20 km A/R | Plat ✅ | Piste cyclable le long de la lagune, oiseaux, cabanes de pêcheurs |
-| **Cavallino — plage nord** | 10 km A/R | Plat ✅ | Front de mer, dunes, pinède |
-| **Punta Sabbioni — ferry** | 5 km A/R | Plat ✅ | Accès camping → ferry (pratique pour prendre le bateau avec les vélos) |
+Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 
-> 💡 La côte de Cavallino est **plate et cyclable** — idéal pour une balade VAE en fin de journée.
+| Option | Description | Accès |
+|:-------|:------------|:-----:|
+| **Option A** — Retour sur Venise pour flâner dans les quartiers calmes (Cannaregio, Castello, Dorsoduro) | Balade piétonne, cicchetti, atmosphère authentique | Bus + ferry ACTV |
+| **Option B** — Journée piscine & plage au camping Europa Village | Piscine, plage privée, pinède — farniente 😎 | Sur place |
+| **Option C** — Balade à vélo au Lido (location sur place 🚲) | 15-20 €/demi-journée via BiciLido ou Venezia Bike | Vaporetto jusqu'au Lido |
+
+> 💡 Si l'envie de faire du vélo au Lido vous prend, c'est possible en location — pas besoin d'avoir vos VAE avec vous.
 
 ---
 
@@ -530,7 +534,7 @@ Les vélos sont depuis Monopoli (20-30 km/jour max pour Sylvie).
 - **Pass ACTV 72h** : le plus rentable (bus+ferry Cavallino + vaporetto illimité ~45 €). Sinon tickets unité 9,50 €/trajet.
 - **Marées (acqua alta)** : fin septembre possible mais rare. Consulvier aprevisioni su [Comune Venezia](https://www.comune.venezia.it).
 - **Réserver les billets coupe-file** pour Palais des Doges et Basilique Saint-Marc — éviter 1-2h de queue.
-- **Vélo au camping** : vérifier que le camping accepte les VAE (parking sécurisé). Les vélos peuvent être posés devant l'emplacement CC.
+- **Vélo au camping** : des vélos sont disponibles à la location dans la région.
 
 ---
 
@@ -636,16 +640,18 @@ Les vélos sont depuis Monopoli (20-30 km/jour max pour Sylvie).
 
 ---
 
-### 🚲 Balades à vélo électrique
+### 🚲 Balades à vélo (location sur place)
 
-| Itinéraire | Distance | Dénivelé | Description |
+**Pas de VAE à bord**, mais le **San Francesco Camping Village loue des vélos** 🚲 (demander à l'accueil). Sinon, les balades ci-dessous sont faisables à pied ou en bus :
+
+| Balade | Distance | Dénivelé | En pratique |
 |:-----------|:--------:|:--------:|:------------|
-| **Desenzano → Sirmione** (piste cyclable lac) | 24 km A/R | Plat ✅ | Piste aménagée, vue lac, arrêt baignade à Sirmione |
-| **Desenzano → Salò** (rive ouest) | 16 km A/R | Plat ✅ | Promenade bord de lac, cafés à Salò |
-| **Boucle du camping** (arrière-pays) | 15-20 km | Léger | Collines de Desenzano, oliveraies et vignes |
-| **Tour du port → plages sud** | 10 km A/R | Plat ✅ | Plages de sable fin, eau peu profonde |
+| **Desenzano → Sirmione** (piste cyclable lac) | 24 km A/R | Plat ✅ | Location au camping possible. Sinon, bus ligne LN010-LN026 Depuis Desenzano |
+| **Desenzano → Salò** (rive ouest) | 16 km A/R | Plat ✅ | Accessible à pied jusqu'au port de Desenzano pour la promenade |
+| **Tour du port → plages sud** | 3 km A/R | Plat ✅ | À pied depuis le camping ✅ |
+| **Promenade Desenzano centre** | 2 km | Plat ✅ | À pied, château, port, plage publique |
 
-> 💡 Location de vélos directement au **San Francesco Camping Village** 🚲. Parcours plats majoritairement.
+> 💡 Location de vélos directement au **San Francesco Camping Village** 🚲 si l'envie vous prend sur place. La piste Desenzano→Sirmione est vraiment belle — à faire en location si vous vous sentez motivés un dimanche 🌅
 
 ### 🍝 Manger autour du lac
 
