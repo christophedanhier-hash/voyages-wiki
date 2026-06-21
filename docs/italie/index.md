@@ -10,7 +10,7 @@
 |:---|:---|
 | **Voyageurs** | Christophe, Sylvie + 🐕 Nala |
 | **Véhicule** | Camping-car 8m × 2,4m (hauteur 2,5m) |
-| **Mobilité** | Sylvie : max 5-7 km/j à pied. Balades à **vélo électrique** possible (20-30 km/j) |
+| **Mobilité** | Sylvie : max 5-7 km/j à pied. Pas de VAE à bord — transports : à pied, taxi, bus, voiture de location |
 | **Nala** | Reste au CC climatisé pendant les visites culturelles |
 | **Équipement** | Pas de vélos à bord — location possible sur place si besoin (Lac de Garde, Venise Lido) |
 
@@ -60,7 +60,7 @@
 | 19 | Mar 29/9 | 🛶 **Santa Irene** → **Venise** (Cavallino) | 546 km | 2935 | 4 | Camping Europa Village — Cavallino-Treporti | 222,80 € |
 | 20 | Mer 30/9 | 🎭 *Jour 1 Venise — Cœur historique* 🏛️ | — | 2935 | — | — | — |
 | 21 | Jeu 1/10 | 🏝️ *Jour 2 Venise — Murano & Burano* 🎨 | — | 2935 | — | — | — |
-| 22 | Ven 2/10 | 🚲 *Jour 3 Venise — Lido ou quartiers au choix* 🎯 | — | 2935 | — | — | — |
+| 22 | Ven 2/10 | 🛶 *Jour 3 Venise — Lido ou quartiers au choix* 🎯 | — | 2935 | — | — | — |
 | 23 | Sam 3/10 | 🌊 **Venise** → **Lac de Garde** | 164 km | 3099 | 7 | San Francesco Camping Village | 468,00 € |
 | 24 | Dim 4/10 | 🏖️ *Installation + balade Desenzano à pied* 🚶 | — | 3099 | — | — | — |
 | 25 | Lun 5/10 | 🚗 *Jour 1 voiture — Sirmione + rive ouest* 🏰 | — | 3099 | — | — | — |
@@ -107,13 +107,12 @@
 
 **🛥️ Meilleur plan :** Prendre le **Pass Centro Lago** (15 €/jour, ferry illimité) pour enchaîner Menaggio → Bellagio → Varenna → Tremezzo dans la journée. Le ferry est accessible, peu de marche à chaque arrêt.
 
-**🚲 Balade vélo électrique (20-30 km) :**
+**🎯 Balades à pied & ferry :**
 
-| Itinéraire | Distance | Dénivelé | Départ |
-|:-----------|:--------:|:--------:|:-------|
-| **Menaggio → Porlezza** (piste ex-voie ferrée) | 13,5 km → 27 km A/R | Plat ✅ | À 3 km du camping |
-| **Gera Lario → Dongo** (bord lac) | 10 km → 20 km A/R | Plat ✅ | Rive nord |
-| **Greenway del Lago** (fractionnable) | 10 km | Léger | Tremezzo → Cadenabbia |
+| Activité | Temps | Accès |
+|:---------|:-----:|:------|
+| **Menaggio → Porlezza** (piste ex-voie ferrée, marche) | 30 min → 1h A/R | À pied depuis le camping |
+| **Ferry Menaggio → Bellagio → Varenna** | 45 min de traversée | Départ du centre Menaggio
 
 **⚠️ Astuces CC 8m :**
 - Ne pas prendre le CC dans Bellagio (ruelles trop étroites)
@@ -146,19 +145,11 @@
 : Tram T1 (gare SMN) → **Duomo** (extérieur + intérieur, gratuit, accessible) → **Accademia — David** (650 m, rampe à droite, ascenseur ✅) → Déjeuner → **Piazza Signoria** (300 m, plat) → **Galerie des Offices** (250 m, rampe via della Ninna, ascenseurs ✅, ~2h) → **Ponte Vecchio** (250 m, piéton, plat) → Tram retour
 
 **Jour 2 — Oltrarno + Piazzale Michelangelo (~4 km, côte modérée)**
-: Tram T1 → **Palazzo Pitti** (depuis Ponte Vecchio, 500 m) → **Jardins de Boboli** (accès direct, terrain vallonné) → Déjeuner Oltrarno → **Piazzale Michelangelo** (1,5 km montée — à faire **à vélo électrique** ou bus 12/13) → Panorama 360° sur Florence
+: Tram T1 → **Palazzo Pitti** (depuis Ponte Vecchio, 500 m) → **Jardins de Boboli** (accès direct, terrain vallonné) → Déjeuner Oltrarno → **Piazzale Michelangelo** (1,5 km montée — à faire **en bus 12/13**) → Panorama 360° sur Florence
 
 **🎟️ Billets coupe-file** : Réserver Uffizi et Accademia sur [B-ticket.com](https://www.b-ticket.com) ou [Uffizi.it](https://www.uffizi.it). Sans réservation, compter 2-3h de queue l'été.
 
-**🚲 Balade vélo électrique :**
-
-| Itinéraire | Distance | Dénivelé | Départ |
-|:-----------|:--------:|:--------:|:-------|
-| **Montée au Piazzale Michelangelo** | 3 km aller | Côte ✅ (VAE) | Du centre |
-| **Piste Arno → Parc delle Cascine** | 3 km → 6 km A/R | Plat ✅ | Lungarno |
-| **Florence → Fiesole** (vue panoramique) | 8 km → 16 km A/R | Côte ✅ (VAE) | Depuis Scandicci |
-
-**Location VAE :** Fat Tire Tours (centre) ~15 €/2h, Unlimited Biking ~40 €/journée.
+**🎯 Accès Piazzale Michelangelo :** bus 12/13 depuis le centre. La montée en bus est simple et économique (~1,50 €).
 
 ### 🍝 Manger à Florence
 
@@ -235,7 +226,7 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 
 ### 🏖️ Monopoli — Pouilles (J9–J17 · 9 nuits)
 
-**🏠 Base :** Residence Atlantide (C.da Lamandia 13/E, Monopoli) — le CC reste **garé** pendant tout le séjour (9 nuits). Déplacements uniquement à pied 🚶, vélo 🚲, taxi 🚕 ou voiture de location 🚗.
+**🏠 Base :** Residence Atlantide (C.da Lamandia 13/E, Monopoli) — le CC reste **garé** pendant tout le séjour (9 nuits). Déplacements : à pied 🚶, taxi 🚕 ou voiture de location 🚗.
 
 **🚗 Location voiture :** Sunny Cars réservation **#15253750** — 5 jours (Lun 21 → Ven 25/9). Idéal pour rayonner : Alberobello, Ostuni, Lecce, Matera à portée.
 
@@ -244,7 +235,7 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 | Jour | Date | Activité | Transport |
 |:----:|:----:|----------|:---------:|
 | 🏁 | Sam 19/9 | Arrivée, installation — promenade Monopoli à pied | 🚶 |
-| 🚶 | Dim 20/9 | Découverte Monopoli centre, port, criques | 🚶🚲 |
+| 🚶 | Dim 20/9 | Découverte Monopoli centre, port, criques | 🚶 |
 | 🏡 | Lun 21/9 | **Vallée des Trulli** : Alberobello, Locorotondo, Martina Franca | 🚗 |
 | 🏛️ | Mar 22/9 | **Côte sud** : Ostuni + plages Torre Canne → Capitolo | 🚗 |
 | 🌆 | Mer 23/9 | **Grande excursion** : Matera (Sassi UNESCO) toute la journée | 🚗 |
@@ -392,7 +383,7 @@ Les 2 jours sans voiture (Sam 26 + Dim 27/9) se feront à pied ou en taxi pour l
 
 - **Residence Atlantide :** C.da Lamandia 13/E, Monopoli. 9 nuits confirmées via wubook (CD-0008).
 - **Sunny Cars #15253750** : vérifier si l'agence livre à Monopoli ou si navette Bari.
-- **🔑 Le CC reste à la Residence** pendant tout le séjour — transports : location voiture, vélo, taxi ou à pied.
+- **🔑 Le CC reste à la Residence** pendant tout le séjour — transports : location voiture, taxi ou à pied.
 - **⚠️ ZTL :** de nombreuses villes des Pouilles (Ostuni, Martina Franca, Lecce, Polignano) ont des ZTL. **Ne pas entrer dans les centres historiques** avec la voiture de location. Parking en périphérie toujours (1-2 €/h).
 
 ### 🛶 Venise — Cavallino (J19–J22 · 4 nuits · 3 jours pleins)
@@ -467,7 +458,7 @@ Les 2 jours sans voiture (Sam 26 + Dim 27/9) se feront à pied ou en taxi pour l
 
 **🗓️ Jour 3 — Au choix (Ven 2/10) 🎯**
 
-**Option A — Lido di Venezia à vélo 🚲 (recommandé si en forme)**
+**Option A — Lido di Venezia (location vélo possible sur place) 🚤**
 
 | Horaire | Activité |
 |:-------:|:---------|
@@ -549,17 +540,17 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | Jour | Date | Activité | Transport |
 |:----:|:----:|----------|:---------:|
 | 🏁 | Sam 3/10 | Arrivée, installation — balade Desenzano à pied | 🚶 |
-| 🏖️ | Dim 4/10 | Découverte Desenzano + balade vélo côtière | 🚲 |
+| 🏖️ | Dim 4/10 | Découverte Desenzano + balade à pied 🚶 | 🚶 |
 | 🏰 | Lun 5/10 | **Jour 1 voiture — Sirmione + rive ouest** | 🚗 |
 | 🏔️ | Mar 6/10 | **Jour 2 voiture — Rive est** (Malcesine, Torri) | 🚗 |
 | 🏛️ | Mer 7/10 | **Jour 3 voiture — Vérone** (journée) | 🚗 |
 | 🌊 | Jeu 8/10 | **Jour 4 voiture — Riva del Garda + nord** | 🚗 |
-| 🚲 | Ven 9/10 | Dernier jour — vélo, plages, farniente | 🚲 |
+| ☀️ | Ven 9/10 | Dernier jour — plages, farniente, piscine 🏖️ | 🚶 |
 | ⬆️ | Sam 10/10 | Départ → Colmar | 🚐 |
 
 ---
 
-**🎭 Visites à pied / vélo à Desenzano (accessible ✅) :**
+**🎭 Visites à pied à Desenzano (accessible ✅) :**
 
 | Site | Description | Temps | Entrée |
 |:-----|:------------|:-----:|:------:|
@@ -568,7 +559,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | 🚤 **Port de Desenzano** | Embarcadère ferries, promenade, bars | Libre | Gratuit |
 | 🏖️ **Spaggia d'Desenzano** | Plage publique près du centre | Libre | Gratuit |
 
-> 💡 **Piste cyclable Desenzano → Sirmione** : ~12 km longeant le lac, plate ✅. Parcours magnifique en VAE. Location vélos au camping.
+> 💡 **Piste cyclable Desenzano → Sirmione** : ~12 km longeant le lac, plate ✅. Location de vélos possible au camping si envie.
 
 ---
 
@@ -640,7 +631,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 
 ---
 
-### 🚲 Balades à vélo (location sur place)
+### 🚶 Balades & location vélo possible
 
 **Pas de VAE à bord**, mais le **San Francesco Camping Village loue des vélos** 🚲 (demander à l'accueil). Sinon, les balades ci-dessous sont faisables à pied ou en bus :
 
@@ -673,7 +664,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 - **⚠️ ZTL :** active dans Sirmione, Malcesine, Salò, Vérone. Se garer en périphérie.
 - **Parking recommandé Sirmione :** Parcheggio Montebaldo (grand, ombragé, 2 €/h).
 - **Ferry lac de Garde :** possibilité de traverser le lac en bateau (Desenzano → Malcesine, etc.). Voiture possible sur certaines lignes.
-- **Dernier jour (Ven 9/10) :** profiter de la piscine du camping, balade vélo, plage. Dernier soir au lac ❤️.
+- **Dernier jour (Ven 9/10) :** profiter de la piscine du camping, plage. Dernier soir au lac ❤️.
 ## 🗺️ Carte du trajet
 
 
@@ -733,10 +724,10 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 - **The Camp by Maggiore Suites (Lac de Côme)** : front pitch FR1 (8m OK). Hauteur 2,5m OK (<2,60m). Code portail: 1593
 - **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². Love Pet Pack 15€ pour Nala. Check-in 24h/24. Tram T1 depuis/vers le centre
 - **Pompéi** : camping à réserver. **Camping Spartacus** (Via Plinio 127, 50m des fouilles, chiens OK, tél +39 081 862 40 78) ou **Camping Pompei** (face entrée). Parking Via Plinio possible sans résa
-- **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), vélo, taxi, à pied. Centre-ville à 15 min à pied. Voir section dédiée 🚗🚲
+- **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), taxi, à pied. Centre-ville à 15 min à pied. Voir section dédiée 🚗🚶
 - **Santa Irene** : simple étape repos (aire CC, 10 €), rien à voir sur place
 - **Camping Europa Village (Cavallino)** : réservé via Sandaya (N°06426005202000), payé ✔️. Accès Venise : bus + ferry ACTV (45 min). 4 nuits, 3 jours pleins. Voir section Venise dédiée 🛶
-- **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte 140,40 € payé le 14/01/2026. Solde ~327,60 €. Piscine, plage, location vélos. Sunny Cars #15253704 (5j). Voir section dédiée 🚗🚲
+- **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte 140,40 € payé le 14/01/2026. Solde ~327,60 €. Piscine, plage. Location vélos sur place. Sunny Cars #15253704 (5j). Voir section dédiée 🚗🚶
 - **Location voiture** : prévue 2 fois (Pouilles + Lac de Garde) via Sunny Cars (réservations #15253750 et #15253704)
 - **⚠️ Attention hauteur CC 2,5m** : vérifier les parkings souterrains et entrées de ville. Florence ZTL interdite au CC. Parkings conseillés en périphérie (Scandicci, Villa Costanza)
 
