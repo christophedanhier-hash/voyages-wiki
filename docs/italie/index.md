@@ -14,7 +14,7 @@
 | **Nala** | Reste au CC climatisé pendant les visites culturelles |
 | **Équipement** | Pas de vélos à bord — location possible sur place si besoin (Lac de Garde, Venise Lido) |
 
-> 📥 **[Télécharger le roadbook au format PDF](roadbook-italie.pdf)**
+[📥 Télécharger le PDF](roadbook-italie.pdf){ .md-button }
 
 ---
 

@@ -17,7 +17,7 @@
 | **Équipement** | À préciser |
 | **Camping** | Allemansrätten 🇸🇪🇳🇴 possible — camping sauvage autorisé |
 
-> 📥 **[Télécharger le roadbook au format PDF](roadbook-scandinavie-2026.pdf)**
+[📥 Télécharger le PDF](roadbook-scandinavie-2026.pdf){ .md-button }
 
 ---
 
