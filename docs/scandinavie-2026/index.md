@@ -17,6 +17,8 @@
 | **Équipement** | À préciser |
 | **Camping** | Allemansrätten 🇸🇪🇳🇴 possible — camping sauvage autorisé |
 
+> 📥 **[Télécharger le roadbook au format PDF](roadbook-scandinavie-2026.pdf)**
+
 ---
 
 _Roadbook préparatoire — Premier test du Bureau Sylvie (BAVI LEO)_

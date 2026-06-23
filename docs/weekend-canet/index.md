@@ -12,6 +12,8 @@
 | **Véhicule** | Camping-car |
 | **Mobilité** | Max 5 km/j à pied |
 
+> 📥 **[Télécharger le roadbook au format PDF](roadbook-canet.pdf)**
+
 ---
 
 ## 💳 Coût du service BAVI LEO
