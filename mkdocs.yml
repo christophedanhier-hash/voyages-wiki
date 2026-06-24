@@ -24,9 +24,9 @@ theme:
 
 nav:
   - 🌐 Portail LEO:
+    - 🤖 Wiki LEO (Hermes): https://christophedanhier-hash.github.io/hermes-wiki/
     - 🏛️ BAVI LEO: https://christophedanhier-hash.github.io/BAVI_LEO/
     - 🔭 Wiki OCA: https://christophedanhier-hash.github.io/wiki-oca/
-    - 🧭 Voyages: https://christophedanhier-hash.github.io/voyages-wiki/
     - 📋 Tracker: https://github.com/christophedanhier-hash/leo-tracker/issues
   - Accueil: index.md
   - 🧑‍✈️ Voyages Tof:
