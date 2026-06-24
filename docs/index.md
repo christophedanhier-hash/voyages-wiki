@@ -14,6 +14,7 @@
 
 - **🇳🇴 Scandinavie (08→10/2026) → 📋 En préparation**
 - **🇫🇷 Canet (06/2026) → 🚐 En préparation**
+- **🇪🇸 Andalousie (09→10/2026) → 📋 En préparation**
 
 ---
 
@@ -24,7 +25,8 @@
 | **🇮🇹 Italie** | 12 | 27 | 240K / 78K | ~0,06 € | 2,50 € | **2,56 €** |
 | **🇳🇴 Scandinavie** | 10 | 12 | 280K / 95K | ~0,08 € | 2,50 € | **2,58 €** |
 | **🇫🇷 Canet** | 14 | 26 | 280K / 95K | ~0,10 € | 2,50 € | **2,60 €** |
-| **Total BAVI LEO** | **36** | **65** | | | | **7,74 €** |
+| **🇪🇸 Andalousie** | 1 | 0 | 290K / 11K | ~0,05 € | 2,50 € | **2,55 €** |
+| **Total BAVI LEO** | **37** | **65** | | | | **10,29 €** |
 
 > 💡 Chaque roadbook inclut une section `💳 Coût du service BAVI LEO` détaillée. Les 3 roadbooks affichent le même format pour une transparence totale. Le coût DeepSeek réel est calculé au tarif v4 Flash ($0,15/1M IN, $0,60/1M OUT). Les frais de service (2,50 €/roadbook) couvrent la maintenance du wiki, les cartes OSM et l'infrastructure BAVI.
 
@@ -33,8 +35,8 @@
 | Utilisateur | Roadbooks | Sessions | Commits | Total facturé |
 |:------------|:----------|:--------:|:-------:|:-------------:|
 | **🧑‍✈️ Christophe (Tof)** | 🇮🇹 Italie | 12 | 27 | **2,56 €** |
-| **🤖 Amis (Pascal)** | 🇳🇴 Scandinavie + 🇫🇷 Canet | 24 (10+14) | 38 (12+26) | **5,18 €** |
-| **Total** | **3 roadbooks** | **36** | **65** | **7,74 €** |
+| **🤖 Amis (Pascal)** | 🇳🇴 Scandinavie + 🇫🇷 Canet + 🇪🇸 Andalousie | 25 (10+14+1) | 38 (12+26+0) | **7,73 €** |
+| **Total** | **4 roadbooks** | **37** | **65** | **10,29 €** |
 
 ---
 
