@@ -28,7 +28,9 @@
 | **🇪🇸 Andalousie** | 1 | 2 | 290K / 11K | ~0,05 € | 2,50 € | **2,55 €** |
 | **Total BAVI LEO** | **37** | **67** | | | | **10,29 €** |
 
-> 💡 Chaque roadbook inclut une section `💳 Coût du service BAVI LEO` détaillée. Les 3 roadbooks affichent le même format pour une transparence totale. Le coût DeepSeek réel est calculé au tarif v4 Flash ($0,15/1M IN, $0,60/1M OUT). Les frais de service (2,50 €/roadbook) couvrent la maintenance du wiki, les cartes OSM et l'infrastructure BAVI.
+> 💡 Chaque roadbook inclut une section `💳 Coût du service BAVI LEO` détaillée. Le coût DeepSeek réel est calculé au tarif v4 Flash ($0,15/1M IN, $0,60/1M OUT). Les frais de service (2,50 €/roadbook) couvrent la maintenance du wiki, les cartes OSM et l'infrastructure BAVI.
+>
+> 🎫 **Nouveau :** abonnement **12 €/an** (1 €/mois) disponible pour les échanges rapides (chat, météo, vérifications) sans session ni commit. Les deux formules coexistent.
 
 ### 👤 Par utilisateur
 
