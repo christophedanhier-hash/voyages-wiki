@@ -44,7 +44,7 @@
 
 ---
 
-*Roadbooks générés par le [BAVI LEO Voyages Bot](https://github.com/christophedanhier-hash/BAVI_LEO)*
+*Dernière mise à jour : 26/06/2026 22:30 — Généré par [BAVI LEO Voyages Bot](https://github.com/christophedanhier-hash/BAVI_LEO)*
 
 👉 **[🏛️ BAVI LEO — Bureaux Agentiques Virtuels](https://christophedanhier-hash.github.io/BAVI_LEO/)**
 👉 **[🛡️ Portail LEO](https://christophedanhier-hash.github.io/hermes-wiki/)**
