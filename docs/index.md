@@ -30,15 +30,17 @@
 
 > 💡 Chaque roadbook inclut une section `💳 Coût du service BAVI LEO` détaillée. Le coût DeepSeek réel est calculé au tarif v4 Flash ($0,15/1M IN, $0,60/1M OUT). Les frais de service (2,50 €/roadbook) couvrent la maintenance du wiki, les cartes OSM et l'infrastructure BAVI.
 >
-> 🎫 **Nouveau :** abonnement **12 €/an** (1 €/mois) disponible pour les échanges rapides (chat, météo, vérifications) sans session ni commit. Les deux formules coexistent.
+> **Règle de facturation :**
+> - 🧑‍✈️ **Christophe** = coût d'inférence (tokens IN/OUT réels) uniquement — pas de forfait, pas d'abonnement
+> - 👥 **Chaque ami** = abonnement **12 €/an** + tokens IN/OUT + forfait dossier. L'abonnement démarre le 1er du mois du premier dossier.
 
 ### 👤 Par utilisateur
 
-| Utilisateur | Roadbooks | Sessions | Commits | Total facturé |
-|:------------|:----------|:--------:|:-------:|:-------------:|
-| **🧑‍✈️ Christophe (Tof)** | 🇮🇹 Italie | 12 | 27 | **2,56 €** |
-| **🤖 Amis (Pascal)** | 🇳🇴 Scandinavie + 🇫🇷 Canet + 🇪🇸 Andalousie | 25 (10+14+1) | 40 (12+26+2) | **7,73 €** |
-| **Total** | **4 roadbooks** | **37** | **67** | **10,29 €** |
+| Utilisateur | Abonnement | Roadbooks | Sessions | Commits | Tokens IN/OUT | Forfait dossier | Total |
+|:------------|:----------:|:----------|:--------:|:-------:|:-------------:|:---------------:|:-----:|
+| **🧑‍✈️ Christophe** | 0 € | 🇮🇹 Italie | 12 | 27 | 0,14 € | 0 € | **0,14 €** |
+| **🤖 Pascal** | 12 €/an | 🇳🇴 Scandinavie + 🇫🇷 Canet + 🇪🇸 Andalousie | 25 | 40 | 0,23 € | 7,50 € | **19,73 €** |
+| **Total** | **12 €** | **4 roadbooks** | **37** | **67** | **0,37 €** | **7,50 €** | **19,87 €** |
 
 ---
 
