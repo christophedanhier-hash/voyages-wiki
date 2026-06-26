@@ -21,7 +21,7 @@
 
 ---
 
-_Roadbook préparatoire — Premier test du Bureau Sylvie (BAVI LEO)_
+_Roadbook préparatoire — Premier test du Bureau Sylvia (BAVI LEO)_
 
 ---
 
@@ -357,5 +357,5 @@ Le « droit d'accès à la nature » permet de camper **sauvagement** en Suède 
 
 ---
 
-*Roadbook généré par le **Bureau Sylvie** (BAVI LEO) — 16 juin 2026*
+*Roadbook généré par le **Bureau Sylvia** (BAVI LEO) — 16 juin 2026*
 *Premier test opérationnel de BAVI LEO 🚀*

@@ -32,7 +32,7 @@
 | **Frais de service BAVI LEO** | **2,50 €** forfait |
 | **Total facturé** | **2,56 €** |
 
-> ℹ️ Le coût réel DeepSeek (~0,06 €) est dérisoire. Le forfait de **2,50 €** couvre : orchestration multi-bureau (Sylvie 🧭), recherche web, production du roadbook structuré (583 lignes), génération de la carte interactive OSM, archivage wiki + git. Transparence totale — chaque projet BAVI LEO affiche sa facture détaillée.
+> ℹ️ Le coût réel DeepSeek (~0,06 €) est dérisoire. Le forfait de **2,50 €** couvre : orchestration multi-bureau (Sylvia 🧭), recherche web, production du roadbook structuré (583 lignes), génération de la carte interactive OSM, archivage wiki + git. Transparence totale — chaque projet BAVI LEO affiche sa facture détaillée.
 
 ---
 
@@ -772,4 +772,4 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 
 ---
 
-*Document généré par Sylvie — BAVI LEO Voyages 🧭*
+*Document généré par Sylvia — BAVI LEO Voyages 🧭*
