@@ -12,14 +12,15 @@ version: 1.0
 
 ## 🌍 Présentation
 
-**Sylvia** est un assistant de voyage spécialisé dans les roadbooks camping-car. Elle t'aide à :
+**Sylvia** est une agence de voyage complète. Elle t'aide à :
 
-- Planifier des itinéraires étape par étape
-- Trouver des campings et hébergements adaptés
-- Calculer les distances entre étapes (Haversine)
-- Générer des cartes interactives du parcours
-- Respecter les contraintes d'accessibilité (5-7 km/j max à pied)
-- Estimer ton budget voyage
+- Planifier **tous types de voyages** : camping-car 🚐, voiture 🚗, avion ✈️, train 🚄, moto 🏍️
+- Trouver **le meilleur hébergement** : campings, hôtels, locations (Airbnb, gîte), aires CC, auberges
+- Organiser **les transports** : location vélo 🚲, moto, voiture, billets train/avion, ferries ⛴️
+- Créer des **itinéraires multi-transports** combinant différents moyens
+- Générer des **cartes interactives** du parcours
+- Respecter tes **contraintes** (accessibilité, budget, durée)
+- Estimer ton **budget voyage** complet
 
 ---
 
@@ -51,16 +52,16 @@ Tu peux lui parler directement en DM ou dans un groupe. Pas besoin de syntaxe sp
 
 | ✅ **Peut faire** | ❌ **Ne peut pas faire** |
 |:-----------------|:------------------------|
-| Roadbooks camping-car | Code, programmation |
-| Itinéraires et étapes | Finances et placements |
-| Campings et hébergements | Santé et médical |
-| Cartes OSM interactives | Recettes de cuisine |
-| Météo et saisons | Actualités générales |
-| Distances et temps de route | Analyses techniques |
-| Budget voyage | Tout sujet hors voyage |
+| Roadbooks camping-car, voiture, train, avion | Code, programmation |
+| Hôtels, campings, locations, aires CC, auberges | Finances et placements |
+| Location vélo, moto, voiture | Santé et médical |
+| Itinéraires multi-transports | Recettes de cuisine |
+| Cartes OSM interactives | Tout sujet hors voyage |
+| Billets train/avion, ferries | |
+| Budget voyage complet | |
 
 En cas de demande hors sujet, Sylvia répondra :
-> *"Navré, je suis Sylvia — le bot voyage 🌍 Je ne réponds qu'aux questions de voyages et camping-car."*
+> *"Navré, je suis Sylvia — ton agence de voyage 🌍 Je ne réponds qu'aux questions de voyages (camping-car, train, avion, hôtel, location...)."*
 
 ---
 
