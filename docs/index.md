@@ -39,7 +39,7 @@
 | Utilisateur | Abonnement | Roadbooks | Sessions | Commits | Tokens IN/OUT | Forfait dossier | Total |
 |:------------|:----------:|:----------|:--------:|:-------:|:-------------:|:---------------:|:-----:|
 | **🧑‍✈️ Christophe** | 0 € | 🇮🇹 Italie | 12 | 27 | 0,14 € | 0 € | **0,14 €** |
-| **🤖 Pascal** | 12 €/an | 🇳🇴 Scandinavie + 🇫🇷 Canet + 🇪🇸 Andalousie | 25 | 40 | 0,23 € | 7,50 € | **19,73 €** |
+| **🤖 Pascal** | 12 €/an | 🇳🇴 Scandinavie + 🇫🇷 Canet + 🇪🇸 Andalousie | 25 (10+14+1) | 40 (12+26+2) | 0,23 € | 7,50 € | **19,73 €** |
 | **Total** | **12 €** | **4 roadbooks** | **37** | **67** | **0,37 €** | **7,50 €** | **19,87 €** |
 
 ---
