@@ -29,6 +29,7 @@ nav:
     - 🔭 Wiki OCA: https://christophedanhier-hash.github.io/wiki-oca/
     - 📋 Tracker: https://github.com/christophedanhier-hash/leo-tracker/issues
   - Accueil: index.md
+  - 🧭 Guide utilisateur: guide-utilisateur.md
   - 🧑‍✈️ Voyages Tof:
     - 🇮🇹 Italie (09/2026): italie/index.md
   - 🤖 Voyages Amis (Bot):
