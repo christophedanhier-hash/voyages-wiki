@@ -22,6 +22,7 @@
 | Métrique | Valeur |
 |:---------|------:|
 | **Sessions LEO** | 1 (cette conversation) |
+| **Commits git** | 2 |
 | **Messages échangés** | ~8 |
 | **Appels API DeepSeek** | ~12 |
 | **Outils mobilisés** | ~20 (recherche web, scripts, cartes, git) |

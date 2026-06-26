@@ -23,6 +23,7 @@
 | Métrique | Valeur |
 |:---------|------:|
 | **Sessions LEO** | 12 (8 création + 1 VAE + 1 cartes Côme/Florence + 1 correctif icônes + 1 cartes Pompéi/Monopoli/Venise/Garde) |
+| **Commits git** | 27 |
 | **Messages échangés** | ~260 |
 | **Appels API DeepSeek** | ~65 |
 | **Outils mobilisés** | ~185 (recherche web, scripts, git, cartes, patches, géocodage) |

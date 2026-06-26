@@ -21,6 +21,7 @@
 | Métrique | Valeur |
 |:---------|------:|
 | **Sessions LEO** | 14 (création + 13 mises à jour itératives) |
+| **Commits git** | 26 |
 | **Messages échangés** | ~350 |
 | **Appels API DeepSeek** | ~80 |
 | **Outils mobilisés** | ~210 (recherche web, scripts, git, cartes, PDF, géocodage) |
