@@ -12,6 +12,7 @@
 
 ## 🤖 Voyages Amis (Bot)
 
+- **🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge (01→02/2027) → 📋 En préparation**
 - **🇳🇴 Scandinavie (08→10/2026) → 📋 En préparation**
 - **🇫🇷 Canet (06/2026) → 🚐 En préparation**
 - **🇪🇸 Andalousie (09→10/2026) → 📋 En préparation**
@@ -22,11 +23,12 @@
 
 | Roadbook | Sessions | Commits | Tokens (IN/OUT) | Coût API réel | Frais service | Total facturé |
 |----------|:--------:|:-------:|:---------------:|:-------------:|:-------------:|:-------------:|
-| **🇮🇹 Italie** | 12 | 27 | 240K / 78K | ~0,06 € | 2,50 € | **2,56 €** |
-| **🇳🇴 Scandinavie** | 10 | 12 | 280K / 95K | ~0,08 € | 2,50 € | **2,58 €** |
-| **🇫🇷 Canet** | 14 | 26 | 280K / 95K | ~0,10 € | 2,50 € | **2,60 €** |
-| **🇪🇸 Andalousie** | 1 | 2 | 290K / 11K | ~0,05 € | 2,50 € | **2,55 €** |
-| **Total BAVI LEO** | **37** | **67** | | | | **10,29 €** |
+|| **🇮🇹 Italie** | 12 | 27 | 240K / 78K | ~0,06 € | 2,50 € | **2,56 €** |
+|| **🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge** | 1 | 1 | 18K / 6K | ~0,01 € | 2,50 € | **2,51 €** |
+|| **🇳🇴 Scandinavie** | 10 | 12 | 280K / 95K | ~0,08 € | 2,50 € | **2,58 €** |
+|| **🇫🇷 Canet** | 14 | 26 | 280K / 95K | ~0,10 € | 2,50 € | **2,60 €** |
+|| **🇪🇸 Andalousie** | 1 | 2 | 290K / 11K | ~0,05 € | 2,50 € | **2,55 €** |
+|| **Total BAVI LEO** | **38** | **68** | | | | **12,80 €** |
 
 > 💡 Chaque roadbook inclut une section `💳 Coût du service BAVI LEO` détaillée. Le coût DeepSeek réel est calculé au tarif v4 Flash ($0,15/1M IN, $0,60/1M OUT). Les frais de service (2,50 €/roadbook) couvrent la maintenance du wiki, les cartes OSM et l'infrastructure BAVI.
 >
@@ -36,11 +38,11 @@
 
 ### 👤 Par utilisateur
 
-| Utilisateur | **Total** | Abonnement | Roadbooks | Sessions | Commits | Tokens | Forfait |
+| **👤 Par utilisateur** | **Total** | Abonnement | Roadbooks | Sessions | Commits | Tokens | Forfait |
 |:------------|:---------:|:----------:|:----------|:--------:|:-------:|:------:|:-------:|
 | **🧑‍✈️ Christophe** | **0,14 €** | 0 € | 🇮🇹 Italie | 12 | 27 | 0,14 € | 0 € |
-| **🤖 Pascal** | **19,73 €** | 12 €/an | 🇳🇴🇫🇷🇪🇸 (3 roadbooks) | 25 | 40 | 0,23 € | 7,50 € |
-| **Total** | **19,87 €** | **12 €** | **4 roadbooks** | **37** | **67** | **0,37 €** | **7,50 €** |
+| **🤖 Pascal** | **22,24 €** | 12 €/an | 🇻🇳🇱🇦🇰🇭🇳🇴🇫🇷🇪🇸 (4 roadbooks) | 26 | 41 | 0,24 € | 10,00 € |
+| **Total** | **22,38 €** | **12 €** | **5 roadbooks** | **38** | **68** | **0,38 €** | **10,00 €** |
 
 ---
 
