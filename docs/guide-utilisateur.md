@@ -69,23 +69,36 @@ En cas de demande hors sujet, Sylvia répondra :
 
 Deux formules selon ton profil :
 
-| Qui | Abonnement | Roadbooks |
-|:----|:----------:|:-----------|
+| Qui | Abonnement | Documents |
+|:----|:----------:|:----------|
 | 🧑‍✈️ **Christophe** (propriétaire) | **0 €** | Tokens IN/OUT réels uniquement |
-| 👥 **Amis** (Pascal…) | **12 €/an** | Tokens IN/OUT + **2,50 €** forfait par dossier |
+| 👥 **Amis** (Pascal…) | **12 €/an** | Tokens IN/OUT + **2,50 €** forfait par document |
 
-**L'abonnement** (12 €/an) démarre le **1er du mois** de ton premier dossier. Il inclut :
-- Chat illimité (questions météo, campings, vérifications)
-- Accès au bot sans limite de messages
-- Mises à jour et améliorations du service
+### 💬 Chat vs 📝 Document — bien comprendre
 
-**Le forfait dossier** (2,50 €) s'ajoute pour chaque roadbook complet livré avec :
+| Ce que tu fais | Coût | Document produit ? |
+|:--------------|:----:|:------------------:|
+| Question rapide (météo, camping, horaires) | ✅ **0 €** (inclus dans abonnement) | ❌ Non — reste dans le chat |
+| Demande une **note / fiche / PDF** | **2,50 €** forfait | ✅ Oui — dans le wiki + commit |
+| Demande un **roadbook complet** | **2,50 €** forfait | ✅ Oui — fichier + carte + wiki |
+
+> 💡 **Le chat seul ne coûte rien.** C'est uniquement quand tu demandes **un document à conserver** (note, PDF, roadbook) que le forfait de 2,50 € s'applique. Ce forfait couvre la création du fichier, son stockage dans le wiki et son archivage git.
+
+### Abonnement (12 €/an)
+Démarre le **1er du mois** de ton premier dossier. Inclus :
+- 💬 Chat illimité (météo, campings, vérifications)
+- 🎫 Accès au bot sans limite de messages
+- 🔄 Mises à jour et améliorations du service
+
+### Forfait document (2,50 €)
+S'applique à **toute production de document** :
+- 📝 Note d'analyse ou PDF
+- 🗺️ Roadbook complet avec carte interactive
 - Session de travail dédiée
 - Fichier structuré dans le wiki
-- Carte interactive du parcours
 - Archivage git + commit
 
-**Exemple concret :**
+### Exemple concret
 
 | Utilisateur | **💶 Total** | Abonnement | Roadbooks | Tokens | Forfait |
 |:------------|:-----------:|:----------:|:----------|:------:|:-------:|
