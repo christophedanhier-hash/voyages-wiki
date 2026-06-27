@@ -733,11 +733,22 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | 🚗 Locations voiture (2×5j) | ~336,96 € |
 | ⛽ Carburant (estimation) | **~788 €** |
 | 🛣️ Péages (Ulys Pass) | **~293 €** |
-| 🍝 Restos & courses | — |
-| 🎟️ Visites & activités | — |
-| **Total (campings + locations + carburant + péages)** | **~2 829,76 €** |
+| 🎟️ Visites & activités | **~435 €** |
+| **Total (campings + locations + carburant + péages + visites)** | **~3 265 €** |
 
-> 💡 *Les coûts de courses et activités ne sont pas inclus dans ce tableau — à estimer selon votre budget personnel.*
+**Détail des visites par étape (pour 2 pers.) :**
+
+| Étape | Visites | Coût (2 pers.) |
+|:------|:--------|:--------------:|
+| 🏞️ **Lac de Côme** (J2-J3) | Pass ferry Centro Lago (15€×2) + 1 villa (Carlotta 15€×2) | **~60 €** |
+| 🏛️ **Florence** (J4-J6) | Accademia/David (12€×2) + Offices (20€×2) + Duomo combo (18€×2) | **~100 €** |
+| 🌋 **Pompéi** (J7-J8) | Site Pompéi (18€×2) — **gratuit si carte handicap UE** ✅ | **0-36 €** |
+| 🏖️ **Pouilles** (J9-J17) | Château Monopoli (10€×2) + Casa Grotta Matera (5€×2) + options | **~40 €** |
+| 🛶 **Venise** (J19-J22) | Pass ACTV 72h (45€×2) + Palais Doges (30€×2) + Basilique (3€×2) | **~155 €** |
+| 🌊 **Lac de Garde** (J23-J29) | Téléphérique Monte Baldo (25€×2) + Arène Vérone (10€×2) + Château Sirmione (6€×2) | **~80 €** |
+| | **Total estimé** | **~435 €** |
+
+> 💡 *Estimation raisonnable — 1-2 visites payantes par étape. Avec la carte handicap UE de Sylvie, Pompéi est gratuit (18€/pers économisé).*
 
 ---
 
