@@ -731,13 +731,13 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 |-------|:----:|
 | 🏕️ Campings | ~1 411,80 € |
 | 🚗 Locations voiture (2×5j) | ~336,96 € |
-| ⛽ Carburant (estimation) | — |
-| 🛣️ Péages | — |
+| ⛽ Carburant (estimation) | **~788 €** |
+| 🛣️ Péages (Ulys Pass) | **~293 €** |
 | 🍝 Restos & courses | — |
 | 🎟️ Visites & activités | — |
-| **Total de base** | **~3 618,84 €** |
+| **Total (campings + locations + carburant + péages)** | **~2 829,76 €** |
 
-> 💡 *Les coûts de carburant, péages, courses et activités ne sont pas inclus dans ce tableau — à estimer selon consommation CC et budget personnel.*
+> 💡 *Les coûts de courses et activités ne sont pas inclus dans ce tableau — à estimer selon votre budget personnel.*
 
 ---
 
