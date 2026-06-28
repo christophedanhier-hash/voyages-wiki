@@ -23,12 +23,12 @@
 
 | Roadbook | Sessions | Commits | Tokens (IN/OUT) | Coût API réel | Frais service | Total facturé |
 |----------|:--------:|:-------:|:---------------:|:-------------:|:-------------:|:-------------:|
-|| **🇮🇹 Italie** | 12 | 27 | 240K / 78K | ~0,06 € | 2,50 € | **2,56 €** |
-|| **🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge** | 1 | 1 | 18K / 6K | ~0,01 € | 2,50 € | **2,51 €** |
-|| **🇳🇴 Scandinavie** | 10 | 12 | 280K / 95K | ~0,08 € | 2,50 € | **2,58 €** |
-|| **🇫🇷 Canet** | 14 | 26 | 280K / 95K | ~0,10 € | 2,50 € | **2,60 €** |
-|| **🇪🇸 Andalousie** | 1 | 2 | 290K / 11K | ~0,05 € | 2,50 € | **2,55 €** |
-|| **Total BAVI LEO** | **38** | **68** | | | | **12,80 €** |
+| **🇮🇹 Italie** | 12 | 27 | 240K / 78K | ~0,06 € | 2,50 € | **2,56 €** |
+| **🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge** | 1 | 1 | 18K / 6K | ~0,01 € | 2,50 € | **2,51 €** |
+| **🇳🇴 Scandinavie** | 10 | 12 | 280K / 95K | ~0,08 € | 2,50 € | **2,58 €** |
+| **🇫🇷 Canet** | 14 | 26 | 280K / 95K | ~0,10 € | 2,50 € | **2,60 €** |
+| **🇪🇸 Andalousie** | 1 | 2 | 290K / 11K | ~0,05 € | 2,50 € | **2,55 €** |
+| **Total BAVI LEO** | **38** | **68** | | | | **12,80 €** |
 
 > 💡 Chaque roadbook inclut une section `💳 Coût du service BAVI LEO` détaillée. Le coût DeepSeek réel est calculé au tarif v4 Flash ($0,15/1M IN, $0,60/1M OUT). Les frais de service (2,50 €/roadbook) couvrent la maintenance du wiki, les cartes OSM et l'infrastructure BAVI.
 >
