@@ -445,5 +445,5 @@
 
 ---
 
-> Généré par **BAVI LEO Voyages** — 🤖 *Sylvie, ton agente de voyage*
+> Généré par **BAVI LEO Voyages** — 🧭 *Sylvia, ton agente de voyage*
 > Roadbook pour Pascal & Agnès — Janvier/Février 2027
