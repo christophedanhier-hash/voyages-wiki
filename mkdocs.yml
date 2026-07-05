@@ -22,14 +22,6 @@ theme:
     - content.code.copy
     - content.action.edit
 
-plugins:
-  - search
-  - git-revision-date-localized:
-      enable_creation_date: true
-      type: date
-      timezone: Europe/Brussels
-      locale: fr
-      fallback_to_build_date: true
 
 nav:
   - 🌐 Portail LEO:
