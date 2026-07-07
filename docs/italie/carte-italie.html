@@ -17,7 +17,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_731a4279c29736361697de1f76ad3994 {
+                #map_ee04bfe02110da89ee13a8681ecc26db {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -54,16 +54,21 @@
 <body>
     
     
-            <div class="folium-map" id="map_731a4279c29736361697de1f76ad3994" ></div>
+<div style="position: fixed; bottom: 20px; right: 20px; z-index: 1000; background: white; padding: 8px 14px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); font-size: 12px; border-left: 4px solid #e63946;">
+  <b>🇮🇹 Italie 2026</b><br>
+  11 étapes · 4036 km route
+</div>
+    
+            <div class="folium-map" id="map_ee04bfe02110da89ee13a8681ecc26db" ></div>
         
 </body>
 <script>
     
     
-            var map_731a4279c29736361697de1f76ad3994 = L.map(
-                "map_731a4279c29736361697de1f76ad3994",
+            var map_ee04bfe02110da89ee13a8681ecc26db = L.map(
+                "map_ee04bfe02110da89ee13a8681ecc26db",
                 {
-                    center: [44.5, 10.5],
+                    center: [45.688863636363635, 10.279863636363636],
                     crs: L.CRS.EPSG3857,
                     ...{
   "zoom": 6,
@@ -78,7 +83,7 @@
 
         
     
-            var tile_layer_61c651c3c8c128abbed1459131c50163 = L.tileLayer(
+            var tile_layer_b9fd7b622dc2a70e1efe020f30c1c218 = L.tileLayer(
                 "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
                 {
   "minZoom": 0,
@@ -95,78 +100,71 @@
             );
         
     
-            tile_layer_61c651c3c8c128abbed1459131c50163.addTo(map_731a4279c29736361697de1f76ad3994);
+            tile_layer_b9fd7b622dc2a70e1efe020f30c1c218.addTo(map_ee04bfe02110da89ee13a8681ecc26db);
         
     
-            var poly_line_625ee38647c652c8fe09aebdcb962eab = L.polyline(
-                [[50.5247, 4.6019], [48.0794, 7.3582], [45.9667, 9.1], [43.7696, 11.2558], [40.7486, 14.4981], [40.95, 17.3], [42.3428, 13.956], [45.4833, 12.4833], [45.4386, 10.6583], [48.0794, 7.3582], [50.5247, 4.6019]],
+            var poly_line_98465aca217d9187e9ee9f8f278467f3 = L.polyline(
+                [[50.5276, 4.6003], [48.0794, 7.3586], [46.0167, 9.2333], [43.7696, 11.2558], [40.7494, 14.4868], [40.9517, 17.2906], [42.9525, 13.8807], [45.4569, 12.4802], [45.4667, 10.5333], [48.0794, 7.3586], [50.5276, 4.6003]],
                 {"bubblingMouseEvents": true, "color": "#e63946", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#e63946", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
         
     
-        var popup_67d1aba6db28fbfa393c8bd3d42b2786 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_d2e7b4874e96b9a96d64947df518b20e = $(`<div id="html_d2e7b4874e96b9a96d64947df518b20e" style="width: 100.0%; height: 100.0%;">Itinéraire Italie 2026 — 4091 km</div>`)[0];
-                popup_67d1aba6db28fbfa393c8bd3d42b2786.setContent(html_d2e7b4874e96b9a96d64947df518b20e);
-            
-        
-
-        poly_line_625ee38647c652c8fe09aebdcb962eab.bindPopup(popup_67d1aba6db28fbfa393c8bd3d42b2786)
-        ;
-
-        
-    
-    
-            var marker_d776833e76bbac4e31a809db57cb7a79 = L.marker(
-                [50.5247, 4.6019],
+            var marker_b65bd3b8bf645c43f266942559d83a0d = L.marker(
+                [50.5276, 4.6003],
                 {
 }
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
         
     
-            var icon_cb97ff00612d69eb42d45acf693b2f1c = L.AwesomeMarkers.icon(
+            var icon_b9217ca2403f0214df94cc2ec93715e4 = L.AwesomeMarkers.icon(
                 {
-  "markerColor": "darkblue",
+  "markerColor": "blue",
   "iconColor": "white",
-  "icon": "flag",
-  "prefix": "fa",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
   "extraClasses": "fa-rotate-0",
 }
             );
         
     
-        var popup_ce46d1303f523ec2ef83158d12cd4847 = L.popup({
+        var popup_6552ccef88c4e074d23f4eab9848138f = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_4f07961176477795598b1b5d9dcf080b = $(`<div id="html_4f07961176477795598b1b5d9dcf080b" style="width: 100.0%; height: 100.0%;">🏠 Sombreffe</div>`)[0];
-                popup_ce46d1303f523ec2ef83158d12cd4847.setContent(html_4f07961176477795598b1b5d9dcf080b);
+                var html_c54baa5e3aad4e6adef2a0f55daf0e21 = $(`<div id="html_c54baa5e3aad4e6adef2a0f55daf0e21" style="width: 100.0%; height: 100.0%;">🏠 Sombreffe (départ)</div>`)[0];
+                popup_6552ccef88c4e074d23f4eab9848138f.setContent(html_c54baa5e3aad4e6adef2a0f55daf0e21);
             
         
 
-        marker_d776833e76bbac4e31a809db57cb7a79.bindPopup(popup_ce46d1303f523ec2ef83158d12cd4847)
+        marker_b65bd3b8bf645c43f266942559d83a0d.bindPopup(popup_6552ccef88c4e074d23f4eab9848138f)
         ;
 
         
     
     
-                marker_d776833e76bbac4e31a809db57cb7a79.setIcon(icon_cb97ff00612d69eb42d45acf693b2f1c);
-            
-    
-            var marker_e1232cb800737c1eb1d0fea22b9012d9 = L.marker(
-                [48.0794, 7.3582],
+            marker_b65bd3b8bf645c43f266942559d83a0d.bindTooltip(
+                `<div>
+                     🏠 Sombreffe (départ)
+                 </div>`,
                 {
+  "sticky": true,
 }
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+            );
         
     
-            var icon_1cd4348509834f2d61675fc2be8e4630 = L.AwesomeMarkers.icon(
+                marker_b65bd3b8bf645c43f266942559d83a0d.setIcon(icon_b9217ca2403f0214df94cc2ec93715e4);
+            
+    
+            var marker_a28ba3f3c7124edbeaf1b8c327a39c80 = L.marker(
+                [48.0794, 7.3586],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var icon_36f0ba3d0ac845a1cd08e74376f6f703 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "red",
   "iconColor": "white",
@@ -177,34 +175,44 @@
             );
         
     
-        var popup_cccb3bb7885d4f4a1cd3e3f906ae2655 = L.popup({
+        var popup_203e2cee7a344bdb2e0bf50b5a56e6d9 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_e09f491ca59e96dc4e2e667619f774c4 = $(`<div id="html_e09f491ca59e96dc4e2e667619f774c4" style="width: 100.0%; height: 100.0%;">🇫🇷 Colmar</div>`)[0];
-                popup_cccb3bb7885d4f4a1cd3e3f906ae2655.setContent(html_e09f491ca59e96dc4e2e667619f774c4);
+                var html_0d028897ffbcbb45d4fda2ee539981bd = $(`<div id="html_0d028897ffbcbb45d4fda2ee539981bd" style="width: 100.0%; height: 100.0%;">🇫🇷 Colmar — Aire Schoenau</div>`)[0];
+                popup_203e2cee7a344bdb2e0bf50b5a56e6d9.setContent(html_0d028897ffbcbb45d4fda2ee539981bd);
             
         
 
-        marker_e1232cb800737c1eb1d0fea22b9012d9.bindPopup(popup_cccb3bb7885d4f4a1cd3e3f906ae2655)
+        marker_a28ba3f3c7124edbeaf1b8c327a39c80.bindPopup(popup_203e2cee7a344bdb2e0bf50b5a56e6d9)
         ;
 
         
     
     
-                marker_e1232cb800737c1eb1d0fea22b9012d9.setIcon(icon_1cd4348509834f2d61675fc2be8e4630);
-            
-    
-            var marker_071ab0888c913980baf8dff3fe811eed = L.marker(
-                [45.9667, 9.1],
+            marker_a28ba3f3c7124edbeaf1b8c327a39c80.bindTooltip(
+                `<div>
+                     🇫🇷 Colmar — Aire Schoenau
+                 </div>`,
                 {
+  "sticky": true,
 }
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+            );
         
     
-            var icon_9dc7bfc2ed88a1aa7928bded6d5886ae = L.AwesomeMarkers.icon(
+                marker_a28ba3f3c7124edbeaf1b8c327a39c80.setIcon(icon_36f0ba3d0ac845a1cd08e74376f6f703);
+            
+    
+            var marker_e48b728cb82245549fe7b569a3ce425c = L.marker(
+                [46.0167, 9.2333],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var icon_a6cc839f70cc2dc1ec2ddcac8bbfa2f0 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "red",
   "iconColor": "white",
@@ -215,34 +223,44 @@
             );
         
     
-        var popup_515d2c484ad8769b6f9e9759e85abdd7 = L.popup({
+        var popup_f56f6988959fdfcea85f109ae649837c = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_887d1166f7e54f48e261a1ed29fd6596 = $(`<div id="html_887d1166f7e54f48e261a1ed29fd6596" style="width: 100.0%; height: 100.0%;">🏞️ Lac de Côme</div>`)[0];
-                popup_515d2c484ad8769b6f9e9759e85abdd7.setContent(html_887d1166f7e54f48e261a1ed29fd6596);
+                var html_9c7a169fac318f95d1d3bedc6d6b81ec = $(`<div id="html_9c7a169fac318f95d1d3bedc6d6b81ec" style="width: 100.0%; height: 100.0%;">🏞️ Lac de Côme — Menaggio</div>`)[0];
+                popup_f56f6988959fdfcea85f109ae649837c.setContent(html_9c7a169fac318f95d1d3bedc6d6b81ec);
             
         
 
-        marker_071ab0888c913980baf8dff3fe811eed.bindPopup(popup_515d2c484ad8769b6f9e9759e85abdd7)
+        marker_e48b728cb82245549fe7b569a3ce425c.bindPopup(popup_f56f6988959fdfcea85f109ae649837c)
         ;
 
         
     
     
-                marker_071ab0888c913980baf8dff3fe811eed.setIcon(icon_9dc7bfc2ed88a1aa7928bded6d5886ae);
+            marker_e48b728cb82245549fe7b569a3ce425c.bindTooltip(
+                `<div>
+                     🏞️ Lac de Côme — Menaggio
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_e48b728cb82245549fe7b569a3ce425c.setIcon(icon_a6cc839f70cc2dc1ec2ddcac8bbfa2f0);
             
     
-            var marker_55410f631132d4811188e4fa9d540170 = L.marker(
+            var marker_94147ae9983e77c3c6c595b6042808eb = L.marker(
                 [43.7696, 11.2558],
                 {
 }
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
         
     
-            var icon_a17cb0d4a8f0ac734bf0267b622433d2 = L.AwesomeMarkers.icon(
+            var icon_124a30131a607f351c1303bd308cd723 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "red",
   "iconColor": "white",
@@ -253,34 +271,44 @@
             );
         
     
-        var popup_10ef8bea1cff9bcdd1b0bcd88ac3734f = L.popup({
+        var popup_9ea06de44f38f0355453deab4fdef4b2 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_130ffdfdbcf9cc7d78839ae8b7d36fb1 = $(`<div id="html_130ffdfdbcf9cc7d78839ae8b7d36fb1" style="width: 100.0%; height: 100.0%;">🏛️ Florence</div>`)[0];
-                popup_10ef8bea1cff9bcdd1b0bcd88ac3734f.setContent(html_130ffdfdbcf9cc7d78839ae8b7d36fb1);
+                var html_81b733ee8918e9ecc38c68bc96615ae9 = $(`<div id="html_81b733ee8918e9ecc38c68bc96615ae9" style="width: 100.0%; height: 100.0%;">🏛️ Florence</div>`)[0];
+                popup_9ea06de44f38f0355453deab4fdef4b2.setContent(html_81b733ee8918e9ecc38c68bc96615ae9);
             
         
 
-        marker_55410f631132d4811188e4fa9d540170.bindPopup(popup_10ef8bea1cff9bcdd1b0bcd88ac3734f)
+        marker_94147ae9983e77c3c6c595b6042808eb.bindPopup(popup_9ea06de44f38f0355453deab4fdef4b2)
         ;
 
         
     
     
-                marker_55410f631132d4811188e4fa9d540170.setIcon(icon_a17cb0d4a8f0ac734bf0267b622433d2);
-            
-    
-            var marker_2290526151d393a08f9d6185c2ca2461 = L.marker(
-                [40.7486, 14.4981],
+            marker_94147ae9983e77c3c6c595b6042808eb.bindTooltip(
+                `<div>
+                     🏛️ Florence
+                 </div>`,
                 {
+  "sticky": true,
 }
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+            );
         
     
-            var icon_993e11ebf44540cfabbd9616c4b758f3 = L.AwesomeMarkers.icon(
+                marker_94147ae9983e77c3c6c595b6042808eb.setIcon(icon_124a30131a607f351c1303bd308cd723);
+            
+    
+            var marker_e1c3c25b522148ad2c9b61d346a5f90c = L.marker(
+                [40.7494, 14.4868],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var icon_532c815bbee6af56fbbcf22010c5c9fa = L.AwesomeMarkers.icon(
                 {
   "markerColor": "red",
   "iconColor": "white",
@@ -291,34 +319,44 @@
             );
         
     
-        var popup_3db347f2832e5119f524329cc5c7fd38 = L.popup({
+        var popup_7a7090227cbae3d4a0da3090f12c01da = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_9a91a5cbeaaa441f60242049b4dc5ecc = $(`<div id="html_9a91a5cbeaaa441f60242049b4dc5ecc" style="width: 100.0%; height: 100.0%;">🌋 Pompéi</div>`)[0];
-                popup_3db347f2832e5119f524329cc5c7fd38.setContent(html_9a91a5cbeaaa441f60242049b4dc5ecc);
+                var html_3d02850e7a1fc6dce39e7ae3ecf2adbb = $(`<div id="html_3d02850e7a1fc6dce39e7ae3ecf2adbb" style="width: 100.0%; height: 100.0%;">🌋 Pompéi</div>`)[0];
+                popup_7a7090227cbae3d4a0da3090f12c01da.setContent(html_3d02850e7a1fc6dce39e7ae3ecf2adbb);
             
         
 
-        marker_2290526151d393a08f9d6185c2ca2461.bindPopup(popup_3db347f2832e5119f524329cc5c7fd38)
+        marker_e1c3c25b522148ad2c9b61d346a5f90c.bindPopup(popup_7a7090227cbae3d4a0da3090f12c01da)
         ;
 
         
     
     
-                marker_2290526151d393a08f9d6185c2ca2461.setIcon(icon_993e11ebf44540cfabbd9616c4b758f3);
-            
-    
-            var marker_0230eb8e863b4972a31eb2b947e00595 = L.marker(
-                [40.95, 17.3],
+            marker_e1c3c25b522148ad2c9b61d346a5f90c.bindTooltip(
+                `<div>
+                     🌋 Pompéi
+                 </div>`,
                 {
+  "sticky": true,
 }
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+            );
         
     
-            var icon_34fe6b96413bb9ac73d7d4bf9f78775a = L.AwesomeMarkers.icon(
+                marker_e1c3c25b522148ad2c9b61d346a5f90c.setIcon(icon_532c815bbee6af56fbbcf22010c5c9fa);
+            
+    
+            var marker_fffbabd8fffead5731051a2146e1db8b = L.marker(
+                [40.9517, 17.2906],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var icon_663d55a9697a22c700b62f7b742e5249 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "red",
   "iconColor": "white",
@@ -329,34 +367,44 @@
             );
         
     
-        var popup_f949a26d9277c5f8509a45dc4463f730 = L.popup({
+        var popup_1877a06e1353104001ce3ffa4afcc50a = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_9ce7361ec0b983b81da9bc55fc4d1269 = $(`<div id="html_9ce7361ec0b983b81da9bc55fc4d1269" style="width: 100.0%; height: 100.0%;">🏖️ Monopoli (Pouilles)</div>`)[0];
-                popup_f949a26d9277c5f8509a45dc4463f730.setContent(html_9ce7361ec0b983b81da9bc55fc4d1269);
+                var html_edc6d3d3d68594850b5c8d9acaefecb7 = $(`<div id="html_edc6d3d3d68594850b5c8d9acaefecb7" style="width: 100.0%; height: 100.0%;">🏖️ Monopoli — Pouilles</div>`)[0];
+                popup_1877a06e1353104001ce3ffa4afcc50a.setContent(html_edc6d3d3d68594850b5c8d9acaefecb7);
             
         
 
-        marker_0230eb8e863b4972a31eb2b947e00595.bindPopup(popup_f949a26d9277c5f8509a45dc4463f730)
+        marker_fffbabd8fffead5731051a2146e1db8b.bindPopup(popup_1877a06e1353104001ce3ffa4afcc50a)
         ;
 
         
     
     
-                marker_0230eb8e863b4972a31eb2b947e00595.setIcon(icon_34fe6b96413bb9ac73d7d4bf9f78775a);
-            
-    
-            var marker_4003b86fe654c9f94d8bc394e699cfdb = L.marker(
-                [42.3428, 13.956],
+            marker_fffbabd8fffead5731051a2146e1db8b.bindTooltip(
+                `<div>
+                     🏖️ Monopoli — Pouilles
+                 </div>`,
                 {
+  "sticky": true,
 }
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+            );
         
     
-            var icon_4bf9fb55c044b3ac0f051897477a3143 = L.AwesomeMarkers.icon(
+                marker_fffbabd8fffead5731051a2146e1db8b.setIcon(icon_663d55a9697a22c700b62f7b742e5249);
+            
+    
+            var marker_7d8fe3ca36404a6ab0234429f5c3d5f5 = L.marker(
+                [42.9525, 13.8807],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var icon_0c69db2f5c4e246a41cbf6fa8722e108 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "red",
   "iconColor": "white",
@@ -367,34 +415,44 @@
             );
         
     
-        var popup_6f35d79150e785b3da4d01c1b1e9b3a6 = L.popup({
+        var popup_f2f35c0a4a10d5c9cf759d0958d38b10 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_38fa0ac91c510a3db806963feb7aed45 = $(`<div id="html_38fa0ac91c510a3db806963feb7aed45" style="width: 100.0%; height: 100.0%;">🛣️ Santa Irene</div>`)[0];
-                popup_6f35d79150e785b3da4d01c1b1e9b3a6.setContent(html_38fa0ac91c510a3db806963feb7aed45);
+                var html_3d66a7fa544622bf26815c2bc7900a1c = $(`<div id="html_3d66a7fa544622bf26815c2bc7900a1c" style="width: 100.0%; height: 100.0%;">⬆️ San Benedetto del Tronto</div>`)[0];
+                popup_f2f35c0a4a10d5c9cf759d0958d38b10.setContent(html_3d66a7fa544622bf26815c2bc7900a1c);
             
         
 
-        marker_4003b86fe654c9f94d8bc394e699cfdb.bindPopup(popup_6f35d79150e785b3da4d01c1b1e9b3a6)
+        marker_7d8fe3ca36404a6ab0234429f5c3d5f5.bindPopup(popup_f2f35c0a4a10d5c9cf759d0958d38b10)
         ;
 
         
     
     
-                marker_4003b86fe654c9f94d8bc394e699cfdb.setIcon(icon_4bf9fb55c044b3ac0f051897477a3143);
-            
-    
-            var marker_8998c77e6002284052637a8a864f6133 = L.marker(
-                [45.4833, 12.4833],
+            marker_7d8fe3ca36404a6ab0234429f5c3d5f5.bindTooltip(
+                `<div>
+                     ⬆️ San Benedetto del Tronto
+                 </div>`,
                 {
+  "sticky": true,
 }
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+            );
         
     
-            var icon_a2bc92143bf268ad0002056758796697 = L.AwesomeMarkers.icon(
+                marker_7d8fe3ca36404a6ab0234429f5c3d5f5.setIcon(icon_0c69db2f5c4e246a41cbf6fa8722e108);
+            
+    
+            var marker_68f9e8f3335508b17e3712595c46d763 = L.marker(
+                [45.4569, 12.4802],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var icon_b03e423da098fd25b7ddae2595b9e497 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "red",
   "iconColor": "white",
@@ -405,34 +463,44 @@
             );
         
     
-        var popup_9842ca8b937e1c304061d58a908bce6c = L.popup({
+        var popup_aa4c8b8a12b4e6a04e1c6ade8392c421 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_9d53d3985ce27ebadccf8e654a2e5451 = $(`<div id="html_9d53d3985ce27ebadccf8e654a2e5451" style="width: 100.0%; height: 100.0%;">🎭 Venise (Cavallino)</div>`)[0];
-                popup_9842ca8b937e1c304061d58a908bce6c.setContent(html_9d53d3985ce27ebadccf8e654a2e5451);
+                var html_a6bc81af535d8267c83f31595b7fc3bb = $(`<div id="html_a6bc81af535d8267c83f31595b7fc3bb" style="width: 100.0%; height: 100.0%;">🛶 Venise — Cavallino</div>`)[0];
+                popup_aa4c8b8a12b4e6a04e1c6ade8392c421.setContent(html_a6bc81af535d8267c83f31595b7fc3bb);
             
         
 
-        marker_8998c77e6002284052637a8a864f6133.bindPopup(popup_9842ca8b937e1c304061d58a908bce6c)
+        marker_68f9e8f3335508b17e3712595c46d763.bindPopup(popup_aa4c8b8a12b4e6a04e1c6ade8392c421)
         ;
 
         
     
     
-                marker_8998c77e6002284052637a8a864f6133.setIcon(icon_a2bc92143bf268ad0002056758796697);
-            
-    
-            var marker_ff2c5046189dd69f64d95ad1aba64268 = L.marker(
-                [45.4386, 10.6583],
+            marker_68f9e8f3335508b17e3712595c46d763.bindTooltip(
+                `<div>
+                     🛶 Venise — Cavallino
+                 </div>`,
                 {
+  "sticky": true,
 }
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+            );
         
     
-            var icon_471eda4fb417de478f11fc0ceab8a232 = L.AwesomeMarkers.icon(
+                marker_68f9e8f3335508b17e3712595c46d763.setIcon(icon_b03e423da098fd25b7ddae2595b9e497);
+            
+    
+            var marker_8d39f3dbcc3afdce0f871b5790783bdd = L.marker(
+                [45.4667, 10.5333],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var icon_d4959aec3c5d2e93221cc4b8e25842ff = L.AwesomeMarkers.icon(
                 {
   "markerColor": "red",
   "iconColor": "white",
@@ -443,260 +511,479 @@
             );
         
     
-        var popup_e4625b2cbb9f08e9fea0f9ccf818e7af = L.popup({
+        var popup_346986d3cc6db645ee1b8fb8fb3d7311 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_ddb654b7be57d7a60baf397bfde16054 = $(`<div id="html_ddb654b7be57d7a60baf397bfde16054" style="width: 100.0%; height: 100.0%;">🌊 Lac de Garde</div>`)[0];
-                popup_e4625b2cbb9f08e9fea0f9ccf818e7af.setContent(html_ddb654b7be57d7a60baf397bfde16054);
+                var html_46b3bb58e741cfe9b62ff43244be673c = $(`<div id="html_46b3bb58e741cfe9b62ff43244be673c" style="width: 100.0%; height: 100.0%;">🌊 Lac de Garde — Desenzano</div>`)[0];
+                popup_346986d3cc6db645ee1b8fb8fb3d7311.setContent(html_46b3bb58e741cfe9b62ff43244be673c);
             
         
 
-        marker_ff2c5046189dd69f64d95ad1aba64268.bindPopup(popup_e4625b2cbb9f08e9fea0f9ccf818e7af)
+        marker_8d39f3dbcc3afdce0f871b5790783bdd.bindPopup(popup_346986d3cc6db645ee1b8fb8fb3d7311)
         ;
 
         
     
     
-                marker_ff2c5046189dd69f64d95ad1aba64268.setIcon(icon_471eda4fb417de478f11fc0ceab8a232);
-            
-    
-            var marker_766596a08538b0e922a8ef581ce83e0b = L.marker(
-                [48.0794, 7.3582],
+            marker_8d39f3dbcc3afdce0f871b5790783bdd.bindTooltip(
+                `<div>
+                     🌊 Lac de Garde — Desenzano
+                 </div>`,
                 {
+  "sticky": true,
 }
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+            );
         
     
-            var icon_f94aa87b71bbe26c136453a2cf4eab0b = L.AwesomeMarkers.icon(
+                marker_8d39f3dbcc3afdce0f871b5790783bdd.setIcon(icon_d4959aec3c5d2e93221cc4b8e25842ff);
+            
+    
+            var marker_be050143d9b05d1338cf9a296000b7e9 = L.marker(
+                [48.0794, 7.3586],
                 {
-  "markerColor": "darkblue",
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var icon_3ed9ca0d0f87df6a9013eec2fd04a49a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
   "iconColor": "white",
-  "icon": "flag",
-  "prefix": "fa",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
   "extraClasses": "fa-rotate-0",
 }
             );
         
     
-        var popup_83c6c0c0f98a901c41a80b0e52275dec = L.popup({
+        var popup_484f46ca6bc65ff9981bea2ed6cf16d3 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_8c6caca8e0f05b6d6fc9bc12b556d1d3 = $(`<div id="html_8c6caca8e0f05b6d6fc9bc12b556d1d3" style="width: 100.0%; height: 100.0%;">🇫🇷 Colmar (retour)</div>`)[0];
-                popup_83c6c0c0f98a901c41a80b0e52275dec.setContent(html_8c6caca8e0f05b6d6fc9bc12b556d1d3);
+                var html_a4350067b962d6949953ea7b9d42f91c = $(`<div id="html_a4350067b962d6949953ea7b9d42f91c" style="width: 100.0%; height: 100.0%;">🇫🇷 Colmar (retour)</div>`)[0];
+                popup_484f46ca6bc65ff9981bea2ed6cf16d3.setContent(html_a4350067b962d6949953ea7b9d42f91c);
             
         
 
-        marker_766596a08538b0e922a8ef581ce83e0b.bindPopup(popup_83c6c0c0f98a901c41a80b0e52275dec)
+        marker_be050143d9b05d1338cf9a296000b7e9.bindPopup(popup_484f46ca6bc65ff9981bea2ed6cf16d3)
         ;
 
         
     
     
-                marker_766596a08538b0e922a8ef581ce83e0b.setIcon(icon_f94aa87b71bbe26c136453a2cf4eab0b);
-            
-    
-            var marker_6dd15a2521f293e7e4f71c943afe6e5f = L.marker(
-                [50.5247, 4.6019],
+            marker_be050143d9b05d1338cf9a296000b7e9.bindTooltip(
+                `<div>
+                     🇫🇷 Colmar (retour)
+                 </div>`,
                 {
+  "sticky": true,
 }
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+            );
         
     
-            var icon_5807b199ca15b2366b6184ad4d341850 = L.AwesomeMarkers.icon(
+                marker_be050143d9b05d1338cf9a296000b7e9.setIcon(icon_3ed9ca0d0f87df6a9013eec2fd04a49a);
+            
+    
+            var marker_8d682639e5126b66f1da637e7fc4635e = L.marker(
+                [50.5276, 4.6003],
                 {
-  "markerColor": "darkblue",
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var icon_5be944de158fd64b22f4b994134ae769 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
   "iconColor": "white",
-  "icon": "flag",
-  "prefix": "fa",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
   "extraClasses": "fa-rotate-0",
 }
             );
         
     
-        var popup_d950deac6e389d609f670137a112e6a1 = L.popup({
+        var popup_0f9580370bb77d5ed16e2c1823accb09 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_4a9cb7d66e63f6a7cd9f4e545ed43703 = $(`<div id="html_4a9cb7d66e63f6a7cd9f4e545ed43703" style="width: 100.0%; height: 100.0%;">🏁 Sombreffe</div>`)[0];
-                popup_d950deac6e389d609f670137a112e6a1.setContent(html_4a9cb7d66e63f6a7cd9f4e545ed43703);
+                var html_26ef211eb5651bcb767a3a7e0c608b40 = $(`<div id="html_26ef211eb5651bcb767a3a7e0c608b40" style="width: 100.0%; height: 100.0%;">🏁 Sombreffe (arrivée)</div>`)[0];
+                popup_0f9580370bb77d5ed16e2c1823accb09.setContent(html_26ef211eb5651bcb767a3a7e0c608b40);
             
         
 
-        marker_6dd15a2521f293e7e4f71c943afe6e5f.bindPopup(popup_d950deac6e389d609f670137a112e6a1)
+        marker_8d682639e5126b66f1da637e7fc4635e.bindPopup(popup_0f9580370bb77d5ed16e2c1823accb09)
         ;
 
         
     
     
-                marker_6dd15a2521f293e7e4f71c943afe6e5f.setIcon(icon_5807b199ca15b2366b6184ad4d341850);
-            
-    
-            var marker_2c8cdd918d338ba5fc7b34c6cdfe33fe = L.marker(
-                [49.30205, 5.98005],
+            marker_8d682639e5126b66f1da637e7fc4635e.bindTooltip(
+                `<div>
+                     🏁 Sombreffe (arrivée)
+                 </div>`,
                 {
+  "sticky": true,
 }
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+            );
         
     
-            var div_icon_f1843b1d7835dd747c0680ca29e611eb = L.divIcon({
-  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 4px;border-radius:4px;border:1px solid #ccc;white-space:nowrap;\"\u003e\u2192 446km\u003c/div\u003e",
+                marker_8d682639e5126b66f1da637e7fc4635e.setIcon(icon_5be944de158fd64b22f4b994134ae769);
+            
+    
+            var marker_60014bb74a486066716c4ff8b1f3dcda = L.marker(
+                [49.3035, 5.97945],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var div_icon_ed5ae900ba4922d4aaae30d11e1da5cc = L.divIcon({
+  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 6px;border-radius:8px;border:1px solid #ccc;white-space:nowrap;\"\u003e338 km\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_2c8cdd918d338ba5fc7b34c6cdfe33fe.setIcon(div_icon_f1843b1d7835dd747c0680ca29e611eb);
+        var popup_af0d055255895aa890fdd4b347dbd27d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
             
-    
-            var marker_62565059b33688b2a0721c676bc4e3f3 = L.marker(
-                [47.02305, 8.229099999999999],
-                {
-}
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+                var html_09a4a4ff80479837c6a52dd429f237db = $(`<div id="html_09a4a4ff80479837c6a52dd429f237db" style="width: 100.0%; height: 100.0%;">🏠 Sombreffe (départ) → 🇫🇷 Colmar — Aire Schoenau<br>338 km (vol d'oiseau)</div>`)[0];
+                popup_af0d055255895aa890fdd4b347dbd27d.setContent(html_09a4a4ff80479837c6a52dd429f237db);
+            
+        
+
+        marker_60014bb74a486066716c4ff8b1f3dcda.bindPopup(popup_af0d055255895aa890fdd4b347dbd27d)
+        ;
+
         
     
-            var div_icon_1df9ef4212c0262969b8690b324e9bb0 = L.divIcon({
-  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 4px;border-radius:4px;border:1px solid #ccc;white-space:nowrap;\"\u003e\u2192 353km\u003c/div\u003e",
+    
+                marker_60014bb74a486066716c4ff8b1f3dcda.setIcon(div_icon_ed5ae900ba4922d4aaae30d11e1da5cc);
+            
+    
+            var marker_935e3dc6cb2b204a10e5bb45eb116f09 = L.marker(
+                [47.04805, 8.29595],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var div_icon_8d8eb8b0a09ef4f086a74a3988c80160 = L.divIcon({
+  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 6px;border-radius:8px;border:1px solid #ccc;white-space:nowrap;\"\u003e270 km\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_62565059b33688b2a0721c676bc4e3f3.setIcon(div_icon_1df9ef4212c0262969b8690b324e9bb0);
+        var popup_c2f42b3318bc86c869c0b9d11f7d7284 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
             
-    
-            var marker_db95f5dd7d11add9b29cd8c8a647bafd = L.marker(
-                [44.86815, 10.177900000000001],
-                {
-}
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+                var html_21920aff045c7f198c5ad62a7e4e3092 = $(`<div id="html_21920aff045c7f198c5ad62a7e4e3092" style="width: 100.0%; height: 100.0%;">🇫🇷 Colmar — Aire Schoenau → 🏞️ Lac de Côme — Menaggio<br>270 km (vol d'oiseau)</div>`)[0];
+                popup_c2f42b3318bc86c869c0b9d11f7d7284.setContent(html_21920aff045c7f198c5ad62a7e4e3092);
+            
+        
+
+        marker_935e3dc6cb2b204a10e5bb45eb116f09.bindPopup(popup_c2f42b3318bc86c869c0b9d11f7d7284)
+        ;
+
         
     
-            var div_icon_0f36d01ee6be02b5cfd2dc1ab4136195 = L.divIcon({
-  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 4px;border-radius:4px;border:1px solid #ccc;white-space:nowrap;\"\u003e\u2192 411km\u003c/div\u003e",
+    
+                marker_935e3dc6cb2b204a10e5bb45eb116f09.setIcon(div_icon_8d8eb8b0a09ef4f086a74a3988c80160);
+            
+    
+            var marker_b67f681dac685b35b90a3b6193230e2c = L.marker(
+                [44.89315, 10.24455],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var div_icon_d4502c52a4150aaaaa9ef42ca5559150 = L.divIcon({
+  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 6px;border-radius:8px;border:1px solid #ccc;white-space:nowrap;\"\u003e296 km\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_db95f5dd7d11add9b29cd8c8a647bafd.setIcon(div_icon_0f36d01ee6be02b5cfd2dc1ab4136195);
+        var popup_26361273b815022c55db07ae269230c1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
             
-    
-            var marker_0f8ad04d5ef4de2857dbc1e89ecc5b29 = L.marker(
-                [42.259100000000004, 12.87695],
-                {
-}
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+                var html_4dae27e2e5a6f8dacc06bd902cdaf1cf = $(`<div id="html_4dae27e2e5a6f8dacc06bd902cdaf1cf" style="width: 100.0%; height: 100.0%;">🏞️ Lac de Côme — Menaggio → 🏛️ Florence<br>296 km (vol d'oiseau)</div>`)[0];
+                popup_26361273b815022c55db07ae269230c1.setContent(html_4dae27e2e5a6f8dacc06bd902cdaf1cf);
+            
+        
+
+        marker_b67f681dac685b35b90a3b6193230e2c.bindPopup(popup_26361273b815022c55db07ae269230c1)
+        ;
+
         
     
-            var div_icon_3def49f2e40c197dc58c577f2df76fe9 = L.divIcon({
-  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 4px;border-radius:4px;border:1px solid #ccc;white-space:nowrap;\"\u003e\u2192 484km\u003c/div\u003e",
+    
+                marker_b67f681dac685b35b90a3b6193230e2c.setIcon(div_icon_d4502c52a4150aaaaa9ef42ca5559150);
+            
+    
+            var marker_4138572c6002ba6f628152c92a0ecc5f = L.marker(
+                [42.2595, 12.871300000000002],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var div_icon_a045187a7a7db8c21b8c6263584bd86d = L.divIcon({
+  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 6px;border-radius:8px;border:1px solid #ccc;white-space:nowrap;\"\u003e428 km\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_0f8ad04d5ef4de2857dbc1e89ecc5b29.setIcon(div_icon_3def49f2e40c197dc58c577f2df76fe9);
+        var popup_cf88536fcd12355bda98500d18db0124 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
             
-    
-            var marker_8d6cb5826e3386142ff32f9fcd527f6a = L.marker(
-                [40.8493, 15.89905],
-                {
-}
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+                var html_a94aabeb6e36927e224b69d21777f7aa = $(`<div id="html_a94aabeb6e36927e224b69d21777f7aa" style="width: 100.0%; height: 100.0%;">🏛️ Florence → 🌋 Pompéi<br>428 km (vol d'oiseau)</div>`)[0];
+                popup_cf88536fcd12355bda98500d18db0124.setContent(html_a94aabeb6e36927e224b69d21777f7aa);
+            
+        
+
+        marker_4138572c6002ba6f628152c92a0ecc5f.bindPopup(popup_cf88536fcd12355bda98500d18db0124)
+        ;
+
         
     
-            var div_icon_a3be470ace9eb60153a31cce107acffc = L.divIcon({
-  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 4px;border-radius:4px;border:1px solid #ccc;white-space:nowrap;\"\u003e\u2192 318km\u003c/div\u003e",
+    
+                marker_4138572c6002ba6f628152c92a0ecc5f.setIcon(div_icon_a045187a7a7db8c21b8c6263584bd86d);
+            
+    
+            var marker_c810b0344186b6e1dc83f779f2e32929 = L.marker(
+                [40.85055, 15.8887],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var div_icon_5f84c009d3901cecb4f59f035e538bad = L.divIcon({
+  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 6px;border-radius:8px;border:1px solid #ccc;white-space:nowrap;\"\u003e237 km\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_8d6cb5826e3386142ff32f9fcd527f6a.setIcon(div_icon_a3be470ace9eb60153a31cce107acffc);
+        var popup_4bc68f557c46f5f6d45310b0123cd90e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
             
-    
-            var marker_7717a45207cb0472068c70588a97bbec = L.marker(
-                [41.6464, 15.628],
-                {
-}
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+                var html_3144a097039cdf1479604df8a1f4ac5d = $(`<div id="html_3144a097039cdf1479604df8a1f4ac5d" style="width: 100.0%; height: 100.0%;">🌋 Pompéi → 🏖️ Monopoli — Pouilles<br>237 km (vol d'oiseau)</div>`)[0];
+                popup_4bc68f557c46f5f6d45310b0123cd90e.setContent(html_3144a097039cdf1479604df8a1f4ac5d);
+            
+        
+
+        marker_c810b0344186b6e1dc83f779f2e32929.bindPopup(popup_4bc68f557c46f5f6d45310b0123cd90e)
+        ;
+
         
     
-            var div_icon_5893ce4b590f7fa26a70a3311308ba16 = L.divIcon({
-  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 4px;border-radius:4px;border:1px solid #ccc;white-space:nowrap;\"\u003e\u2192 377km\u003c/div\u003e",
+    
+                marker_c810b0344186b6e1dc83f779f2e32929.setIcon(div_icon_5f84c009d3901cecb4f59f035e538bad);
+            
+    
+            var marker_2debd5b089eb6f3777d545f6c0e3c57d = L.marker(
+                [41.9521, 15.585650000000001],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var div_icon_dc7818bdb0f06dd45cac91083a21d797 = L.divIcon({
+  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 6px;border-radius:8px;border:1px solid #ccc;white-space:nowrap;\"\u003e359 km\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_7717a45207cb0472068c70588a97bbec.setIcon(div_icon_5893ce4b590f7fa26a70a3311308ba16);
+        var popup_86261ed9a8c818f526d67799f09f200c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
             
-    
-            var marker_fe666236cdde9162fb810bd3dea3c790 = L.marker(
-                [43.91305, 13.21965],
-                {
-}
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+                var html_534343c64e6984252791c9c2e2d1fba7 = $(`<div id="html_534343c64e6984252791c9c2e2d1fba7" style="width: 100.0%; height: 100.0%;">🏖️ Monopoli — Pouilles → ⬆️ San Benedetto del Tronto<br>359 km (vol d'oiseau)</div>`)[0];
+                popup_86261ed9a8c818f526d67799f09f200c.setContent(html_534343c64e6984252791c9c2e2d1fba7);
+            
+        
+
+        marker_2debd5b089eb6f3777d545f6c0e3c57d.bindPopup(popup_86261ed9a8c818f526d67799f09f200c)
+        ;
+
         
     
-            var div_icon_4eeff452148a6dae00e32fd938311b6d = L.divIcon({
-  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 4px;border-radius:4px;border:1px solid #ccc;white-space:nowrap;\"\u003e\u2192 546km\u003c/div\u003e",
+    
+                marker_2debd5b089eb6f3777d545f6c0e3c57d.setIcon(div_icon_dc7818bdb0f06dd45cac91083a21d797);
+            
+    
+            var marker_1c30fe01e7c5af2ac54546e8789944c8 = L.marker(
+                [44.2047, 13.18045],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var div_icon_425b7dbe5cc219bbe966562066412ac1 = L.divIcon({
+  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 6px;border-radius:8px;border:1px solid #ccc;white-space:nowrap;\"\u003e300 km\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_fe666236cdde9162fb810bd3dea3c790.setIcon(div_icon_4eeff452148a6dae00e32fd938311b6d);
+        var popup_6e6607940ae7e39361fb9e52bb36a0a9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
             
-    
-            var marker_7ccf8165a9d7c1fc8bcbbc89f0e901cf = L.marker(
-                [45.46095, 11.5708],
-                {
-}
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+                var html_166804287d9635e51e278de6358882fd = $(`<div id="html_166804287d9635e51e278de6358882fd" style="width: 100.0%; height: 100.0%;">⬆️ San Benedetto del Tronto → 🛶 Venise — Cavallino<br>300 km (vol d'oiseau)</div>`)[0];
+                popup_6e6607940ae7e39361fb9e52bb36a0a9.setContent(html_166804287d9635e51e278de6358882fd);
+            
+        
+
+        marker_1c30fe01e7c5af2ac54546e8789944c8.bindPopup(popup_6e6607940ae7e39361fb9e52bb36a0a9)
+        ;
+
         
     
-            var div_icon_64084056d5ebe777999f1c4f85407d92 = L.divIcon({
-  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 4px;border-radius:4px;border:1px solid #ccc;white-space:nowrap;\"\u003e\u2192 164km\u003c/div\u003e",
+    
+                marker_1c30fe01e7c5af2ac54546e8789944c8.setIcon(div_icon_425b7dbe5cc219bbe966562066412ac1);
+            
+    
+            var marker_78ebbad7c63b3c2d5320ce9e79cc125e = L.marker(
+                [45.4618, 11.50675],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var div_icon_594d8ec09d019ea7f76c1c7219b15e60 = L.divIcon({
+  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 6px;border-radius:8px;border:1px solid #ccc;white-space:nowrap;\"\u003e152 km\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_7ccf8165a9d7c1fc8bcbbc89f0e901cf.setIcon(div_icon_64084056d5ebe777999f1c4f85407d92);
+        var popup_05c76c58c6cfbda4417b6f6127b9e733 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
             
-    
-            var marker_56e99f8e9a84b6c175598a3e66a5cc9a = L.marker(
-                [46.759, 9.00825],
-                {
-}
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+                var html_b2020606bb3faa2823d328e722ef8932 = $(`<div id="html_b2020606bb3faa2823d328e722ef8932" style="width: 100.0%; height: 100.0%;">🛶 Venise — Cavallino → 🌊 Lac de Garde — Desenzano<br>152 km (vol d'oiseau)</div>`)[0];
+                popup_05c76c58c6cfbda4417b6f6127b9e733.setContent(html_b2020606bb3faa2823d328e722ef8932);
+            
+        
+
+        marker_78ebbad7c63b3c2d5320ce9e79cc125e.bindPopup(popup_05c76c58c6cfbda4417b6f6127b9e733)
+        ;
+
         
     
-            var div_icon_a3b803a583a8de232f2790490cd23b9c = L.divIcon({
-  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 4px;border-radius:4px;border:1px solid #ccc;white-space:nowrap;\"\u003e\u2192 547km\u003c/div\u003e",
+    
+                marker_78ebbad7c63b3c2d5320ce9e79cc125e.setIcon(div_icon_594d8ec09d019ea7f76c1c7219b15e60);
+            
+    
+            var marker_c39914c327e9a62f4e06af054ecfe25f = L.marker(
+                [46.77305, 8.94595],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var div_icon_195151d390ebad374a02b5440fc5e515 = L.divIcon({
+  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 6px;border-radius:8px;border:1px solid #ccc;white-space:nowrap;\"\u003e378 km\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_56e99f8e9a84b6c175598a3e66a5cc9a.setIcon(div_icon_a3b803a583a8de232f2790490cd23b9c);
+        var popup_debd7f1119889a4b0cb35e5667be703d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
             
-    
-            var marker_b53f7d0dd8e4c7deef39440aead76e4e = L.marker(
-                [49.30205, 5.98005],
-                {
-}
-            ).addTo(map_731a4279c29736361697de1f76ad3994);
+                var html_52ba7f89f0c20b024f26bc164645b82d = $(`<div id="html_52ba7f89f0c20b024f26bc164645b82d" style="width: 100.0%; height: 100.0%;">🌊 Lac de Garde — Desenzano → 🇫🇷 Colmar (retour)<br>378 km (vol d'oiseau)</div>`)[0];
+                popup_debd7f1119889a4b0cb35e5667be703d.setContent(html_52ba7f89f0c20b024f26bc164645b82d);
+            
+        
+
+        marker_c39914c327e9a62f4e06af054ecfe25f.bindPopup(popup_debd7f1119889a4b0cb35e5667be703d)
+        ;
+
         
     
-            var div_icon_7fae4b36eb03a02a53ab37473416ef35 = L.divIcon({
-  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 4px;border-radius:4px;border:1px solid #ccc;white-space:nowrap;\"\u003e\u2192 445km\u003c/div\u003e",
+    
+                marker_c39914c327e9a62f4e06af054ecfe25f.setIcon(div_icon_195151d390ebad374a02b5440fc5e515);
+            
+    
+            var marker_54b748f392433e82602425b23e28caf4 = L.marker(
+                [49.3035, 5.97945],
+                {
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+        
+    
+            var div_icon_02adc72f42655de75f8e489e5e2cca6f = L.divIcon({
+  "html": "\u003cdiv style=\"font-size:10px;font-weight:bold;color:#e63946;background:white;padding:2px 6px;border-radius:8px;border:1px solid #ccc;white-space:nowrap;\"\u003e338 km\u003c/div\u003e",
   "className": "empty",
 });
         
     
-                marker_b53f7d0dd8e4c7deef39440aead76e4e.setIcon(div_icon_7fae4b36eb03a02a53ab37473416ef35);
+        var popup_ba788872ff11b6e708057e7a421b8469 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
             
+                var html_fabef042467326f1f255a6a14620e3f5 = $(`<div id="html_fabef042467326f1f255a6a14620e3f5" style="width: 100.0%; height: 100.0%;">🇫🇷 Colmar (retour) → 🏁 Sombreffe (arrivée)<br>338 km (vol d'oiseau)</div>`)[0];
+                popup_ba788872ff11b6e708057e7a421b8469.setContent(html_fabef042467326f1f255a6a14620e3f5);
+            
+        
+
+        marker_54b748f392433e82602425b23e28caf4.bindPopup(popup_ba788872ff11b6e708057e7a421b8469)
+        ;
+
+        
+    
+    
+                marker_54b748f392433e82602425b23e28caf4.setIcon(div_icon_02adc72f42655de75f8e489e5e2cca6f);
+            
+    
+            var layer_control_d8a2cc652beaa0b39db675c9d9f4905c_layers = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_b9fd7b622dc2a70e1efe020f30c1c218,
+                },
+                overlays :  {
+                },
+            };
+            let layer_control_d8a2cc652beaa0b39db675c9d9f4905c = L.control.layers(
+                layer_control_d8a2cc652beaa0b39db675c9d9f4905c_layers.base_layers,
+                layer_control_d8a2cc652beaa0b39db675c9d9f4905c_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": true,
+  "autoZIndex": true,
+}
+            ).addTo(map_ee04bfe02110da89ee13a8681ecc26db);
+
+        
 </script>
 </html>

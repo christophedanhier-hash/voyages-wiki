@@ -1,6 +1,6 @@
 # 🇮🇹 Voyage Italie — Septembre/Octobre 2026
 
-> **🗓️ 11/09/2026 → 11/10/2026 | 🚐 30 jours | 🛌 30 nuits | 📏 ~4091 km**
+> **🗓️ 11/09/2026 → 11/10/2026 | 🚐 30 jours | 🛌 30 nuits | 📏 ~4036 km**
 
 ---
 
@@ -57,8 +57,8 @@
 | 15 | Ven 25/9 | 🚗 *Jour 5 voiture — Dernier rayonnement* 🚙 | — | 2012 | — | — | — |
 | 16 | Sam 26/9 | ☀️ *Plages & criques* 🏖️ | — | 2012 | — | — | — |
 | 17 | Dim 27/9 | ☀️ *Dernier jour — farniente & criques* ☀️ | — | 2012 | — | — | — |
-| 18 | Lun 28/9 | ⬆️ **Monopoli** → **Santa Irene** (simple étape repos) | 377 km | 2389 | 1 | Area Sosta Camper Santa Irene | 10,00 € |
-| 19 | Mar 29/9 | 🛶 **Santa Irene** → **Venise** (Cavallino) | 546 km | 2935 | 4 | Camping Europa Village — Cavallino-Treporti | 222,80 € |
+| 18 | Lun 28/9 | ⬆️ **Monopoli** → **San Benedetto del Tronto** (simple étape repos) | 427 km | 2439 | 1 | Parking Lungomare / Aire CC | ~15,00 € |
+| 19 | Mar 29/9 | 🛶 **San Benedetto del Tronto** → **Venise** (Cavallino) | 441 km | 2880 | 4 | Camping Europa Village — Cavallino-Treporti | 222,80 € |
 | 20 | Mer 30/9 | 🎭 *Jour 1 Venise — Cœur historique* 🏛️ | — | 2935 | — | — | — |
 | 21 | Jeu 1/10 | 🏝️ *Jour 2 Venise — Murano & Burano* 🎨 | — | 2935 | — | — | — |
 | 22 | Ven 2/10 | 🛶 *Jour 3 Venise — Lido ou quartiers au choix* 🎯 | — | 2935 | — | — | — |
@@ -81,16 +81,16 @@
 | 🏛️ **Lac de Côme → Florence** | 411 km | 4h07 | A9 – Milan – A1 – Florence |
 | 🌋 **Florence → Pompéi** | 484 km | 4h50 | A1 – Rome – A30 – Pompéi |
 | 🏖️ **Pompéi → Monopoli** | 318 km | 3h11 | A30 – A16 – A14 – Bari |
-| ⬆️ **Monopoli → Santa Irene** | 377 km | 3h46 | A14 adriatique (côté est) |
-| 🛶 **Santa Irene → Venise** | 546 km | 5h28 | A14 – A13 – Venise |
+| ⬆️ **Monopoli → San Benedetto del Tronto** | 427 km | 4h24 | A14 adriatique (côté est) |
+| 🛶 **San Benedetto del Tronto → Venise** | 441 km | 4h25 | A14 – A13 – Venise |
 | 🌊 **Venise → Lac de Garde** | 164 km | 1h38 | A4 – Desenzano |
 | 🏁 **Lac de Garde → Colmar** | 547 km | 5h28 | A4 – Milan – Gotthard – A35 |
 | 🏁 **Colmar → Sombreffe** | 445 km | 4h27 | A31 – Luxembourg – E411/A4 |
-| | **Total** | **40h56** | |
+| | **Total** | **40h30** | |
 
 > ⏱️ *Temps de route calculé sur base d'une vitesse constante de **100 km/h** (vitesse max CC sur autoroute). Temps réel à prévoir +15-20% pour pauses, péages, ralentissements.*
 
-> 💡 **Comparaison :** la distance totale route (~4 091 km) est supérieure de ~30% à la distance vol d'oiseau (~3 157 km). En CC à 100 km/h, compter **environ 41h de conduite pures**, soit l'équivalent de **~4 jours pleins au volant** répartis sur les 11 jours de route.
+> 💡 **Comparaison :** la distance totale route (~4 036 km) est supérieure de ~30% à la distance vol d'oiseau (~3 157 km). En CC à 100 km/h, compter **environ 40h30 de conduite pures**, soit l'équivalent de **~4 jours pleins au volant** répartis sur les 11 jours de route.
 
 ---
 
@@ -260,7 +260,7 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 | 🚙 | Ven 25/9 | **Polignano a Mare** matin + dernier rayonnement | 🚗 |
 | | ☀️ | Sam 26/9 | Plages & criques côtières 🏖️ | 🚶 |
 | | ☀️ | Dim 27/9 | Dernier jour — farniente, criques, gelato 🍨 | 🚶 |
-| ⬆️ | Lun 28/9 | Départ → Santa Irene | 🚐 |
+| ⬆️ | Lun 28/9 | Départ → San Benedetto del Tronto | 🚐 |
 
 **🎭 Visites à pied dans Monopoli (accessible Sylvie ✅) :**
 
@@ -693,7 +693,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 
 <iframe src="carte-italie.html" width="100%" height="550" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
 
-> 🗺️ Carte interactive avec le **parcours réel** (11 étapes, 4091 km). Cliquez sur les marqueurs pour voir les étapes. Les distances entre chaque étape sont indiquées sur le tracé.
+> 🗺️ Carte interactive avec le **parcours réel** (11 étapes, 4036 km). Cliquez sur les marqueurs pour voir les étapes. Les distances entre chaque étape sont indiquées sur le tracé.
 
 ---
 
@@ -706,7 +706,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | Florence | **hu Firenze camping in town** | ✅ #314185774 | 3 nuits | 165,00 € | ❌ Carte garantie |
 | Pompéi | **Camping Spartacus** | ✅ Confirmé | 2 nuits | **66,00 €** (33€/nuit) | ✅ Confirmé |
 | Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ✅ Confirmé wubook |
-| Santa Irene | Area Sosta Camper Santa Irene | ❌ Sans résa (étape repos) | 1 nuit | 10,00 € | — |
+| San Benedetto del Tronto | Parking Lungomare / Aire CC | ❌ Sans résa (étape repos) | 1 nuit | ~15,00 € | — |
 | Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | **Payé** ✔️ Sandaya |
 | Lac de Garde | **San Francesco Camping Village** | ✅ #654795826 | 7 nuits | 468,00 € | **140,40 €** ✔️ MC 14/01 |
 | Colmar (retour) | Aire CC Schoenau | ❌ Sans résa | 1 nuit | 14,00 € | — |
@@ -720,7 +720,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | **Pompéi** | **Camping Spartacus** (Via Plinio 127) — ✅ **Confirmé** par Alessandro. **33€/nuit tout compris** (2 pers, CC, électricité, taxes). Arrivée ~15h00 le 17/09/2026. CC 8m OK, chiens OK (dog-sitting dispo 🐕). Piscine, restaurant-pizzeria, Wi-Fi, supérette. 50m entrée Porta Marina — idéal ! |
 || **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). ✅ Confirmé via wubook (CD-0008). 336€. Politique annulation: 30 jours. Check-in en ligne dispo |
 || **Europa Village** | Réservé via Sandaya (N°06426005202000). **Paiement reçu** ✔️ (email du 14/01/2026). Cavallino-Treporti, bus+ferry ACTV Venise 45 min. Piscine, plage privée, pinède. Chiens sur demande — à confirmer |
-|| **Area Sosta Camper Santa Irene** | Simple étape repos (10 €, pas de résa). Rien à voir sur place — juste dormir et repartir.
+|| **Parking Lungomare / Aire CC San Benedetto** | Stationnement libre ou aire de service le long du front de mer (~15 €). Simple étape repos — balade sur le lungomare, coucher de soleil sur l'Adriatique 🌅
 || **San Francesco Camping Village** | Desenzano del Garda (BS). €140,40 payé le 14/01/2026 via Mastercard (acompte). Solde restant: ~327,60 € |
 
 ---
@@ -729,12 +729,12 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 
 | Poste | Coût |
 |-------|:----:|
-| 🏕️ Campings | ~1 411,80 € |
+| 🏕️ Campings | ~1 416,80 € |
 | 🚗 Locations voiture (2×5j) | ~336,96 € |
-| ⛽ Carburant (estimation) | **~788 €** |
+| ⛽ Carburant (estimation) | **~777 €** |
 | 🛣️ Péages (Ulys Pass) | **~293 €** |
 | 🎟️ Visites & activités | **~435 €** |
-| **Total (campings + locations + carburant + péages + visites)** | **~3 265 €** |
+| **Total (campings + locations + carburant + péages + visites)** | **~3 259 €** |
 
 **Détail des visites par étape (pour 2 pers.) :**
 
@@ -759,7 +759,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 - **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². Love Pet Pack 15€ pour Nala. Check-in 24h/24. Tram T1 depuis/vers le centre
 - **Pompéi** : ✅ **Camping Spartacus** (Via Plinio 127, 50m entrée Porta Marina) — résa confirmée ✅, **33€/nuit tout compris**. Arrivée ~15h00 le 17/09. Piscine, pizzeria, dog-sitting 🐕, Wi-Fi
 - **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), taxi, à pied. Centre-ville à 15 min à pied. Voir section dédiée 🚗🚶
-- **Santa Irene** : simple étape repos (aire CC, 10 €), rien à voir sur place
+- **San Benedetto del Tronto** : simple étape repos — parking le long du lungomare ou aire CC (~15 €). Belle promenade sur la plus longue promenade d'Europe (8 km). Possibilité de dîner dans un restaurant de poisson sur le port. Repartir le matin direction Venise 🚐
 - **Camping Europa Village (Cavallino)** : réservé via Sandaya (N°06426005202000), payé ✔️. Accès Venise : bus + ferry ACTV (45 min). 4 nuits, 3 jours pleins. Voir section Venise dédiée 🛶
 - **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte 140,40 € payé le 14/01/2026. Solde ~327,60 €. Piscine, plage. Location vélos sur place. Sunny Cars #15253704 (5j). Voir section dédiée 🚗🚶
 - **Location voiture** : prévue 2 fois (Pouilles + Lac de Garde) via Sunny Cars (réservations #15253750 et #15253704)
@@ -777,9 +777,9 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | Pays traversés | 🇧🇪 Belgique → 🇫🇷 France → 🇮🇹 Italie → 🇫🇷 France → 🇧🇪 Belgique |
 | Nuits totales | 30 |
 | Plus long séjour | Pouilles (9 nuits) & Lac de Garde (7 nuits) |
-| KM route | ~4 091 km |
-| Temps route estimé (100 km/h) | ~41h de conduite |
-| Estimation budget campings | ~1 411,80 € |
+| KM route | ~4 036 km |
+| Temps route estimé (100 km/h) | ~40h30 de conduite |
+| Estimation budget campings | ~1 416,80 € |
 
 ---
 
