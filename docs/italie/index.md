@@ -718,10 +718,10 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | **The Camp by Maggiore Suites** | Pitch FRONT FR1 (8m ✅). Hauteur 2,5m OK (<2,60m). Check-in 16h. Code portail: 1593. Plaque: 2FUQ668 |
 | **hu Firenze camping in town** | Emplacement 50-60m². Love Pet Pack 15€ (Nala ✅). Check-in 24h/24. Adresse: Via della Chiesa 1/3, 50136 Firenze |
 | **Pompéi** | **Camping Spartacus** (Via Plinio 127) — ✅ **Confirmé** par Alessandro. **33€/nuit tout compris** (2 pers, CC, électricité, taxes). Arrivée ~15h00 le 17/09/2026. CC 8m OK, chiens OK (dog-sitting dispo 🐕). Piscine, restaurant-pizzeria, Wi-Fi, supérette. 50m entrée Porta Marina — idéal ! |
-|| **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). ✅ Confirmé via wubook (CD-0008) le 13/01/2026. 336€. Politique annulation: 30 jours. Check-in en ligne dispo |
-|| **Europa Village** | Réservé via Sandaya (N°06426005202000). **Paiement reçu** ✔️ (email du 14/01/2026). Cavallino-Treporti, bus+ferry ACTV Venise 45 min. Piscine, plage privée, pinède. Chiens sur demande — à confirmer |
-|| **Camping Village Led Zeppelin** | Cupra Marittima (AP) — Via Boccabianca 5. 🌐 campingledzeppelin.it 📞 +39 0735 778125. Piazzola camper 65 m² avec électricité ✅. Ouvert jusqu'au 30/09 ✅. Piscine, plage, restaurant, pizzeria sur place. Simple étape repos 🌅. Mail de demande envoyé le 07/07/2026 — réponse en attente. |
-|| **San Francesco Camping Village** | Desenzano del Garda (BS). ✅ Réservation #654795826. Acompte **140,40 € payé** ✔️ le 14/01/2026 via Mastercard. Solde restant: ~327,60 € à régler sur place. Email reçu de booking@campingsanfrancesco.com |
+| **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). ✅ Confirmé via wubook (CD-0008) le 13/01/2026. 336€. Politique annulation: 30 jours. Check-in en ligne dispo |
+| **Europa Village** | Réservé via Sandaya (N°06426005202000). **Paiement reçu** ✔️ (email du 14/01/2026). Cavallino-Treporti, bus+ferry ACTV Venise 45 min. Piscine, plage privée, pinède. Chiens sur demande — à confirmer |
+| **Camping Village Led Zeppelin** | Cupra Marittima (AP) — Via Boccabianca 5. 🌐 campingledzeppelin.it 📞 +39 0735 778125. Piazzola camper 65 m² avec électricité ✅. Ouvert jusqu'au 30/09 ✅. Piscine, plage, restaurant, pizzeria sur place. Simple étape repos 🌅. Mail de demande envoyé le 07/07/2026 — réponse en attente. |
+| **San Francesco Camping Village** | Desenzano del Garda (BS). ✅ Réservation #654795826. Acompte **140,40 € payé** ✔️ le 14/01/2026 via Mastercard. Solde restant: ~327,60 € à régler sur place. Email reçu de booking@campingsanfrancesco.com |
 
 ---
 
