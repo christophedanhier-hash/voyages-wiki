@@ -38,6 +38,7 @@ nav:
     - 🇳🇴 Scandinavie (08→10/2026): scandinavie-2026/index.md
     - 🇫🇷 Canet (06/2026): weekend-canet/index.md
     - 🇪🇸 Andalousie (09→10/2026): andalousie-pauline/index.md
+    - 🇮🇨 Canaries (02/2027): canaries-2027/index.md
 
 markdown_extensions:
   - admonition
