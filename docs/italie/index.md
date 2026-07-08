@@ -706,7 +706,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | Florence | **hu Firenze camping in town** | ✅ #314185774 | 3 nuits | 165,00 € | ❌ Carte garantie |
 | Pompéi | **Camping Spartacus** | ✅ Confirmé | 2 nuits | **66,00 €** (33€/nuit) | ✅ Confirmé |
 | Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ✅ Confirmé wubook |
-| San Benedetto del Tronto / Cupra Marittima | **Camping Village Led Zeppelin** — Cupra Marittima | ❌ Sans résa (mail envoyé) | 1 nuit | ~30,00 € | — |
+| San Benedetto del Tronto / Cupra Marittima | **Camping Village Led Zeppelin** — Cupra Marittima | ⏳ Sans résa (walk-in confirmé) | 1 nuit | ~30,00 € | — |
 | Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | **Payé** ✔️ Sandaya |
 | Lac de Garde | **San Francesco Camping Village** | ✅ #654795826 | 7 nuits | 468,00 € | **140,40 €** ✔️ MC 14/01 |
 | Colmar (retour) | Aire CC Schoenau | ❌ Sans résa | 1 nuit | 14,00 € | — |
@@ -720,7 +720,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | **Pompéi** | **Camping Spartacus** (Via Plinio 127) — ✅ **Confirmé** par Alessandro. **33€/nuit tout compris** (2 pers, CC, électricité, taxes). Arrivée ~15h00 le 17/09/2026. CC 8m OK, chiens OK (dog-sitting dispo 🐕). Piscine, restaurant-pizzeria, Wi-Fi, supérette. 50m entrée Porta Marina — idéal ! |
 | **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). ✅ Confirmé via wubook (CD-0008) le 13/01/2026. 336€. Politique annulation: 30 jours. Check-in en ligne dispo |
 | **Europa Village** | Réservé via Sandaya (N°06426005202000). **Paiement reçu** ✔️ (email du 14/01/2026). Cavallino-Treporti, bus+ferry ACTV Venise 45 min. Piscine, plage privée, pinède. Chiens sur demande — à confirmer |
-| **Camping Village Led Zeppelin** | Cupra Marittima (AP) — Via Boccabianca 5. 🌐 campingledzeppelin.it 📞 +39 0735 778125. Piazzola camper 65 m² avec électricité ✅. Ouvert jusqu'au 30/09 ✅. Piscine, plage, restaurant, pizzeria sur place. Simple étape repos 🌅. Mail de demande envoyé le 07/07/2026 — réponse en attente. |
+| **Camping Village Led Zeppelin** | Cupra Marittima (AP) — Via Boccabianca 5. 🌐 campingledzeppelin.it 📞 +39 0735 778125. Piazzola camper 65 m² avec électricité ✅. Ouvert jusqu'au 30/09 ✅. Hauteur max 3,05m ✅. Piscine, plage, restaurant, pizzeria sur place. Simple étape repos 🌅. ⏳ **Pas de résa possible pour 1 nuit** — walk-in accepté. Mail de remerciement + confirmation envoyé le 08/07/2026 ✅ |
 | **San Francesco Camping Village** | Desenzano del Garda (BS). ✅ Réservation #654795826. Acompte **140,40 € payé** ✔️ le 14/01/2026 via Mastercard. Solde restant: ~327,60 € à régler sur place. Email reçu de booking@campingsanfrancesco.com |
 
 ---
@@ -759,7 +759,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 - **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². Love Pet Pack 15€ pour Nala. Check-in 24h/24. Tram T1 depuis/vers le centre
 - **Pompéi** : ✅ **Camping Spartacus** (Via Plinio 127, 50m entrée Porta Marina) — résa confirmée ✅, **33€/nuit tout compris**. Arrivée ~15h00 le 17/09. Piscine, pizzeria, dog-sitting 🐕, Wi-Fi
 - **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), taxi, à pied. Centre-ville à 15 min à pied. Voir section dédiée 🚗🚶
-- **Camping Village Led Zeppelin (Cupra Marittima)** : étape repos à 10 min de San Benedetto del Tronto. Piazzola camper 65 m² avec électricité. Piscine, plage, restaurant. Ouvert jusqu'au 30/09. Demande de réservation envoyée le 07/07/2026 (en attente de confirmation). 🏕️
+- **Camping Village Led Zeppelin (Cupra Marittima)** : étape repos à 10 min de San Benedetto del Tronto. Piazzola camper 65 m² avec électricité. Hauteur max 3,05m ✅. Piscine, plage, restaurant. Ouvert jusqu'au 30/09. ⏳ **Pas de réservation possible pour 1 nuit** — walk-in accepté. Mail de remerciement + confirmation envoyé le 08/07/2026 ✅. 🏕️
 - **Camping Europa Village (Cavallino)** : réservé via Sandaya (N°06426005202000), payé ✔️. Accès Venise : bus + ferry ACTV (45 min). 4 nuits, 3 jours pleins. Voir section Venise dédiée 🛶
 - **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte 140,40 € payé le 14/01/2026. Solde ~327,60 €. Piscine, plage. Location vélos sur place. Sunny Cars #15253704 (5j). Voir section dédiée 🚗🚶
 - **Location voiture** : prévue 2 fois (Pouilles + Lac de Garde) via Sunny Cars (réservations #15253750 et #15253704)
