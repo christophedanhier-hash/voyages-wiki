@@ -12,7 +12,6 @@
 | **Véhicule** | Camping-car |
 | **Mobilité** | Max 5 km/j à pied |
 
-[📥 Télécharger le PDF](roadbook-canet.pdf){ .md-button }
 
 ---
 

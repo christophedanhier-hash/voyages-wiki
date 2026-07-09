@@ -13,7 +13,6 @@
 | **Hébergement** | Hôtels / Appartements |
 | **Budget hébergement** | 40-80 €/nuit |
 
-> 📥 **[Télécharger le roadbook au format PDF](roadbook-andalousie.pdf)**
 
 ---
 
