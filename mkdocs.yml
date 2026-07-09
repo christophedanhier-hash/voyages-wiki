@@ -61,6 +61,7 @@ markdown_extensions:
       permalink: true
 
 extra_javascript:
+  - assets/js/roadbook-actions.js
   - https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js
 
 extra:

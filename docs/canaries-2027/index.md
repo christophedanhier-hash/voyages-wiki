@@ -215,3 +215,17 @@
 > 📅 **Prochaine étape** : Les packages TUI vol + hôtel ne sont pas encore disponibles (ouverture des ventes ~août-septembre 2026). Revenir sur TUI.be à ce moment-là pour les prix réels des packages 2 adultes + bébé, départ Bruxelles, 20→27 février 2027, All-Inclusive, Costa Adeje.
 > 
 > ⏰ **Rappel programmé** : Sylvia enverra une alerte en août 2026 pour vérifier les prix.
+
+---
+
+## 💳 Coût du service BAVI LEO
+
+| Métrique | Valeur |
+|:---------|------:|
+| **Sessions BAVI** | 3 (création, recherche vols, détail hôtels) |
+| **Commits git** | 3 |
+| **Messages échangés** | ~80 |
+| **Appels API DeepSeek** | ~25 |
+| **Outils mobilisés** | ~40 (recherche web, cartes, géocodage, comparaison prix) |
+
+> 🪙 Tarif DeepSeek Flash : $0,15/1M IN · $0,60/1M OUT
