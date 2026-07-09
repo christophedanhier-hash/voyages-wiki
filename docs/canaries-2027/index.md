@@ -212,4 +212,6 @@
 
 ---
 
-> 📅 **Prochaine étape** : Réservation dès que possible (les prix montent à l'approche des vacances de carnaval). Contacter l'hôtel pour confirmer disponibilité lit bébé et kids club pour 11 mois.
+> 📅 **Prochaine étape** : Les packages TUI vol + hôtel ne sont pas encore disponibles (ouverture des ventes ~août-septembre 2026). Revenir sur TUI.be à ce moment-là pour les prix réels des packages 2 adultes + bébé, départ Bruxelles, 20→27 février 2027, All-Inclusive, Costa Adeje.
+> 
+> ⏰ **Rappel programmé** : Sylvia enverra une alerte en août 2026 pour vérifier les prix.
