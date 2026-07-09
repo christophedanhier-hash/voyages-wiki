@@ -1,39 +1,56 @@
 # 📊 Monitoring — Coûts & Activité
 
-## 💳 Coûts par roadbook
+<div id="monitoring-live"><em>Chargement des données...</em></div>
 
-| Roadbook | Sessions | Commits | Tokens (IN/OUT) | Coût API | Forfait | Total |
-|----------|:--------:|:-------:|:---------------:|:--------:|:-------:|:-----:|
-| 🇮🇹 Italie | 12 | 27 | 240K / 78K | ~0,06 € | 2,50 € | **2,56 €** |
-| 🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge | 1 | 1 | 18K / 6K | ~0,01 € | 2,50 € | **2,51 €** |
-| 🇳🇴 Scandinavie | 10 | 12 | 280K / 95K | ~0,08 € | 2,50 € | **2,58 €** |
-| 🇫🇷 Canet | 14 | 26 | 280K / 95K | ~0,10 € | 2,50 € | **2,60 €** |
-| 🇪🇸 Andalousie | 1 | 2 | 290K / 11K | ~0,05 € | 2,50 € | **2,55 €** |
-| **Total** | **38** | **68** | | | | **12,80 €** |
+<script>
+(async function(){
+  try {
+    const r = await fetch('/api/metrics');
+    const m = await r.json();
+    const voyages = m.voyages || [];
+    const bavi = m.bavi || {};
+    const sylvia = (bavi.bureaux || []).find(b => b.id === 'sylvia') || {};
 
----
+    let html = '';
 
-## 👤 Par utilisateur
+    // Résumé
+    html += `<div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:16px">
+      <div style="background:var(--md-code-bg);border:1px solid var(--md-default-fg-color--lightest);border-radius:8px;padding:10px 16px;text-align:center;flex:1;min-width:100px">
+        <div style="font-size:1.4rem;font-weight:700;color:#06b6d4">${voyages.length||0}</div>
+        <div style="font-size:.65rem;color:var(--md-default-fg-color--light)">Roadbooks</div>
+      </div>
+      <div style="background:var(--md-code-bg);border:1px solid var(--md-default-fg-color--lightest);border-radius:8px;padding:10px 16px;text-align:center;flex:1;min-width:100px">
+        <div style="font-size:1.4rem;font-weight:700">${sylvia.analyses||0}</div>
+        <div style="font-size:.65rem;color:var(--md-default-fg-color--light)">Analyses Sylvia</div>
+      </div>
+    </div>`;
 
-| Utilisateur | Abonnement | Roadbooks | Sessions | Commits | Tokens | Forfaits | **Total** |
-|:------------|:----------:|:----------|:--------:|:-------:|:------:|:--------:|:---------:|
-| 🧑‍✈️ **Christophe** | 0 € | 🇮🇹 Italie | 12 | 27 | 0,14 € | 0 € | **0,14 €** |
-| 🤖 **Pascal** | 12 €/an | 🇻🇳🇱🇦🇰🇭🇳🇴🇫🇷🇪🇸 (4) | 26 | 41 | 0,24 € | 10,00 € | **22,24 €** |
-| **Total** | **12 €** | **5 roadbooks** | **38** | **68** | **0,38 €** | **10,00 €** | **22,38 €** |
+    // Roadbooks table
+    if(voyages.length){
+      html += '<h3>🗺️ Roadbooks</h3><table><thead><tr><th>Roadbook</th><th style="text-align:center">Statut</th></tr></thead><tbody>';
+      voyages.forEach(v => {
+        html += `<tr><td>${v.name||v}</td><td style="text-align:center">📋 En préparation</td></tr>`;
+      });
+      html += '</tbody></table>';
+    }
 
----
+    // Coûts
+    html += `<h3 style="margin-top:16px">💳 Tarification</h3>`;
+    html += `<table><thead><tr><th>Qui</th><th>Abonnement</th><th>Documents</th></tr></thead>
+      <tbody>
+        <tr><td>🧑‍✈️ Christophe</td><td>0 €</td><td>Tokens IN/OUT réels</td></tr>
+        <tr><td>👥 Amis</td><td>12 €/an</td><td>Tokens + 2,50 €/document</td></tr>
+      </tbody></table>`;
 
-## 💡 Règles de facturation
+    html += `<p style="font-size:.75rem;color:var(--md-default-fg-color--light);margin-top:16px">
+      🪙 Tarif DeepSeek Flash : $0,15/1M tokens IN · $0,60/1M tokens OUT<br>
+      📅 Abonnement ami : démarre le 1er du mois du premier dossier<br>
+      💬 Chat seul = 0 € · Seuls les documents produits sont facturés
+    </p>`;
 
-| Qui | Abonnement | Documents |
-|:----|:----------:|:----------|
-| 🧑‍✈️ **Christophe** | **0 €** | Tokens IN/OUT réels uniquement |
-| 👥 **Amis** | **12 €/an** | Tokens + **2,50 €** forfait par document |
-
-- 📅 L'abonnement ami démarre le 1er du mois du premier dossier
-- 💬 Le chat seul ne coûte rien — seuls les documents produits sont facturés
-- 🪙 Tarif DeepSeek : $0,15/1M tokens IN, $0,60/1M tokens OUT (Flash)
-
----
-
-*Dernière mise à jour : 26/06/2026 — [🏛️ BAVI LEO](https://christophedanhier-hash.github.io/BAVI_LEO/)*
+    document.getElementById('monitoring-live').innerHTML = html;
+  } catch(e) {
+    document.getElementById('monitoring-live').innerHTML = '<em>Données non disponibles</em>';
+  }
+})();
+</script>
