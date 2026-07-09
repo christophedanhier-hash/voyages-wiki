@@ -1,53 +1,76 @@
-# 🧭 Carnet de Voyages
+# 🧭 Carnet de Voyages — Sylvia
 
 > 🕐 **Dernière mise en ligne : 09/07/2026 10:00**
 
----
-
-## 🧑‍✈️ Voyages Tof
-
-- **🇮🇹 Italie → 📋 En préparation (09/2026)**
+**Sylvia** est ton agence de voyage. Elle planifie des roadbooks camping-car 🚐, voiture 🚗, avion ✈️, train 🚄. Elle trouve les hébergements, organise les transports, crée des cartes interactives et estime ton budget.
 
 ---
 
-## 🤖 Voyages Amis (Bot)
+## 💬 Comment lui parler
 
-- **🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge (01→02/2027) → 📋 En préparation**
-- **🇳🇴 Scandinavie (08→10/2026) → 📋 En préparation**
-- **🇫🇷 Canet (06/2026) → 🚐 En préparation**
-- **🇪🇸 Andalousie (09→10/2026) → 📋 En préparation**
+👉 **@bavi_leo_voyages_bot** sur Telegram — parle-lui en français.
 
----
+| Question rapide | Exemple |
+|:----------------|:--------|
+| Météo, camping, horaires | *« Quel camping près de Florence pour un CC de 8m ? »* |
+| Roadbook complet | *« Prépare-moi l'Italie en septembre »* |
+| Carte interactive | *« Ajoute une étape à Sienne »* |
 
-## 💳 Coût du service BAVI LEO
-
-| Roadbook | Sessions | Commits | Tokens (IN/OUT) | Coût API réel | Frais service | Total facturé |
-|----------|:--------:|:-------:|:---------------:|:-------------:|:-------------:|:-------------:|
-| **🇮🇹 Italie** | 12 | 27 | 240K / 78K | ~0,06 € | 2,50 € | **2,56 €** |
-| **🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge** | 1 | 1 | 18K / 6K | ~0,01 € | 2,50 € | **2,51 €** |
-| **🇳🇴 Scandinavie** | 10 | 12 | 280K / 95K | ~0,08 € | 2,50 € | **2,58 €** |
-| **🇫🇷 Canet** | 14 | 26 | 280K / 95K | ~0,10 € | 2,50 € | **2,60 €** |
-| **🇪🇸 Andalousie** | 1 | 2 | 290K / 11K | ~0,05 € | 2,50 € | **2,55 €** |
-| **Total BAVI LEO** | **38** | **68** | | | | **12,80 €** |
-
-> 💡 Chaque roadbook inclut une section `💳 Coût du service BAVI LEO` détaillée. Le coût DeepSeek réel est calculé au tarif v4 Flash ($0,15/1M IN, $0,60/1M OUT). Les frais de service (2,50 €/roadbook) couvrent la maintenance du wiki, les cartes OSM et l'infrastructure BAVI.
->
-> **Règle de facturation :**
-> - 🧑‍✈️ **Christophe** = coût d'inférence (tokens IN/OUT réels) uniquement — pas de forfait, pas d'abonnement
-> - 👥 **Chaque ami** = abonnement **12 €/an** + tokens IN/OUT + forfait dossier. L'abonnement démarre le 1er du mois du premier dossier.
-
-### 👤 Par utilisateur
-
-| **👤 Par utilisateur** | **Total** | Abonnement | Roadbooks | Sessions | Commits | Tokens | Forfait |
-|:------------|:---------:|:----------:|:----------|:--------:|:-------:|:------:|:-------:|
-| **🧑‍✈️ Christophe** | **0,14 €** | 0 € | 🇮🇹 Italie | 12 | 27 | 0,14 € | 0 € |
-| **🤖 Pascal** | **22,24 €** | 12 €/an | 🇻🇳🇱🇦🇰🇭🇳🇴🇫🇷🇪🇸 (4 roadbooks) | 26 | 41 | 0,24 € | 10,00 € |
-| **Total** | **22,38 €** | **12 €** | **5 roadbooks** | **38** | **68** | **0,38 €** | **10,00 €** |
+⚡ Questions simples : 2-5s · 📋 Roadbook : quelques minutes · 🗺️ Carte : 10-20s
 
 ---
 
-*Dernière mise à jour : 26/06/2026 22:30 — Généré par [BAVI LEO Voyages Bot](https://github.com/christophedanhier-hash/BAVI_LEO)*
+## 🚫 Ce qu'elle fait (et ne fait pas)
 
-👉 **[🏛️ BAVI LEO — Bureaux Agentiques Virtuels](https://christophedanhier-hash.github.io/BAVI_LEO/)**
-👉 **[🛡️ Portail LEO](https://christophedanhier-hash.github.io/hermes-wiki/)**
-📋 **Suivi :** [leo-tracker](https://github.com/christophedanhier-hash/leo-tracker/issues/4) — Kanban avec 8 issues
+| ✅ Peut faire | ❌ Ne peut pas faire |
+|:--------------|:---------------------|
+| Roadbooks camping-car, voiture, train, avion | Code, programmation |
+| Hôtels, campings, locations, aires CC, auberges | Finances et placements |
+| Location vélo, moto, voiture | Santé et médical |
+| Itinéraires multi-transports | Recettes de cuisine |
+| Cartes OSM interactives | Tout sujet hors voyage |
+| Budget voyage complet | |
+
+---
+
+## 📋 Déroulement d'une session
+
+**Chat rapide** → question → réponse → fin (pas de fichier)
+
+**Roadbook** → demande → planification → validation → fichier + carte → commit wiki
+
+---
+
+## 🗺️ Nos voyages
+
+### 🧑‍✈️ Voyages Tof
+
+- 🇮🇹 [Italie](italie/index.md) → 📋 En préparation (09/2026)
+- 🇮🇨 [Canaries](canaries-2027/index.md) → 📋 En préparation (02/2027 — Camille & Jérémy)
+
+### 🤖 Voyages Amis (Bot)
+
+- 🇻🇳🇱🇦🇰🇭 [Vietnam-Laos-Cambodge](vietnam-laos-cambodge-2027/index.md) → 📋 (01→02/2027)
+- 🇳🇴 [Scandinavie](scandinavie-2026/index.md) → 📋 (08→10/2026)
+- 🇫🇷 [Canet](weekend-canet/index.md) → 🚐 (06/2026)
+- 🇪🇸 [Andalousie](andalousie-pauline/index.md) → 📋 (09→10/2026)
+
+---
+
+## ❓ FAQ
+
+**Q : Puis-je utiliser Sylvia sans abonnement ?**
+R : Si tu es invité, l'abonnement 12 €/an est requis. Christophe n'a pas d'abonnement.
+
+**Q : Que se passe-t-il si je pose une question hors voyage ?**
+R : Sylvia refusera poliment.
+
+**Q : Comment sont calculés les coûts ?**
+R : Voir l'onglet [📊 Monitoring](monitoring.md).
+
+**Q : Puis-je modifier un roadbook après sa création ?**
+R : Oui, demande à Sylvia de le compléter.
+
+---
+
+*Propulsé par [BAVI LEO](https://christophedanhier-hash.github.io/BAVI_LEO/) · [📊 Monitoring](monitoring.md) — coûts & sessions*

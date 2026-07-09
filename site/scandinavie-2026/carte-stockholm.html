@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_3cd520ed3cd23af9d6aae7aee2fccceb {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_3cd520ed3cd23af9d6aae7aee2fccceb" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_3cd520ed3cd23af9d6aae7aee2fccceb = L.map(
+                "map_3cd520ed3cd23af9d6aae7aee2fccceb",
+                {
+                    center: [59.325, 18.07],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 14,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+
+            
+
+        
+    
+            var tile_layer_8560dbb1e84bbd0818f12393552ed0c0 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_8560dbb1e84bbd0818f12393552ed0c0.addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+        
+    
+            var marker_e6c0eb8b4f1bf7be5c3feb0a1ce0afae = L.marker(
+                [59.3280594, 18.0913656],
+                {
+}
+            ).addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+        
+    
+            var icon_f7833b52fa9889c847efc95c19b0bd3b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fca584ffdf48ba274aae6317c72f90a6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_efab861ca942dc8fb0ac43f3e7b4b48b = $(`<div id="html_efab861ca942dc8fb0ac43f3e7b4b48b" style="width: 100.0%; height: 100.0%;"><b>🏛️ Musée Vasa</b><br>Navire du XVIIe siècle incroyablement préservé</div>`)[0];
+                popup_fca584ffdf48ba274aae6317c72f90a6.setContent(html_efab861ca942dc8fb0ac43f3e7b4b48b);
+            
+        
+
+        marker_e6c0eb8b4f1bf7be5c3feb0a1ce0afae.bindPopup(popup_fca584ffdf48ba274aae6317c72f90a6)
+        ;
+
+        
+    
+    
+            marker_e6c0eb8b4f1bf7be5c3feb0a1ce0afae.bindTooltip(
+                `<div>
+                     🏛️ Musée Vasa
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_e6c0eb8b4f1bf7be5c3feb0a1ce0afae.setIcon(icon_f7833b52fa9889c847efc95c19b0bd3b);
+            
+    
+            var marker_ca572d2e4bf9c938dd0906ebd2be6a7e = L.marker(
+                [59.3249254, 18.0965825],
+                {
+}
+            ).addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+        
+    
+            var icon_0cf3686fa10c3ca6f29a1a02bf23321d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_592b469ec598238ce8e6b972799ec267 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_17c5d52883000219a13786189188d1d3 = $(`<div id="html_17c5d52883000219a13786189188d1d3" style="width: 100.0%; height: 100.0%;"><b>🎵 ABBA Museum</b><br>Musée interactif ABBA</div>`)[0];
+                popup_592b469ec598238ce8e6b972799ec267.setContent(html_17c5d52883000219a13786189188d1d3);
+            
+        
+
+        marker_ca572d2e4bf9c938dd0906ebd2be6a7e.bindPopup(popup_592b469ec598238ce8e6b972799ec267)
+        ;
+
+        
+    
+    
+            marker_ca572d2e4bf9c938dd0906ebd2be6a7e.bindTooltip(
+                `<div>
+                     🎵 ABBA Museum
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_ca572d2e4bf9c938dd0906ebd2be6a7e.setIcon(icon_0cf3686fa10c3ca6f29a1a02bf23321d);
+            
+    
+            var marker_94dfe9509e6738a631762e523c060d73 = L.marker(
+                [59.3180039, 18.0847007],
+                {
+}
+            ).addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+        
+    
+            var icon_325a3f71b414bebe136ca156ef4816bd = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_efa8e2e5956c9d22b606276adbe64f84 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4ef83b7f62d858267469c7fc435c72f8 = $(`<div id="html_4ef83b7f62d858267469c7fc435c72f8" style="width: 100.0%; height: 100.0%;"><b>📸 Fotografiska</b><br>Musée de la photographie contemporaine</div>`)[0];
+                popup_efa8e2e5956c9d22b606276adbe64f84.setContent(html_4ef83b7f62d858267469c7fc435c72f8);
+            
+        
+
+        marker_94dfe9509e6738a631762e523c060d73.bindPopup(popup_efa8e2e5956c9d22b606276adbe64f84)
+        ;
+
+        
+    
+    
+            marker_94dfe9509e6738a631762e523c060d73.bindTooltip(
+                `<div>
+                     📸 Fotografiska
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_94dfe9509e6738a631762e523c060d73.setIcon(icon_325a3f71b414bebe136ca156ef4816bd);
+            
+    
+            var marker_0c85491706911ef192bae85fb8f83ba7 = L.marker(
+                [59.3266228, 18.1052823],
+                {
+}
+            ).addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+        
+    
+            var icon_9502d348b4c231b157af29b0f6e01fad = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_12ae21d72ee1b2dd111a6aa95db6f53f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_74365049b9554fd44f3bcc9e878b255a = $(`<div id="html_74365049b9554fd44f3bcc9e878b255a" style="width: 100.0%; height: 100.0%;"><b>🌳 Skansen</b><br>Musée en plein air & zoo nordique</div>`)[0];
+                popup_12ae21d72ee1b2dd111a6aa95db6f53f.setContent(html_74365049b9554fd44f3bcc9e878b255a);
+            
+        
+
+        marker_0c85491706911ef192bae85fb8f83ba7.bindPopup(popup_12ae21d72ee1b2dd111a6aa95db6f53f)
+        ;
+
+        
+    
+    
+            marker_0c85491706911ef192bae85fb8f83ba7.bindTooltip(
+                `<div>
+                     🌳 Skansen
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_0c85491706911ef192bae85fb8f83ba7.setIcon(icon_9502d348b4c231b157af29b0f6e01fad);
+            
+    
+            var marker_9bf3e3795612a16f3ca9411093b16efc = L.marker(
+                [59.3249529, 18.0706429],
+                {
+}
+            ).addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+        
+    
+            var icon_4b06d5dcd4d61c8ce27a10425f1fa47b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1a9ea8c6ca39cd243ba78b829a3d4905 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_72aba67b7844ed6e22a555eb7ffc850a = $(`<div id="html_72aba67b7844ed6e22a555eb7ffc850a" style="width: 100.0%; height: 100.0%;"><b>🏘️ Gamla Stan</b><br>Vieille ville médiévale — ruelles pavées</div>`)[0];
+                popup_1a9ea8c6ca39cd243ba78b829a3d4905.setContent(html_72aba67b7844ed6e22a555eb7ffc850a);
+            
+        
+
+        marker_9bf3e3795612a16f3ca9411093b16efc.bindPopup(popup_1a9ea8c6ca39cd243ba78b829a3d4905)
+        ;
+
+        
+    
+    
+            marker_9bf3e3795612a16f3ca9411093b16efc.bindTooltip(
+                `<div>
+                     🏘️ Gamla Stan
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_9bf3e3795612a16f3ca9411093b16efc.setIcon(icon_4b06d5dcd4d61c8ce27a10425f1fa47b);
+            
+    
+            var marker_5e14a19d73179cb4d8016fe4d8fea224 = L.marker(
+                [59.3268648, 18.0703216],
+                {
+}
+            ).addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+        
+    
+            var icon_762d17d78038759bd7d27d184d23eec1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1d7689f99ee676da809d7f443e238a71 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c5a8cf47405c4b5c4de8436e22b6922b = $(`<div id="html_c5a8cf47405c4b5c4de8436e22b6922b" style="width: 100.0%; height: 100.0%;"><b>👑 Palais Royal</b><br>Résidence officielle du roi de Suède</div>`)[0];
+                popup_1d7689f99ee676da809d7f443e238a71.setContent(html_c5a8cf47405c4b5c4de8436e22b6922b);
+            
+        
+
+        marker_5e14a19d73179cb4d8016fe4d8fea224.bindPopup(popup_1d7689f99ee676da809d7f443e238a71)
+        ;
+
+        
+    
+    
+            marker_5e14a19d73179cb4d8016fe4d8fea224.bindTooltip(
+                `<div>
+                     👑 Palais Royal
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_5e14a19d73179cb4d8016fe4d8fea224.setIcon(icon_762d17d78038759bd7d27d184d23eec1);
+            
+    
+            var marker_ab3bfb2bce900dd5e4547fd6fed9c0ad = L.marker(
+                [59.3274942, 18.0542148],
+                {
+}
+            ).addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+        
+    
+            var icon_5232c53ec75e7c92b53bed11c90a1a8c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6303d16b7bb93dbea3dc5fbaf3747d54 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5001921fe43b9b51040f9efa35e0045d = $(`<div id="html_5001921fe43b9b51040f9efa35e0045d" style="width: 100.0%; height: 100.0%;"><b>🏛️ Hôtel de Ville</b><br>Stadshuset — Prix Nobel, tour avec vue</div>`)[0];
+                popup_6303d16b7bb93dbea3dc5fbaf3747d54.setContent(html_5001921fe43b9b51040f9efa35e0045d);
+            
+        
+
+        marker_ab3bfb2bce900dd5e4547fd6fed9c0ad.bindPopup(popup_6303d16b7bb93dbea3dc5fbaf3747d54)
+        ;
+
+        
+    
+    
+            marker_ab3bfb2bce900dd5e4547fd6fed9c0ad.bindTooltip(
+                `<div>
+                     🏛️ Hôtel de Ville
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_ab3bfb2bce900dd5e4547fd6fed9c0ad.setIcon(icon_5232c53ec75e7c92b53bed11c90a1a8c);
+            
+    
+            var marker_062e96208271fb6d8adfc46049fcdd3c = L.marker(
+                [59.3123782, 18.0697558],
+                {
+}
+            ).addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+        
+    
+            var icon_1ce2da1427a45c85c00b6fa0f288036e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3d2dc5c6ef0f69cf8d09b3814afb5b23 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_143f3a9f75b1a722a4b48396c64240e5 = $(`<div id="html_143f3a9f75b1a722a4b48396c64240e5" style="width: 100.0%; height: 100.0%;"><b>🏙️ Södermalm</b><br>Quartier branché, rooftops, vue panoramique</div>`)[0];
+                popup_3d2dc5c6ef0f69cf8d09b3814afb5b23.setContent(html_143f3a9f75b1a722a4b48396c64240e5);
+            
+        
+
+        marker_062e96208271fb6d8adfc46049fcdd3c.bindPopup(popup_3d2dc5c6ef0f69cf8d09b3814afb5b23)
+        ;
+
+        
+    
+    
+            marker_062e96208271fb6d8adfc46049fcdd3c.bindTooltip(
+                `<div>
+                     🏙️ Södermalm
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_062e96208271fb6d8adfc46049fcdd3c.setIcon(icon_1ce2da1427a45c85c00b6fa0f288036e);
+            
+    
+            var marker_38d58fa4a07c654d02ea0bef4c5c4ddd = L.marker(
+                [59.3359085, 18.0776901],
+                {
+}
+            ).addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+        
+    
+            var icon_c80716e98a782a90a59834088429b709 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b8c1e733f5f93af2743e2217da85db97 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d4876968f568b76de81cb96cfd7a6a8e = $(`<div id="html_d4876968f568b76de81cb96cfd7a6a8e" style="width: 100.0%; height: 100.0%;"><b>🛒 Östermalms Saluhall</b><br>Marché couvert gastronomique</div>`)[0];
+                popup_b8c1e733f5f93af2743e2217da85db97.setContent(html_d4876968f568b76de81cb96cfd7a6a8e);
+            
+        
+
+        marker_38d58fa4a07c654d02ea0bef4c5c4ddd.bindPopup(popup_b8c1e733f5f93af2743e2217da85db97)
+        ;
+
+        
+    
+    
+            marker_38d58fa4a07c654d02ea0bef4c5c4ddd.bindTooltip(
+                `<div>
+                     🛒 Östermalms Saluhall
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_38d58fa4a07c654d02ea0bef4c5c4ddd.setIcon(icon_c80716e98a782a90a59834088429b709);
+            
+    
+            var marker_447572d00fa730eb3e91ecef6a3e2409 = L.marker(
+                [59.320747, 18.0604071],
+                {
+}
+            ).addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+        
+    
+            var icon_2364b9801cd940f2a80538963bdcaa71 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "eye-open",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2f103b076e8e0b66276435d7877c7b16 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_31c360e24f348c4ef4943bd76446c5b0 = $(`<div id="html_31c360e24f348c4ef4943bd76446c5b0" style="width: 100.0%; height: 100.0%;"><b>👁️ Monteliusvägen</b><br>Plus beau panorama de Stockholm !</div>`)[0];
+                popup_2f103b076e8e0b66276435d7877c7b16.setContent(html_31c360e24f348c4ef4943bd76446c5b0);
+            
+        
+
+        marker_447572d00fa730eb3e91ecef6a3e2409.bindPopup(popup_2f103b076e8e0b66276435d7877c7b16)
+        ;
+
+        
+    
+    
+            marker_447572d00fa730eb3e91ecef6a3e2409.bindTooltip(
+                `<div>
+                     👁️ Monteliusvägen
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_447572d00fa730eb3e91ecef6a3e2409.setIcon(icon_2364b9801cd940f2a80538963bdcaa71);
+            
+    
+            var marker_1f7e4695c273eb62481596fb1fff556b = L.marker(
+                [59.3251676, 18.1216057],
+                {
+}
+            ).addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+        
+    
+            var icon_7665e3d75152420b0d8b46baa8e20e21 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "leaf",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_542243334b4a0d6195ce2d96874d2808 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b54f5318170d9c638e57f1b39e55b7d5 = $(`<div id="html_b54f5318170d9c638e57f1b39e55b7d5" style="width: 100.0%; height: 100.0%;"><b>🏝️ Djurgården</b><br>Île musée — parc, musées, promenade</div>`)[0];
+                popup_542243334b4a0d6195ce2d96874d2808.setContent(html_b54f5318170d9c638e57f1b39e55b7d5);
+            
+        
+
+        marker_1f7e4695c273eb62481596fb1fff556b.bindPopup(popup_542243334b4a0d6195ce2d96874d2808)
+        ;
+
+        
+    
+    
+            marker_1f7e4695c273eb62481596fb1fff556b.bindTooltip(
+                `<div>
+                     🏝️ Djurgården
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_1f7e4695c273eb62481596fb1fff556b.setIcon(icon_7665e3d75152420b0d8b46baa8e20e21);
+            
+    
+            var marker_5f22de8e1e9f45179940dd8af0c86d9a = L.marker(
+                [59.2965232, 17.9230201],
+                {
+}
+            ).addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+        
+    
+            var icon_a45b3ff7d5a84aee9f9ecaf8d53bcf4f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5481f52d3fd447d957d0a421ff5cc497 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9065d5479ce0672b55ebe44ee8ce2444 = $(`<div id="html_9065d5479ce0672b55ebe44ee8ce2444" style="width: 100.0%; height: 100.0%;"><b>🏕️ Bredäng Camping</b><br>Camping officiel Stockholm (bus 133 → centre)</div>`)[0];
+                popup_5481f52d3fd447d957d0a421ff5cc497.setContent(html_9065d5479ce0672b55ebe44ee8ce2444);
+            
+        
+
+        marker_5f22de8e1e9f45179940dd8af0c86d9a.bindPopup(popup_5481f52d3fd447d957d0a421ff5cc497)
+        ;
+
+        
+    
+    
+            marker_5f22de8e1e9f45179940dd8af0c86d9a.bindTooltip(
+                `<div>
+                     🏕️ Bredäng Camping
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_5f22de8e1e9f45179940dd8af0c86d9a.setIcon(icon_a45b3ff7d5a84aee9f9ecaf8d53bcf4f);
+            
+    
+            var marker_b89b8159c730f733707d472402d7411c = L.marker(
+                [59.3273692, 18.1161845],
+                {
+}
+            ).addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+        
+    
+            var icon_63da48d496d3d70b6009c6dd927cce54 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "tent",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_649b7c5c5ca49046ddba7fe85d5b2c70 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fedf87c159133d92428b2d468b79521e = $(`<div id="html_fedf87c159133d92428b2d468b79521e" style="width: 100.0%; height: 100.0%;"><b>🅿️ Parking Djurgården</b><br>Parking gratuit (clients) près des musées</div>`)[0];
+                popup_649b7c5c5ca49046ddba7fe85d5b2c70.setContent(html_fedf87c159133d92428b2d468b79521e);
+            
+        
+
+        marker_b89b8159c730f733707d472402d7411c.bindPopup(popup_649b7c5c5ca49046ddba7fe85d5b2c70)
+        ;
+
+        
+    
+    
+            marker_b89b8159c730f733707d472402d7411c.bindTooltip(
+                `<div>
+                     🅿️ Parking Djurgården
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b89b8159c730f733707d472402d7411c.setIcon(icon_63da48d496d3d70b6009c6dd927cce54);
+            
+    
+            var marker_b0702462d7ebd54eb7d482a9a47da3d3 = L.marker(
+                [59.3296932, 18.0568947],
+                {
+}
+            ).addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+        
+    
+            var icon_5e92b5ef8cd84bd99e98a3c1f846bff0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "gray",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7f867bbd7bee6bcd54540af1bb471851 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_25eabaf1a3fe85ebc00037e6696d0c5b = $(`<div id="html_25eabaf1a3fe85ebc00037e6696d0c5b" style="width: 100.0%; height: 100.0%;"><b>🚉 Gare Centrale</b><br>T-Centralen — hub transports</div>`)[0];
+                popup_7f867bbd7bee6bcd54540af1bb471851.setContent(html_25eabaf1a3fe85ebc00037e6696d0c5b);
+            
+        
+
+        marker_b0702462d7ebd54eb7d482a9a47da3d3.bindPopup(popup_7f867bbd7bee6bcd54540af1bb471851)
+        ;
+
+        
+    
+    
+            marker_b0702462d7ebd54eb7d482a9a47da3d3.bindTooltip(
+                `<div>
+                     🚉 Gare Centrale
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b0702462d7ebd54eb7d482a9a47da3d3.setIcon(icon_5e92b5ef8cd84bd99e98a3c1f846bff0);
+            
+    
+            var circle_ecd47640a71a4e4c1bbd3c919687edf9 = L.circle(
+                [59.325, 18.07],
+                {"bubblingMouseEvents": true, "color": "#e63946", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#e63946", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 0.3, "radius": 1500, "stroke": true, "weight": 1}
+            ).addTo(map_3cd520ed3cd23af9d6aae7aee2fccceb);
+        
+    
+        var popup_b57593b733d5e57cee7cf3268e6d4bc9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7c5eb74420e6ede81c1b780d6ba40fc0 = $(`<div id="html_7c5eb74420e6ede81c1b780d6ba40fc0" style="width: 100.0%; height: 100.0%;">Centre-ville de Stockholm</div>`)[0];
+                popup_b57593b733d5e57cee7cf3268e6d4bc9.setContent(html_7c5eb74420e6ede81c1b780d6ba40fc0);
+            
+        
+
+        circle_ecd47640a71a4e4c1bbd3c919687edf9.bindPopup(popup_b57593b733d5e57cee7cf3268e6d4bc9)
+        ;
+
+        
+    
+</script>
+</html>

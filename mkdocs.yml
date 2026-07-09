@@ -29,8 +29,8 @@ nav:
     - 🏛️ BAVI LEO: https://christophedanhier-hash.github.io/BAVI_LEO/
     - 🔭 Wiki OCA: https://christophedanhier-hash.github.io/wiki-oca/
     - 📋 Tracker: https://github.com/christophedanhier-hash/leo-tracker/issues
-  - Accueil: index.md
-  - 🧭 Guide utilisateur: guide-utilisateur.md
+  - 🏠 Accueil: index.md
+  - 📊 Monitoring: monitoring.md
   - 🧑‍✈️ Voyages Tof:
     - 🇮🇹 Italie (09/2026): italie/index.md
     - 🇮🇨 Canaries (02/2027 — Camille & Jérémy): canaries-2027/index.md
