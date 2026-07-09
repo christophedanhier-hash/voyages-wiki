@@ -1,27 +1,29 @@
 # 📊 Monitoring — Coûts & Activité
 
+> 🕐 Dernière mise à jour : 09/07/2026 11:42 — Généré automatiquement
+
 ## 💳 Coûts par roadbook
 
-| Roadbook | Sessions | Commits | Tokens (IN/OUT) | Coût API | Forfait | Total |
-|----------|:--------:|:-------:|:---------------:|:--------:|:-------:|:-----:|
-| 🇮🇹 Italie | 12 | 27 | 240K / 78K | ~0,06 € | 2,50 € | **2,56 €** |
-| 🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge | 1 | 1 | 18K / 6K | ~0,01 € | 2,50 € | **2,51 €** |
-| 🇳🇴 Scandinavie | 10 | 12 | 280K / 95K | ~0,08 € | 2,50 € | **2,58 €** |
-| 🇫🇷 Canet | 14 | 26 | 280K / 95K | ~0,10 € | 2,50 € | **2,60 €** |
-| 🇪🇸 Andalousie | 1 | 2 | 290K / 11K | ~0,05 € | 2,50 € | **2,55 €** |
-| 🇮🇨 Canaries 2027 | — | — | — | — | — | — |
-| **Total** | **38** | **68** | | | | **12,80 €** |
+| Roadbook | Commits | Tokens IN | Tokens OUT | Coût API | Forfait | Total |
+|----------|:-------:|:---------:|:----------:|:--------:|:-------:|:-----:|
+| 🇮🇹 Italie | 44 | 0 | 0 | ~0.00 € | 0.00 € | **0.00 €** |
+| 🇮🇨 Canaries 2027 | 3 | 0 | 6K | ~0.00 € | 2.50 € | **2.50 €** |
+| 🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge | 2 | 0 | 39K | ~0.02 € | 2.50 € | **2.52 €** |
+| 🇳🇴 Scandinavie | 16 | 0 | 68K | ~0.04 € | 2.50 € | **2.54 €** |
+| 🇫🇷 Canet | 30 | 0 | 24K | ~0.01 € | 2.50 € | **2.51 €** |
+| 🇪🇸 Andalousie | 3 | 0 | 21K | ~0.01 € | 2.50 € | **2.51 €** |
+| **Total** | **98** | | | | **12.50 €** | **12.58 €** |
 
 ---
 
 ## 👤 Par utilisateur
 
-| Utilisateur | Abonnement | Roadbooks | Sessions | Commits | Tokens | Forfaits | **Total** |
-|:------------|:----------:|:----------|:--------:|:-------:|:------:|:--------:|:---------:|
-| 🧑‍✈️ **Christophe** | 0 € | 🇮🇹 Italie | 12 | 27 | 0,14 € | 0 € | **0,14 €** |
-| 👤 **Camille & Jérémy** | 12 €/an | 🇮🇨 Canaries | — | — | — | — | **12,00 €** |
-| 🤖 **Pascal** | 12 €/an | 🇻🇳🇱🇦🇰🇭🇳🇴🇫🇷🇪🇸 (4) | 26 | 41 | 0,24 € | 10,00 € | **22,24 €** |
-| **Total** | **24 €** | **6 roadbooks** | **38** | **68** | **0,38 €** | **10,00 €** | **34,38 €** |
+| Utilisateur | Abonnement | Roadbooks | Commits | Coût API | Forfaits | **Total** |
+|:------------|:----------:|:----------|:-------:|:--------:|:--------:|:---------:|
+| 🧑‍✈️ **Christophe** | 0 €/an | 🇮🇹 Italie | 44 | ~0.00 € | 0.00 € | **0.00 €** |
+| 👤 **Camille & Jérémy** | 12 €/an | 🇮🇨 Canaries 2027 | 3 | ~0.00 € | 2.50 € | **14.50 €** |
+| 👤 **Pascal** | 12 €/an | 🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge, 🇳🇴 Scandinavie, 🇫🇷 Canet, 🇪🇸 Andalousie | 51 | ~0.08 € | 10.00 € | **22.08 €** |
+| **Total** | **24 €** | | **98** | **~0.08 €** | **12.50 €** | **36.58 €** |
 
 ---
 
@@ -35,7 +37,8 @@
 - 📅 L'abonnement ami démarre le 1er du mois du premier dossier
 - 💬 Le chat seul ne coûte rien — seuls les documents produits sont facturés
 - 🪙 Tarif DeepSeek Flash : $0,15/1M tokens IN · $0,60/1M tokens OUT
+- 🤖 Les commits sont comptabilisés sur les 30 derniers jours glissants
 
 ---
 
-*Dernière mise à jour : 09/07/2026 — [🏛️ BAVI LEO](https://christophedanhier-hash.github.io/BAVI_LEO/)*
+*Généré le 09/07/2026 11:42 — [🏛️ BAVI LEO](https://christophedanhier-hash.github.io/BAVI_LEO/)*
