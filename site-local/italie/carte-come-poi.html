@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_3a9b0d1c443c629d0c6d69671e819b6b {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="position: fixed; bottom: 30px; left: 10px; z-index: 1000; background: white; padding: 10px; border-radius: 8px; font-size: 12px; border: 1px solid #ccc; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+<b>🏕️ Lac de Côme — POI</b><br>
+🟢 Camp de base<br>
+🔴 Sites à visiter<br>
+🔵 Villages / ferries<br>
+🟠 Restaurants<br>
+⏺️ 2 km / 5 km du camping
+</div>
+    
+            <div class="folium-map" id="map_3a9b0d1c443c629d0c6d69671e819b6b" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_3a9b0d1c443c629d0c6d69671e819b6b = L.map(
+                "map_3a9b0d1c443c629d0c6d69671e819b6b",
+                {
+                    center: [46.0, 9.22],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 13,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+
+            
+
+        
+    
+            var tile_layer_588c20406ad8055c2bd5d464e2a549b4 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_588c20406ad8055c2bd5d464e2a549b4.addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+        
+    
+            var marker_7b3fdc2e0d5c1f7a121ca0a3e87be2af = L.marker(
+                [46.0198, 9.239],
+                {
+}
+            ).addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+        
+    
+            var icon_de97dc5b5e5b305f227ec0cb7d0d9d67 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f3c0fd2923da7d8e0ef14d3a72af394c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_16081dd633b31ce049ecc6c544f8604c = $(`<div id="html_16081dd633b31ce049ecc6c544f8604c" style="width: 100.0%; height: 100.0%;"><b>🏕️ Camp de base</b><br>The Camp by Maggiore Suites<br>Menaggio (Lac de Côme)<br>📍 Front Pitch FR1</div>`)[0];
+                popup_f3c0fd2923da7d8e0ef14d3a72af394c.setContent(html_16081dd633b31ce049ecc6c544f8604c);
+            
+        
+
+        marker_7b3fdc2e0d5c1f7a121ca0a3e87be2af.bindPopup(popup_f3c0fd2923da7d8e0ef14d3a72af394c)
+        ;
+
+        
+    
+    
+            marker_7b3fdc2e0d5c1f7a121ca0a3e87be2af.bindTooltip(
+                `<div>
+                     🏕️ Camp de base — Menaggio
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_7b3fdc2e0d5c1f7a121ca0a3e87be2af.setIcon(icon_de97dc5b5e5b305f227ec0cb7d0d9d67);
+            
+    
+            var marker_862519bb5fb6530c0cc4dc28b6d207a5 = L.marker(
+                [45.98768, 9.23193],
+                {
+}
+            ).addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+        
+    
+            var icon_a1dd5f066646d142160795bff479e053 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9bbb180770861ccf5e205fd1465ff753 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_35de1f508ce9684d4b73827378b11d91 = $(`<div id="html_35de1f508ce9684d4b73827378b11d91" style="width: 100.0%; height: 100.0%;"><b>🏡 Villa Carlotta</b><br>Tremezzo — Jardins + musée, 15€, 1h30</div>`)[0];
+                popup_9bbb180770861ccf5e205fd1465ff753.setContent(html_35de1f508ce9684d4b73827378b11d91);
+            
+        
+
+        marker_862519bb5fb6530c0cc4dc28b6d207a5.bindPopup(popup_9bbb180770861ccf5e205fd1465ff753)
+        ;
+
+        
+    
+    
+            marker_862519bb5fb6530c0cc4dc28b6d207a5.bindTooltip(
+                `<div>
+                     🏡 Villa Carlotta
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_862519bb5fb6530c0cc4dc28b6d207a5.setIcon(icon_a1dd5f066646d142160795bff479e053);
+            
+    
+            var marker_30da77326216a39c0e446bbb024baf09 = L.marker(
+                [46.00766, 9.288],
+                {
+}
+            ).addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+        
+    
+            var icon_7ff2cc2d81f74ebed391de6f1ea82eee = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_77e11baed1ddc7fdb57c235610f62da4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_497d3d86f67cbde12fc788bf4ba7cbe3 = $(`<div id="html_497d3d86f67cbde12fc788bf4ba7cbe3" style="width: 100.0%; height: 100.0%;"><b>🌸 Villa Monastero</b><br>Varenna — Jardin lacustre, 7-13€, 1h</div>`)[0];
+                popup_77e11baed1ddc7fdb57c235610f62da4.setContent(html_497d3d86f67cbde12fc788bf4ba7cbe3);
+            
+        
+
+        marker_30da77326216a39c0e446bbb024baf09.bindPopup(popup_77e11baed1ddc7fdb57c235610f62da4)
+        ;
+
+        
+    
+    
+            marker_30da77326216a39c0e446bbb024baf09.bindTooltip(
+                `<div>
+                     🌸 Villa Monastero
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_30da77326216a39c0e446bbb024baf09.setIcon(icon_7ff2cc2d81f74ebed391de6f1ea82eee);
+            
+    
+            var marker_5078e81c730d3d05dbcee1253127cd4d = L.marker(
+                [45.97906, 9.25316],
+                {
+}
+            ).addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+        
+    
+            var icon_0404a747613d63390cb0f6884b39bca4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4271071d16bc3b5c300b86a72d511ecb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7b40339b33808e0a3225101bbb7e3661 = $(`<div id="html_7b40339b33808e0a3225101bbb7e3661" style="width: 100.0%; height: 100.0%;"><b>🏡 Villa Melzi</b><br>Bellagio — Jardin romantique, 10€, 1h</div>`)[0];
+                popup_4271071d16bc3b5c300b86a72d511ecb.setContent(html_7b40339b33808e0a3225101bbb7e3661);
+            
+        
+
+        marker_5078e81c730d3d05dbcee1253127cd4d.bindPopup(popup_4271071d16bc3b5c300b86a72d511ecb)
+        ;
+
+        
+    
+    
+            marker_5078e81c730d3d05dbcee1253127cd4d.bindTooltip(
+                `<div>
+                     🏡 Villa Melzi
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_5078e81c730d3d05dbcee1253127cd4d.setIcon(icon_0404a747613d63390cb0f6884b39bca4);
+            
+    
+            var marker_b0bc610640a314459f66779e49357a5d = L.marker(
+                [45.81177, 9.08366],
+                {
+}
+            ).addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+        
+    
+            var icon_56c25930a017f9f12f275b6e48c5ed5e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_add139d2544301ab1290e96799ef0358 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e8f82d2c173369cefc3b38162fbc0dca = $(`<div id="html_e8f82d2c173369cefc3b38162fbc0dca" style="width: 100.0%; height: 100.0%;"><b>🏛️ Duomo di Como</b><br>Côme centre — Cathédrale, gratuit</div>`)[0];
+                popup_add139d2544301ab1290e96799ef0358.setContent(html_e8f82d2c173369cefc3b38162fbc0dca);
+            
+        
+
+        marker_b0bc610640a314459f66779e49357a5d.bindPopup(popup_add139d2544301ab1290e96799ef0358)
+        ;
+
+        
+    
+    
+            marker_b0bc610640a314459f66779e49357a5d.bindTooltip(
+                `<div>
+                     🏛️ Duomo di Como
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b0bc610640a314459f66779e49357a5d.setIcon(icon_56c25930a017f9f12f275b6e48c5ed5e);
+            
+    
+            var marker_7fe4974e3e89e4cc6ee4df6b4845ee5d = L.marker(
+                [45.98348, 9.21853],
+                {
+}
+            ).addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+        
+    
+            var icon_9d9d5e2517daabec8425de4bf2396d70 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_62ffd5db7fda9d147c91cbe3a02d0ec6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b814a7b59a99811e8c75dbdcfb841570 = $(`<div id="html_b814a7b59a99811e8c75dbdcfb841570" style="width: 100.0%; height: 100.0%;"><b>🏰 Villa Balbianello</b><br>Lenno — Accès bateau conseillé, 12€</div>`)[0];
+                popup_62ffd5db7fda9d147c91cbe3a02d0ec6.setContent(html_b814a7b59a99811e8c75dbdcfb841570);
+            
+        
+
+        marker_7fe4974e3e89e4cc6ee4df6b4845ee5d.bindPopup(popup_62ffd5db7fda9d147c91cbe3a02d0ec6)
+        ;
+
+        
+    
+    
+            marker_7fe4974e3e89e4cc6ee4df6b4845ee5d.bindTooltip(
+                `<div>
+                     🏰 Villa Balbianello
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_7fe4974e3e89e4cc6ee4df6b4845ee5d.setIcon(icon_9d9d5e2517daabec8425de4bf2396d70);
+            
+    
+            var marker_4310fe615423217b82de3aa7d497dc3e = L.marker(
+                [45.98725, 9.2613],
+                {
+}
+            ).addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+        
+    
+            var icon_b06f7a421646c91a5808f6518f6d62e0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a848599e42324b4d4dca21f61b73eee7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_dd2d423dcda1f58b9122e8bfbdb2fd63 = $(`<div id="html_dd2d423dcda1f58b9122e8bfbdb2fd63" style="width: 100.0%; height: 100.0%;"><b>Bellagio</b><br>Perle du lac — ferry 15 min</div>`)[0];
+                popup_a848599e42324b4d4dca21f61b73eee7.setContent(html_dd2d423dcda1f58b9122e8bfbdb2fd63);
+            
+        
+
+        marker_4310fe615423217b82de3aa7d497dc3e.bindPopup(popup_a848599e42324b4d4dca21f61b73eee7)
+        ;
+
+        
+    
+    
+            marker_4310fe615423217b82de3aa7d497dc3e.bindTooltip(
+                `<div>
+                     Bellagio
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_4310fe615423217b82de3aa7d497dc3e.setIcon(icon_b06f7a421646c91a5808f6518f6d62e0);
+            
+    
+            var marker_9c5ab857dacbb18a30706aebeafa95c5 = L.marker(
+                [46.00998, 9.28316],
+                {
+}
+            ).addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+        
+    
+            var icon_7897fb69bebd5ffd33424b42a9104fba = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2228eafd32202095eeb6bcb2976671f3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_250f89202f6ce00d8069d9feefa5e472 = $(`<div id="html_250f89202f6ce00d8069d9feefa5e472" style="width: 100.0%; height: 100.0%;"><b>Varenna</b><br>Charme, Villa Monastero</div>`)[0];
+                popup_2228eafd32202095eeb6bcb2976671f3.setContent(html_250f89202f6ce00d8069d9feefa5e472);
+            
+        
+
+        marker_9c5ab857dacbb18a30706aebeafa95c5.bindPopup(popup_2228eafd32202095eeb6bcb2976671f3)
+        ;
+
+        
+    
+    
+            marker_9c5ab857dacbb18a30706aebeafa95c5.bindTooltip(
+                `<div>
+                     Varenna
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_9c5ab857dacbb18a30706aebeafa95c5.setIcon(icon_7897fb69bebd5ffd33424b42a9104fba);
+            
+    
+            var marker_63508d5f85025fcc898a044f0b882576 = L.marker(
+                [45.98348, 9.21853],
+                {
+}
+            ).addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+        
+    
+            var icon_4a8e10da5e4f8b8bc4a396282e354784 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_dd63bcc7070a9823db27af6157fc73cb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_820a001c7338a4b4b56cb70c9eed58a6 = $(`<div id="html_820a001c7338a4b4b56cb70c9eed58a6" style="width: 100.0%; height: 100.0%;"><b>Tremezzo</b><br>Villa Carlotta</div>`)[0];
+                popup_dd63bcc7070a9823db27af6157fc73cb.setContent(html_820a001c7338a4b4b56cb70c9eed58a6);
+            
+        
+
+        marker_63508d5f85025fcc898a044f0b882576.bindPopup(popup_dd63bcc7070a9823db27af6157fc73cb)
+        ;
+
+        
+    
+    
+            marker_63508d5f85025fcc898a044f0b882576.bindTooltip(
+                `<div>
+                     Tremezzo
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_63508d5f85025fcc898a044f0b882576.setIcon(icon_4a8e10da5e4f8b8bc4a396282e354784);
+            
+    
+            var marker_ff789b757f7aff52776fe241c9edf756 = L.marker(
+                [46.017, 9.237],
+                {
+}
+            ).addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+        
+    
+            var icon_07c2192264eec20d344063e679f1b98b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_73f477cf44bc8e99a5b07cc19db3e5d6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_18e000dc523bc28debaf4336baa879da = $(`<div id="html_18e000dc523bc28debaf4336baa879da" style="width: 100.0%; height: 100.0%;"><b>🍝 Osteria Il Pozzo</b><br>Menaggio — Cuisine locale, poisson lac</div>`)[0];
+                popup_73f477cf44bc8e99a5b07cc19db3e5d6.setContent(html_18e000dc523bc28debaf4336baa879da);
+            
+        
+
+        marker_ff789b757f7aff52776fe241c9edf756.bindPopup(popup_73f477cf44bc8e99a5b07cc19db3e5d6)
+        ;
+
+        
+    
+    
+            marker_ff789b757f7aff52776fe241c9edf756.bindTooltip(
+                `<div>
+                     🍝 Osteria Il Pozzo
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_ff789b757f7aff52776fe241c9edf756.setIcon(icon_07c2192264eec20d344063e679f1b98b);
+            
+    
+            var marker_697f496556a93bb6c5827347af4bb9f8 = L.marker(
+                [46.0185, 9.2365],
+                {
+}
+            ).addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+        
+    
+            var icon_062050548c1a46d05b7710835432dc47 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ca02bf62e5ad3c4bb04b7e15702ca227 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7b307bec50c5a438bfcddfdd6d8ce457 = $(`<div id="html_7b307bec50c5a438bfcddfdd6d8ce457" style="width: 100.0%; height: 100.0%;"><b>🍕 La Darsena</b><br>Menaggio — Pizza, vue lac</div>`)[0];
+                popup_ca02bf62e5ad3c4bb04b7e15702ca227.setContent(html_7b307bec50c5a438bfcddfdd6d8ce457);
+            
+        
+
+        marker_697f496556a93bb6c5827347af4bb9f8.bindPopup(popup_ca02bf62e5ad3c4bb04b7e15702ca227)
+        ;
+
+        
+    
+    
+            marker_697f496556a93bb6c5827347af4bb9f8.bindTooltip(
+                `<div>
+                     🍕 La Darsena
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_697f496556a93bb6c5827347af4bb9f8.setIcon(icon_062050548c1a46d05b7710835432dc47);
+            
+    
+            var marker_1fb2525b583c55e654deca898f9f1f48 = L.marker(
+                [46.016, 9.238],
+                {
+}
+            ).addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+        
+    
+            var icon_5d9bdf741797e9f3eb6330f5116d9925 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0b98bf98ee29ce9d63bd90ca2b35f549 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_19c797297f8011d30cfc9cab2ec945c3 = $(`<div id="html_19c797297f8011d30cfc9cab2ec945c3" style="width: 100.0%; height: 100.0%;"><b>🍝 Trattoria Bellavista</b><br>Menaggio — Traditionnel, prix doux</div>`)[0];
+                popup_0b98bf98ee29ce9d63bd90ca2b35f549.setContent(html_19c797297f8011d30cfc9cab2ec945c3);
+            
+        
+
+        marker_1fb2525b583c55e654deca898f9f1f48.bindPopup(popup_0b98bf98ee29ce9d63bd90ca2b35f549)
+        ;
+
+        
+    
+    
+            marker_1fb2525b583c55e654deca898f9f1f48.bindTooltip(
+                `<div>
+                     🍝 Trattoria Bellavista
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_1fb2525b583c55e654deca898f9f1f48.setIcon(icon_5d9bdf741797e9f3eb6330f5116d9925);
+            
+    
+            var circle_8b0b2e8f61fac51e427ce4e3652e41fc = L.circle(
+                [46.0198, 9.239],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.05, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2000, "stroke": true, "weight": 1}
+            ).addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+        
+    
+            var circle_cd489fcf96f62684f5f96127bfe10219 = L.circle(
+                [46.0198, 9.239],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.04, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5000, "stroke": true, "weight": 1}
+            ).addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+        
+    
+            var poly_line_9af2f0712c38f9ed3e69ceab8df2972f = L.polyline(
+                [[46.0198, 9.239], [45.98725, 9.2613], [46.00998, 9.28316], [45.98348, 9.21853]],
+                {"bubblingMouseEvents": true, "color": "#1a5276", "dashArray": "5, 10", "dashOffset": null, "fill": false, "fillColor": "#1a5276", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.4, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(map_3a9b0d1c443c629d0c6d69671e819b6b);
+        
+</script>
+</html>

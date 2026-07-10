@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_0bc88d9018a4a69da7523a23d9aeb365 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="position: fixed; bottom: 30px; left: 10px; z-index: 1000; background: white; padding: 10px; border-radius: 8px; font-size: 12px; border: 1px solid #ccc; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+<b>🏛️ Florence — POI</b><br>
+🟢 Camp de base (hu Firenze)<br>
+🔴 Sites culturels<br>
+🟠 Restaurants<br>
+🟣 Tram T1 / bus<br>
+➖ Parcours piéton Jour 1<br>
+<span style="color:gray;">⬤ 2 km du centre</span>
+</div>
+    
+            <div class="folium-map" id="map_0bc88d9018a4a69da7523a23d9aeb365" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_0bc88d9018a4a69da7523a23d9aeb365 = L.map(
+                "map_0bc88d9018a4a69da7523a23d9aeb365",
+                {
+                    center: [43.77, 11.26],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 14,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+
+            
+
+        
+    
+            var tile_layer_236c862ee331fb423a09c86c49c69748 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_236c862ee331fb423a09c86c49c69748.addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var marker_d64568c1fca290f326cd7a4b31c473c5 = L.marker(
+                [43.765, 11.3128],
+                {
+}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var icon_f0a710dd69a8d65d954108b07ec56b4d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1d56e4aa23d52e0ea15ddca9950458c9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1426f3f2422f5f93c8cbeee15c74da33 = $(`<div id="html_1426f3f2422f5f93c8cbeee15c74da33" style="width: 100.0%; height: 100.0%;"><b>🏕️ Camp de base</b><br>hu Firenze Camping in Town<br>Via Generale Dalla Chiesa 1/3<br>📍 Navette bus ligne 14 → centre</div>`)[0];
+                popup_1d56e4aa23d52e0ea15ddca9950458c9.setContent(html_1426f3f2422f5f93c8cbeee15c74da33);
+            
+        
+
+        marker_d64568c1fca290f326cd7a4b31c473c5.bindPopup(popup_1d56e4aa23d52e0ea15ddca9950458c9)
+        ;
+
+        
+    
+    
+            marker_d64568c1fca290f326cd7a4b31c473c5.bindTooltip(
+                `<div>
+                     🏕️ hu Firenze Camping in Town
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d64568c1fca290f326cd7a4b31c473c5.setIcon(icon_f0a710dd69a8d65d954108b07ec56b4d);
+            
+    
+            var marker_ef3bd980fb11da91def394838bb9da24 = L.marker(
+                [43.7731, 11.25657],
+                {
+}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var icon_9e2b8ed499ec283d3ec19811d661536a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_41224c0542b63025323873228a3e2299 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_99423c5eee742f23110c3f96511976d1 = $(`<div id="html_99423c5eee742f23110c3f96511976d1" style="width: 100.0%; height: 100.0%;"><b>⛪ Duomo — Santa Maria del Fiore</b><br>Cathédrale + Dôme de Brunelleschi, gratuit, accessible</div>`)[0];
+                popup_41224c0542b63025323873228a3e2299.setContent(html_99423c5eee742f23110c3f96511976d1);
+            
+        
+
+        marker_ef3bd980fb11da91def394838bb9da24.bindPopup(popup_41224c0542b63025323873228a3e2299)
+        ;
+
+        
+    
+    
+            marker_ef3bd980fb11da91def394838bb9da24.bindTooltip(
+                `<div>
+                     ⛪ Duomo — Santa Maria del Fiore
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_ef3bd980fb11da91def394838bb9da24.setIcon(icon_9e2b8ed499ec283d3ec19811d661536a);
+            
+    
+            var marker_663da81d121f4dbf48370cf2af13134e = L.marker(
+                [43.76831, 11.2558],
+                {
+}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var icon_760ea30328933c8820500901cbd97e89 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_abf42e7562e9848d0aaa9cfc9b5ed907 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a6094cdf355571271e30b1d6394cf68d = $(`<div id="html_a6094cdf355571271e30b1d6394cf68d" style="width: 100.0%; height: 100.0%;"><b>🖼️ Galerie des Offices</b><br>Chefs-d'œuvre de la Renaissance, coupe-file recommandé, ascenseurs ✅</div>`)[0];
+                popup_abf42e7562e9848d0aaa9cfc9b5ed907.setContent(html_a6094cdf355571271e30b1d6394cf68d);
+            
+        
+
+        marker_663da81d121f4dbf48370cf2af13134e.bindPopup(popup_abf42e7562e9848d0aaa9cfc9b5ed907)
+        ;
+
+        
+    
+    
+            marker_663da81d121f4dbf48370cf2af13134e.bindTooltip(
+                `<div>
+                     🖼️ Galerie des Offices
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_663da81d121f4dbf48370cf2af13134e.setIcon(icon_760ea30328933c8820500901cbd97e89);
+            
+    
+            var marker_549cdf08cd74c66c1efa8f2939b09d02 = L.marker(
+                [43.77692, 11.25876],
+                {
+}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var icon_a123c811f4add2699f29284af143eeeb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a6cf97083e0396e1bd9b9d6fd4f0788f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_43350fc2cbc93fc48b66c5c6aee55f2e = $(`<div id="html_43350fc2cbc93fc48b66c5c6aee55f2e" style="width: 100.0%; height: 100.0%;"><b>🎨 Accademia — David</b><br>Michel-Ange, rampe d'accès à droite, coupe-file conseillé</div>`)[0];
+                popup_a6cf97083e0396e1bd9b9d6fd4f0788f.setContent(html_43350fc2cbc93fc48b66c5c6aee55f2e);
+            
+        
+
+        marker_549cdf08cd74c66c1efa8f2939b09d02.bindPopup(popup_a6cf97083e0396e1bd9b9d6fd4f0788f)
+        ;
+
+        
+    
+    
+            marker_549cdf08cd74c66c1efa8f2939b09d02.bindTooltip(
+                `<div>
+                     🎨 Accademia — David
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_549cdf08cd74c66c1efa8f2939b09d02.setIcon(icon_a123c811f4add2699f29284af143eeeb);
+            
+    
+            var marker_32bc5e9a22f17904fa8fcae8084f259e = L.marker(
+                [43.76957, 11.25586],
+                {
+}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var icon_86431ae4dbf9aa06825abc5ab9a9f97b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6fe9d8c92075c4a6bc8920755549b858 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_075e8b2c6391a01eae7ca2f65bb57f44 = $(`<div id="html_075e8b2c6391a01eae7ca2f65bb57f44" style="width: 100.0%; height: 100.0%;"><b>🏛️ Piazza della Signoria</b><br>Place historique, Palazzo Vecchio, statues, gratuit</div>`)[0];
+                popup_6fe9d8c92075c4a6bc8920755549b858.setContent(html_075e8b2c6391a01eae7ca2f65bb57f44);
+            
+        
+
+        marker_32bc5e9a22f17904fa8fcae8084f259e.bindPopup(popup_6fe9d8c92075c4a6bc8920755549b858)
+        ;
+
+        
+    
+    
+            marker_32bc5e9a22f17904fa8fcae8084f259e.bindTooltip(
+                `<div>
+                     🏛️ Piazza della Signoria
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_32bc5e9a22f17904fa8fcae8084f259e.setIcon(icon_86431ae4dbf9aa06825abc5ab9a9f97b);
+            
+    
+            var marker_fe4e737eb771df0583db73a51a22948a = L.marker(
+                [43.76803, 11.25316],
+                {
+}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var icon_ee93c34e45d1be7a304c728ab06308e8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9ca2147fe18d957682410fa50f50fb18 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8ec32c73b8695dfdd0a5f3bb8e5f2e48 = $(`<div id="html_8ec32c73b8695dfdd0a5f3bb8e5f2e48" style="width: 100.0%; height: 100.0%;"><b>🌉 Ponte Vecchio</b><br>Pont iconique, boutiques d'orfèvrerie, piéton, plat ✅</div>`)[0];
+                popup_9ca2147fe18d957682410fa50f50fb18.setContent(html_8ec32c73b8695dfdd0a5f3bb8e5f2e48);
+            
+        
+
+        marker_fe4e737eb771df0583db73a51a22948a.bindPopup(popup_9ca2147fe18d957682410fa50f50fb18)
+        ;
+
+        
+    
+    
+            marker_fe4e737eb771df0583db73a51a22948a.bindTooltip(
+                `<div>
+                     🌉 Ponte Vecchio
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_fe4e737eb771df0583db73a51a22948a.setIcon(icon_ee93c34e45d1be7a304c728ab06308e8);
+            
+    
+            var marker_00a100708ee06c82e2ce2b30afc18319 = L.marker(
+                [43.76283, 11.26499],
+                {
+}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var icon_d0b9df02c1cfa0fdf2a08e527b16a8e9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_554e6136974150be75e1499a2a1b5faf = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c63984219d0c6ffb3d93936615d82242 = $(`<div id="html_c63984219d0c6ffb3d93936615d82242" style="width: 100.0%; height: 100.0%;"><b>🏔️ Piazzale Michelangelo</b><br>Panorama 360° sur Florence — bus 12/13</div>`)[0];
+                popup_554e6136974150be75e1499a2a1b5faf.setContent(html_c63984219d0c6ffb3d93936615d82242);
+            
+        
+
+        marker_00a100708ee06c82e2ce2b30afc18319.bindPopup(popup_554e6136974150be75e1499a2a1b5faf)
+        ;
+
+        
+    
+    
+            marker_00a100708ee06c82e2ce2b30afc18319.bindTooltip(
+                `<div>
+                     🏔️ Piazzale Michelangelo
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_00a100708ee06c82e2ce2b30afc18319.setIcon(icon_d0b9df02c1cfa0fdf2a08e527b16a8e9);
+            
+    
+            var marker_fce73b2bd93b33058402b091d61b0467 = L.marker(
+                [43.76528, 11.25026],
+                {
+}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var icon_262de432ebd82c4dba8e17001b61934b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_61d505ee301235ead1f0708826b2f398 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0e662222e01feaa9c074bd22be6e4e94 = $(`<div id="html_0e662222e01feaa9c074bd22be6e4e94" style="width: 100.0%; height: 100.0%;"><b>🏛️ Palazzo Pitti</b><br>Palais royal, musées, accessible</div>`)[0];
+                popup_61d505ee301235ead1f0708826b2f398.setContent(html_0e662222e01feaa9c074bd22be6e4e94);
+            
+        
+
+        marker_fce73b2bd93b33058402b091d61b0467.bindPopup(popup_61d505ee301235ead1f0708826b2f398)
+        ;
+
+        
+    
+    
+            marker_fce73b2bd93b33058402b091d61b0467.bindTooltip(
+                `<div>
+                     🏛️ Palazzo Pitti
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_fce73b2bd93b33058402b091d61b0467.setIcon(icon_262de432ebd82c4dba8e17001b61934b);
+            
+    
+            var marker_b94787602f7e4c0d3a0d9ebb29bd6e9a = L.marker(
+                [43.76328, 11.2499],
+                {
+}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var icon_56a387c127ee166d5328fa47c18da98e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_44287e53b002027ce23269d9f7a23fc8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_71d2aa5814e673957b866d1a958f2c92 = $(`<div id="html_71d2aa5814e673957b866d1a958f2c92" style="width: 100.0%; height: 100.0%;"><b>🌳 Jardins de Boboli</b><br>Parc historique derrière Palazzo Pitti</div>`)[0];
+                popup_44287e53b002027ce23269d9f7a23fc8.setContent(html_71d2aa5814e673957b866d1a958f2c92);
+            
+        
+
+        marker_b94787602f7e4c0d3a0d9ebb29bd6e9a.bindPopup(popup_44287e53b002027ce23269d9f7a23fc8)
+        ;
+
+        
+    
+    
+            marker_b94787602f7e4c0d3a0d9ebb29bd6e9a.bindTooltip(
+                `<div>
+                     🌳 Jardins de Boboli
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b94787602f7e4c0d3a0d9ebb29bd6e9a.setIcon(icon_56a387c127ee166d5328fa47c18da98e);
+            
+    
+            var marker_a2198746de996ec7ea56563ed5f2d637 = L.marker(
+                [43.76846, 11.2618],
+                {
+}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var icon_9799c21002fe509c7c2cddbe99cdb80c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_746abc56e3c310d6b9335030a0e7f66f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6c87a76d13e8cc8f8b176ddd2a7d1179 = $(`<div id="html_6c87a76d13e8cc8f8b176ddd2a7d1179" style="width: 100.0%; height: 100.0%;"><b>⛪ Basilique Santa Croce</b><br>Franciscaine, tombes de Galilée/Michel-Ange</div>`)[0];
+                popup_746abc56e3c310d6b9335030a0e7f66f.setContent(html_6c87a76d13e8cc8f8b176ddd2a7d1179);
+            
+        
+
+        marker_a2198746de996ec7ea56563ed5f2d637.bindPopup(popup_746abc56e3c310d6b9335030a0e7f66f)
+        ;
+
+        
+    
+    
+            marker_a2198746de996ec7ea56563ed5f2d637.bindTooltip(
+                `<div>
+                     ⛪ Basilique Santa Croce
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a2198746de996ec7ea56563ed5f2d637.setIcon(icon_9799c21002fe509c7c2cddbe99cdb80c);
+            
+    
+            var marker_d146eb3d3327db8d70c09a5d326ab330 = L.marker(
+                [43.7761, 11.258],
+                {
+}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var icon_8e8b00ee8ebdd2577831d73b9effae57 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e9f11c37d7a5c8f2f8addcf7d7570140 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_75dc93151bc0688b42f96978a81c3b10 = $(`<div id="html_75dc93151bc0688b42f96978a81c3b10" style="width: 100.0%; height: 100.0%;"><b>🍝 Trattoria Mario</b><br>San Lorenzo — Traditionnel, pas cher</div>`)[0];
+                popup_e9f11c37d7a5c8f2f8addcf7d7570140.setContent(html_75dc93151bc0688b42f96978a81c3b10);
+            
+        
+
+        marker_d146eb3d3327db8d70c09a5d326ab330.bindPopup(popup_e9f11c37d7a5c8f2f8addcf7d7570140)
+        ;
+
+        
+    
+    
+            marker_d146eb3d3327db8d70c09a5d326ab330.bindTooltip(
+                `<div>
+                     🍝 Trattoria Mario
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d146eb3d3327db8d70c09a5d326ab330.setIcon(icon_8e8b00ee8ebdd2577831d73b9effae57);
+            
+    
+            var marker_3fa5e04a21151806ba87eacc8fc28388 = L.marker(
+                [43.7698, 11.2525],
+                {
+}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var icon_3d5245204c5c6e80cc058fd8c9871a09 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f5dbc21a411874a97489b9c90e697c81 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0a7f7fab23fa76326b990438dd51912d = $(`<div id="html_0a7f7fab23fa76326b990438dd51912d" style="width: 100.0%; height: 100.0%;"><b>🥪 All'Antico Vinaio</b><br>Via dei Neri — Sandwichs mythiques, 7€</div>`)[0];
+                popup_f5dbc21a411874a97489b9c90e697c81.setContent(html_0a7f7fab23fa76326b990438dd51912d);
+            
+        
+
+        marker_3fa5e04a21151806ba87eacc8fc28388.bindPopup(popup_f5dbc21a411874a97489b9c90e697c81)
+        ;
+
+        
+    
+    
+            marker_3fa5e04a21151806ba87eacc8fc28388.bindTooltip(
+                `<div>
+                     🥪 All'Antico Vinaio
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3fa5e04a21151806ba87eacc8fc28388.setIcon(icon_3d5245204c5c6e80cc058fd8c9871a09);
+            
+    
+            var marker_66103e071657498d8f226dcf836f9448 = L.marker(
+                [43.7655, 11.247],
+                {
+}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var icon_f6a350864c8b9112439a6aabc074e27c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8a42c6f289e17b08ef304b981e023447 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_07db7fa2edcbb3a4d1a34320becbe0b4 = $(`<div id="html_07db7fa2edcbb3a4d1a34320becbe0b4" style="width: 100.0%; height: 100.0%;"><b>🍕 Gusta Pizza</b><br>Santo Spirito — Meilleure pizza de Florence</div>`)[0];
+                popup_8a42c6f289e17b08ef304b981e023447.setContent(html_07db7fa2edcbb3a4d1a34320becbe0b4);
+            
+        
+
+        marker_66103e071657498d8f226dcf836f9448.bindPopup(popup_8a42c6f289e17b08ef304b981e023447)
+        ;
+
+        
+    
+    
+            marker_66103e071657498d8f226dcf836f9448.bindTooltip(
+                `<div>
+                     🍕 Gusta Pizza
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_66103e071657498d8f226dcf836f9448.setIcon(icon_f6a350864c8b9112439a6aabc074e27c);
+            
+    
+            var marker_d63d6e4761d49491214d131fe5b318d7 = L.marker(
+                [43.776, 11.2535],
+                {
+}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var icon_519fa90d1c55f5f1c84f3592538cc338 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e09179540254e9131d2851398d87083a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_70071aa9c574543c720dc6710a1e1d7d = $(`<div id="html_70071aa9c574543c720dc6710a1e1d7d" style="width: 100.0%; height: 100.0%;"><b>🥟 Mercato Centrale</b><br>San Lorenzo — Street food, halles, tout type</div>`)[0];
+                popup_e09179540254e9131d2851398d87083a.setContent(html_70071aa9c574543c720dc6710a1e1d7d);
+            
+        
+
+        marker_d63d6e4761d49491214d131fe5b318d7.bindPopup(popup_e09179540254e9131d2851398d87083a)
+        ;
+
+        
+    
+    
+            marker_d63d6e4761d49491214d131fe5b318d7.bindTooltip(
+                `<div>
+                     🥟 Mercato Centrale
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d63d6e4761d49491214d131fe5b318d7.setIcon(icon_519fa90d1c55f5f1c84f3592538cc338);
+            
+    
+            var marker_b4c4099779abb5c3d254fc48e3dd0a1e = L.marker(
+                [43.7705, 11.254],
+                {
+}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var icon_8856ca5aea97b66dc55310184aeef20e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_acffda096d89780c3d1de8837145c117 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0c966d145f426ad33507168b7f8e8a50 = $(`<div id="html_0c966d145f426ad33507168b7f8e8a50" style="width: 100.0%; height: 100.0%;"><b>🍨 La Carraia</b><br>Lungarno — Réputée meilleure glace</div>`)[0];
+                popup_acffda096d89780c3d1de8837145c117.setContent(html_0c966d145f426ad33507168b7f8e8a50);
+            
+        
+
+        marker_b4c4099779abb5c3d254fc48e3dd0a1e.bindPopup(popup_acffda096d89780c3d1de8837145c117)
+        ;
+
+        
+    
+    
+            marker_b4c4099779abb5c3d254fc48e3dd0a1e.bindTooltip(
+                `<div>
+                     🍨 La Carraia
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b4c4099779abb5c3d254fc48e3dd0a1e.setIcon(icon_8856ca5aea97b66dc55310184aeef20e);
+            
+    
+            var poly_line_a1d70668eb3e2d5e325606b8df2a0846 = L.polyline(
+                [[43.7731, 11.25657], [43.77692, 11.25876], [43.76957, 11.25586], [43.76831, 11.2558], [43.76803, 11.25316]],
+                {"bubblingMouseEvents": true, "color": "#e63946", "dashArray": "8, 8", "dashOffset": null, "fill": false, "fillColor": "#e63946", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.35, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var marker_3afb2ed11a27592aba91fb8d30d6b536 = L.marker(
+                [43.774, 11.2475],
+                {
+}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+    
+            var icon_c570abe9e380880f90a9817eebb9c831 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "road",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ce38ea711baef3f501ad02ad1da0861f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c14d742ac249c88af6aff00b83cdf171 = $(`<div id="html_c14d742ac249c88af6aff00b83cdf171" style="width: 100.0%; height: 100.0%;">🚊 Tram T1 — Arrêt Alamanni<br>Accès depuis le camping : bus 14 → SMN → Tram T1</div>`)[0];
+                popup_ce38ea711baef3f501ad02ad1da0861f.setContent(html_c14d742ac249c88af6aff00b83cdf171);
+            
+        
+
+        marker_3afb2ed11a27592aba91fb8d30d6b536.bindPopup(popup_ce38ea711baef3f501ad02ad1da0861f)
+        ;
+
+        
+    
+    
+            marker_3afb2ed11a27592aba91fb8d30d6b536.bindTooltip(
+                `<div>
+                     🚊 Tram T1 — Gare SMN
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3afb2ed11a27592aba91fb8d30d6b536.setIcon(icon_c570abe9e380880f90a9817eebb9c831);
+            
+    
+            var circle_fbaac9f1ee7d88b61df9c4bba65759ba = L.circle(
+                [43.77, 11.256],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.04, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2000, "stroke": true, "weight": 1}
+            ).addTo(map_0bc88d9018a4a69da7523a23d9aeb365);
+        
+</script>
+</html>

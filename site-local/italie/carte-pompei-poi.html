@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_0e66f9eb7995b27d98f5f574abdb816a {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="position:fixed; bottom:30px; left:10px; z-index:1000; background:white;
+     padding:10px; border-radius:8px; font-size:12px; border:1px solid #ccc; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+<b>🌋 Pompéi — POI</b><br>
+🟢 Camp de base (Camping Spartacus)<br>
+🔴 Sites archéologiques<br>
+🟠 Restaurants<br>
+🔵 Camping alternatif<br>
+➖ Parcours accessible 2,5 km<br>
+⏺️ 500 m / 2 km du camping
+</div>
+    
+            <div class="folium-map" id="map_0e66f9eb7995b27d98f5f574abdb816a" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_0e66f9eb7995b27d98f5f574abdb816a = L.map(
+                "map_0e66f9eb7995b27d98f5f574abdb816a",
+                {
+                    center: [40.748, 14.485],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 15,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_0e66f9eb7995b27d98f5f574abdb816a);
+
+            
+
+        
+    
+            var tile_layer_59ee2309d7f030f924a9ff710488a098 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_59ee2309d7f030f924a9ff710488a098.addTo(map_0e66f9eb7995b27d98f5f574abdb816a);
+        
+    
+            var marker_2eb159ed0c2af451192fe53792ebd7e1 = L.marker(
+                [40.74629, 14.48462],
+                {
+}
+            ).addTo(map_0e66f9eb7995b27d98f5f574abdb816a);
+        
+    
+            var icon_c5b65e2ef3dd73cae9a3cd72e5016a46 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_224ba5dea76a18e5437cc9b857598ae7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0879ec709338aa61fc99ae647f3e2f81 = $(`<div id="html_0879ec709338aa61fc99ae647f3e2f81" style="width: 100.0%; height: 100.0%;"><b>🏕️ Camp de base</b><br>Camping Spartacus<br>📍 Via Plinio 127, à 50m de l'entrée</div>`)[0];
+                popup_224ba5dea76a18e5437cc9b857598ae7.setContent(html_0879ec709338aa61fc99ae647f3e2f81);
+            
+        
+
+        marker_2eb159ed0c2af451192fe53792ebd7e1.bindPopup(popup_224ba5dea76a18e5437cc9b857598ae7)
+        ;
+
+        
+    
+    
+            marker_2eb159ed0c2af451192fe53792ebd7e1.bindTooltip(
+                `<div>
+                     🏕️ Camping Spartacus
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_2eb159ed0c2af451192fe53792ebd7e1.setIcon(icon_c5b65e2ef3dd73cae9a3cd72e5016a46);
+            
+    
+            var marker_e3faa943c04327a3286fc4567a03f970 = L.marker(
+                [40.74861, 14.48126],
+                {
+}
+            ).addTo(map_0e66f9eb7995b27d98f5f574abdb816a);
+        
+    
+            var icon_c324f25f646acf98ba16305e10d7f2e7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_12fe854b714bcc8b32a63e55884f8e7d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bd2d8e91bf77477e2e332e52b1ea4dae = $(`<div id="html_bd2d8e91bf77477e2e332e52b1ea4dae" style="width: 100.0%; height: 100.0%;"><b>🏛️ Pompéi — Entrée principale</b><br>Forum, Basilique, Antiquarium — parcours accessible 2,5 km</div>`)[0];
+                popup_12fe854b714bcc8b32a63e55884f8e7d.setContent(html_bd2d8e91bf77477e2e332e52b1ea4dae);
+            
+        
+
+        marker_e3faa943c04327a3286fc4567a03f970.bindPopup(popup_12fe854b714bcc8b32a63e55884f8e7d)
+        ;
+
+        
+    
+    
+            marker_e3faa943c04327a3286fc4567a03f970.bindTooltip(
+                `<div>
+                     🏛️ Pompéi — Entrée principale
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_e3faa943c04327a3286fc4567a03f970.setIcon(icon_c324f25f646acf98ba16305e10d7f2e7);
+            
+    
+            var marker_40e1176376fe509dda4569ad3fe42b14 = L.marker(
+                [40.74948, 14.49585],
+                {
+}
+            ).addTo(map_0e66f9eb7995b27d98f5f574abdb816a);
+        
+    
+            var icon_7a3e48b6fdc01693e15cc35464406329 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_aec78f1e36717d4c21dc0008c493aa51 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f948c55fb3817281ceeea1186cd4c973 = $(`<div id="html_f948c55fb3817281ceeea1186cd4c973" style="width: 100.0%; height: 100.0%;"><b>🏟️ Piazza Anfiteatro</b><br>Entrée conseillée — parcours accessible, fauteuil gratuit</div>`)[0];
+                popup_aec78f1e36717d4c21dc0008c493aa51.setContent(html_f948c55fb3817281ceeea1186cd4c973);
+            
+        
+
+        marker_40e1176376fe509dda4569ad3fe42b14.bindPopup(popup_aec78f1e36717d4c21dc0008c493aa51)
+        ;
+
+        
+    
+    
+            marker_40e1176376fe509dda4569ad3fe42b14.bindTooltip(
+                `<div>
+                     🏟️ Piazza Anfiteatro
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_40e1176376fe509dda4569ad3fe42b14.setIcon(icon_7a3e48b6fdc01693e15cc35464406329);
+            
+    
+            var marker_d192a20382f9dd85675ad75cd02b8761 = L.marker(
+                [40.75092, 14.48848],
+                {
+}
+            ).addTo(map_0e66f9eb7995b27d98f5f574abdb816a);
+        
+    
+            var icon_350f0704d0de69a29b6c7ddf46f61ffc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4bf98e83f95c191da0e9e141811d435c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1ef2c47e8cb77081d5c91ff89df294fc = $(`<div id="html_1ef2c47e8cb77081d5c91ff89df294fc" style="width: 100.0%; height: 100.0%;"><b>🏛️ Scavi — Via dell'Abbondanza</b><br>Cœur des fouilles, thermopolia, fresques</div>`)[0];
+                popup_4bf98e83f95c191da0e9e141811d435c.setContent(html_1ef2c47e8cb77081d5c91ff89df294fc);
+            
+        
+
+        marker_d192a20382f9dd85675ad75cd02b8761.bindPopup(popup_4bf98e83f95c191da0e9e141811d435c)
+        ;
+
+        
+    
+    
+            marker_d192a20382f9dd85675ad75cd02b8761.bindTooltip(
+                `<div>
+                     🏛️ Scavi — Via dell'Abbondanza
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d192a20382f9dd85675ad75cd02b8761.setIcon(icon_350f0704d0de69a29b6c7ddf46f61ffc);
+            
+    
+            var marker_535e9fe8350641a2e7c029c0e28fc016 = L.marker(
+                [40.80536, 14.3471],
+                {
+}
+            ).addTo(map_0e66f9eb7995b27d98f5f574abdb816a);
+        
+    
+            var icon_d30aa2def834040f8eae8bf680319d4f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3ada5fbf5367b44ceee82665926e993c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_79eaf46579595116208de0bc72a0a2cc = $(`<div id="html_79eaf46579595116208de0bc72a0a2cc" style="width: 100.0%; height: 100.0%;"><b>🏛️ Herculanum (option)</b><br>10 km — mieux conservé, 2-3h de visite, moins de foule</div>`)[0];
+                popup_3ada5fbf5367b44ceee82665926e993c.setContent(html_79eaf46579595116208de0bc72a0a2cc);
+            
+        
+
+        marker_535e9fe8350641a2e7c029c0e28fc016.bindPopup(popup_3ada5fbf5367b44ceee82665926e993c)
+        ;
+
+        
+    
+    
+            marker_535e9fe8350641a2e7c029c0e28fc016.bindTooltip(
+                `<div>
+                     🏛️ Herculanum (option)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_535e9fe8350641a2e7c029c0e28fc016.setIcon(icon_d30aa2def834040f8eae8bf680319d4f);
+            
+    
+            var marker_1673a46302b10305b457696b564799c5 = L.marker(
+                [40.73683, 14.48386],
+                {
+}
+            ).addTo(map_0e66f9eb7995b27d98f5f574abdb816a);
+        
+    
+            var icon_412ad8f60bd58a9e44691b4ab5c09633 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_be8d2d2d83c9d44f569c7a0cd9377bde = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3762b42f80542ce84fdf03f1eb263124 = $(`<div id="html_3762b42f80542ce84fdf03f1eb263124" style="width: 100.0%; height: 100.0%;"><b>🍕 Trammiere</b><br>Pizza four au bois, pâtes, à 3 km</div>`)[0];
+                popup_be8d2d2d83c9d44f569c7a0cd9377bde.setContent(html_3762b42f80542ce84fdf03f1eb263124);
+            
+        
+
+        marker_1673a46302b10305b457696b564799c5.bindPopup(popup_be8d2d2d83c9d44f569c7a0cd9377bde)
+        ;
+
+        
+    
+    
+            marker_1673a46302b10305b457696b564799c5.bindTooltip(
+                `<div>
+                     🍕 Trammiere
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_1673a46302b10305b457696b564799c5.setIcon(icon_412ad8f60bd58a9e44691b4ab5c09633);
+            
+    
+            var marker_aa3f29453f0ea02e49fe10175e9d57cc = L.marker(
+                [40.7464, 14.50097],
+                {
+}
+            ).addTo(map_0e66f9eb7995b27d98f5f574abdb816a);
+        
+    
+            var icon_4b7e139127ee85eaa2ccfa741e1fe44f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_62b874dce7c0f4eca3e8ba7bcc3846dc = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c43baa340689e7b3059c72480415f15b = $(`<div id="html_c43baa340689e7b3059c72480415f15b" style="width: 100.0%; height: 100.0%;"><b>🍝 La Bettola del Gusto</b><br>Cuisine locale, produits frais, convivial</div>`)[0];
+                popup_62b874dce7c0f4eca3e8ba7bcc3846dc.setContent(html_c43baa340689e7b3059c72480415f15b);
+            
+        
+
+        marker_aa3f29453f0ea02e49fe10175e9d57cc.bindPopup(popup_62b874dce7c0f4eca3e8ba7bcc3846dc)
+        ;
+
+        
+    
+    
+            marker_aa3f29453f0ea02e49fe10175e9d57cc.bindTooltip(
+                `<div>
+                     🍝 La Bettola del Gusto
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_aa3f29453f0ea02e49fe10175e9d57cc.setIcon(icon_4b7e139127ee85eaa2ccfa741e1fe44f);
+            
+    
+            var marker_ba7fcc926a27ed10df694b2495a64475 = L.marker(
+                [40.74644, 14.48387],
+                {
+}
+            ).addTo(map_0e66f9eb7995b27d98f5f574abdb816a);
+        
+    
+            var icon_788d58ec5c9f3fe0677ed4ffa4caffa1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3a49c3be08860a2dd525c92d99ef4fdb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6e74c20bbaee81e8d853146c861bddd2 = $(`<div id="html_6e74c20bbaee81e8d853146c861bddd2" style="width: 100.0%; height: 100.0%;"><b>🏕️ Alternative</b><br>Camping Spartacus<br>50 m des fouilles, chiens OK ✅</div>`)[0];
+                popup_3a49c3be08860a2dd525c92d99ef4fdb.setContent(html_6e74c20bbaee81e8d853146c861bddd2);
+            
+        
+
+        marker_ba7fcc926a27ed10df694b2495a64475.bindPopup(popup_3a49c3be08860a2dd525c92d99ef4fdb)
+        ;
+
+        
+    
+    
+            marker_ba7fcc926a27ed10df694b2495a64475.bindTooltip(
+                `<div>
+                     Camping Spartacus (alternative)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_ba7fcc926a27ed10df694b2495a64475.setIcon(icon_788d58ec5c9f3fe0677ed4ffa4caffa1);
+            
+    
+            var circle_46e6cc71ad556320976f4ad8be5e5ed4 = L.circle(
+                [40.74629, 14.48462],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.06, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 500, "stroke": true, "weight": 1}
+            ).addTo(map_0e66f9eb7995b27d98f5f574abdb816a);
+        
+    
+            var circle_7908e274235890cb8f7983609def3599 = L.circle(
+                [40.74629, 14.48462],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.04, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2000, "stroke": true, "weight": 1}
+            ).addTo(map_0e66f9eb7995b27d98f5f574abdb816a);
+        
+    
+            var poly_line_474dea4852fba0b5dc1f13e235562927 = L.polyline(
+                [[40.74948, 14.49585], [40.75092, 14.48848], [40.74997, 14.48408], [40.74861, 14.48126]],
+                {"bubblingMouseEvents": true, "color": "#e63946", "dashArray": "8, 8", "dashOffset": null, "fill": false, "fillColor": "#e63946", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.4, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(map_0e66f9eb7995b27d98f5f574abdb816a);
+        
+</script>
+</html>
