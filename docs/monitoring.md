@@ -1,6 +1,6 @@
 # 📊 Monitoring — Coûts & Activité
 
-> 🕐 **Dernière mise en ligne : 10/07/2026 23:00**  
+> 🕐 **Dernière mise en ligne : 10/07/2026 23:04**  
 
 ## 💳 Coûts par roadbook
 
@@ -41,4 +41,4 @@
 
 ---
 
-*🕐 Dernière mise en ligne : 10/07/2026 23:00 — [🏛️ BAVI LEO](https://christophedanhier-hash.github.io/BAVI_LEO/)*
+*🕐 Dernière mise en ligne : 10/07/2026 23:04 — [🏛️ BAVI LEO](https://christophedanhier-hash.github.io/BAVI_LEO/)*
