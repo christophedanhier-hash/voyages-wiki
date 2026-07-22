@@ -99,6 +99,34 @@
 
 ---
 
+## 🗺️ Carte interactive
+
+<iframe src="carte-ecosse.html" width="100%" height="550" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
+
+> Carte interactive avec les **deux itinéraires** (bleu = Eurotunnel, vert = Ferry Hull). Cliquez sur les marqueurs pour voir les détails.
+
+---
+
+## 🗺️ Carte des points d'intérêt
+
+<iframe src="carte-pois-ecosse.html" width="100%" height="550" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
+
+> Carte des POIs : Édimbourg, Highlands, Île de Skye, Inverness, distilleries.
+
+---
+
+| Poste | Estimation (2 CC) |
+|:---|---:|
+| 🚄 **Traversée AR** | 320-520 € |
+| ⛽ **Carburant** (~3 200 km × 11L/100 × 1,75 €/L × 2 CC) | ~1 230 € |
+| 🏕️ **Campings** (~12 nuits × ~30 € × 2 CC) | ~720 € |
+| 🛌 **Ferry de nuit** (si option Hull) | ~250-350 € |
+| 🛣️ **Péages UK** | ~10 € |
+| 🍽️ **Courses & repas** | ~à voir |
+| **Total estimé** | **~2 300-2 800 €** (pour 2 CC) |
+
+---
+
 ## 📌 Notes & Astuces
 
 - ⚡ **Prise électrique UK** : Prévoir un adaptateur UK → Schuko (européen) — les campings écossais ont des prises CEE bleues (standard) OU UK 3 broches
