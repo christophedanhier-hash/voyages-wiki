@@ -607,7 +607,9 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 > 🗺️ **Carte interactive du Lac de Garde** — Camp de base, rives sud/est/nord et excursion Vérone :
 > <iframe src="carte-garde-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
 
-**🚐 CC :** Garé au camping. Location voiture Sunny Cars **#15253704** — 5 jours (Lun 5 → Ven 9/10).
+**🚐 CC :** Garé au camping. Location voiture Sunny Cars **#15253704** — 5 jours (Lun 5 → Ven 9/10). *Voir analyse alternative ci-dessous.*
+
+> 💡 **Alternative sans voiture ?** Le Lac de Garde est bien desservi en **ferry** ⛴️ et **train** 🚄. Voir section dédiée plus bas.
 
 **📋 Organisation du séjour :**
 
@@ -732,6 +734,31 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 
 > 💡 **Idée pour le groupe :** Le **téléphérique du Monte Baldo** 🏔️ est MAGNIFIQUE — vue à 360° sur le lac et les Alpes. Cabine accessible, pas de marche. À faire absolument ! Et le **ferry** 🚤 entre les villages du lac est déjà une activité en soi — confortable, belle vue, parfait pour Sylvie.
 
+
+### 🚗 Voiture de location — Vraiment nécessaire ? Analyse alternative
+
+La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée ou raccourcie. Voici les alternatives pour chaque excursion :
+
+| Excursion | En voiture | Alternative sans voiture | Verdict |
+|:----------|:----------:|:------------------------|:-------:|
+| 🏰 **Sirmione** (15 km) | 20 min | **Bus LN026** depuis Desenzano (20 min, ~2 €) ou **ferry** ⛴️ (30 min, ~5 €) | ✅ **Easy sans voiture** |
+| 🏘️ **Salò / Gardone** (25-30 km) | 30-35 min | **Bus LN026** direct depuis Desenzano (30-40 min) | ✅ **Easy sans voiture** |
+| 🍋 **Limone** (50 km) | 55 min | **Ferry** ⛴️ depuis Desenzano (1h30, traversée magnifique) | ✅ **Le ferry est plus beau !** |
+| 🏰 **Malcesine** (rive est) | 50 km route | **Ferry** ⛴️ Desenzano → Malcesine direct (1h, ~8 €) | ✅ **Le ferry, conseillé !** |
+| 🏛️ **Vérone** (40 km) | 35 min + parking 15 € | **Train** 🚄 Desenzano → Verona Porta Nuova (20 min, ~4 €) — gare à 2 km du camping | ✅✅ **Train ++ pratique** |
+| 🏔️ **Riva del Garda** (55 km) | 1h | **Bus LN027** (1h30, ~6 €) ou **ferry** ⛴️ (2h, ~10 €) | ⚠️ Possible mais long |
+| 🍷 **Bardolino** vins | 45 km | **Ferry** ⛴️ Desenzano → Bardolino (45 min) | ✅ **Ferry direct** |
+
+### 💡 Recommandation
+
+| Option | Coût | Flexibilité | Stress | Pour qui ? |
+|:-------|:---:|:-----------:|:-----:|:-----------|
+| 🚗 **Garder la voiture** | ~150-200 € (5j + essence) | ✅✅✅ | ⚠️ ZTL, parking | Si vous voulez maximiser les excursions lointaines (Riva, nord) |
+| 🚫 **Annuler la voiture** | **0 €** | ✅ (ferry+bus+train) | ✅ Aucun | Si vous préférez le confort et les économies |
+| 🔄 **Garder 2-3 jours** | ~80-120 € | ✅✅ | ⚠️ ZTL | Pour Riva + jour au choix, le reste en ferry/train |
+
+> **🏆 Mon conseil :** La voiture **n'est pas indispensable**. Le ferry ⛴️ dessert Sirmione, Malcesine, Limone, Bardolino — plus beau que la route. Le train 🚄 pour Vérone est imbattable (20 min, 4 €). À 4 (David & Nancy), le ferry c'est aussi une activité en soi. Si vous annulez la voiture, **économisez ~150-200 €**. Sinon, gardez-la 2-3 jours pour Riva et la flexibilité.
+
 ### 🍝 Manger autour du lac
 
 | Restaurant | Type | Coin | Ambiance |
@@ -744,10 +771,10 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 
 ---
 
-### ⚠️ Astuces pratiques
+### ⚠️ Astuces pratiques (Lac de Garde)
 
 - **San Francesco Camping Village :** piscine, location vélos, accès direct plage. 7 nuits (3→10/10). Acompte 140,40 € payé. Solde ~327,60 € à régler sur place.
-- **Sunny Cars #15253704** : 5 jours. Vérifier si agence livre au camping ou navette Desenzano gare.
+- **Sunny Cars #15253704** : 5 jours — **voir analyse alternative ci-dessus** avant de confirmer. Si annulation, le ferry + train suffisent.
 - **Nala au camping :** chiens admis. Vérifier à l'arrivée.
 - **⚠️ ZTL :** active dans Sirmione, Malcesine, Salò, Vérone. Se garer en périphérie.
 - **Parking recommandé Sirmione :** Parcheggio Montebaldo (grand, ombragé, 2 €/h).
