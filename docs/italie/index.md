@@ -218,6 +218,8 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 6. 🏛️ **Forum + Basilique + Temple d'Apollon** (30 min)
 7. 🖼️ **Antiquarium** (frais, moulages des victimes, 20 min)
 8. Sortie Piazza Anfiteatro (replat) → pause café au CHORA
+
+**🎟️ Billets :** Réserver sur [GetYourGuide](https://www.getyourguide.com/fr-fr/) (rechercher "Pompeii skip the line") ou sur le site officiel [ticketspompei.it](https://www.ticketspompei.it). **Tarif handicap : gratuit** pour Sylvie + 1 accompagnateur (carte handicap UE) ✅ — pas de réservation nécessaire.
 ---
 
 **🔄 Alternative : Herculanum (plus petit, mieux conservé)**
