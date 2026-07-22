@@ -415,9 +415,9 @@ Envie de sortir des sentiers battus avec la voiture de location ? Voici quelques
 | 🚤 **Bateau côte adriatique** | Exploration des criques et grottes marines en petit bateau (Polignano/Monopoli) | ~40-60 € | 2-3h | sur getyourguide.com |
 | 🍝 **Cours de pâtes (orecchiette)** | Apprendre à faire les orecchiette chez l'habitant avec dégustation | ~45-70 € | 3h | sur getyourguide.com |
 | 🍷 **Dégustation Masseria** | Visite de ferme fortifiée + vins locaux + huile d'olive, dans la vallée d'Itria | ~30-50 € | 2-3h | sur getyourguide.com |
-| 🐴 **Balade à cheval** | Dans les oliviers ou en bord de mer (accessible débutant) | ~50-70 € | 2h | sur getyourguide.com |
 | 🏛️ **Matera de nuit** | Visite guidée des Sassi illuminés — magique et moins chaud | ~25-40 € | 2h | sur getyourguide.com |
-| 🚣 **Kayak / paddle** | Dans les criques de Polignano ou Torre dell'Orso | ~25-35 € | 1-2h | sur getyourguide.com |
+| 🚗 **Balade en Fiat 500 ancienne** | Découverte des trulli au volant d'une Fiat 500 vintage, décapotable 🕶️ | ~50-70 € | 2-3h | sur getyourguide.com |
+| 🌅 **Sunset aperitivo en bateau** | Apéritif au coucher du soleil le long de la côte, musique et prosecco 🥂 | ~35-50 € | 2h | sur getyourguide.com |
 | 🧀 **Street food tour** | Dégustation de spécialités des Pouilles (focaccia, panzerotti, pasticciotto) | ~35-55 € | 2-3h | sur getyourguide.com |
 
 > 💡 **Mon conseil fun :** Le **cours de pâtes orecchiette** 🍝 ou le **bateau le long des criques** 🚤 sont les expériences les plus mémorables dans les Pouilles !
