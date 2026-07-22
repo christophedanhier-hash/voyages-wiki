@@ -607,7 +607,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 > 🗺️ **Carte interactive du Lac de Garde** — Camp de base, rives sud/est/nord et excursion Vérone :
 > <iframe src="carte-garde-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
 
-**🚐 CC :** Garé au camping. Location voiture Sunny Cars **#15253704** — 5 jours (Lun 5 → Ven 9/10). *Voir analyse alternative ci-dessous.*
+**🚐 CC :** Garé au camping. Location voiture Sunny Cars **#15253704** — **gardée** (5 jours, Lun 5 → Ven 9/10).
 
 > 💡 **Alternative sans voiture ?** Le Lac de Garde est bien desservi en **ferry** ⛴️ et **train** 🚄. Voir section dédiée plus bas.
 
