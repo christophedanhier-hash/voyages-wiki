@@ -8,11 +8,12 @@
 
 | | |
 |:---|:---|
-| **Voyageurs** | Christophe, Sylvie + 🐕 Nala |
-| **Véhicule** | Camping-car 8m × 2,4m (hauteur 2,5m) |
+| **Voyageurs** | Christophe, Sylvie + 🐕 Nala + **David & Nancy** (voisins, rejoignent à Venise J19) |
+| **Véhicules** | 2 camping-cars (à partir de Venise J19) |
 | **Mobilité** | Sylvie : max 5-7 km/j à pied. Pas de VAE à bord — transports : à pied, taxi, bus, voiture de location |
 | **Nala** | Reste au CC climatisé pendant les visites culturelles |
 | **Équipement** | Pas de vélos à bord — location possible sur place si besoin (Lac de Garde, Venise Lido) |
+| **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise) |
 
 
 ---
@@ -406,6 +407,8 @@ Les 2 jours sans voiture (Sam 26 + Dim 27/9) se feront à pied ou en taxi pour l
 
 **🏠 Base :** Camping **Europa Village** ⭐⭐⭐⭐⭐ — Via Fausta 332, Cavallino-Treporti. Réservé via Sandaya (N°06426005202000) — **payé** ✔️
 
+> **🚐🚐 David & Nancy rejoignent à Venise !** Ils arrivent avec leur CC et sont dans le **même camping** (mêmes dates J19-J22). Réservations faites pour les 2 emplacements.
+
 > 🗺️ **Carte interactive de Venise** — Camp de base (Cavallino), sites culturels, îles et trajet ferry :
 > <iframe src="carte-venise-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
 
@@ -551,6 +554,8 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 ### 🌊 Lac de Garde — Desenzano (J23–J29 · 7 nuits · 6 jours)
 
 **🏠 Base :** **San Francesco Camping Village** — Desenzano del Garda (BS). ⭐⭐⭐⭐. Réservé #654795826. Acompte 140,40 € payé ✔️ MC.
+
+> **🚐🚐 David & Nancy partagent le séjour au Lac de Garde** (J23-J29 mêmes dates). Réservation confirmée pour les 2 emplacements sur le même camping.
 
 > 🗺️ **Carte interactive du Lac de Garde** — Camp de base, rives sud/est/nord et excursion Vérone :
 > <iframe src="carte-garde-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
@@ -707,7 +712,9 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ✅ Confirmé wubook |
 | San Benedetto del Tronto / Cupra Marittima | **Camping Village Led Zeppelin** — Cupra Marittima | ⏳ Sans résa (walk-in confirmé) | 1 nuit | ~30,00 € | — |
 | Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | **Payé** ✔️ Sandaya |
+| | *(David & Nancy même camping, 2 emplacements)* | ✅ Réservé | 4 nuits | — | ✅ |
 | Lac de Garde | **San Francesco Camping Village** | ✅ #654795826 | 7 nuits | 468,00 € | **140,40 €** ✔️ MC 14/01 |
+| | *(David & Nancy même camping, 2 emplacements)* | ✅ Réservé | 7 nuits | — | ✅ |
 | Colmar (retour) | Aire CC Schoenau | ❌ Sans résa | 1 nuit | 14,00 € | — |
 
 **Détails des réservations :**
