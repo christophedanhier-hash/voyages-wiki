@@ -163,6 +163,20 @@
 
 **🎯 Accès Piazzale Michelangelo :** bus 12/13 depuis le centre. La montée en bus est simple et économique (~1,50 €).
 
+**🎭 Visites & billets :**
+
+| Site | Accès | Prix | Durée | Accessible Sylvie ? | 🎟️ Réservation |
+|:-----|:-----:|:----:|:-----:|:-------------------:|:---------------|
+| 🗿 **Galleria Accademia (David)** | Tram T1 + 650 m | 12 € | 1h | ✅ Rampe à droite, ascenseur | sur getyourguide.com |
+| 🖼️ **Galerie des Offices** | 250 m depuis Piazza Signoria | 20 € | 2h | ✅ Rampe via della Ninna, ascenseurs | sur getyourguide.com |
+| ⛪ **Duomo (Cathédrale Sainte-Marie-des-Fleurs)** | Centre ville | Gratuit (extérieur + intérieur) | 30 min | ✅ Plat, accessible | — |
+| 🏛️ **Palazzo Vecchio** | Piazza Signoria | 12,50 € | 1h30 | ✅ Ascenseur | sur getyourguide.com |
+| 🏰 **Palazzo Pitti & Jardins Boboli** | Oltrarno (500 m depuis Ponte Vecchio) | 16 € (combo) | 2h | ✅ Jardins accessibles | sur getyourguide.com |
+| 🌄 **Piazzale Michelangelo** | Bus 12/13 depuis centre | Gratuit | 30 min | ✅ Bus direct, vue panoramique | — |
+| 🍷 **Dégustation vins toscans** | Centre ou environs | ~40-60 € | 2h | ✅ | sur getyourguide.com |
+
+> 💡 **Conseil réservation :** Les **Office** et **Accademia** sont très demandés — réserver **obligatoire** en haute saison (septembre). Sans résa, compter 2-3h de queue. Réserver sur [B-ticket.com](https://www.b-ticket.com) ou GetYourGuide.
+
 ### 🍝 Manger à Florence
 
 | Restaurant | Type | Coin | Ambiance |
