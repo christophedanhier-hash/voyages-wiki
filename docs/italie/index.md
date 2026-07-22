@@ -105,13 +105,14 @@
 
 **🎭 Visites accessibles :**
 
-| Site | Distance à pied | Accès | Prix | Durée | Astuce |
-|:-----|:---------------:|:-----:|:----:|:-----:|:-------|
-| 🏡 **Villa Carlotta** (Tremezzo) | 200 m plat ✅ | Ferry 15 min | 15 € | 1h30 | Jardins + musée, idéal |
-| 🌸 **Villa Monastero** (Varenna) | 300 m plat ✅ | Ferry 15 min | 7-13 € | 1h | Jardin lacustre, superbe vue |
-| 🏡 **Villa Melzi** (Bellagio) | 500 m plat ✅ | Ferry 20 min | 10 € | 1h | Jardin romantique, cygnes |
-| 🏛️ **Côme centre** (Duomo) | 0 (débarquer à Côme) | Ferry 30 min | Gratuit | 1h | Duomo + vieille ville plate |
-| 🏰 **Villa Balbianello** (Lenno) | Montée ⚠️ | Bateau-taxi 6-9 € | 12 € | 1h30 | Préférer accès bateau (pas de marche) |
+| Site | Distance à pied | Accès | Prix | Durée | Astuce | 🎟️ Réservation |
+|:-----|:---------------:|:-----:|:----:|:-----:|:-------|:---------------|
+| 🏡 **Villa Carlotta** (Tremezzo) | 200 m plat ✅ | Ferry 15 min | 15 € | 1h30 | Jardins + musée, idéal | [GetYourGuide](https://www.getyourguide.com/villa-carlotta-l3475/) |
+| 🌸 **Villa Monastero** (Varenna) | 300 m plat ✅ | Ferry 15 min | 7-13 € | 1h | Jardin lacustre, superbe vue | [GetYourGuide](https://www.getyourguide.com/varenna-l1777/) |
+| 🏡 **Villa Melzi** (Bellagio) | 500 m plat ✅ | Ferry 20 min | 10 € | 1h | Jardin romantique, cygnes | [GetYourGuide](https://www.getyourguide.com/bellagio-l139209/) |
+| 🏛️ **Côme centre** (Duomo) | 0 (débarquer à Côme) | Ferry 30 min | Gratuit | 1h | Duomo + vieille ville plate | — |
+| 🏰 **Villa Balbianello** (Lenno) | Montée ⚠️ | Bateau-taxi 6-9 € | 12 € | 1h30 | Préférer accès bateau (pas de marche) | [GetYourGuide](https://www.getyourguide.com/villa-balbianello-l110599/) |
+| 🚤 **Tour privé en bateau** | — | Départ Menaggio | 50-80 € | 1-2h | Option skipper pour découvrir le lac | [GetYourGuide](https://www.getyourguide.com/lake-como-l1890/boat-tours-tc81/) |
 
 **🛥️ Meilleur plan :** Prendre le **Pass Centro Lago** (15 €/jour, ferry illimité) pour enchaîner Menaggio → Bellagio → Varenna → Tremezzo dans la journée. Le ferry est accessible, peu de marche à chaque arrêt.
 
