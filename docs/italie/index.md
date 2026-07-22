@@ -718,6 +718,20 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 
 > 💡 Location de vélos directement au **San Francesco Camping Village** 🚲 si l'envie vous prend sur place. La piste Desenzano→Sirmione est vraiment belle — à faire en location si vous vous sentez motivés un dimanche 🌅
 
+### 🎉 Activités fun — Lac de Garde (avec David & Nancy)
+
+| Activité | Description | Prix/pers | Durée | 🎟️ Réservation |
+|:---------|:------------|:--------:|:-----:|:---------------|
+| 🚤 **Tour en bateau sur le lac** | Croisière Desenzano → Malcesine → Riva en ferry panoramique | ~15-20 € | 2-3h | sur place |
+| 🏔️ **Téléphérique Monte Baldo** | Cabine panoramique Malcesine → sommet (1 780 m), vue lac + Alpes 🏔️ | 25 € | 2-3h | sur getyourguide.com |
+| 🍷 **Dégustation vins Bardolino** | Visite de cave + dégustation de vins DOC Bardolino, Chiaretto | ~25-40 € | 1h30 | sur getyourguide.com |
+| 🏛️ **Vérone guidée** | Visite privée Arène + ville avec guide francophone | ~40-60 € | 2-3h | sur getyourguide.com |
+| 🍝 **Cours de cuisine + marché** | Marché à Vérone + cours de pasta et tiramisu chez un chef | ~65-85 € | 4h | sur getyourguide.com |
+| 🍋 **Visite de limonera** | Découverte des citronniers en terrasses à Limone sul Garda | ~10-15 € | 1h | sur place |
+| 🚲 **Balade à vélo lac** | Desenzano → Sirmione (24 km A/R, plat, piste cyclable) | ~15-20 € loc | 3h | sur place |
+
+> 💡 **Idée pour le groupe :** Le **téléphérique du Monte Baldo** 🏔️ est MAGNIFIQUE — vue à 360° sur le lac et les Alpes. Cabine accessible, pas de marche. À faire absolument ! Et le **ferry** 🚤 entre les villages du lac est déjà une activité en soi — confortable, belle vue, parfait pour Sylvie.
+
 ### 🍝 Manger autour du lac
 
 | Restaurant | Type | Coin | Ambiance |
