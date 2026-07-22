@@ -555,7 +555,21 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 |:-------|:------------|:-----:|
 | **Option A** — Retour sur Venise pour flâner dans les quartiers calmes (Cannaregio, Castello, Dorsoduro) | Balade piétonne, cicchetti, atmosphère authentique | Bus + ferry ACTV |
 | **Option B** — Journée piscine & plage au camping Europa Village | Piscine, plage privée, pinède — farniente 😎 | Sur place |
-| **Option C** — Balade à vélo au Lido (location sur place 🚲) | 15-20 €/demi-journée via BiciLido ou Venezia Bike | Vaporetto jusqu'au Lido |
+|| **Option C** — Balade à vélo au Lido (location sur place 🚲) | 15-20 €/demi-journée via BiciLido ou Venezia Bike | Vaporetto jusqu'au Lido |
+
+### 🎉 Activités fun à Venise (en groupe avec David & Nancy)
+
+| Activité | Description | Prix/pers | Durée | 🎟️ Réservation |
+|:---------|:------------|:--------:|:-----:|:---------------|
+| 🚤 **Tour en gondole** | Classique incontournable — 30 min dans les petits canaux. À faire en groupe, se partager le prix | ~80 € (pour 4) | 30 min | sur getyourguide.com |
+| 🍝 **Cours de cuisine vénitienne** | Apprendre à faire les cicchetti + pasta e fagioli + tiramisu chez un chef local | ~60-80 € | 3-4h | sur getyourguide.com |
+| 🏝️ **Tour privé en bateau** | Murano, Burano et Torcello en petit bateau privé (max 6 pers) — plus sympa qu'en vaporetto bondé | ~50-80 € | 4-5h | sur getyourguide.com |
+| 🍷 **Apéritif à San Giorgio Maggiore** | Vaporetto jusqu'à l'île San Giorgio, vue magnifique sur la Place Saint-Marc depuis le campanile + spritz au coucher du soleil 🌅 | ~15 € (vaporetto + entrée) | 2h | — |
+| 🎭 **Dégustation de cicchetti** | Tour des bacari (bars à cicchetti) : 4-5 arrêts dans Cannaregio avec prosecco et petites bouchées | ~30-45 € | 2-3h | sur getyourguide.com |
+| 🏛️ **Visite guidée Palais des Doges** | Coupe-file + guide privé — plus intéressant qu'en solo, surtout avec David & Nancy | ~35-50 € | 1h30 | sur getyourguide.com |
+| 🚤 **Balade en barque traditionnelle** | Balade en sandolo (barque vénitienne) sur les canaux moins fréquentés, avec rameur | ~40-60 € | 1h | sur getyourguide.com |
+
+> 💡 **Idée pour le groupe :** Un **tour privé en bateau** 🚤 pour aller aux îles (Murano, Burano) est plus confortable que le vaporetto public, surtout à 4 — vous partagez le coût et c'est bien plus agréable !
 
 > 💡 Si l'envie de faire du vélo au Lido vous prend, c'est possible en location — pas besoin d'avoir vos VAE avec vous.
 
