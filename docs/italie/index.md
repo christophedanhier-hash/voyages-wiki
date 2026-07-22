@@ -81,12 +81,12 @@
 | 🏛️ **Lac de Côme → Florence** | 411 km | 4h07 | A9 – Milan – A1 – Florence |
 | 🌋 **Florence → Pompéi** | 484 km | 4h50 | A1 – Rome – A30 – Pompéi |
 | 🏖️ **Pompéi → Monopoli** | 318 km | 3h11 | A30 – A16 – A14 – Bari |
-| | ⬆️ **Monopoli → Camping Village Led Zeppelin** | 431 km | 4h30 | A14 adriatique (direction nord) |
-| | 🛶 **Cupra Marittima → Venise** | 429 km | 4h25 | A14 – A13 – Venise |
+| ↕️ **Monopoli → Led Zeppelin** (Cupra Marittima) | 431 km | 4h30 | A14 adriatique (direction nord) |
+| ↕️ **Led Zeppelin → Venise** | 429 km | 4h25 | A14 – A13 – Venise |
 | 🌊 **Venise → Lac de Garde** | 164 km | 1h38 | A4 – Desenzano |
 | 🏁 **Lac de Garde → Colmar** | 547 km | 5h28 | A4 – Milan – Gotthard – A35 |
 | 🏁 **Colmar → Sombreffe** | 445 km | 4h27 | A31 – Luxembourg – E411/A4 |
-| | **Total** | **40h36** | |
+| | **Total** | **4 028 km** | **40h36** | |
 
 > ⏱️ *Temps de route calculé sur base d'une vitesse constante de **100 km/h** (vitesse max CC sur autoroute). Temps réel à prévoir +15-20% pour pauses, péages, ralentissements.*
 
