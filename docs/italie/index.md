@@ -8,10 +8,10 @@
 
 | | |
 |:---|:---|
-| **Voyageurs** | Christophe, Sylvie + 🐕 Nala + **David & Nancy** (voisins, rejoignent à Venise J19) |
+| **Voyageurs** | Christophe, Sylvie + **David & Nancy** (voisins, rejoignent à Venise J19) |
 | **Véhicules** | 2 camping-cars (à partir de Venise J19) |
 | **Mobilité** | Sylvie : max 5-7 km/j à pied. Pas de VAE à bord — transports : à pied, taxi, bus, voiture de location |
-| **Nala** | Reste au CC climatisé pendant les visites culturelles |
+| **🐕 Nala** | **Pension chez Émilie** (fille de Christophe) — pas du voyage |
 | **Équipement** | Pas de vélos à bord — location possible sur place si besoin (Lac de Garde, Venise Lido) |
 | **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise) |
 
