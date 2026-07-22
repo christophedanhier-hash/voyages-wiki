@@ -107,12 +107,12 @@
 
 | Site | Distance à pied | Accès | Prix | Durée | Astuce | 🎟️ Réservation |
 |:-----|:---------------:|:-----:|:----:|:-----:|:-------|:---------------|
-| 🏡 **Villa Carlotta** (Tremezzo) | 200 m plat ✅ | Ferry 15 min | 15 € | 1h30 | Jardins + musée, idéal | [GetYourGuide](https://www.getyourguide.com/fr-fr/villa-carlotta-l3475/) |
-| 🌸 **Villa Monastero** (Varenna) | 300 m plat ✅ | Ferry 15 min | 7-13 € | 1h | Jardin lacustre, superbe vue | [GetYourGuide](https://www.getyourguide.com/fr-fr/varenna-l1777/) |
-| 🏡 **Villa Melzi** (Bellagio) | 500 m plat ✅ | Ferry 20 min | 10 € | 1h | Jardin romantique, cygnes | [GetYourGuide](https://www.getyourguide.com/fr-fr/bellagio-l139209/) |
+| 🏡 **Villa Carlotta** (Tremezzo) | 200 m plat ✅ | Ferry 15 min | 15 € | 1h30 | Jardins + musée, idéal | sur getyourguide.com |
+| 🌸 **Villa Monastero** (Varenna) | 300 m plat ✅ | Ferry 15 min | 7-13 € | 1h | Jardin lacustre, superbe vue | sur getyourguide.com |
+| 🏡 **Villa Melzi** (Bellagio) | 500 m plat ✅ | Ferry 20 min | 10 € | 1h | Jardin romantique, cygnes | sur getyourguide.com |
 | 🏛️ **Côme centre** (Duomo) | 0 (débarquer à Côme) | Ferry 30 min | Gratuit | 1h | Duomo + vieille ville plate | — |
-| 🏰 **Villa Balbianello** (Lenno) | Montée ⚠️ | Bateau-taxi 6-9 € | 12 € | 1h30 | Préférer accès bateau (pas de marche) | [GetYourGuide](https://www.getyourguide.com/fr-fr/villa-balbianello-l110599/) |
-| 🚤 **Tour privé en bateau** | — | Départ Menaggio | 50-80 € | 1-2h | Option skipper pour découvrir le lac | [GetYourGuide](https://www.getyourguide.com/fr-fr/lac-de-come-l1890/experiences-de-conduite-tc81/) |
+| 🏰 **Villa Balbianello** (Lenno) | Montée ⚠️ | Bateau-taxi 6-9 € | 12 € | 1h30 | Préférer accès bateau (pas de marche) | sur getyourguide.com |
+| 🚤 **Tour privé en bateau** | — | Départ Menaggio | 50-80 € | 1-2h | Option skipper pour découvrir le lac | sur getyourguide.com |
 
 **🛥️ Meilleur plan :** Prendre le **Pass Centro Lago** (15 €/jour, ferry illimité) pour enchaîner Menaggio → Bellagio → Varenna → Tremezzo dans la journée. Le ferry est accessible, peu de marche à chaque arrêt.
 
