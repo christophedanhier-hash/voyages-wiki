@@ -90,7 +90,25 @@
 
 > ⏱️ *Temps de route calculé sur base d'une vitesse constante de **100 km/h** (vitesse max CC sur autoroute). Temps réel à prévoir +15-20% pour pauses, péages, ralentissements.*
 
-> 💡 **Comparaison :** la distance totale route (~4 028 km) est supérieure de ~30% à la distance vol d'oiseau (~3 157 km). En CC à 100 km/h, compter **environ 40h36 de conduite pures**, soit l'équivalent de **~4 jours pleins au volant** répartis sur les 11 jours de route.
+> 💡 **Comparaison :** la distance totale route (~4 028 km) est supérieure de ~30% à la distance vol d'oiseau (~3 096 km). En CC à 100 km/h, compter **environ 40h36 de conduite pures**, soit l'équivalent de **~4 jours pleins au volant** répartis sur les 11 jours de route.
+
+### Distances à vol d'oiseau (Haversine)
+
+| Trajet | Distance |
+|:-------|:--------:|
+| 🏠 **Sombreffe →** 🇫🇷 Colmar | **338 km** |
+| 🇫🇷 **Colmar →** 🏞️ Lac de Côme | **270 km** |
+| 🏞️ **Lac de Côme →** 🏛️ Florence | **296 km** |
+| 🏛️ **Florence →** 🌋 Pompéi | **428 km** |
+| 🌋 **Pompéi →** 🏖️ Monopoli | **237 km** |
+| 🏖️ **Monopoli →** ⬆️ Cupra Marittima | **359 km** |
+| ⬆️ **Cupra Marittima →** 🛶 Venise | **300 km** |
+| 🛶 **Venise →** 🌊 Lac de Garde | **152 km** |
+| 🌊 **Lac de Garde →** 🇫🇷 Colmar | **378 km** |
+| 🇫🇷 **Colmar →** 🏠 Sombreffe | **338 km** |
+| **Total** | **~3 096 km** |
+
+> 💡 La distance à vol d'oiseau (~3 096 km) est inférieure de ~23% à la distance route (~4 028 km), ce qui est normal pour un itinéraire en CC suivant les autoroutes.
 
 ---
 
@@ -780,6 +798,9 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 - **Parking recommandé Sirmione :** Parcheggio Montebaldo (grand, ombragé, 2 €/h).
 - **Ferry lac de Garde :** possibilité de traverser le lac en bateau (Desenzano → Malcesine, etc.). Voiture possible sur certaines lignes.
 - **Dernier jour (Ven 9/10) :** profiter de la piscine du camping, plage. Dernier soir au lac ❤️.
+
+---
+
 ## 🗺️ Carte du trajet
 
 
