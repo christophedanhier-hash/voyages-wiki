@@ -240,7 +240,7 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 - Parking Via Plinio (parkings restaurants) — 10 €/jour si camping complet.
 - Arriver avant **9h** en haute saison.
 - Le CC reste au parking/camping, les fouilles sont à **50 m à pied** ✅
-- Pompéi est très chaude l'été — prévoir eau + chapeau (Nala au CC climatisé ✅)
+- Pompéi est très chaude l'été — prévoir eau + chapeau
 
 ### 🍝 Manger près de Pompéi
 
@@ -421,6 +421,7 @@ Envie de sortir des sentiers battus avec la voiture de location ? Voici quelques
 | 🧀 **Street food tour** | Dégustation de spécialités des Pouilles (focaccia, panzerotti, pasticciotto) | ~35-55 € | 2-3h | sur getyourguide.com |
 
 > 💡 **Mon conseil fun :** Le **cours de pâtes orecchiette** 🍝 ou le **bateau le long des criques** 🚤 sont les expériences les plus mémorables dans les Pouilles !
+
 | **Porto Ghiacciolo** | 20 min à pied | Sable + rocher | Extraordinaire 🌟 |
 | **Spiaggia di Porto Ghiacciolo** | 20 min à pied | Sable | Vue château Santo Stefano |
 | **Cala Paradiso** | 25 min à pied | Transats | Guindée |
@@ -555,7 +556,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 |:-------|:------------|:-----:|
 | **Option A** — Retour sur Venise pour flâner dans les quartiers calmes (Cannaregio, Castello, Dorsoduro) | Balade piétonne, cicchetti, atmosphère authentique | Bus + ferry ACTV |
 | **Option B** — Journée piscine & plage au camping Europa Village | Piscine, plage privée, pinède — farniente 😎 | Sur place |
-|| **Option C** — Balade à vélo au Lido (location sur place 🚲) | 15-20 €/demi-journée via BiciLido ou Venezia Bike | Vaporetto jusqu'au Lido |
+| **Option C** — Balade à vélo au Lido (location sur place 🚲) | 15-20 €/demi-journée via BiciLido ou Venezia Bike | Vaporetto jusqu'au Lido |
 
 ### 🎉 Activités fun à Venise (en groupe avec David & Nancy)
 
@@ -589,7 +590,6 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 ### ⚠️ Astuces pratiques
 
 - **Camping Europa Village :** piscine, plage privée, pinède. Réservé via Sandaya, payé ✔️.
-- **Nala au camping :** chiens admis sur demande. Vérifier à l'arrivée.
 - **⚠️ Attention aux pickpockets** à Venise (San Marco, Rialto, vaporetto bondés) — sac fermé, poches zippées.
 - **Pass ACTV 72h** : le plus rentable (bus+ferry Cavallino + vaporetto illimité ~45 €). Sinon tickets unité 9,50 €/trajet.
 - **Marées (acqua alta)** : fin septembre possible mais rare. Consulvier aprevisioni su [Comune Venezia](https://www.comune.venezia.it).
@@ -810,7 +810,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 | Camping | À savoir |
 |:--------|:---------|
 | **The Camp by Maggiore Suites** | Pitch FRONT FR1 (8m ✅). Hauteur 2,5m OK (<2,60m). Check-in 16h. Code portail: 1593. Plaque: 2FUQ668 |
-| **hu Firenze camping in town** | Emplacement 50-60m². Love Pet Pack 15€ (Nala ✅). Check-in 24h/24. Adresse: Via della Chiesa 1/3, 50136 Firenze |
+| **hu Firenze camping in town** | Emplacement 50-60m². Love Pet Pack 15€. Check-in 24h/24. Adresse: Via della Chiesa 1/3, 50136 Firenze |
 | **Pompéi** | **Camping Spartacus** (Via Plinio 127) — ✅ **Confirmé** par Alessandro. **33€/nuit tout compris** (2 pers, CC, électricité, taxes). Arrivée ~15h00 le 17/09/2026. CC 8m OK, chiens OK (dog-sitting dispo 🐕). Piscine, restaurant-pizzeria, Wi-Fi, supérette. 50m entrée Porta Marina — idéal ! |
 | **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). ✅ Confirmé via wubook (CD-0008) le 13/01/2026. 336€. Politique annulation: 30 jours. Check-in en ligne dispo |
 | **Europa Village** | Réservé via Sandaya (N°06426005202000). **Paiement reçu** ✔️ (email du 14/01/2026). Cavallino-Treporti, bus+ferry ACTV Venise 45 min. Piscine, plage privée, pinède. Chiens sur demande — à confirmer |
@@ -850,7 +850,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 
 - **Aire Schoenau (Colmar)** : pratique pour la pause avant/après l'Italie, gratuite ou ~14€ selon saison
 - **The Camp by Maggiore Suites (Lac de Côme)** : front pitch FR1 (8m OK). Hauteur 2,5m OK (<2,60m). Code portail: 1593
-- **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². Love Pet Pack 15€ pour Nala. Check-in 24h/24. Tram T1 depuis/vers le centre
+- **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². Love Pet Pack 15€. Check-in 24h/24. Tram T1 depuis/vers le centre
 - **Pompéi** : ✅ **Camping Spartacus** (Via Plinio 127, 50m entrée Porta Marina) — résa confirmée ✅, **33€/nuit tout compris**. Arrivée ~15h00 le 17/09. Piscine, pizzeria, dog-sitting 🐕, Wi-Fi
 - **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), taxi, à pied. Centre-ville à 15 min à pied. Voir section dédiée 🚗🚶
 - **Camping Village Led Zeppelin (Cupra Marittima)** : étape repos à 10 min de San Benedetto del Tronto. Piazzola camper 65 m² avec électricité. Hauteur max 3,05m ✅. Piscine, plage, restaurant. Ouvert jusqu'au 30/09. ⏳ **Pas de réservation possible pour 1 nuit** — walk-in accepté. Mail de remerciement + confirmation envoyé le 08/07/2026 ✅. 🏕️
