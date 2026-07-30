@@ -17,7 +17,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_b13f5c2960953ca659e65fd614ab6236 {
+                #map_8b80fb4fa239298e90a2f98c4a6e0363 {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -50,31 +50,35 @@
             </script>
 
         
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.fullscreen@3.0.0/Control.FullScreen.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.fullscreen@3.0.0/Control.FullScreen.css"/>
 </head>
 <body>
     
     
-<div style="position: fixed; bottom: 30px; right: 10px; z-index: 1000; background: white; padding: 10px; border-radius: 8px; font-size: 12px; border: 1px solid #ccc; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
-<b>Lac d'Orient</b><br>
-GREEN: Camping<br>
-RED: A voir / Activites<br>
-BLUE: Villages / Sorties<br>
-3 km / 5 km du camping
+<div style="position: fixed; bottom: 30px; left: 10px; z-index: 1000; background: white; padding: 10px; border-radius: 8px; font-size: 12px; border: 1px solid #ccc; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+<b> Lac d'Orient</b><br>
+<span style="color:#27ae60;font-weight:bold;"> Camp de base (camping)</span><br>
+<span style="color:#e74c3c;font-weight:bold;"> A voir / Activites</span><br>
+<span style="color:#3498db;font-weight:bold;"> Villages / Balades</span><br>
+<span style="color:#2ecc71;font-weight:bold;"> Parcours VTT</span><br>
+<span style="color:#f39c12;">----- 5 km</span><br>
+<span style="color:#27ae60;">----- 2 km</span>
 </div>
     
-            <div class="folium-map" id="map_b13f5c2960953ca659e65fd614ab6236" ></div>
+            <div class="folium-map" id="map_8b80fb4fa239298e90a2f98c4a6e0363" ></div>
         
 </body>
 <script>
     
     
-            var map_b13f5c2960953ca659e65fd614ab6236 = L.map(
-                "map_b13f5c2960953ca659e65fd614ab6236",
+            var map_8b80fb4fa239298e90a2f98c4a6e0363 = L.map(
+                "map_8b80fb4fa239298e90a2f98c4a6e0363",
                 {
-                    center: [48.29, 4.32],
+                    center: [48.28, 4.35],
                     crs: L.CRS.EPSG3857,
                     ...{
-  "zoom": 13,
+  "zoom": 14,
   "zoomControl": true,
   "preferCanvas": false,
 }
@@ -86,7 +90,7 @@ BLUE: Villages / Sorties<br>
 
         
     
-            var tile_layer_85164fe4280bcdd34078b93ac3d80f17 = L.tileLayer(
+            var tile_layer_54ec44b81a7f619d3d5c1e23a73039c3 = L.tileLayer(
                 "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
                 {
   "minZoom": 0,
@@ -103,93 +107,93 @@ BLUE: Villages / Sorties<br>
             );
         
     
-            tile_layer_85164fe4280bcdd34078b93ac3d80f17.addTo(map_b13f5c2960953ca659e65fd614ab6236);
+            tile_layer_54ec44b81a7f619d3d5c1e23a73039c3.addTo(map_8b80fb4fa239298e90a2f98c4a6e0363);
         
     
-            var circle_3d293b951ed25326074d2a621779f554 = L.circle(
+            var circle_9690602ce5ec6f199fc3a81e9f668fb4 = L.circle(
                 [48.2623, 4.3485],
-                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.05, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3000, "stroke": true, "weight": 2}
-            ).addTo(map_b13f5c2960953ca659e65fd614ab6236);
+                {"bubblingMouseEvents": true, "color": "#27ae60", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#27ae60", "fillOpacity": 0.08, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2000, "stroke": true, "weight": 2}
+            ).addTo(map_8b80fb4fa239298e90a2f98c4a6e0363);
         
     
-        var popup_3518359271c0cb348b02896e375b74a5 = L.popup({
+        var popup_204b011a738ecceb055e3d9f2172157f = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_a37ed602b696dadb1c9572221d5e6871 = $(`<div id="html_a37ed602b696dadb1c9572221d5e6871" style="width: 100.0%; height: 100.0%;">3 km</div>`)[0];
-                popup_3518359271c0cb348b02896e375b74a5.setContent(html_a37ed602b696dadb1c9572221d5e6871);
+                var html_fff57c2d22406ada7f666a764c71f4f1 = $(`<div id="html_fff57c2d22406ada7f666a764c71f4f1" style="width: 100.0%; height: 100.0%;">2 km</div>`)[0];
+                popup_204b011a738ecceb055e3d9f2172157f.setContent(html_fff57c2d22406ada7f666a764c71f4f1);
             
         
 
-        circle_3d293b951ed25326074d2a621779f554.bindPopup(popup_3518359271c0cb348b02896e375b74a5)
+        circle_9690602ce5ec6f199fc3a81e9f668fb4.bindPopup(popup_204b011a738ecceb055e3d9f2172157f)
         ;
 
         
     
     
-            var circle_ce8ecd041b32b3ccabc9e9e30bd65d35 = L.circle(
+            var circle_218e0202294de6713fbe3cb6df02fd2a = L.circle(
                 [48.2623, 4.3485],
-                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.03, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5000, "stroke": true, "weight": 1}
-            ).addTo(map_b13f5c2960953ca659e65fd614ab6236);
+                {"bubblingMouseEvents": true, "color": "#f39c12", "dashArray": "5,5", "dashOffset": null, "fill": true, "fillColor": "#f39c12", "fillOpacity": 0.04, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5000, "stroke": true, "weight": 1}
+            ).addTo(map_8b80fb4fa239298e90a2f98c4a6e0363);
         
     
-        var popup_6bfab813330002b202f60522efd3f93d = L.popup({
+        var popup_f2969a8d966efbce2d5b81840597d057 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_a657788303817a6d16fcf2f824176c40 = $(`<div id="html_a657788303817a6d16fcf2f824176c40" style="width: 100.0%; height: 100.0%;">5 km</div>`)[0];
-                popup_6bfab813330002b202f60522efd3f93d.setContent(html_a657788303817a6d16fcf2f824176c40);
+                var html_3f3253f3948862893bc014696e7fa9b4 = $(`<div id="html_3f3253f3948862893bc014696e7fa9b4" style="width: 100.0%; height: 100.0%;">5 km</div>`)[0];
+                popup_f2969a8d966efbce2d5b81840597d057.setContent(html_3f3253f3948862893bc014696e7fa9b4);
             
         
 
-        circle_ce8ecd041b32b3ccabc9e9e30bd65d35.bindPopup(popup_6bfab813330002b202f60522efd3f93d)
+        circle_218e0202294de6713fbe3cb6df02fd2a.bindPopup(popup_f2969a8d966efbce2d5b81840597d057)
         ;
 
         
     
     
-            var marker_b5367f1d608f45103b77ef685774c089 = L.marker(
+            var marker_a8055e1206dadfda7e705dcf5252196e = L.marker(
                 [48.2623, 4.3485],
                 {
 }
-            ).addTo(map_b13f5c2960953ca659e65fd614ab6236);
+            ).addTo(map_8b80fb4fa239298e90a2f98c4a6e0363);
         
     
-            var icon_5abab0ba775c1f960bef0f7c9b72655d = L.AwesomeMarkers.icon(
+            var icon_63cf95b426a490a3687a70188f7b23f5 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
+  "icon": "home",
+  "prefix": "fa",
   "extraClasses": "fa-rotate-0",
 }
             );
         
     
-        var popup_576609769520a9b3a4dd1c65fc92039c = L.popup({
+        var popup_1211b0d5805af650f5e8bca3eb3c7c37 = L.popup({
   "maxWidth": 250,
 });
 
         
             
-                var html_c179bac72e7b1391c1672118d628a0a7 = $(`<div id="html_c179bac72e7b1391c1672118d628a0a7" style="width: 100.0%; height: 100.0%;"><b>Camping Le Lac d'Orient</b><br>17 Rue du Lac, Mesnil-St-Pere<br>15/08 13h → 20/08 12h<br>67,50 EUR paye</div>`)[0];
-                popup_576609769520a9b3a4dd1c65fc92039c.setContent(html_c179bac72e7b1391c1672118d628a0a7);
+                var html_a022993d4bb483384b3fdfdd018430b8 = $(`<div id="html_a022993d4bb483384b3fdfdd018430b8" style="width: 100.0%; height: 100.0%;"><b> Camp de base</b><br>Camping Le Lac d'Orient ***<br>17 Rue du Lac, Mesnil-St-Pere<br>15/08 13h → 20/08 12h<br>67,50 EUR paye</div>`)[0];
+                popup_1211b0d5805af650f5e8bca3eb3c7c37.setContent(html_a022993d4bb483384b3fdfdd018430b8);
             
         
 
-        marker_b5367f1d608f45103b77ef685774c089.bindPopup(popup_576609769520a9b3a4dd1c65fc92039c)
+        marker_a8055e1206dadfda7e705dcf5252196e.bindPopup(popup_1211b0d5805af650f5e8bca3eb3c7c37)
         ;
 
         
     
     
-            marker_b5367f1d608f45103b77ef685774c089.bindTooltip(
+            marker_a8055e1206dadfda7e705dcf5252196e.bindTooltip(
                 `<div>
-                     Camping Le Lac d'Orient
+                      Camp de base — Mesnil-St-Pere
                  </div>`,
                 {
   "sticky": true,
@@ -197,47 +201,47 @@ BLUE: Villages / Sorties<br>
             );
         
     
-                marker_b5367f1d608f45103b77ef685774c089.setIcon(icon_5abab0ba775c1f960bef0f7c9b72655d);
+                marker_a8055e1206dadfda7e705dcf5252196e.setIcon(icon_63cf95b426a490a3687a70188f7b23f5);
             
     
-            var marker_53de9bbe7c9ef2919a5c2d6c07d3206b = L.marker(
+            var marker_bd0a19bb7a9d3fd9cd706097b1fc41ec = L.marker(
                 [48.264, 4.356],
                 {
 }
-            ).addTo(map_b13f5c2960953ca659e65fd614ab6236);
+            ).addTo(map_8b80fb4fa239298e90a2f98c4a6e0363);
         
     
-            var icon_b74b67f75c7c55744b83f93e8bdd9543 = L.AwesomeMarkers.icon(
+            var icon_4b7ebd4f6fcd3d38a8ea7c703947cd83 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
+  "icon": "umbrella",
+  "prefix": "fa",
   "extraClasses": "fa-rotate-0",
 }
             );
         
     
-        var popup_0d9c32aee8aeb965507b008e49ba502d = L.popup({
+        var popup_47550f7616521a39d35b8e6f0ed59b75 = L.popup({
   "maxWidth": 250,
 });
 
         
             
-                var html_f7c5cb5543f3ed7c4e06f0d18af43419 = $(`<div id="html_f7c5cb5543f3ed7c4e06f0d18af43419" style="width: 100.0%; height: 100.0%;"><b>Lac d'Orient — Plage & Baignade</b><br>Plage surveillee, baignade, location paddle</div>`)[0];
-                popup_0d9c32aee8aeb965507b008e49ba502d.setContent(html_f7c5cb5543f3ed7c4e06f0d18af43419);
+                var html_9cf764a0ef8982666e219721a1ab6bdd = $(`<div id="html_9cf764a0ef8982666e219721a1ab6bdd" style="width: 100.0%; height: 100.0%;"><b> Plage du Lac d'Orient</b><br>Plage surveillee, baignade, location paddle/kayak<br>A 10 min a pied du camping</div>`)[0];
+                popup_47550f7616521a39d35b8e6f0ed59b75.setContent(html_9cf764a0ef8982666e219721a1ab6bdd);
             
         
 
-        marker_53de9bbe7c9ef2919a5c2d6c07d3206b.bindPopup(popup_0d9c32aee8aeb965507b008e49ba502d)
+        marker_bd0a19bb7a9d3fd9cd706097b1fc41ec.bindPopup(popup_47550f7616521a39d35b8e6f0ed59b75)
         ;
 
         
     
     
-            marker_53de9bbe7c9ef2919a5c2d6c07d3206b.bindTooltip(
+            marker_bd0a19bb7a9d3fd9cd706097b1fc41ec.bindTooltip(
                 `<div>
-                     Lac d'Orient — Plage & Baignade
+                      Plage du Lac d'Orient
                  </div>`,
                 {
   "sticky": true,
@@ -245,47 +249,47 @@ BLUE: Villages / Sorties<br>
             );
         
     
-                marker_53de9bbe7c9ef2919a5c2d6c07d3206b.setIcon(icon_b74b67f75c7c55744b83f93e8bdd9543);
+                marker_bd0a19bb7a9d3fd9cd706097b1fc41ec.setIcon(icon_4b7ebd4f6fcd3d38a8ea7c703947cd83);
             
     
-            var marker_ae1bf67d9f583bf74c3a01cbcdb1f66b = L.marker(
+            var marker_4ce8e7a6815201197894279c1ce9b124 = L.marker(
                 [48.3218, 4.3888],
                 {
 }
-            ).addTo(map_b13f5c2960953ca659e65fd614ab6236);
+            ).addTo(map_8b80fb4fa239298e90a2f98c4a6e0363);
         
     
-            var icon_702acf4d7bf23e27e01607e09973dffc = L.AwesomeMarkers.icon(
+            var icon_c069ac558e36b0d4f945a37492f65ea1 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "red",
   "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
+  "icon": "info-circle",
+  "prefix": "fa",
   "extraClasses": "fa-rotate-0",
 }
             );
         
     
-        var popup_a70e3d2737d76876a623ff00be3dace0 = L.popup({
+        var popup_71b27e35a90336788618711da90f363c = L.popup({
   "maxWidth": 250,
 });
 
         
             
-                var html_bd2251493e4cb7ecd379e8ddeae11dc7 = $(`<div id="html_bd2251493e4cb7ecd379e8ddeae11dc7" style="width: 100.0%; height: 100.0%;"><b>Parc Naturel Foret d'Orient (Maison du Parc)</b><br>Info tourisme, sentiers VTT, balades</div>`)[0];
-                popup_a70e3d2737d76876a623ff00be3dace0.setContent(html_bd2251493e4cb7ecd379e8ddeae11dc7);
+                var html_b778ac07bada8a785794a8190c1b510f = $(`<div id="html_b778ac07bada8a785794a8190c1b510f" style="width: 100.0%; height: 100.0%;"><b> Maison du Parc Foret d'Orient</b><br>Info touristique, sentiers VTT, observatoires<br>A 8 km en velo</div>`)[0];
+                popup_71b27e35a90336788618711da90f363c.setContent(html_b778ac07bada8a785794a8190c1b510f);
             
         
 
-        marker_ae1bf67d9f583bf74c3a01cbcdb1f66b.bindPopup(popup_a70e3d2737d76876a623ff00be3dace0)
+        marker_4ce8e7a6815201197894279c1ce9b124.bindPopup(popup_71b27e35a90336788618711da90f363c)
         ;
 
         
     
     
-            marker_ae1bf67d9f583bf74c3a01cbcdb1f66b.bindTooltip(
+            marker_4ce8e7a6815201197894279c1ce9b124.bindTooltip(
                 `<div>
-                     Parc Naturel Foret d'Orient (Maison du Parc)
+                      Maison du Parc Foret d'Orient
                  </div>`,
                 {
   "sticky": true,
@@ -293,47 +297,47 @@ BLUE: Villages / Sorties<br>
             );
         
     
-                marker_ae1bf67d9f583bf74c3a01cbcdb1f66b.setIcon(icon_702acf4d7bf23e27e01607e09973dffc);
+                marker_4ce8e7a6815201197894279c1ce9b124.setIcon(icon_c069ac558e36b0d4f945a37492f65ea1);
             
     
-            var marker_e53c855128bc84077344f8910920ce11 = L.marker(
+            var marker_3690ec1e1ddbe4f7adf729b1710dede6 = L.marker(
                 [48.297, 4.074],
                 {
 }
-            ).addTo(map_b13f5c2960953ca659e65fd614ab6236);
+            ).addTo(map_8b80fb4fa239298e90a2f98c4a6e0363);
         
     
-            var icon_5d77e0711146b1e16158d79b72758255 = L.AwesomeMarkers.icon(
+            var icon_8c2168c32a8692a52965791177c54f98 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "blue",
   "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
+  "icon": "university",
+  "prefix": "fa",
   "extraClasses": "fa-rotate-0",
 }
             );
         
     
-        var popup_eec4eccdeee81f854c4d63dd2b599340 = L.popup({
+        var popup_d386b58c0829dbbbdd2fad3e1dfa3024 = L.popup({
   "maxWidth": 250,
 });
 
         
             
-                var html_d63551353f0eb117f95c9ec6f8f7bab1 = $(`<div id="html_d63551353f0eb117f95c9ec6f8f7bab1" style="width: 100.0%; height: 100.0%;"><b>Troyes — Centre historique</b><br>Cite medievalep, maisons a colombages<br>20 min en voiture</div>`)[0];
-                popup_eec4eccdeee81f854c4d63dd2b599340.setContent(html_d63551353f0eb117f95c9ec6f8f7bab1);
+                var html_89ea8821354acd9b81cc57037cf96783 = $(`<div id="html_89ea8821354acd9b81cc57037cf96783" style="width: 100.0%; height: 100.0%;"><b> Troyes centre historique</b><br>Cite medievale, maisons a colombages, cathedrale<br>Parking periurbain → navette</div>`)[0];
+                popup_d386b58c0829dbbbdd2fad3e1dfa3024.setContent(html_89ea8821354acd9b81cc57037cf96783);
             
         
 
-        marker_e53c855128bc84077344f8910920ce11.bindPopup(popup_eec4eccdeee81f854c4d63dd2b599340)
+        marker_3690ec1e1ddbe4f7adf729b1710dede6.bindPopup(popup_d386b58c0829dbbbdd2fad3e1dfa3024)
         ;
 
         
     
     
-            marker_e53c855128bc84077344f8910920ce11.bindTooltip(
+            marker_3690ec1e1ddbe4f7adf729b1710dede6.bindTooltip(
                 `<div>
-                     Troyes — Centre historique
+                      Troyes centre historique
                  </div>`,
                 {
   "sticky": true,
@@ -341,95 +345,47 @@ BLUE: Villages / Sorties<br>
             );
         
     
-                marker_e53c855128bc84077344f8910920ce11.setIcon(icon_5d77e0711146b1e16158d79b72758255);
+                marker_3690ec1e1ddbe4f7adf729b1710dede6.setIcon(icon_8c2168c32a8692a52965791177c54f98);
             
     
-            var marker_a9fbeaba781b6ca1a2b997818a580b85 = L.marker(
-                [48.28, 4.38],
-                {
-}
-            ).addTo(map_b13f5c2960953ca659e65fd614ab6236);
-        
-    
-            var icon_172d27fe1a709d79cad660a0ec63e5bc = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "red",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_2fbc4f1bc5a7ffb8778751bdb25e1247 = L.popup({
-  "maxWidth": 250,
-});
-
-        
-            
-                var html_4d76885dc0f16e873ecf5e8ee5bfecad = $(`<div id="html_4d76885dc0f16e873ecf5e8ee5bfecad" style="width: 100.0%; height: 100.0%;"><b>VTT Foret d'Orient</b><br>Sentiers VTT balises — jusqu'a 30 km</div>`)[0];
-                popup_2fbc4f1bc5a7ffb8778751bdb25e1247.setContent(html_4d76885dc0f16e873ecf5e8ee5bfecad);
-            
-        
-
-        marker_a9fbeaba781b6ca1a2b997818a580b85.bindPopup(popup_2fbc4f1bc5a7ffb8778751bdb25e1247)
-        ;
-
-        
-    
-    
-            marker_a9fbeaba781b6ca1a2b997818a580b85.bindTooltip(
-                `<div>
-                     VTT Foret d'Orient
-                 </div>`,
-                {
-  "sticky": true,
-}
-            );
-        
-    
-                marker_a9fbeaba781b6ca1a2b997818a580b85.setIcon(icon_172d27fe1a709d79cad660a0ec63e5bc);
-            
-    
-            var marker_18926bc11f6df1eb29268a8dc7c6199e = L.marker(
+            var marker_022e77ad31b29be5a0bbdefd05e25e98 = L.marker(
                 [48.2635, 4.614],
                 {
 }
-            ).addTo(map_b13f5c2960953ca659e65fd614ab6236);
+            ).addTo(map_8b80fb4fa239298e90a2f98c4a6e0363);
         
     
-            var icon_fd1bcd7398dc5bf4a0eaabe0f2fdd428 = L.AwesomeMarkers.icon(
+            var icon_6b1b1db202ffe3f3526925020edc671a = L.AwesomeMarkers.icon(
                 {
   "markerColor": "red",
   "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
+  "icon": "star",
+  "prefix": "fa",
   "extraClasses": "fa-rotate-0",
 }
             );
         
     
-        var popup_e243847653430eb1804a800ec7d4728d = L.popup({
+        var popup_6df16b5a59c6c818d1c1678154f79915 = L.popup({
   "maxWidth": 250,
 });
 
         
             
-                var html_620cd05c7061edf7ef1819721edd66c0 = $(`<div id="html_620cd05c7061edf7ef1819721edd66c0" style="width: 100.0%; height: 100.0%;"><b>Nigloland</b><br>Parc d'attractions familial<br>20 min en voiture</div>`)[0];
-                popup_e243847653430eb1804a800ec7d4728d.setContent(html_620cd05c7061edf7ef1819721edd66c0);
+                var html_e197350bf61def0a4e86d652c7aaa7cc = $(`<div id="html_e197350bf61def0a4e86d652c7aaa7cc" style="width: 100.0%; height: 100.0%;"><b> Nigloland</b><br>Parc d'attractions familial<br>20 km en voiture</div>`)[0];
+                popup_6df16b5a59c6c818d1c1678154f79915.setContent(html_e197350bf61def0a4e86d652c7aaa7cc);
             
         
 
-        marker_18926bc11f6df1eb29268a8dc7c6199e.bindPopup(popup_e243847653430eb1804a800ec7d4728d)
+        marker_022e77ad31b29be5a0bbdefd05e25e98.bindPopup(popup_6df16b5a59c6c818d1c1678154f79915)
         ;
 
         
     
     
-            marker_18926bc11f6df1eb29268a8dc7c6199e.bindTooltip(
+            marker_022e77ad31b29be5a0bbdefd05e25e98.bindTooltip(
                 `<div>
-                     Nigloland
+                      Nigloland
                  </div>`,
                 {
   "sticky": true,
@@ -437,7 +393,88 @@ BLUE: Villages / Sorties<br>
             );
         
     
-                marker_18926bc11f6df1eb29268a8dc7c6199e.setIcon(icon_fd1bcd7398dc5bf4a0eaabe0f2fdd428);
+                marker_022e77ad31b29be5a0bbdefd05e25e98.setIcon(icon_6b1b1db202ffe3f3526925020edc671a);
             
+    
+            var marker_8d42d803fa765ade1e7edceb4db23b64 = L.marker(
+                [48.246, 4.387],
+                {
+}
+            ).addTo(map_8b80fb4fa239298e90a2f98c4a6e0363);
+        
+    
+            var icon_6defa78912c0df053c5f3650151cb039 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "bicycle",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ec0bc505786404a335aecd1d0107f930 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_33a9f210f38c5bb16e2ff0c300946e28 = $(`<div id="html_33a9f210f38c5bb16e2ff0c300946e28" style="width: 100.0%; height: 100.0%;"><b> Voie verte Lac d'Orient</b><br>Piste cyclable reliee au camping<br>Balade VAE jusqu'a Troyes possible</div>`)[0];
+                popup_ec0bc505786404a335aecd1d0107f930.setContent(html_33a9f210f38c5bb16e2ff0c300946e28);
+            
+        
+
+        marker_8d42d803fa765ade1e7edceb4db23b64.bindPopup(popup_ec0bc505786404a335aecd1d0107f930)
+        ;
+
+        
+    
+    
+            marker_8d42d803fa765ade1e7edceb4db23b64.bindTooltip(
+                `<div>
+                      Voie verte Lac d'Orient
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8d42d803fa765ade1e7edceb4db23b64.setIcon(icon_6defa78912c0df053c5f3650151cb039);
+            
+    
+            var poly_line_58cc52e91da8d63a973cb2046417e67d = L.polyline(
+                [[48.2623, 4.3485], [48.27, 4.36], [48.29, 4.375], [48.31, 4.385], [48.321, 4.388]],
+                {"bubblingMouseEvents": true, "color": "#2ecc71", "dashArray": "8,4", "dashOffset": null, "fill": false, "fillColor": "#2ecc71", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.5, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(map_8b80fb4fa239298e90a2f98c4a6e0363);
+        
+    
+        var popup_23fe0082561e56321da878345f831403 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d9fd1659e02c19f8298eeb15ddeac7a8 = $(`<div id="html_d9fd1659e02c19f8298eeb15ddeac7a8" style="width: 100.0%; height: 100.0%;">Parcours VTT Foret</div>`)[0];
+                popup_23fe0082561e56321da878345f831403.setContent(html_d9fd1659e02c19f8298eeb15ddeac7a8);
+            
+        
+
+        poly_line_58cc52e91da8d63a973cb2046417e67d.bindPopup(popup_23fe0082561e56321da878345f831403)
+        ;
+
+        
+    
+    
+            L.control.fullscreen(
+                {
+  "position": "topleft",
+  "title": "Full Screen",
+  "titleCancel": "Exit Full Screen",
+  "forceSeparateButton": false,
+}
+            ).addTo(map_8b80fb4fa239298e90a2f98c4a6e0363);
+        
 </script>
 </html>

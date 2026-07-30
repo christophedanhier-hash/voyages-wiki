@@ -11,7 +11,7 @@
 | **Voyageurs** | Christophe, Sylvie |
 | **Véhicule** | Camping-car 8m |
 | **Mobilité** | Sylvie : max 5-7 km/j à pied. 🚲 **2 vélos électriques à bord** (balades 20-30 km/j) |
-| **🐕 Nala** | Pension chez Émilie — pas du voyage |
+| **🐕 Nala** | ✅ **Du voyage** — camping acceptant les chiens |
 | **Équipement** | 2 vélos électriques |
 | **Réservation** | ✅ **Camping Le Lac d'Orient **** réservé et payé (67,50 €)** |
 
@@ -106,15 +106,17 @@ Avec les **vélos électriques**, vous pouvez rayonner facilement. Sylvie peut f
 - **Arrêts :** Plages, aires de pique-nique, points de vue
 - **Accès :** Direct depuis le camping, pas besoin de voiture
 
-### 🏛️ Jour 4 (Mar 18/8) — Troyes (en voiture 🌆)
-- **Distance :** 20 min en voiture (15 km)
-- **📍 Parking :** Parking gratuit/payant hors du centre (pas de CC !). Prendre la voiture, le CC reste au camping
-- **🎭 Visites accessibles :**
-  - 🏛️ **Cité médiévale** — Maisons à colombages, ruelles pavées (accessible)
+### 🏛️ Jour 4 (Mar 18/8) — Troyes
+
+- **⚠️ CC 8m :** Ne PAS entrer dans Troyes avec le CC (ZTL, ruelles étroites)
+- **Solution :** Parking relais **"Parking Napoléon"** (périphérie, 5 €/jour) → **navette gratuite** centre-ville
+- **Autre solution :** Parking de **Carrefour Troyes Sainte-Savine** (grand, gratuit CC) → bus ligne 1 (10 min)
+- **Nala :** Reste au CC climatisé avec Sylvie si elle ne se sent pas de marcher, ou en alternance
+- **🎭 Visites :**
+  - 🏛️ **Cité médiévale** — Maisons à colombages, ruelles pavées, accessible en centre-ville
   - ⛪ **Cathédrale Saint-Pierre-et-Saint-Paul** — Vitraux magnifiques, plat ✅
-  - 🛍️ **Marché couvert** — Produits locaux
-  - 🍝 **Restaurant "Le Bistroquet"** — Cuisine champenoise
-- **Accessibilité Sylvie :** Le centre historique est plat, piéton. Max 1-2 km de marche sur la journée — faisable ✅
+  - 🛍️ **Marché couvert** — Produits locaux (mer/sam matin)
+- **Accessibilité :** Centre piéton, plat. Max 1-2 km de marche sur la journée — faisable pour Sylvie ✅
 
 ### ☀️ Jour 5 (Mer 19/8) — Farniente & Plage
 - **Plage du Lac d'Orient :** À 10 min à pied du camping
@@ -138,13 +140,22 @@ Avec les **vélos électriques**, vous pouvez rayonner facilement. Sylvie peut f
 | **Auberge du Lac** (Mesnil-St-Père) | 🐟 Poisson, traditionnel | Vue lac, terrasse |
 | **Le Bistroquet** (Troyes) | 🍝 Cuisine champenoise | Centre historique |
 | **Marché de Troyes** 🥖 | Produits locaux | Mercredi, samedi matin |
+|---
+|
+
+## 🚐 Notes & Astuces
+
+- **🐕 Nala** : Camping acceptant les chiens. Tenir en laisse dans le camping. Pour Troyes, elle reste au CC climatisé (parking relais ombragé, portes/fenêtres ouvertes avec moustiquaire si possible). Pour les balades VTT, prévoir une gamelle d'eau et ne pas la laisser seule trop longtemps en été (attention aux températures dans le CC).
+- **🔌 Adaptateur électrique** : Prévoir un **adaptateur mâle européen** pour les bornes du camping (pas inclus dans le CC standard)
+- **🚲 VAE** : Les 2 vélos électriques à bord. Pensez à les recharger le soir. Comptez 30-50 km d'autonomie, amplement suffisant pour le tour du lac (25 km)
+- **🏖️ Plage** : À 10 min à pied du camping. Serviettes, maillots, crème solaire
+- **⛽ Plein carburant** : Environ 72 L consommés sur le voyage (656 km). Faire le plein avant départ
 
 ---
 
 ## 💰 Budget
 
 | Poste | Coût |
-|:------|:----:|
 | 🏕️ Camping (5 nuits) | 67,50 € ✅ **Payé** |
 | ⛽ Carburant (656 km) | **~126 €** |
 | 🎟️ Visites & activités | **~30 €** |
