@@ -860,6 +860,82 @@ flowchart LR
 
 ---
 
+### 🗓️ 3 jours : Cap Nord → Vardø → Inari (J27-J29)
+
+---
+
+#### J27 • 27/09/2026 — 🇳🇴 Cap Nord → Vardø (~500 km)
+
+**Trajet :** Cap Nord → route côtière → Vardø
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Cap Nord (matin) |
+| **Trajet** | E69 → E6 → E75 |
+| **Distance** | ~500 km (~8h) |
+| **Route** | ✅ Sans ferry |
+
+**Arrivée à Vardø en fin d'après-midi**
+
+#### 🏛️ Vardø
+
+| POI | Description | Temps | Prix | Accès |
+|-----|------------|:-----:|:----:|:-----:|
+| 🏘️ **Vardø centre** | Port, maisons colorées, la ville la plus à l'est de Norvège | ~30 min | Gratuit | ✅ |
+| 🏛️ **Vardøhus Festning** | Forteresse du XIIIe siècle, la plus au nord du monde | ~30 min | Gratuit | ✅ |
+| 🏛️ **Steilneset minnested** | Mémorial aux victimes des chasses aux sorcières | ~20 min | Gratuit | ✅ |
+
+> 💡 **Vardø** est surnommée « la ville des sorcières » — 91 personnes furent exécutées ici au XVIIe siècle pour sorcellerie.
+
+---
+
+#### J28 • 28/09/2026 — 🇳🇴 Vardø → 🇫🇮 Inari (~330 km)
+
+**Trajet :** Vardø → frontière Finlande → Inari (Laponie finlandaise)
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Vardø (matin) |
+| **Trajet** | E75 → frontière 🇳🇴→🇫🇮 → Inari |
+| **Distance** | ~330 km (~5h30) |
+| **Route** | ✅ Sans ferry |
+
+**Arrivée à Inari en début d'après-midi** — au cœur de la Laponie sami
+
+#### 🏛️ POIs sur le parcours
+
+| Arrêt | Dist. | Temps | À voir |
+|-------|:-----:|:-----:|--------|
+| 🏘️ **Vadsø** | 80 km | 20 min | Ville-port, église en bois |
+| 🏘️ **Tana bru** | 180 km | 20 min | Pont sur le fleuve Tana (saumon !) |
+| 🌉 **Passage frontière** | 250 km | — | 🇳🇴 → 🇫🇮 — Laponie finlandaise ! |
+
+---
+
+#### J29 • 29/09/2026 — 🇫🇮 Inari (musée Sami + Laponie)
+
+##### 🏛️ Musée Sami Siida 🏆
+
+| Info | Détail |
+|:-----|--------|
+| **📍** | Inarintie 46, Inari |
+| **🏆** | **Musée national de la culture Sami** — le plus important de Laponie |
+| **🕐** | ~1h30-2h de visite |
+| **💰** | ~12 € |
+| **✅** | Accessible |
+| **🌐** | siida.fi |
+
+| POI | Description | Temps | Prix | Accès |
+|-----|------------|:-----:|:----:|:-----:|
+| 🏛️ **Siida** 🏆 | Musée sami — histoire, artisanat, élevage de rennes, culture du peuple autochtone du Grand Nord | ~2h | ~12 € | ✅ |
+| 🏘️ **Inari centre** | Boutiques d'artisanat sami, bijoux en argent, fourrures de renne | ~30 min | Gratuit | ✅ |
+| 🌊 **Lac Inari** | 3e plus grand lac de Finlande, îles sacrées sami | — | Gratuit | ✅ |
+| 🦌 **Ferme de rennes** | Visite possible (selon saison) | ~1h | ~20 € | ✅ |
+
+> 💡 **Siida** — tu y apprendras tout sur les Sami : élevage de rennes, joik (chant), tentes traditionnelles (lavvu), et l'histoire de ce peuple qui vit dans le Grand Nord depuis 10 000 ans !
+
+---
+
 ### Étape 6 : 🇳🇴 Cap Nord → 🇸🇪 Stockholm → 🇩🇰 Danemark → 🇧🇪 Retour
 **~3,000 km · J31–J45 (01–15/10)**
 
