@@ -41,9 +41,9 @@
 | Jour | Date | Étape | Distance (route) | KM cumulé | Nuits | Camping / Service | Coût |
 |:----:|:----:|-------|:----------------:|:---------:|:-----:|-------------------|:----:|
 | 1 | Ven 11/9 | 🏠 **Sombreffe** → **Colmar** (Alsace) | 446 km | 446 | 1 | Aire CC Schoenau | 14,00 € |
-| 2 | Sam 12/9 | 🇫🇷 **Colmar** → **Lac de Côme** 🏞️ | 353 km | 799 | 2 | The Camp by Maggiore Suites | 154,00 € |
-| 3 | Dim 13/9 | ☀️ *Repos & découverte Lac de Côme* | — | 799 | — | — | — |
-| 4 | Lun 14/9 | 🏛️ **Lac de Côme** → **Florence** | 411 km | 1210 | 3 | **hu Firenze camping in town** 🏕️ | 165,00 € |
+| 2 | Sam 12/9 | 🇫🇷 **Colmar** → **Lac Majeur — Maccagno** 🏞️ | 333 km | 779 | 2 | The Camp by Maggiore Suites | 154,00 € |
+| 3 | Dim 13/9 | ☀️ *Repos & découverte Lac Majeur* | — | 779 | — | — | — |
+| 4 | Lun 14/9 | 🏛️ **Lac Majeur — Maccagno** → **Florence** | 399 km | 1178 | 3 | **hu Firenze camping in town** 🏕️ | 165,00 € |
 | 5 | Mar 15/9 | 🎨 *Visite Florence* | — | 1210 | — | — | — |
 | 6 | Mer 16/9 | 🎨 *Visite Florence* | — | 1210 | — | — | — |
 | 7 | Jeu 17/9 | 🌋 **Florence** → **Pompéi** | 484 km | 1694 | 2 | Camping Spartacus | 66,00 € |
@@ -77,8 +77,8 @@
 | Trajet | Distance route | Temps de route* | Via |
 |:-------|:--------------:|:---------------:|:----|
 | 🏠 **Sombreffe → Colmar** | 446 km | 4h28 | A4/E411 – Luxembourg – A31 |
-| 🏞️ **Colmar → Lac de Côme** | 353 km | 3h32 | A35 – Bâle – Gotthard – Lugano |
-| 🏛️ **Lac de Côme → Florence** | 411 km | 4h07 | A9 – Milan – A1 – Florence |
+| 🏞️ **Colmar → Lac Majeur — Maccagno** | 333 km | 3h20 | A35 – Bâle – Gotthard – Locarno/Maccagno |
+| 🏛️ **Lac Majeur — Maccagno → Florence** | 399 km | 4h00 | A8/A9 – Milan – A1 – Florence |
 | 🌋 **Florence → Pompéi** | 484 km | 4h50 | A1 – Rome – A30 – Pompéi |
 | 🏖️ **Pompéi → Monopoli** | 318 km | 3h11 | A30 – A16 – A14 – Bari |
 | ↕️ **Monopoli → Led Zeppelin** (Cupra Marittima) | 431 km | 4h30 | A14 adriatique (direction nord) |
@@ -90,15 +90,15 @@
 
 > ⏱️ *Temps de route calculé sur base d'une vitesse constante de **100 km/h** (vitesse max CC sur autoroute). Temps réel à prévoir +15-20% pour pauses, péages, ralentissements.*
 
-> 💡 **Comparaison :** la distance totale route (~4 028 km) est supérieure de ~30% à la distance vol d'oiseau (~3 096 km). En CC à 100 km/h, compter **environ 40h36 de conduite pures**, soit l'équivalent de **~4 jours pleins au volant** répartis sur les 11 jours de route.
+> 💡 **Comparaison :** la distance totale route (~4 028 km) est supérieure de ~30% à la distance vol d'oiseau (~3 090 km). En CC à 100 km/h, compter **environ 40h36 de conduite pures**, soit l'équivalent de **~4 jours pleins au volant** répartis sur les 11 jours de route.
 
 ### Distances à vol d'oiseau (Haversine)
 
 | Trajet | Distance |
 |:-------|:--------:|
 | 🏠 **Sombreffe →** 🇫🇷 Colmar | **338 km** |
-| 🇫🇷 **Colmar →** 🏞️ Lac de Côme | **270 km** |
-| 🏞️ **Lac de Côme →** 🏛️ Florence | **296 km** |
+| 🇫🇷 **Colmar →** 🏞️ Lac Majeur — Maccagno | **249 km** |
+| 🏞️ **Lac Majeur — Maccagno →** 🏛️ Florence | **321 km** |
 | 🏛️ **Florence →** 🌋 Pompéi | **428 km** |
 | 🌋 **Pompéi →** 🏖️ Monopoli | **237 km** |
 | 🏖️ **Monopoli →** ⬆️ Cupra Marittima | **359 km** |
@@ -114,47 +114,49 @@
 
 ## 🏛️ Visites & Culture
 
-### 🏞️ Lac de Côme (J2–J3 · 2 nuits)
+### 🏞️ Lac Majeur — Maccagno (J2–J3 · 2 nuits)
 
-**Base :** The Camp by Maggiore Suites
+**Base :** The Camp by Maggiore Suites — Maccagno, Lago Maggiore (Front Pitch FR1)
 
-> 🗺️ **Carte interactive du Lac de Côme** — Camp de base, POIs, restaurants et itinéraire ferry conseillé :
-> <iframe src="carte-come-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
+> 🗺️ **Carte interactive du Lac Majeur** — Camp de base, POIs, restaurants et itinéraire conseillé :
+> <iframe src="carte-maggiore-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
 
 **🎭 Visites accessibles :**
 
 | Site | Distance à pied | Accès | Prix | Durée | Astuce | 🎟️ Réservation |
 |:-----|:---------------:|:-----:|:----:|:-----:|:-------|:---------------|
-| 🏡 **Villa Carlotta** (Tremezzo) | 200 m plat ✅ | Ferry 15 min | 15 € | 1h30 | Jardins + musée, idéal | sur getyourguide.com |
-| 🌸 **Villa Monastero** (Varenna) | 300 m plat ✅ | Ferry 15 min | 7-13 € | 1h | Jardin lacustre, superbe vue | sur getyourguide.com |
-| 🏡 **Villa Melzi** (Bellagio) | 500 m plat ✅ | Ferry 20 min | 10 € | 1h | Jardin romantique, cygnes | sur getyourguide.com |
-| 🏛️ **Côme centre** (Duomo) | 0 (débarquer à Côme) | Ferry 30 min | Gratuit | 1h | Duomo + vieille ville plate | — |
-| 🏰 **Villa Balbianello** (Lenno) | Montée ⚠️ | Bateau-taxi 6-9 € | 12 € | 1h30 | Préférer accès bateau (pas de marche) | sur getyourguide.com |
-| 🚤 **Tour privé en bateau** | — | Départ Menaggio | 50-80 € | 1-2h | Option skipper pour découvrir le lac | sur getyourguide.com |
+| 🌴 **Îles Borromées — Isola Bella** 🏰 | 0 (débarquer ferry) | Bateau 20 min depuis Maccagno | ~15 € | 2h | Palais Borromée + jardins en terrasse. Accès ferry direct | sur getyourguide.com |
+| 🏡 **Isola dei Pescatori** | 0 (débarquer) | Bateau 25 min | Gratuit (île) | 1h | Village de pêcheurs, ruelles plates, boucle rapide | — |
+| 🌸 **Villa Taranto** (Verbania) | 200 m ✅ | Voiture 25 min ou bateau 40 min | 13 € | 1h30 | **Incontournable** 🌟 Jardins botaniques parmi les plus beaux d'Europe, plat, accessible | sur getyourguide.com |
+| 🏛️ **Stresa — centre** | 0 (débarquer) | Bateau 30 min | Gratuit | 1h30 | Belle promenade lacustre piétonne, cafés, glacier | — |
+| ⛪ **Santa Caterina del Sasso** (ermitage) | Escaliers ⚠️ | Voiture 15 min | 5 € | 45 min | Église rupestre accrochée à la falaise. Magnifique vue | — |
+| 🛍️ **Luino — marché** (mercredi) | 300 m plat ✅ | Voiture 5 min / bateau 10 min | Gratuit | 1h | Grand marché hebdomadaire, ambiance locale | — |
+| 🚤 **Tour privé en bateau** | — | Départ Maccagno | 60-100 € | 1-2h | Skipper privé, découverte des îles | sur getyourguide.com |
 
-**🛥️ Meilleur plan :** Prendre le **Pass Centro Lago** (15 €/jour, ferry illimité) pour enchaîner Menaggio → Bellagio → Varenna → Tremezzo dans la journée. Le ferry est accessible, peu de marche à chaque arrêt.
+**🛥️ Meilleur plan :** Prendre le **ferry public** depuis Maccagno (ligne Locarno–Arona) pour une boucle Maccagno → Luino → Isola Bella → Stresa. Les ferries sont adaptés aux PMR.
 
 **🎯 Balades à pied & ferry :**
 
 | Activité | Temps | Accès |
 |:---------|:-----:|:------|
-| **Menaggio → Porlezza** (piste ex-voie ferrée, marche) | 30 min → 1h A/R | À pied depuis le camping |
-| **Ferry Menaggio → Bellagio → Varenna** | 45 min de traversée | Départ du centre Menaggio
+| **Maccagno — promenade lacustre** (via Lungolago) | 20 min → 1h A/R | À pied depuis le camping |
+| **Ferry Maccagno → Isola Bella → Stresa** | 30-45 min de traversée | Débarcadère Maccagno à 500 m du camping |
 
 **⚠️ Astuces CC 8m :**
-- Ne pas prendre le CC dans Bellagio (ruelles trop étroites)
-- Parking Menaggio : grand parking via Fournier (payant, accessible 8m)
-- Aires CC à Côme : **Viale Aldo Moro** (~12 €/nuit, services)
-- Ferry depuis Menaggio : le CC reste au camping, on visite en ferry + pied
+- Hauteur max route d'accès : **2,60 m** — via Giuseppe Verdi si + haut (cf. email camping ✅)
+- Parking camping : emplacement FR1 dédié, le CC reste sur place
+- Maccagno centre est à 5 min à pied du camping
+- **Hauteur CC : bien vérifier avant le tunnel du Gotthard (4m) — aucun problème pour un CC classique**
+- Ferry Maccagno → toutes les îles sans voiture. Le CC reste au camping.
 
-### 🍝 Manger près du camping (Menaggio)
+### 🍝 Manger près du camping (Maccagno)
 
 | Restaurant | Type | Ambiance |
 |:-----------|:----:|:---------|
-| **Osteria Il Pozzo** | 🐟 Poisson, pâtes | Cuisine locale, produit du lac, terrasse |
-| **La Darsena** | 🍕 Pizza, poisson | Vue lac, terrasse, familial |
-| **Trattoria Bellavista** | 🍝 Traditionnel | Menu ouvrier, prix doux |
-| **Gelateria** 🍨 | Via Calvi | Glaces artisanales, balade digestive |
+| **Ristorante Al Giona** | 🐟 Poisson du lac | Terrasse vue lac, cuisine locale, à 300 m du camping |
+| **La Veranda del Lago** | 🍝 Traditionnel | Famille, poisson frais, prix corrects |
+| **Pizzeria Da Franco** | 🍕 Pizza | Simple, bon rapport qualité/prix, centre Maccagno |
+| **Gelateria Artigianale** 🍨 | Centre Maccagno | Glaces artisanales, balade digestive |
 
 ---
 
@@ -815,7 +817,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 | Étape | Camping | Réservation | Durée | Coût | Acompte |
 |-------|---------|:-----------:|:-----:|:----:|:-------:|
 | Colmar | Aire CC Schoenau | ❌ Sans résa | 1 nuit | 14,00 € | — |
-| Lac de Côme | **The Camp by Maggiore Suites** | ✅ #32877 | 2 nuits | 154,00 € | **30,80 €** ✔️ Stripe |
+| Lac Majeur — Maccagno | **The Camp by Maggiore Suites** | ✅ #32877 | 2 nuits | 154,00 € | **30,80 €** ✔️ Stripe |
 | Florence | **hu Firenze camping in town** | ✅ #314185774 | 3 nuits | 165,00 € | ❌ Carte garantie |
 | Pompéi | **Camping Spartacus** | ✅ Confirmé | 2 nuits | **66,00 €** (33€/nuit) | ✅ Confirmé |
 | Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ✅ Confirmé wubook |
@@ -855,7 +857,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 
 | Étape | Visites | Coût (2 pers.) |
 |:------|:--------|:--------------:|
-| 🏞️ **Lac de Côme** (J2-J3) | Pass ferry Centro Lago (15€×2) + 1 villa (Carlotta 15€×2) | **~60 €** |
+| 🏞️ **Lac Majeur — Maccagno** (J2-J3) | Ferry Îles Borromées + Villa Taranto (2×13€) + repas | **~80 €** |
 | 🏛️ **Florence** (J4-J6) | Accademia/David (12€×2) + Offices (20€×2) + Duomo combo (18€×2) | **~100 €** |
 | 🌋 **Pompéi** (J7-J8) | Site Pompéi (18€×2) — **gratuit si carte handicap UE** ✅ | **0-36 €** |
 | 🏖️ **Pouilles** (J9-J17) | Château Monopoli (10€×2) + Casa Grotta Matera (5€×2) + options | **~40 €** |
@@ -870,7 +872,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 ## 🚐 Notes & Astuces
 
 - **Aire Schoenau (Colmar)** : pratique pour la pause avant/après l'Italie, gratuite ou ~14€ selon saison
-- **The Camp by Maggiore Suites (Lac de Côme)** : front pitch FR1 (8m OK). Hauteur 2,5m OK (<2,60m). Code portail: 1593
+- **The Camp by Maggiore Suites (Lac Majeur — Maccagno)** : front pitch FR1 (8m OK). Hauteur max 2,60m — si CC >2,60m, passer par Via Giuseppe Verdi. Code portail: 1593
 - **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². Love Pet Pack 15€. Check-in 24h/24. Tram T1 depuis/vers le centre
 - **Pompéi** : ✅ **Camping Spartacus** (Via Plinio 127, 50m entrée Porta Marina) — résa confirmée ✅, **33€/nuit tout compris**. Arrivée ~15h00 le 17/09. Piscine, pizzeria, dog-sitting 🐕, Wi-Fi
 - **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), taxi, à pied. Centre-ville à 15 min à pied. Voir section dédiée 🚗🚶
