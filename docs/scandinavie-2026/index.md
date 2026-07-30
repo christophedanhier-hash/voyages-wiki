@@ -464,21 +464,119 @@ flowchart LR
 
 ---
 
-### Étape 4 : 🇳🇴 Fjords Ouest → Trondheim → Îles Lofoten
-**~1,200 km · J13–J23 (13–23/09)**
+### J10 • 11/09/2026 — 🇳🇴 Bergen → Flåm (Sognefjord) (~170 km)
 
-| Segment | Distance |
-|---------|:--------:|
-| Geiranger → Ålesund | 110 km |
-| Ålesund → Trondheim | 400 km |
-| Trondheim → Mosjøen | 420 km |
-| Mosjøen → Lofoten (via ferry) | 500 km |
+**Trajet :** Bergen → tunnel de Lærdal (24,5 km !) → Flåm
 
-**Points forts :**
+| Info | Détail |
+|------|--------|
+| **Départ** | Bergen (matin) |
+| **Trajet** | Route E16, possibilité ferry Gudvangen→Flåm (option) |
+| **Distance** | ~170 km (~3h sans arrêts) |
+| **Route** | ✅ Pas de ferry obligatoire |
 
-- **Ålesund** (J15) : Art nouveau, vue depuis Aksla
-- **Trondheim** (J17-18) : Cathédrale Nidaros, quartier Bakklandet
-- **Lofoten** (J19-25) : **Le clou du voyage !** 🌟
+| Segment | Distance | Temps | À voir |
+|---------|:-------:|:-----:|--------|
+| Bergen → **Voss** | 100 km | 1h30 | ⛷️ Station de sports d'hiver, lac |
+| Voss → **Flåm** 🏆 | 70 km | 1h30 | 🚂 **Chemin de fer de Flåm**, Sognefjord |
+
+#### 🏛️ POIs sur le parcours
+
+| Arrêt | Dist. | Temps | À voir |
+|-------|:-----:|:-----:|--------|
+| 🏘️ **Voss** | 100 km | 30 min | Jolie ville au bord du lac, vue ✅ |
+| ⛰️ **Lærdalstunnelen** | 140 km | 20 min | **Plus long tunnel routier du monde** (24,5 km) — éclairage spécial |
+| 🛶 **Gudvangen** | 155 km | 30 min | Navitage dans le Nærøyfjord (branche du Sognefjord), ferry possible |
+
+#### 🏛️ Flåm — Arrivée après-midi
+
+| POI | Description | Temps | Accès |
+|-----|------------|:-----:|:-----:|
+| 🚂 **Flåmsbana** 🏆 | Train touristique, **plus beau trajet ferroviaire du monde** ! Cascade Kjosfossen | ~1h AR | ✅ (assis) |
+| 🌊 **Sognefjord** | Plus long fjord de Norvège (204 km), croisière possible | ~2h | ✅ Bateau |
+| 🏘️ **Village de Flåm** | Petit port touristique, boutiques, cafés | ~30 min | ✅ |
+
+---
+
+### J11 • 12/09/2026 — 🇳🇴 Flåm → Geirangerfjord (~340 km)
+
+**Trajet :** Flåm → Sogndal → Stryn → Geiranger
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Flåm (matin) |
+| **Trajet** | Route 5 → 15 → 63 |
+| **Distance** | ~340 km (~6h30) |
+| **Route** | ✅ Sans ferry |
+
+#### 🏛️ POIs sur le parcours
+
+| Arrêt | Dist. | Temps | À voir |
+|-------|:-----:|:-----:|--------|
+| 🏘️ **Sogndal** | 100 km | 30 min | Jolie ville au bord du fjord ✅ |
+| 🏘️ **Stryn** | 240 km | 4h30 | Vallée glaciaire, port de plaisance ✅ |
+| 🌊 **Trollstigen** 🏆 | 300 km | 45 min | **Route des Trolls** — route de montagne spectaculaire, 11 lacets ! ✅ parking vue |
+| 🌊 **Geirangerfjord** 🏆 | 340 km | — | **Fjord UNESCO** — le plus beau de Norvège |
+
+#### 🏛️ Geiranger — Arrivée fin d'après-midi
+
+| POI | Description | Temps | Accès |
+|-----|------------|:-----:|:-----:|
+| 🌊 **Geirangerfjord** 🏆 | Fjord UNESCO, cascades (7 Sœurs, Voile de la Mariée) | — | ✅ |
+| 🏘️ **Geiranger village** | Petit port de croisière, boutiques | ~30 min | ✅ |
+| 🏛️ **Centre Fjord** | Musée d'histoire locale | ~45 min | ✅ |
+| 🥾 **Flydalsjuvet** | Point de vue iconique sur le fjord (parking accessible) | 15 min | ✅ |
+
+> 💡 **Trollstigen** : Route des Trolls avec 11 lacets. Pas de ferry, mais vérifier l'ouverture (parfois fermé après mi-septembre selon météo) !
+
+---
+
+### J12 • 13/09/2026 — 🇳🇴 Geiranger → Ålesund → Molde (~210 km)
+
+**Trajet :** Geiranger → Ålesund → Molde
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Geiranger (matin) |
+| **Trajet** | Route 63 → E136 → E39 |
+| **Distance** | ~210 km (~5h) |
+| **Route** | ✅ Sans ferry |
+
+| Segment | Distance | Temps | À voir |
+|---------|:-------:|:-----:|--------|
+| Geiranger → **Ålesund** 🏆 | 114 km | 2h30 | 🏛️ **Art nouveau**, vue depuis Aksla |
+| Ålesund → **Molde** | 99 km | 2h30 | 🌸 Ville des roses, panorama |
+
+#### 🏛️ POIs sur le parcours
+
+| Arrêt | Dist. | Temps | À voir |
+|-------|:-----:|:-----:|--------|
+| 🏛️ **Ålesund** 🏆 | 114 km | 1h30 | **Ville Art nouveau** — architecture unique (reconstruite après incendie 1904). Vue depuis **Aksla** (418 marches, mais parking en haut possible !) ✅ |
+| 🌊 **Atlanthavsveien** | 180 km | 30 min | La **Route de l'Atlantique** — route côtière spectaculaire ponts/îlots 🌉 optionnelle |
+| 🏘️ **Molde** | 210 km | — | Arrivée, panorama sur 222 sommets ✅ |
+
+---
+
+### J13 • 14/09/2026 — 🇳🇴 Molde → Trondheim (~220 km)
+
+**Trajet :** Molde → route côtière → Trondheim
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Molde (matin) |
+| **Trajet** | E39 → E6 |
+| **Distance** | ~220 km (~4h) |
+| **Route** | ✅ Sans ferry |
+
+#### 🏛️ Trondheim — Arrivée après-midi
+
+| POI | Description | Temps | Accès |
+|-----|------------|:-----:|:-----:|
+| 🏛️ **Cathédrale Nidaros** 🏆 | Plus grande église de Scandinavie, couronnement des rois de Norvège | ~1h | ✅ |
+| 🏘️ **Bakklandet** | Quartier pittoresque, maisons en bois colorées, cafés | ~1h | ✅ |
+| 🏘️ **Vieux pont (Gamle Bybro)** | Pont en bois iconique sur la rivière Nidelva | 15 min | ✅ |
+| 🎨 **Rockheim** | Musée national de la musique pop norvégienne | ~1h | ✅ |
+| ⛰️ **Tyholttårnet** | Tour avec restaurant tournant, vue panoramique | 30 min | ✅ Ascenseur |
 
 **Lofoten — 5-6 jours minimum :**
 
