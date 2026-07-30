@@ -937,14 +937,155 @@ flowchart LR
 ---
 
 ### Étape 6 : 🇳🇴 Cap Nord → 🇸🇪 Stockholm → 🇩🇰 Danemark → 🇧🇪 Retour
-**~3,000 km · J31–J45 (01–15/10)**
+### 🗓️ Côte du Golfe de Botnie : Haparanda → Stockholm (J31-J34)
 
-| Segment | Distance | Jours |
-|---------|:--------:|:-----:|
-| Cap Nord → Kiruna (Suède) | 400 km | J31 |
-| Kiruna → Luleå → Sundsvall | 900 km | J32–J34 |
-| Sundsvall → **Stockholm** 🏛️ | 400 km | J34 |
-| **Stockholm** (visite) | — | **J35–J37** |
+---
+
+#### J31 • 02/10/2026 — 🇫🇮 Inari → Rovaniemi (~330 km)
+
+**Trajet :** Inari → Rovaniemi
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Inari (matin) |
+| **Trajet** | E75 |
+| **Distance** | ~330 km (~4h30) |
+| **Route** | ✅ Sans ferry |
+
+#### 🏛️ POIs sur le parcours
+
+| Arrêt | Dist. | Temps | À voir |
+|-------|:-----:|:-----:|--------|
+| 🦌 **Ferme de rennes** | 30 km | 30 min | Arrêt possible si pas fait à Inari |
+| 🏘️ **Ivalo** | 50 km | 15 min | Plus grande ville de Laponie nord |
+| 🎅 **Santa Claus Village** 🏆 | 325 km | 1h | **Village du Père Noël** — cercle polaire, poste, boutique |
+
+#### 🏛️ Rovaniemi — Arrivée après-midi
+
+| POI | Description | Temps | Prix | Accès |
+|-----|------------|:-----:|:----:|:-----:|
+| 🎅 **Santa Claus Village** 🏆 | Rencontre avec le Père Noël, ligne du cercle polaire, poste officielle | ~1h | Gratuit (photos payantes) | ✅ |
+| 🏛️ **Arktikum** | Musée de l'Arctique — aurores, nature, culture sami | ~1h30 | ~12 € | ✅ |
+| 🦌 **Parc de rennes** | Promenade en traîneau (option selon saison) | ~1h | ~30 € | ✅ |
+
+> 💡 Santa Claus Village est ouvert toute l'année. Tu peux y envoyer une carte postale avec le tampon officiel du Père Noël !
+
+---
+
+#### J32 • 03/10/2026 — 🇫🇮 Rovaniemi → 🇸🇪 Haparanda → Luleå (~260 km)
+
+**Trajet :** Rovaniemi → frontière → Haparanda (Suède) → Luleå
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Rovaniemi (matin) |
+| **Trajet** | E75 → E4 (Suède) |
+| **Distance** | ~260 km (~3h30) |
+| **Route** | ✅ Sans ferry |
+
+**Arrivée à Luleå en début d'après-midi**
+
+#### 🏛️ POIs sur le parcours
+
+| Arrêt | Dist. | Temps | À voir |
+|-------|:-----:|:-----:|--------|
+| 🌉 **Passage frontière** 🇫🇮→🇸🇪 | 127 km | 2h | Tornio (FI) / Haparanda (SE) — deux villes jumelles |
+| 🏘️ **Haparanda** | 127 km | 30 min | Dernière ville suédoise avant la Finlande, shopping détaxé ✅ |
+| 🏘️ **Luleå** 🏆 | 260 km | — | **Perle de la côte de Botnie** |
+
+#### 🏛️ Luleå
+
+| POI | Description | Temps | Prix | Accès |
+|-----|------------|:-----:|:----:|:-----:|
+| 🏛️ **Gammelstad** 🏆 | **Ville-église UNESCO** — plus grande ville-église du monde (424 maisons !) | ~1h | Gratuit | ✅ |
+| 🏘️ **Centre Luleå** | Port moderne, boutiques, cafés | ~30 min | Gratuit | ✅ |
+| 🏛️ **Norrbottens Järnvägsmuseum** | Musée du chemin de fer | ~1h | ~8 € | ✅ |
+
+---
+
+#### J33 • 04/10/2026 — 🇸🇪 Luleå → Skellefteå → Umeå (~280 km)
+
+**Trajet :** Luleå → Piteå → Skellefteå → Umeå (côte E4)
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Luleå (matin) |
+| **Trajet** | E4 (côte du Golfe de Botnie) |
+| **Distance** | ~280 km (~4h30) |
+| **Route** | ✅ Sans ferry |
+
+#### 🏛️ POIs sur le parcours
+
+| Arrêt | Dist. | Temps | À voir |
+|-------|:-----:|:-----:|--------|
+| ⚓ **Rödbergsfortet** | 20 km | 1h | Forteresse militaire souterraine (guerre froide) ✅ |
+| 🏘️ **Piteå** | 60 km | 30 min | Station balnéaire, plages de sable, port ✅ |
+| 🏘️ **Skellefteå** | 150 km | 30 min | Ville minière, musée Skellefteå ✅ |
+| 🏛️ **Umeå** 🏆 | 280 km | — | **Ville universitaire** — capitale culturelle ✅ |
+
+#### 🏛️ Umeå
+
+| POI | Description | Temps | Prix | Accès |
+|-----|------------|:-----:|:----:|:-----:|
+| 🏛️ **Bildmuseet** | Musée d'art contemporain (architecture incroyable) | ~1h | Gratuit | ✅ |
+| 🏘️ **Centre Umeå** | Rues piétonnes, boutiques, cafés | ~30 min | Gratuit | ✅ |
+| 🌳 **Stadsparken** | Parc au bord de la rivière | ~20 min | Gratuit | ✅ |
+
+---
+
+#### J34 • 05/10/2026 — 🇸🇪 Umeå → Sundsvall → Stockholm (~440 km)
+
+**Trajet :** Umeå → Sundsvall → Gävle → Stockholm
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Umeå (matin) |
+| **Trajet** | E4 |
+| **Distance** | ~440 km (~5h) |
+| **Route** | ✅ Sans ferry |
+
+#### 🏛️ POIs sur le parcours
+
+| Arrêt | Dist. | Temps | À voir |
+|-------|:-----:|:-----:|--------|
+| 🏘️ **Sundsvall** | 120 km | 30 min | Centre-ville en pierre, architecture ✅ |
+| 🏘️ **Gävle** | 260 km | 30 min | Ville de la chèvre de Noël (Gävlebocken) ✅ |
+| 🏘️ **Uppsala** | 400 km | 1h | **Cathédrale d'Uppsala** (plus grande de Scandinavie) ✅ |
+| 🏆 **Stockholm** 🏆 | 440 km | — | **Capitale !** |
+
+---
+
+### 🗓️ Stockholm — 3 jours (J35-J37, 06→08/10)
+
+**Stationnement CC recommandé :** Camping Bredäng (bus 133 vers le centre, 20 min)
+
+#### 🏛️ Jour 1 (J35) — Gamla Stan & Cœur historique
+
+| POI | Description | Temps | Prix | Accès |
+|-----|------------|:-----:|:----:|:-----:|
+| 🏘️ **Gamla Stan** 🏆 | Vieille ville médiévale, ruelles pavées, la plus belle de Scandinavie | ~1h30 | Gratuit | ✅ |
+| 🏛️ **Palais Royal** | Résidence officielle, relève de la garde à 12h15 | ~1h | ~15 € | ✅ |
+| 🏛️ **Cathédrale Storkyrkan** | Mariages royaux, statue de Saint-Georges | ~20 min | ~5 € | ✅ |
+| 🏛️ **Musée Nobel** | Histoire du prix Nobel, exposition interactive | ~1h | ~12 € | ✅ |
+| 🏘️ **Riddarholmen** | Île voisine, église médiévale, vue magnifique | ~20 min | Gratuit | ✅ |
+
+#### 🏛️ Jour 2 (J36) — Musées & Culture
+
+| POI | Description | Temps | Prix | Accès |
+|-----|------------|:-----:|:----:|:-----:|
+| 🚢 **Musée Vasa** 🏆 | **Navire du XVIIe siècle incroyablement conservé** — le meilleur musée de Stockholm ! | ~2h | ~18 € | ✅ |
+| 🏛️ **Skansen** | Musée en plein air + zoo nordique (loups, ours, élans) | ~2h | ~20 € | ⚠️ Colline |
+| 🏛️ **ABBA Museum** | Interactif, chanter/danser avec ABBA | ~1h30 | ~25 € | ✅ |
+| 🎨 **Fotografiska** | Musée de la photo, super vue sur le port | ~1h | ~15 € | ✅ |
+
+#### 🏛️ Jour 3 (J37) — Archipel & Détente
+
+| POI | Description | Temps | Prix | Accès |
+|-----|------------|:-----:|:----:|:-----:|
+| 🛶 **Archipel de Stockholm** 🏆 | **30 000 îles !** Ferry au départ de Strömkajen | ~2-3h | ~25 € | ✅ Assis |
+| 🏘️ **Södermalm** | Quartier branché, vue depuis Monteliusvägen | ~1h | Gratuit | ✅ |
+| 🛍️ **Drottninggatan** | Rue piétonne commerçante | ~30 min | Gratuit | ✅ |
+| 🏛️ **Moderna Museet** | Art moderne, entrée gratuite (expos payantes) | ~1h | Gratuit/10 € | ✅ |
 | Stockholm → Malmö | 600 km | J38–J39 |
 | Malmö → Copenhague (pont Øresund) | 40 km | J39 |
 | Copenhague → Rødby (ferry) ou Pont | 200 km | J40 |
