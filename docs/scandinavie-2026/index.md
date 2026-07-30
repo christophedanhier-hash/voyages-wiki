@@ -161,12 +161,39 @@ flowchart LR
 
 | Info | Détail |
 |------|--------|
-| **Matin** | Réveil au Stellplatz, dernière visite de Rostock |
+| **Matin** | Réveil à Reizemobiland Mönchhagen |
 | **Embarquement** | Se présenter 1h avant (12h) à Rostock-Überseehafen |
 | **⛴️ Ferry** | **Stena Line** — Rostock → Trelleborg, 13h00, ~6-7h traversée |
 | **Réservation** | ✅ Déjà réservé |
 | **Arrivée** | ~19h-20h à Trelleborg (Suède) |
-| **Nuit du 02/09** | Suède — voir suite du roadbook |
+| **Nuit du 02/09** | 🅿️ Voir options ci-dessous |
+
+#### 🅿️ 3 options pour la nuit du 2 septembre (Trelleborg)
+
+**Option 1 ⭐ — Aire CC Vellinge (park4night)**
+| | |
+|:---|:---|
+| **Lieu** | Vellinge (à 17 km du port) |
+| **Distance** | 17 km — 17 min du ferry |
+| **Trouvé sur** | Park4Night |
+| **🚐 CC 7m** | ✅ Adapté |
+
+**Option 2 — Camping Nybostrand (Trelleborg)**
+| | |
+|:---|:---|
+| **Lieu** | Hummervägen 2, 231 92 Trelleborg |
+| **Distance** | 9 km du port — 13 min |
+| **Services** | ✅ Électricité, ✅ Douches, ✅ Eau, ✅ Vidange |
+| **Places** | 28 emplacements |
+| **Site** | [nybostrand.se](https://nybostrand.se/) |
+
+**Option 3 — Ellygården (Malmö sud, 15 €)**
+| | |
+|:---|:---|
+| **Lieu** | Entre Trelleborg et Malmö |
+| **Distance** | 27 km du port — 25 min |
+| **Prix** | 15 € / 150 SEK |
+| **Places** | 20 emplacements |
 
 ---
 
