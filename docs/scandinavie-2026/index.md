@@ -301,18 +301,56 @@ flowchart LR
 
 ---
 
-### Étape 3 : 🇸🇪 Göteborg → 🇳🇴 Stavanger → Fjords Ouest
-**~800 km · J5–J12 (06–12/09)**
+### J5 • Samedi 06/09/2026 — 🇳🇴 Drøbak → Drammen (Oslofjordtunnelen) → Heddal (~75 km)
 
-| Segment | Distance |
-|---------|:--------:|
-| Göteborg → Oslo (transit, sans arrêt) | 300 km |
-| Oslo → Stavanger | 450 km |
-| Stavanger → Bergen | 200 km |
+**Trajet :** Drøbak → Oslofjordtunnelen (gratuit ✅) → Drammen → Heddal
 
-**Transit Oslo :** Traversée sans arrêt. Possibilité pause déjeuner courte en périphérie.
+| Info | Détail |
+|------|--------|
+| **Départ** | Drøbak (matin) |
+| **⛰️ Oslofjordtunnelen** | Tunnel sous le fjord — **gratuit** (dette remboursée en 2013) |
+| **Trajet** | Drøbak → Drammen: 30 min ⛰️ → Heddal: 1h20 |
+| **Distance** | ~75 km (~1h30) |
+| **Arrivée** | Heddal (Notodden) — matinée |
 
-**Fjords — section reine du voyage :**
+#### 🏛️ Visite : Église de Heddal (Heddal stavkirke)
+
+| | |
+|:---|:---|
+| **📍** | Notodden, Telemark |
+| **🏆** | Plus grande **église en bois debout** (stavkirke) de Norvège |
+| **🪵** | XIIIe siècle, 3 nefs, toits en escalier, dragons sculptés |
+| **⏱** | ~1h de visite |
+| **✅** | Accessible, parking CC, entrée plain-pied |
+
+> Après la visite, cap vers **Stavanger** (~326 km, 5h30) ou étape à Haukeli/Seljord selon l'avancement
+
+---
+
+### J6-7 • 07-08/09/2026 — 🇳🇴 Heddal → Stavanger → Sauda → Odda
+
+**Trajet :** Heddal → Haukeli → Stavanger (visite) → Sauda → Odda
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Heddal/Notodden |
+| **Trajet** | E134 → Haukeli → Stavanger (~5h30) |
+| **Jour 2** | Stavanger → Sauda (~2h30) → Odda (~1h45) |
+| **Distance totale** | ~560 km (~2 jours de route) |
+
+| Arrêt | Distance | Temps | À voir |
+|-------|:-------:|:-----:|--------|
+| **Seljord** | 56 km | 1h20 | Village pittoresque, lac |
+| **Haukeli** | 104 km | 2h30 | Haut plateau, paysages sauvages |
+| **Stavanger** 🏆 | 261 km | 4h30 | 🥾 **Preikestolen**, Lysefjord, vieux quartier |
+| **Sauda** | 157 km | 2h30 | Fjord pittoresque, route spectaculaire |
+| **Odda** 🏔️ | 79 km | 1h45 | 🥾 **Trolltunga**, Sørfjord |
+
+> 💡 **Astuce :** La route Stavanger → Sauda → Odda longe les fjords — prévoir des arrêts photo, c'est magnifique !
+
+---
+
+### J8+ • Dès le 08/09 — 🥾 Les fjords (Stavanger, Preikestolen, Bergen, Flåm...)
 
 | Arrêt | Jour | Distance | POI |
 |-------|:----:|:--------:|-----|
