@@ -1086,18 +1086,77 @@ flowchart LR
 | 🏘️ **Södermalm** | Quartier branché, vue depuis Monteliusvägen | ~1h | Gratuit | ✅ |
 | 🛍️ **Drottninggatan** | Rue piétonne commerçante | ~30 min | Gratuit | ✅ |
 | 🏛️ **Moderna Museet** | Art moderne, entrée gratuite (expos payantes) | ~1h | Gratuit/10 € | ✅ |
-| Stockholm → Malmö | 600 km | J38–J39 |
-| Malmö → Copenhague (pont Øresund) | 40 km | J39 |
-| Copenhague → Rødby (ferry) ou Pont | 200 km | J40 |
-| ⛴️ Rødby → Puttgarden (Danemark → Allemagne) | 45 min ferry | J40 |
-| Hambourg → Gerpinnes | 580 km | J41–J42 |
+---
 
-**Stockholm — 3 jours sur le retour :**
-- 🏛️ **Musée Vasa** — navire du XVIIe siècle incroyablement préservé
-- 🏛️ **Skansen** — musée en plein air, zoo nordique
-- 🏛️ **Gamla Stan** — vieille ville, palais royal
-- 🛶 **Archipel de Stockholm** — excursion en bateau
-- 🅿️ **Camping Bredäng** — camping officiel, bus 133 vers le centre
+### J38-39 • 09-10/10/2026 — 🇸🇪 Stockholm → Malmö → Copenhague → 🇩🇰 Danemark
+
+**Trajet :** Stockholm → Malmö → Copenhague (pont Øresund ou ferry)
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Stockholm (matin J38) |
+| **Trajet** | E4 |
+| **Distance** | ~650 km (~8h) |
+| **Arrivée** | Copenhague ou région (J38-J39) |
+
+#### 🏛️ POIs sur le parcours
+
+| Arrêt | Dist. | Temps | À voir |
+|-------|:-----:|:-----:|--------|
+| 🏘️ **Jönköping** | 320 km | 30 min | Ville au bord du lac Vättern ✅ |
+| 🏘️ **Helsingborg** | 600 km | 30 min | Tour Kärnan, port, ferry vers Helsingør (option) ✅ |
+| 🌉 **Pont de l'Øresund** | 650 km | — | Malmö → Copenhague |
+
+---
+
+### 🌉 Option 1 : Pont de l'Øresund (Malmö → Copenhague)
+
+| | |
+|:---|:---|
+| **⏱** | 15 min de traversée |
+| **💰 CC 7m (6-10m)** | **364 DKK ≈ 49 €** (avec ØresundGO) |
+| | **930 DKK ≈ 125 €** (online ticket -10%) |
+| | **1 040 DKK ≈ 140 €** (au péage) |
+| **🌐** | oresundsbron.com |
+| **💡** | Pas de réservation nécessaire, paiement par carte au péage ou en ligne |
+
+> 💡 Avec le CC 7m (classe motorhome 6-10m), au péage standard c'est 140 €. Si tu prends un **ØresundGO** (abonnement gratuit 370 DKK/an ~50 €), chaque passage ne coûte que **49 €**. Pour un aller simple, prends un **online ticket** à ~125 €.
+
+---
+
+### ⛴️ Option 2 : Ferry Helsingør → Helsingborg
+
+| | |
+|:---|:---|
+| **⏱** | 20 min de traversée |
+| **💰 CC** | **~55 €** (HH Ferries) |
+| **🌐** | hhferries.com |
+| **💡** | Départ toutes les 15 min, pas de réservation nécessaire |
+
+---
+
+### ⛴️ Option 3 : Ferry Rødby → Puttgarden (Scandlines)
+
+| | |
+|:---|:---|
+| **⏱** | 45 min de traversée |
+| **💰 Standard online** | **~61 €** (si acheté 30j à l'avance) |
+| **💰 Au port** | **~111 €** |
+| **🌐** | scandlines.com |
+| **💡** | **Option économique** si tu prends direct par le sud depuis Stockholm (~850 km) |
+
+---
+
+### 🏛️ Copenhague (si passage par le pont Øresund)
+
+| POI | Description | Temps | Prix | Accès |
+|-----|------------|:-----:|:----:|:-----:|
+| 🏘️ **Nyhavn** 🏆 | Port coloré iconique, maisons du XVIIe siècle | ~30 min | Gratuit | ✅ |
+| 🧜 **Petite Sirène** | Statue emblématique d'Andersen | 15 min | Gratuit | ✅ |
+| 🏛️ **Tivoli** | Parc d'attractions historique (ouvert peut-être encore en oct.) | ~2h | ~20 € | ✅ |
+| 🌉 **Pont du Cercle** (Cirkelbroen) | Architecture moderne, quartier branché | 10 min | Gratuit | ✅ |
+
+> 💡 **Conseil :** Passe par le **pont de l'Øresund** (15 min, ~125 € online). C'est plus rapide que le ferry Rødby-Puttgarden (45 min, 61 €) mais il faut rajouter le détour par le sud du Danemark. Les deux options sont valables, tout dépend si tu veux voir Copenhague ou pas !
 
 > 🗺️ **Carte des POIs de Stockholm** : [cliquez ici](carte-stockholm.html)
 
