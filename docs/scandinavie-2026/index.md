@@ -197,22 +197,107 @@ flowchart LR
 
 ---
 
-### Étape 2 : 🇸🇪 Trelleborg → Suède Sud → Göteborg
-**~400 km · J2–J4 (03–05/09)**
+### J2 • Mercredi 03/09/2026 — 🇸🇪 Vellinge → Côte sud → Halmstad (~180 km)
 
-| Segment | Distance |
-|---------|:--------:|
-| Trelleborg → Malmö | 40 km |
-| Malmö → Göteborg | 280 km |
+**Trajet :** Vellinge → Malmö → Landskrona → Helsingborg → Halmstad
 
-**Malmö :** 30 min de Trelleborg. Pont de l'Øresund, quartier Västra Hamnen, Turning Torso.
+| Info | Détail |
+|------|--------|
+| **Départ** | Vellinge (matin) |
+| **Trajet** | Route côtière E6/E20 |
+| **Distance** | ~180 km (~2h30 sans arrêts) |
+| **Arrivée** | Halmstad ou alentours (selon avancement) |
 
-**Göteborg :** 2e ville de Suède, archipel magnifique. Aire de camping-car au **Liseberg Stellplatz**.
+#### 🏛️ POIs sur le parcours
 
-**POI Göteborg :**
-- 🏛️ Universeum (science center)
-- 🏝️ Archipel de Göteborg (ferry local)
-- 🎨 Musée d'Art de Göteborg
+**① Malmö** (30 min de Vellinge)
+- 🌉 **Pont de l'Øresund** — vue depuis Västra Hamnen, accessible
+- 🏛️ **Turning Torso** — gratte-ciel iconique (190m, photo depuis le parc)
+- 🏘️ **Gamla Väster** — vieux quartier, ruelles pavées, cafés
+- 🚶 Promenade portuaire accessible
+- ⏱ ~1h-1h30
+
+**② Landskrona**
+- 🏰 **Citadelle de Landskrona** — forteresse Renaissance (XVIe), parc accessible
+- ⏱ ~30-45 min
+
+**③ Helsingborg**
+- 🏛️ **Kärnan** — tour médiévale, vue panoramique sur le détroit (courte montée)
+- 🚶 **Norra Hamnen** — promenade portuaire moderne, restaurants
+- ⏱ ~1h
+
+**④ Mölle & Kullaberg** (option — 15 km détour)
+- 🏠 **Village de pêcheurs** pittoresque, carte postale
+- 🏛️ **Kullagården** — petit musée local
+- ⏱ ~1h
+
+**⑤ Halmstad** (arrivée possible en fin de journée)
+- 🏘️ Vieux centre, port, plage
+
+---
+
+### J3 • Jeudi 04/09/2026 — 🇸🇪 Halmstad → Göteborg (~150 km)
+
+**Trajet :** Halmstad → Varberg → Falkenberg → Göteborg
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Halmstad ou région (matin) |
+| **Trajet** | Route côtière E6/E20 |
+| **Distance** | ~150 km (~2h sans arrêts) |
+| **Arrivée** | Göteborg (midi/après-midi) |
+
+#### 🏛️ POIs sur le parcours
+
+**① Varberg**
+- 🏰 **Forteresse de Varberg** (XIVe) — musée accessible, vue mer
+- 🚶 Plage d'Apelviken
+- ⏱ ~1h
+
+**② Falkenberg**
+- 🌉 Vieux pont en pierre, centre-ville pittoresque
+- ⏱ ~30 min
+
+**③ Göteborg** — **cap de la journée** (arrivée midi/après-midi)
+
+| POI | Description | Temps |
+|-----|------------|:-----:|
+| 🏛️ **Universeum** | Centre scientifique (accessible) | ~2h |
+| 🎨 **Musée d'Art de Göteborg** | Collections nordiques (accessible) | ~1h30 |
+| 🏝️ **Archipel de Göteborg** | Ferry local 30 min, îles accessibles | ~2-3h |
+| 🏘️ **Haga** | Quartier pittoresque, boutiques, cafés | ~1h |
+| 🛳️ **Feskekôrka** | Marché aux poissons (église des poissons) | ~30 min |
+
+> 🅿️ Aire CC possible au **Liseberg Stellplatz**
+
+---
+
+### J4 • Vendredi 05/09/2026 — 🇸🇪 Göteborg → 🇳🇴 Drøbak (~220 km)
+
+**Trajet :** Göteborg → frontière norvégienne → Oslo → Drøbak
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Göteborg (matin) |
+| **Trajet** | E6 → passage frontière à Svinesund |
+| **Distance** | ~220 km (~3h sans arrêts) |
+| **Arrivée** | Drøbak (fin d'après-midi) |
+
+#### 🏛️ POIs sur le parcours
+
+**① Svinesund** (frontière 🇸🇪→🇳🇴)
+- 🌉 **Pont de Svinesund** — vue magnifique sur le fjord
+- 🛍️ **Shopping détaxé** — alcool, tabac, viande (bien moins cher qu'en Norvège !)
+- ⏱ ~30 min
+
+**② Drøbak** 🎄 — **destination du jour**
+| POI | Description | Temps |
+|-----|------------|:-----:|
+| 🎅 **Poste du Père Noël** | Drøbak = ville de Noël officielle norvégienne ! | ~30 min |
+| 🏘️ **Vieux port** | Maisons colorées, ambiance pittoresque | ~1h |
+| 🏛️ **Forteresse d'Oscarsborg** | Forteresse sur îlot (ferry 5 min) | ~1-2h |
+
+> 💡 Drøbak est réputée comme **la ville de Noël de Norvège** — ambiance chaleureuse, boutiques de Noël ouvertes toute l'année
 
 ---
 
