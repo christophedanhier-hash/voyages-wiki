@@ -576,19 +576,91 @@ flowchart LR
 | 🏘️ **Bakklandet** | Quartier pittoresque, maisons en bois colorées, cafés | ~1h | ✅ |
 | 🏘️ **Vieux pont (Gamle Bybro)** | Pont en bois iconique sur la rivière Nidelva | 15 min | ✅ |
 | 🎨 **Rockheim** | Musée national de la musique pop norvégienne | ~1h | ✅ |
-| ⛰️ **Tyholttårnet** | Tour avec restaurant tournant, vue panoramique | 30 min | ✅ Ascenseur |
+---
 
-**Lofoten — 5-6 jours minimum :**
+### 🗓️ 3 jours : Trondheim → Côte panoramique → Bodø (J14-J16, ~700 km)
 
-| Lieu | Nuits | Activités |
-|------|:-----:|-----------|
-| **Å i Lofoten** | 1 | Village de pêcheurs, randonnée |
-| **Reine** | 2 | Randonnée Reinebringen (vue iconique) |
-| **Henningsvær** | 1 | Stade de foot sur îlot |
-| **Kabelvåg** | 1 | Musée Lofoten, randonnée |
-| **Svolvær** | 1 | Randonnée Svolværgeita |
+---
 
-**Conseil van 6.5m :** Routes étroites mais praticables. Éviter les petits villages en haute saison (septembre OK). Campings : **Reine Rorbuer**, **Å Rorbuer**.
+#### J14 • 15/09/2026 — 🇳🇴 Trondheim → Mosjøen (route côtière, ~390 km)
+
+**Trajet :** Trondheim → Steinkjer → Namsos → Brønnøysund → Mosjøen
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Trondheim (matin) |
+| **Trajet** | Route côtière E6 (option Kystriksveien route 17) |
+| **Distance** | ~390 km (~6h30) |
+| **Route** | ✅ Sans ferry |
+
+#### 🏛️ POIs sur le parcours
+
+| Arrêt | Dist. | Temps | À voir |
+|-------|:-----:|:-----:|--------|
+| 🏘️ **Steinkjer** | 80 km | 20 min | Petite ville côtière ✅ |
+| 🏘️ **Namsos** | 130 km | 30 min | Port de pêche, ambiance ✅ |
+| 🏔️ **Torghatten** 🏆 | 270 km | 30 min | **Montagne avec un trou naturel** (percé par la glace) — vue depuis le parking ✅ |
+| 🏛️ **Brønnøysund** | 280 km | — | Petite ville-port ✅ |
+| 🏘️ **Mosjøen** | 390 km | — | Arrivée, vieille ville ✅ |
+
+> 💡 **Torghatten** — montagne emblématique avec un trou naturel de 160m de long. Parking au pied, vue magnifique sans monter !
+
+---
+
+#### J15 • 16/09/2026 — 🇳🇴 Mosjøen → Fauske (~260 km)
+
+**Trajet :** Mosjøen → Mo i Rana → Saltfjellet → Fauske
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Mosjøen (matin) |
+| **Trajet** | E6 — route côtière et montagne |
+| **Distance** | ~260 km (~4h) |
+| **Route** | ✅ Sans ferry |
+
+#### 🏛️ POIs sur le parcours
+
+| Arrêt | Dist. | Temps | À voir |
+|-------|:-----:|:-----:|--------|
+| 🏛️ **Mo i Rana** | 90 km | 1h | Musée polaire, maison du Père Noël nordique ✅ |
+| ⛰️ **Saltfjellet** | 160 km | — | **Plateau montagneux**, traverse le cercle polaire arctique ! 🏆 |
+| 🌉 **Saltstraumen** | 250 km | 30 min | **Plus fort maelström du monde** — courant d'eau spectaculaire ✅ pont vue |
+| 🏘️ **Fauske** | 260 km | — | Dernière ville avant Bodø ✅ |
+
+> 🏆 **Cercle polaire arctique** à Saltfjellet (66°33'N) — arrêt photo obligatoire ! Passage du sud au nord.
+
+---
+
+#### J16 • 17/09/2026 — 🇳🇴 Fauske → Bodø → Ferry → Værøy → Moskenes (Lofoten)
+
+**Trajet :** Fauske → Bodø → ⛴️ Ferry → Værøy → Lofoten
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Fauske (matin) |
+| **Trajet** | Fauske → Bodø (route, 1h) → ⛴️ **Ferry vers Lofoten** |
+| **Distance route** | ~55 km (~1h) |
+| **⛴️ Ferry** | Bodø → Værøy → Røst → **Moskenes** (Lofoten) |
+| **Compagnie** | Torghatten Nord / Norled |
+
+##### 🏛️ Bodø
+
+| POI | Description | Temps |
+|-----|------------|:-----:|
+| 🏛️ **Musée de l'aviation** | Avions civils et militaires ✅ | ~1h |
+| 🏘️ **Centre-ville** | Port, boutiques ✅ | ~30 min |
+| 🏝️ **Saltstraumen** | Maelström (20 min de route, si pas vu la veille) | ~30 min |
+
+##### ⛴️ Ferry Bodø → Lofoten (via Værøy)
+
+| Info | Détail |
+|:-----|--------|
+| **Port départ** | Bodø ferjekai |
+| **Escales** | Værøy (île) → Røst → **Moskenes** (Lofoten) |
+| **Durée** | ~5-6h avec escales |
+| **Billet** | Réserver à l'avance sur **torghatten-nord.no** ou **norled.no** |
+| **CC 7m** | ✅ OK, réserver place |
+| **Arrivée** | **Moskenes** en fin d'après-midi — aux portes des Lofoten ! 🏆
 
 ---
 
