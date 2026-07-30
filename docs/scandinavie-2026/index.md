@@ -1,8 +1,8 @@
 # Scandinavie 2026 🚐🇪🇺🇩🇪🇸🇪🇳🇴
 
-**🔒 Privé** · 02/09/2026 → 31/10/2026 · ~61 jours · ~9,000 km estimés · 🇧🇪 🇩🇪 🇸🇪 🇳🇴
+**🔒 Privé** · 31/08/2026 → 31/10/2026 · ~62 jours · ~9,000 km estimés · 🇧🇪 🇩🇪 🇸🇪 🇳🇴
 
-**⛴️ Ferry réservé :** Rostock → Trelleborg (Stena Line) — 02/09 à 14h
+**⛴️ Ferry réservé :** Rostock → Trelleborg (Stena Line) — 02/09 à 13h
 
 ---
 
@@ -11,11 +11,13 @@
 | | |
 |:---|:---|
 | **Voyageurs** | Pascal & Agnès |
-| **Véhicule** | Camping-car (précisez taille) |
+| **Véhicule** | Camping-car 7m × 2,20m (h. 2,80m) |
 | **Mobilité** | Max 5 km/j à pied |
 | **Nala** | Pas de chien |
 | **Équipement** | À préciser |
 | **Camping** | Allemansrätten 🇸🇪🇳🇴 possible — camping sauvage autorisé |
+| **Départ** | Gerpinnes le 31/08 — Étape 1 vers Bielefeld (~400 km) |
+| **Arrivée Rostock** | 01/09 — Nuit près du port |
 
 
 ---
@@ -46,13 +48,13 @@ _Roadbook préparatoire — Premier test du Bureau Sylvia (BAVI LEO)_
 
 | | |
 |:---|---:|
-| **Départ** | Belgique (à préciser) |
+| **Départ** | Gerpinnes le 31/08 |
 | **Véhicule** | Camping-car — 2 personnes |
-| **Durée** | ~61 jours (2 mois) |
-| **Période** | 2 septembre → 31 octobre 2026 |
+| **Durée** | ~62 jours (2 mois) |
+| **Période** | 31 août → 31 octobre 2026 |
 | **Distance estimée** | ~9,000 km |
 | **Pays** | 🇧🇪 Belgique → 🇩🇪 Allemagne → 🇸🇪 Suède → 🇳🇴 Norvège → 🇩🇰 Danemark → 🇩🇪 Allemagne → 🇧🇪 |
-| **⛴️ Ferry** | Rostock → Trelleborg (02/09 14h) — ✅ Réservé |
+| **⛴️ Ferry** | Rostock → Trelleborg (02/09 13h) — ✅ Réservé |
 | **Budget estimé** | ~5,000–6,000 € (85–100 €/jour)
 
 ---
@@ -88,20 +90,83 @@ flowchart LR
 
 **Légende :** 🔴 Trajet aller — 🔵 Trajet retour (pointillés) — ⛴️ Ferry Rostock→Trelleborg
 
-### Étape 1 : 🇧🇪 Gerpinnes → 🇩🇪 Rostock → ⛴️ Ferry
-**~620 km + ferry 7h · J1 (02/09)**
+---
+
+### J-2 • Dimanche 31/08/2026 — 🇧🇪 Gerpinnes → Bielefeld (≈400 km)
 
 | Info | Détail |
 |------|--------|
-| **Départ** | Gerpinnes, Belgique |
-| **Trajet** | E42 → A61 → A1 (Köln → Bremen → Hambourg → Rostock) |
-| **⛴️ Ferry** | **Rostock → Trelleborg** — Stena Line, 14h00, ~6-7h traversée |
-| **Réservation** | ✅ **Déjà réservé** |
-| **Arrivée** | Trelleborg (Suède) en soirée |
+| **Départ** | Gerpinnes (matin) |
+| **Objectif** | ≈400 km pour la journée |
+| **Arrivée** | Région de Bielefeld / Rietberg / Osnabrück |
+| **Nuit du 31/08** | 🅿️ Voir options ci-dessous |
 
-**Ferry Rostock–Trelleborg :** Navire Stena Line, cabine possible si réservé. Van 6.50m OK, hauteur max standard. Se présenter 1h avant à Rostock-Überseehafen.
+#### 🅿️ 3 options pour la nuit du 31 août
 
-**Conseil :** Arriver à Rostock en milieu de matinée (départ Gerpinnes vers 5-6h). Possibilité de visiter rapidement Rostock (centre historique, Warnemünde) avant l'embarquement.
+**Option 1 ⭐ — Wohnmobilstellplatz Rietberg (GRATUIT)**
+| | |
+|:---|:---|
+| **Prix** | **Gratuit** ✅ |
+| **Lieu** | Rottwiese, Rietberg (près Bielefeld) |
+| **Distance** | 380 km de Gerpinnes (~4h) |
+| **Services** | ✅ Eau potable, ✅ Vidange |
+| **Électricité** | ❌ Non |
+| **Contact** | +49 5244 986201 — info@stadt-rietberg.de |
+| **Site** | rietberg.de/tourismus |
+
+**Option 2 — Hohen Hagen (5 €)**
+| | |
+|:---|:---|
+| **Prix** | **5 €** |
+| **Distance** | 359 km de Gerpinnes (~3h55) |
+| **Services** | ✅ Électricité, ✅ Eau potable |
+| **Places** | 6 places |
+| **Site** | hohenhagen.de |
+
+**Option 3 — Wohnmobilpark Osnabrücker Land (payant)**
+| | |
+|:---|:---|
+| **Prix** | Payant |
+| **Distance** | 427 km de Gerpinnes (~4h25) |
+| **Services** | ✅ Électricité, ✅ Douches, ✅ Eau, ✅ Vidange |
+| **Places** | 35 places |
+| **Site** | campotel.de |
+
+---
+
+### J-1 • Lundi 01/09/2026 — Bielefeld → Rostock (≈450 km)
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Région Bielefeld (matin) |
+| **Trajet** | A1 → A7 → Rostock |
+| **Distance** | ~430-470 km selon option (~4h30-5h) |
+| **Arrivée** | Début/mi après-midi |
+| **Nuit du 01/09** | 🅿️ Voir options ci-dessous |
+
+#### 🅿️ Nuit du 1er septembre — **Reizemobiland Mönchhagen** ⭐
+
+| | |
+|:---|:---|
+| **Lieu** | Mönchhagen (près Rostock) |
+| **Distance** | ~15 km du port de ferry — 18 min en CC |
+| **Trouvé sur** | Park4Night |
+| **🚐 CC 7m** | ✅ Adapté |
+
+> 🅿️ **Info Park4Night :** Stellplatz calme, bien situé pour l'embarquement du lendemain. Arrivée dans l'après-midi du 1er septembre.
+
+---
+
+### J1 • Mardi 02/09/2026 — ⛴️ Rostock → Trelleborg (ferry 13h)
+
+| Info | Détail |
+|------|--------|
+| **Matin** | Réveil au Stellplatz, dernière visite de Rostock |
+| **Embarquement** | Se présenter 1h avant (12h) à Rostock-Überseehafen |
+| **⛴️ Ferry** | **Stena Line** — Rostock → Trelleborg, 13h00, ~6-7h traversée |
+| **Réservation** | ✅ Déjà réservé |
+| **Arrivée** | ~19h-20h à Trelleborg (Suède) |
+| **Nuit du 02/09** | Suède — voir suite du roadbook |
 
 ---
 
