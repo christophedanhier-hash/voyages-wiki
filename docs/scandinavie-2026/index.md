@@ -664,16 +664,104 @@ flowchart LR
 
 ---
 
-### Étape 5 : 🇳🇴 Lofoten → Tromsø → Cap Nord
-**~800 km · J24–J30 (24–30/09)**
+### 🗓️ Lofoten — 5 jours (J17-J21, 17→21/09)
 
-| Segment | Distance |
-|---------|:--------:|
-| Lofoten → Tromsø (ferry) | 250 km |
-| Tromsø → Alta | 400 km |
-| Alta → Cap Nord | 200 km |
+**Arrivée ferry :** Moskenes (extrémité sud) → **Remontée vers le nord** jusqu'à Svolvær
 
-**Ferry :** Lofoten → Tromsø. Réserver via **Torghatten Nord**.
+| Jour | Date | Base | À voir |
+|:----:|:----:|------|--------|
+| **J17** | 17/09 (soir) | Arrivée ferry → **Å / Moskenes** | Installation, balade au port |
+| **J18** | 18/09 | **Å → Reine** | Village de pêcheurs, Reinebringen, Hamnøy |
+| **J19** | 19/09 | **Reine → Henningsvær** | Stade de foot sur îlot, galeries d'art |
+| **J20** | 20/09 | **Henningsvær → Kabelvåg → Svolvær** | Musée Lofoten, rando Svolværgeita |
+| **J21** | 21/09 | **Svolvær + plages nord** | Plage d'Eggum, Utakleiv, aurores possibles |
+
+---
+
+#### J17 • 17/09 — 🏘️ Moskenes / Å (arrivée ferry)
+
+| Info | Détail |
+|------|--------|
+| **⛴️ Arrivée ferry** | Moskenes vers 17h-18h |
+| **Distance** | Moskenes → **Å** = 5 km |
+| **Nuit** | Å ou Moskenes |
+
+| POI | Description | Temps | Accès |
+|-----|------------|:-----:|:-----:|
+| 🏘️ **Å i Lofoten** 🏆 | **Le village le plus iconique** — maisons de pêcheurs rouges (rorbuer), port, séchoirs à morue, musée du poisson séché | ~1h | ✅ Accessible |
+| 🏛️ **Musée du Stockfish** | Histoire de la pêche à la morue (industrie principale des Lofoten) | ~30 min | ✅ |
+| 🌊 **Port d'Å** | Bateaux colorés, montagnes en fond | — | ✅ |
+
+> 💡 **Å** se prononce "O" — c'est le dernier village au sud des Lofoten, magnifique au coucher du soleil !
+
+---
+
+#### J18 • 18/09 — 🏘️ Reine & Hamnøy (le plus beau point de vue)
+
+| Info | Détail |
+|------|--------|
+| **Trajet** | Å → **Reine** (10 km) |
+| **Distance** | ~10 km |
+| **Nuit** | Reine |
+
+| POI | Description | Temps | Accès |
+|-----|------------|:-----:|:-----:|
+| 🌅 **Pont de Reine** 🏆 | **Vue iconique des Lofoten** — carte postable parfaite ! | 15 min | ✅ Parking |
+| 🏘️ **Reine centre** | Village de pêcheurs, boutiques d'artisanat | ~30 min | ✅ |
+| 🏘️ **Hamnøy** 🏆 | Village voisin, **encore plus photogénique** que Reine avec ses rorbuer et le pont rouge | ~30 min | ✅ |
+| 🥾 **Reinebringen** | 🤚 Randonnée raide — vue panoramique (si envie et bonne forme) | ~2h AR | ❌ Difficile |
+| 🛶 **Croisière Reinefjorden** | Bateau dans le fjord entre montagnes | ~1h30 | ✅ Assis |
+
+> 📸 **Hamnøy** — au coucher du soleil, c'est le spot photo numéro 1 des Lofoten !
+
+---
+
+#### J19 • 19/09 — 🏘️ Henningsvær (le stade sur l'îlot)
+
+| Info | Détail |
+|------|--------|
+| **Trajet** | Reine → **Henningsvær** |
+| **Distance** | ~65 km (~1h15) |
+| **Nuit** | Henningsvær |
+
+| POI | Description | Temps | Accès |
+|-----|------------|:-----:|:-----:|
+| ⚽ **Henningsvær Stadion** 🏆 | **Stade de foot sur un îlot** — l'image la plus virale des Lofoten ! Parking accessible ✅ | 20 min | ✅ |
+| 🏘️ **Henningsvær centre** | Village de pêcheurs animé, galeries d'art, cafés | ~1h | ✅ |
+| 🎨 **Galleri Lofoten** | Expositions d'art local | ~30 min | ✅ |
+| 🐟 **Séchoirs à morue** | Tradition séculaire — encore actif en sept ! | 15 min | ✅ |
+
+> ⚽ **Le stade d'Henningsvær** — terrain de foot posé sur un îlot rocheux. L'endroit le plus Instagrammé de Norvège !
+
+---
+
+#### J20 • 20/09 — 🏘️ Kabelvåg → Svolvær
+
+| Info | Détail |
+|------|--------|
+| **Trajet** | Henningsvær → Kabelvåg → **Svolvær** |
+| **Distance** | ~25 km (~30 min) |
+| **Nuit** | Svolvær |
+
+| POI | Description | Temps | Accès |
+|-----|------------|:-----:|:-----:|
+| 🏛️ **Musée des Lofoten** (Kabelvåg) | Histoire des Lofoten, pêche, guerre | ~1h | ✅ |
+| 🏘️ **Kabelvåg** | Plus vieux village de pêche, église en bois | ~30 min | ✅ |
+| 🏛️ **Cathédrale des Lofoten** (Svolvær) | Église en bois iconique (Vågan kirke) | 15 min | ✅ |
+| 🏘️ **Svolvær centre** | Capitale des Lofoten, port, boutiques, restaurants | ~1h | ✅ |
+| 🥾 **Svolværgeita** | 🤚 Randonnée (pas pour vous — marche difficile) | — | ❌ |
+
+---
+
+#### J21 • 21/09 — 🏝️ Plages nord & aurores (Svolvær)
+
+| POI | Description | Temps | Accès |
+|-----|------------|:-----:|:-----:|
+| 🏖️ **Plage d'Eggum** | Plage blanche dans un cadre montagneux — magnifique en septembre | ~45 min | ✅ parking |
+| 🏖️ **Utakleiv** | Plage classée parmi les plus belles du monde | ~30 min | ✅ |
+| 🌌 **Aurores boréales** 🏆 | **Mi-septembre** = saison des aurores ! Possible dès la nuit à Svolvær | — | ✅ ciel dégagé |
+
+> 🌌 **Mi-septembre aux Lofoten** = nuits assez longues et sombres pour voir les aurores boréales dès 21h-22h. Trouve un spot dégagé loin des lumières !
 
 **Tromsø** (J27-28) :
 - 🏛️ Cathédrale Arctique
