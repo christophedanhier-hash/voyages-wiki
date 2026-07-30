@@ -282,7 +282,7 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 > 🗺️ **Carte interactive des Pouilles** — Camp de base (Monopoli), sites à pied, excursions en voiture et restaurants :
 > <iframe src="carte-monopoli-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
 
-**🚗 Location voiture :** Sunny Cars réservation **#15253750** — 5 jours (Lun 21 → Ven 25/9). Idéal pour rayonner : Alberobello, Ostuni, Lecce, Matera à portée.
+**🚗 Location voiture :** Sunny Cars réservation **#15253750** — 5 jours (Lun 21 → Ven 25/9). ✅ **Voucher reçu le 28/07/2026** — paiement 386,00 € confirmé. Idéal pour rayonner : Alberobello, Ostuni, Lecce, Matera à portée.
 
 **📋 Organisation du séjour :**
 
@@ -627,7 +627,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 > 🗺️ **Carte interactive du Lac de Garde** — Camp de base, rives sud/est/nord et excursion Vérone :
 > <iframe src="carte-garde-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
 
-**🚐 CC :** Garé au camping. Location voiture Sunny Cars **#15253704** — **gardée** (5 jours, Lun 5 → Ven 9/10).
+**🚐 CC :** Garé au camping. Location voiture Sunny Cars **#15253704** (293,00 €) — ✅ **Voucher reçu le 28/07/2026** — **gardée** (5 jours, Lun 5 → Ven 9/10).
 
 > 💡 **Alternative sans voiture ?** Le Lac de Garde est bien desservi en **ferry** ⛴️ et **train** 🚄. Voir section dédiée plus bas.
 
@@ -879,7 +879,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 - **Camping Village Led Zeppelin (Cupra Marittima)** : étape repos à 10 min de San Benedetto del Tronto. Piazzola camper 65 m² avec électricité. Hauteur max 3,05m ✅. Piscine, plage, restaurant. Ouvert jusqu'au 30/09. ⏳ **Pas de réservation possible pour 1 nuit** — walk-in accepté. Mail de remerciement + confirmation envoyé le 08/07/2026 ✅. 🏕️
 - **Camping Europa Village (Cavallino)** : réservé via Sandaya (N°06426005202000), payé ✔️. Accès Venise : bus + ferry ACTV (45 min). 4 nuits, 3 jours pleins. Voir section Venise dédiée 🛶
 - **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte 140,40 € payé le 14/01/2026. Solde ~327,60 €. Piscine, plage. Location vélos sur place. Sunny Cars #15253704 (5j). Voir section dédiée 🚗🚶
-- **Location voiture** : prévue 2 fois (Pouilles + Lac de Garde) via Sunny Cars (réservations #15253750 et #15253704)
+- **Location voiture** : prévue 2 fois (Pouilles + Lac de Garde) via Sunny Cars — ✅ **Vouchers reçus le 28/07/2026** pour les deux réservations (#15253750 Pouilles: 386€ et #15253704 Lac de Garde: 293€). Paiement total : 679€
 - **⚠️ Attention hauteur CC 2,5m** : vérifier les parkings souterrains et entrées de ville. Florence ZTL interdite au CC. Parkings conseillés en périphérie (Scandicci, Villa Costanza)
 
 ---
