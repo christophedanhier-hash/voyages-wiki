@@ -761,18 +761,102 @@ flowchart LR
 | 🏖️ **Utakleiv** | Plage classée parmi les plus belles du monde | ~30 min | ✅ |
 | 🌌 **Aurores boréales** 🏆 | **Mi-septembre** = saison des aurores ! Possible dès la nuit à Svolvær | — | ✅ ciel dégagé |
 
-> 🌌 **Mi-septembre aux Lofoten** = nuits assez longues et sombres pour voir les aurores boréales dès 21h-22h. Trouve un spot dégagé loin des lumières !
+---
 
-**Tromsø** (J27-28) :
-- 🏛️ Cathédrale Arctique
-- 🌌 Possibilité d'aurores boréales fin septembre !
-- ☕ Polar Museum
+### 🗓️ 3 jours : Lofoten → Senja → Tromsø (J22-J24)
 
-**Cap Nord (Nordkapp)** (J30-32) :
-- 🌍 71°10'21" N — le point le plus septentrional d'Europe
-- 🏛️ Nordkapphallen (musée, film panoramique)
-- 🅿️ Parking payant (~60 € van). Arriver tôt.
-- 🌅 **Soleil de minuit** fin août → **Aurores boréales** possible fin septembre !
+---
+
+#### J22 • 22/09/2026 — 🇳🇴 Svolvær (Lofoten) → Senja (~380 km)
+
+**Trajet :** Svolvær → route côtière → Finnsnes → Senja
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Svolvær (matin) |
+| **Trajet** | Route côtière vers le nord |
+| **Distance** | ~380 km (~6h30) |
+| **Route** | ✅ Sans ferry |
+
+**Arrivée sur Senja en fin d'après-midi** — début du tour de l'île
+
+---
+
+#### J23 • 23/09/2026 — 🇳🇴 Tour de l'île de Senja 🏆
+
+**Trajet :** Tour complet (Bergsbotn → Tungeneset → Ersfjord → Gryllefjord → Husøy)
+
+| Info | Détail |
+|------|--------|
+| **Trajet** | Route 86 → 862 (tour de l'île) |
+| **Distance** | ~200 km de route (~4h avec arrêts) |
+| **Route** | ✅ Sans ferry |
+
+#### 🏛️ POIs Senja (les incontournables)
+
+| POI | Description | Prix | Accès |
+|-----|------------|:----:|:-----:|
+| 🌅 **Bergsbotn** 🏆 | **Plateforme panoramique** en porte-à-faux — vue à couper le souffle sur le fjord | **Gratuit** ✅ | Parking au pied |
+| 🏖️ **Ersfjord beach** | Plage de sable blanc et eau turquoise (surprenant pour la Norvège !) | **Gratuit** ✅ | Parking |
+| 🏛️ **Tungeneset** | Plateforme vue sur les îlots rocheux, coucher de soleil | **Gratuit** ✅ | Parking |
+| 🏘️ **Husøy** | Village de pêcheurs sur une île ronde, accessible par une chaussée | **Gratuit** ✅ |
+| 🏘️ **Gryllefjord** | Port coloré, vue sur les montagnes | **Gratuit** ✅ |
+| 🏛️ **Skaland** | Plus grande commune de Senja, église en bois | **Gratuit** ✅ |
+| ⛰️ **Storsegla** | Point de vue panoramique (petite marche) | **Gratuit** ⚠️ |
+
+> 💡 **Senja** est surnommée « la Norvège en miniature » — falaises abruptes, plages idylliques, fjords, tout y est !
+
+---
+
+#### J24 • 24/09/2026 — 🇳🇴 Senja → Tromsø (~210 km)
+
+**Trajet :** Senja → Finnsnes → Tromsø
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Senja (matin) |
+| **Trajet** | Route 86 → E6 → E8 |
+| **Distance** | ~210 km (~3h30) |
+| **Route** | ✅ Sans ferry |
+
+**Arrivée à Tromsø en début d'après-midi**
+
+#### 🏛️ Tromsø
+
+| POI | Description | Temps | Prix | Accès |
+|-----|------------|:-----:|:----:|:-----:|
+| 🏛️ **Cathédrale Arctique** | Architecture moderne iconique, vitrail monumental | ~30 min | ~5 € | ✅ |
+| 🌌 **Polar Museum** | Histoire des expéditions polaires, chasse à l'ours | ~1h | ~10 € | ✅ |
+| 🏛️ **Tromsø bibliotek** | Bibliothèque magnifique, vue sur le port | 15 min | Gratuit | ✅ |
+| 🏘️ **Centrum** | Plus de pubs par habitant que nulle part ailleurs ! | ~30 min | Gratuit | ✅ |
+| 🌌 **Aurores boréales** 🏆 | **Fin septembre = saison parfaite !** Au nord de la Norvège | — | Gratuit | ✅ ciel noir |
+
+> 🌌 **Tromsø** est l'un des meilleurs endroits au monde pour voir les aurores boréales. Fin septembre, les nuits sont suffisamment sombres dès 20h-21h !
+
+---
+
+### J25-26 • 25-26/09/2026 — 🇳🇴 Tromsø → Alta → Cap Nord (~600 km)
+
+**Trajet :** Tromsø → Alta → Cap Nord (Nordkapp)
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Tromsø (matin J25) |
+| **Trajet** | E6 → E69 |
+| **Distance** | ~600 km (~9h au total) |
+| **Route** | ✅ Sans ferry |
+| **Arrivée** | Cap Nord fin J26 |
+
+| Segment | Distance | Temps | À voir |
+|---------|:-------:|:-----:|--------|
+| Tromsø → **Alta** | 400 km | 6h30 | 🏛️ Alta Museum (gravures rupestres UNESCO) |
+| Alta → **Cap Nord** 🏆 | 200 km | 3h | 🌍 **71°10' N — le toit de l'Europe !** |
+
+| POI | Description | Prix | Accès |
+|-----|------------|:----:|:-----:|
+| 🌍 **Cap Nord (Nordkapp)** 🏆 | **Point le plus septentrional d'Europe accessible en CC** | ~60 € parking 🅿️ | ✅ |
+| 🏛️ **Nordkapphallen** | Musée, film panoramique, chapelle | Inclus parking | ✅ |
+| 🏛️ **Alta Museum** | Gravures rupestres préhistoriques (UNESCO) | ~12 € | ✅
 
 ---
 
