@@ -327,37 +327,138 @@ flowchart LR
 
 ---
 
-### J6-7 • 07-08/09/2026 — 🇳🇴 Heddal → Stavanger → Sauda → Odda
-
-**Trajet :** Heddal → Haukeli → Stavanger (visite) → Sauda → Odda
-
-| Info | Détail |
-|------|--------|
-| **Départ** | Heddal/Notodden |
-| **Trajet** | E134 → Haukeli → Stavanger (~5h30) |
-| **Jour 2** | Stavanger → Sauda (~2h30) → Odda (~1h45) |
-| **Distance totale** | ~560 km (~2 jours de route) |
-
-| Arrêt | Distance | Temps | À voir |
-|-------|:-------:|:-----:|--------|
-| **Seljord** | 56 km | 1h20 | Village pittoresque, lac |
-| **Haukeli** | 104 km | 2h30 | Haut plateau, paysages sauvages |
-| **Stavanger** 🏆 | 261 km | 4h30 | 🥾 **Preikestolen**, Lysefjord, vieux quartier |
-| **Sauda** | 157 km | 2h30 | Fjord pittoresque, route spectaculaire |
-| **Odda** 🏔️ | 79 km | 1h45 | 🥾 **Trolltunga**, Sørfjord |
-
-> 💡 **Astuce :** La route Stavanger → Sauda → Odda longe les fjords — prévoir des arrêts photo, c'est magnifique !
+### 🗓️ 3 jours : Heddal → Stavanger → Sauda → Odda (J6-J8, ~560 km)
 
 ---
 
-### J8+ • Dès le 08/09 — 🥾 Les fjords (Stavanger, Preikestolen, Bergen, Flåm...)
+#### J6 • 07/09 — 🇳🇴 Heddal → Stavanger (~330 km, 5h30)
 
-| Arrêt | Jour | Distance | POI |
-|-------|:----:|:--------:|-----|
-| **Stavanger** | J8 | — | 🥾 Preikestolen (chaire), Lysefjord |
-| **Bergen** | J10 | 200 km | 🏘️ Bryggen (UNESCO), Marché au poisson |
-| **Flåm** | J11 | 170 km | 🚂 Chemin de fer de Flåm, Sognefjord |
-| **Geiranger** | J13 | 300 km | 🌊 Geirangerfjord (UNESCO), Trollstigen |
+**Trajet :** Heddal → Seljord → Haukeli → Stavanger (route E134, sans ferry ✅)
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Heddal/Notodden (matin) |
+| **Trajet** | E134 — route de montagne |
+| **Distance** | ~326 km (~5h30) |
+| **Route** | ✅ Sans ferry, belvédères panoramiques |
+
+##### 🏛️ POIs sur le parcours
+
+| Arrêt | Dist. | Temps | À voir |
+|-------|:-----:|:-----:|--------|
+| **Seljord** | 56 km | 1h20 | Lac pittoresque, vieux centre ✅ accessible |
+| **Haukeli** | 104 km | 2h30 | ⛰️ Haut plateau montagneux, paysages sauvages, arrêt photo |
+| **Stavanger** 🏆 | 261 km | 4h30 | **Arrivée après-midi** |
+
+##### 🏛️ Stavanger — À voir (arrivée après-midi)
+
+| POI | Description | Temps | Accès |
+|-----|------------|:-----:|:-----:|
+| 🏘️ **Gamle Stavanger** | Plus beau quartier de maisons en bois blanc, ruelles pavées | ~1h | ✅ Plat |
+| 🐟 **Fisketorget** | Marché aux poissons sur le port | ~30 min | ✅ |
+| 🏛️ **Musée du pétrole** | Architecture moderne, histoire du pétrole norvégien | ~1h | ✅ Ascenseur |
+| 🥾 **Preikestolen** | 🤚 **Parking à 39 km** (30 min de route) — falaise mythique | **rando 4h** | ❌ Rando difficile |
+
+> 💡 **Preikestolen** : si vous voulez y aller, c'est 30 min de route depuis Stavanger + 4h de marche AR. Sinon, la vue depuis le port de Stavanger est déjà magnifique.
+
+---
+
+#### J7 • 08/09 — 🇳🇴 Stavanger → Sauda (~160 km, 3h)
+
+**Trajet :** Stavanger → Sand → Sauda (route 520, sans ferry ✅)
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Stavanger (matin) |
+| **Trajet** | Route 520 — longe les fjords, **magnifique** |
+| **Distance** | ~160 km (~3h) |
+| **Route** | ✅ Sans ferry, route côtière |
+
+##### 🏛️ POIs sur le parcours
+
+| Arrêt | Dist. | Temps | À voir |
+|-------|:-----:|:-----:|--------|
+| 🏰 **Halsnøy kloster** | 60 km | 30 min | Monastère médiéval du XIIe siècle, musée ✅ accessible |
+| 🏛️ **Kapteinsgarden** (Sand) | 100 km | 30 min | Musée maritime, vieux bateaux ✅ |
+| 🔫 **Revolverkanon WWII** (Sand) | 105 km | 15 min | Canon allemand de la 2e GM, vue sur le fjord ✅ |
+
+##### 🏛️ Sauda — Arrivée midi/après-midi
+
+| POI | Description | Temps | Accès |
+|-----|------------|:-----:|:-----:|
+| 🏘️ **Centre de Sauda** | Petite ville ouvrière au bord du fjord, ambiance authentique | ~30 min | ✅ |
+| 🌊 **Saudafjorden** | Fjord étroit, montagnes abruptes — superbes points de vue | — | ✅ depuis la route |
+| 🏛️ **Tinghaug** | Petit musée culturel | ~30 min | ✅ |
+
+---
+
+#### J8 • 09/09 — 🇳🇴 Sauda → Odda (~80 km, 1h45)
+
+**Trajet :** Sauda → Låtefossen → Odda (route 46/13, sans ferry ✅)
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Sauda (matin) |
+| **Trajet** | Route 46 → 13 — vallée spectaculaire |
+| **Distance** | ~80 km (~1h45) |
+| **Route** | ✅ Sans ferry, nombreuses cascades |
+
+##### 🏛️ POIs sur le parcours
+
+| Arrêt | Dist. | Temps | À voir |
+|-------|:-----:|:-----:|--------|
+| 🌊 **Langfoss** | 30 km | 15 min | Cascade de 612m, l'une des plus hautes de Norvège ! ✅ vue depuis la route |
+| 🌊 **Låtefossen** 🏆 | 62 km | 20 min | **Cascade double** iconique passant sous un pont en pierre — **incontournable** ✅ parking |
+| 💎 **Oddmundsteinen** | 68 km | 15 min | Monolithe de pierre, vue panoramique ✅ |
+
+##### 🏛️ Odda — Arrivée fin de matinée
+
+| POI | Description | Temps | Accès |
+|-----|------------|:-----:|:-----:|
+| 🏘️ **Centre d'Odda** | Ville au bord du Sørfjord, ambiance montagnarde | ~30 min | ✅ |
+| 🥾 **Trolltunga** | 🤚 Rando de 10-12h (langue de troll) | **journée** | ❌ Très difficile |
+| 🌊 **Bondhusbreen** | Glacier accessible, parking + 30 min de marche | ~1-2h | ⚠️ Marche modérée |
+| 🏛️ **Musée industriel d'Odda** | Histoire de la ville industrielle | ~45 min | ✅ |
+
+> 💡 **Låtefossen** est LA cascade à ne pas manquer — elle tombe en deux chutes sous un vieux pont de pierre, accessible depuis le parking juste à côté de la route
+
+---
+
+### J9 • 10/09/2026 — 🇳🇴 Odda → Vøringfossen → Bergen (~270 km)
+
+**Trajet :** Odda → Vøringfossen (cascade) → Bergen
+
+| Info | Détail |
+|------|--------|
+| **Départ** | Odda (matin) |
+| **Trajet** | Route 7 → Hardangervidda (plateau montagneux) |
+| **Distance** | ~270 km (~5h avec arrêts) |
+| **Route** | ✅ Sans ferry |
+
+| Segment | Distance | Temps | À voir |
+|---------|:-------:|:-----:|--------|
+| Odda → **Vøringfossen** 🏆 | 115 km | 2h30 | 🌊 **Cascade de 182m** — l'une des plus célèbres de Norvège |
+| Vøringfossen → **Bergen** 🏆 | 171 km | 3h | 🏘️ Bryggen, Marché au poisson, Fløibanen |
+
+#### 🏛️ POIs sur le parcours
+
+| Arrêt | Dist. | Temps | À voir |
+|-------|:-----:|:-----:|--------|
+| 🌊 **Vøringfossen** 🏆 | 115 km | 30 min | **Cascade mythique** de 182 m de haut. Plateforme d'observation accessible ✅. Parking à Fossli |
+| 🏘️ **Eidfjord** | 120 km | 30 min | Village au bord du fjord, vue magnifique ✅ |
+
+#### 🏛️ Bergen — Arrivée après-midi
+
+| POI | Description | Temps | Accès |
+|-----|------------|:-----:|:-----:|
+| 🏘️ **Bryggen** 🏆 | Quai hanséatique UNESCO, maisons colorées emblématiques | ~1h | ✅ Plat |
+| 🐟 **Fisketorget** | Marché aux poissons en plein air, fruits de mer frais | ~30 min | ✅ |
+| 🚠 **Fløibanen** | Funiculaire, vue panoramique sur Bergen et les fjords | ~1h | ✅ (funiculaire) |
+| 🏛️ **Musée de Bergen** | Histoire et culture de la ville | ~1h | ✅ |
+| 🏘️ **Quartier Nordnes** | Promenade côtière, maisons en bois, ambiance paisible | ~30 min | ✅ Plat |
+| 🏛️ **Église Saint-Mary** | Plus vieille église de Bergen (XIIe siècle) | ~20 min | ✅ |
+
+> 🌊 **Vøringfossen** — ne manque pas l'arrêt ! Cascade spectaculaire de 182m avec plateforme d'observation. Juste après, tu traverses le plateau du Hardangervidda avec des vues à couper le souffle.
 
 **Info pratique :** De nombreux ferries locaux sont gratuits ou peu chers (intégrés au réseau routier norvégien). Les tunnels sont nombreux et impressionnants (Lærdalstunnelen : 24,5 km !).
 
