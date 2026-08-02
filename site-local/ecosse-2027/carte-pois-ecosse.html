@@ -1,0 +1,1033 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_7ebcee08b4e903e27d33c216fa4b8c29 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="position:fixed;bottom:20px;left:20px;z-index:1000;
+            background:white;padding:12px 16px;border-radius:8px;
+            box-shadow:0 2px 8px rgba(0,0,0,0.2);font-size:12px;
+            border-left:4px solid #e74c3c;max-width:220px;">
+    <b>Points d'interet Ecosse</b><br>
+    <span style="color:#e74c3c;">&#9679;</span> Edimbourg<br>
+    <span style="color:#27ae60;">&#9733;</span> Highlands<br>
+    <span style="color:#8e44ad;">&#9733;</span> Ile de Skye<br>
+    <span style="color:#2980b9;">&#9679;</span> Inverness & Loch Ness<br>
+    <span style="color:#e67e22;">&#9733;</span> Distilleries (whisky)<br>
+    <br><i>Cliquez sur les marqueurs pour plus d'infos</i>
+</div>
+    
+            <div class="folium-map" id="map_7ebcee08b4e903e27d33c216fa4b8c29" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_7ebcee08b4e903e27d33c216fa4b8c29 = L.map(
+                "map_7ebcee08b4e903e27d33c216fa4b8c29",
+                {
+                    center: [57.0, -5.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 7,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+
+            
+
+        
+    
+            var tile_layer_4b68060b8949c0c722ff91d7bd08a4a9 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_4b68060b8949c0c722ff91d7bd08a4a9.addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var marker_6b4dc99f673684d288cce2001631c5e8 = L.marker(
+                [55.9486, -3.2006],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_c783226b26e05235ea6a85fde5f19f6a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1fbb0e2e2b1be9ddfb374133cb06f908 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_88bad192944d46f0ba16259c9f891185 = $(`<div id="html_88bad192944d46f0ba16259c9f891185" style="width: 100.0%; height: 100.0%;"><b>Edinburgh Castle</b><br>Chateau emblematique</div>`)[0];
+                popup_1fbb0e2e2b1be9ddfb374133cb06f908.setContent(html_88bad192944d46f0ba16259c9f891185);
+            
+        
+
+        marker_6b4dc99f673684d288cce2001631c5e8.bindPopup(popup_1fbb0e2e2b1be9ddfb374133cb06f908)
+        ;
+
+        
+    
+    
+                marker_6b4dc99f673684d288cce2001631c5e8.setIcon(icon_c783226b26e05235ea6a85fde5f19f6a);
+            
+    
+            var marker_29dc3c02ed0a9ad18d09187cb322beed = L.marker(
+                [55.95, -3.186],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_6be8b1affc9a3a1b8c8ccd17e73c5d01 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5ded778ae0d28a60bf30b153150101d8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d3b4a7f8b5834599843fe0281c3f3225 = $(`<div id="html_d3b4a7f8b5834599843fe0281c3f3225" style="width: 100.0%; height: 100.0%;"><b>Royal Mile</b><br>Rue historique</div>`)[0];
+                popup_5ded778ae0d28a60bf30b153150101d8.setContent(html_d3b4a7f8b5834599843fe0281c3f3225);
+            
+        
+
+        marker_29dc3c02ed0a9ad18d09187cb322beed.bindPopup(popup_5ded778ae0d28a60bf30b153150101d8)
+        ;
+
+        
+    
+    
+                marker_29dc3c02ed0a9ad18d09187cb322beed.setIcon(icon_6be8b1affc9a3a1b8c8ccd17e73c5d01);
+            
+    
+            var marker_ae82cfd6c58e1e80d6dff37482bcc93e = L.marker(
+                [55.944, -3.162],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_cd5223aa4f9ec6d1fef030dcfa3fb1fa = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fe3d14f4abfc34a72592427123f4d6ab = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_330eb2513ae315fe508e0adb76172ac8 = $(`<div id="html_330eb2513ae315fe508e0adb76172ac8" style="width: 100.0%; height: 100.0%;"><b>Arthur's Seat</b><br>Colline volcanique, vue panoramique</div>`)[0];
+                popup_fe3d14f4abfc34a72592427123f4d6ab.setContent(html_330eb2513ae315fe508e0adb76172ac8);
+            
+        
+
+        marker_ae82cfd6c58e1e80d6dff37482bcc93e.bindPopup(popup_fe3d14f4abfc34a72592427123f4d6ab)
+        ;
+
+        
+    
+    
+                marker_ae82cfd6c58e1e80d6dff37482bcc93e.setIcon(icon_cd5223aa4f9ec6d1fef030dcfa3fb1fa);
+            
+    
+            var marker_29edb26f15a1fdb5b087bd42a06513a4 = L.marker(
+                [55.9527, -3.1725],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_d6475e6f2ff5d1fadcdd0c3c0b1394b2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2f94357fa12dddc53b5fa1a56624e719 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d92fc3a309ae1588f4cfdae8a2a0a40c = $(`<div id="html_d92fc3a309ae1588f4cfdae8a2a0a40c" style="width: 100.0%; height: 100.0%;"><b>Holyrood Palace</b><br>Palais royal</div>`)[0];
+                popup_2f94357fa12dddc53b5fa1a56624e719.setContent(html_d92fc3a309ae1588f4cfdae8a2a0a40c);
+            
+        
+
+        marker_29edb26f15a1fdb5b087bd42a06513a4.bindPopup(popup_2f94357fa12dddc53b5fa1a56624e719)
+        ;
+
+        
+    
+    
+                marker_29edb26f15a1fdb5b087bd42a06513a4.setIcon(icon_d6475e6f2ff5d1fadcdd0c3c0b1394b2);
+            
+    
+            var marker_03688266c4305d2775f4efeaa03385b4 = L.marker(
+                [55.9547, -3.183],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_fbb949778eb257555115ed96f16067e6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2b8593bf8fc0f7a6b2971605ea6d3e1b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9529164d5d549a03fd21c4612ad4e16b = $(`<div id="html_9529164d5d549a03fd21c4612ad4e16b" style="width: 100.0%; height: 100.0%;"><b>Calton Hill</b><br>Point de vue, monument national</div>`)[0];
+                popup_2b8593bf8fc0f7a6b2971605ea6d3e1b.setContent(html_9529164d5d549a03fd21c4612ad4e16b);
+            
+        
+
+        marker_03688266c4305d2775f4efeaa03385b4.bindPopup(popup_2b8593bf8fc0f7a6b2971605ea6d3e1b)
+        ;
+
+        
+    
+    
+                marker_03688266c4305d2775f4efeaa03385b4.setIcon(icon_fbb949778eb257555115ed96f16067e6);
+            
+    
+            var marker_852c43cb69579ebb2d94b63b22e0a818 = L.marker(
+                [56.082, -4.579],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_7a4d000310ce1cff1dea58f1b340ee70 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1df7572f1e4ba9238ca5021f16821b4c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0eb90c76265087c0204747a8b3944bc5 = $(`<div id="html_0eb90c76265087c0204747a8b3944bc5" style="width: 100.0%; height: 100.0%;"><b>Loch Lomond</b><br>Plus grand lac d'Ecosse - croisiere, rando</div>`)[0];
+                popup_1df7572f1e4ba9238ca5021f16821b4c.setContent(html_0eb90c76265087c0204747a8b3944bc5);
+            
+        
+
+        marker_852c43cb69579ebb2d94b63b22e0a818.bindPopup(popup_1df7572f1e4ba9238ca5021f16821b4c)
+        ;
+
+        
+    
+    
+                marker_852c43cb69579ebb2d94b63b22e0a818.setIcon(icon_7a4d000310ce1cff1dea58f1b340ee70);
+            
+    
+            var marker_d481ad58e983f293f9acc20b043c047e = L.marker(
+                [56.68, -5.1],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_069cf38cda8ab4ce6a4f2b37484f0b70 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_61f5e855d1651864f490ce846588d8e0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2609508d8d25c56d49c51395862101ba = $(`<div id="html_2609508d8d25c56d49c51395862101ba" style="width: 100.0%; height: 100.0%;"><b>Glen Coe</b><br>Vallee spectaculaire, randonnees</div>`)[0];
+                popup_61f5e855d1651864f490ce846588d8e0.setContent(html_2609508d8d25c56d49c51395862101ba);
+            
+        
+
+        marker_d481ad58e983f293f9acc20b043c047e.bindPopup(popup_61f5e855d1651864f490ce846588d8e0)
+        ;
+
+        
+    
+    
+                marker_d481ad58e983f293f9acc20b043c047e.setIcon(icon_069cf38cda8ab4ce6a4f2b37484f0b70);
+            
+    
+            var marker_675c18ff9b8466fcc9f115010d37451d = L.marker(
+                [56.7968, -5.0037],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_1f17a656e13737acff3542e447eaeafd = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_53959862f557a6dc8af7d5bcf16a1456 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_979ee540b4a453de7524babb27d54dd1 = $(`<div id="html_979ee540b4a453de7524babb27d54dd1" style="width: 100.0%; height: 100.0%;"><b>Ben Nevis</b><br>Plus haut sommet du Royaume-Uni (1345m)</div>`)[0];
+                popup_53959862f557a6dc8af7d5bcf16a1456.setContent(html_979ee540b4a453de7524babb27d54dd1);
+            
+        
+
+        marker_675c18ff9b8466fcc9f115010d37451d.bindPopup(popup_53959862f557a6dc8af7d5bcf16a1456)
+        ;
+
+        
+    
+    
+                marker_675c18ff9b8466fcc9f115010d37451d.setIcon(icon_1f17a656e13737acff3542e447eaeafd);
+            
+    
+            var marker_d8b28be8cd286ef9ad767ed92387e5d0 = L.marker(
+                [56.8761, -5.4319],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_6d8f3e2f5d18fd7c4d5eb63876f6958d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_86ace6c713feee4b689586a2307f49e3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a71357dc7a694078e355e1eeb4d9a0a9 = $(`<div id="html_a71357dc7a694078e355e1eeb4d9a0a9" style="width: 100.0%; height: 100.0%;"><b>Glenfinnan Viaduct</b><br>Pont ferroviaire iconique (Harry Potter)</div>`)[0];
+                popup_86ace6c713feee4b689586a2307f49e3.setContent(html_a71357dc7a694078e355e1eeb4d9a0a9);
+            
+        
+
+        marker_d8b28be8cd286ef9ad767ed92387e5d0.bindPopup(popup_86ace6c713feee4b689586a2307f49e3)
+        ;
+
+        
+    
+    
+                marker_d8b28be8cd286ef9ad767ed92387e5d0.setIcon(icon_6d8f3e2f5d18fd7c4d5eb63876f6958d);
+            
+    
+            var marker_1940c992a7cdd26123c861d60db4ee50 = L.marker(
+                [56.8196, -5.1136],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_dd51757ef2c55a283f9f3031db9efeee = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_37ebf645f33412e4a2c2554235f854e1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_72392a58b0d296279890b0eebb198b94 = $(`<div id="html_72392a58b0d296279890b0eebb198b94" style="width: 100.0%; height: 100.0%;"><b>Fort William</b><br>Base pour les Highlands, commodites</div>`)[0];
+                popup_37ebf645f33412e4a2c2554235f854e1.setContent(html_72392a58b0d296279890b0eebb198b94);
+            
+        
+
+        marker_1940c992a7cdd26123c861d60db4ee50.bindPopup(popup_37ebf645f33412e4a2c2554235f854e1)
+        ;
+
+        
+    
+    
+                marker_1940c992a7cdd26123c861d60db4ee50.setIcon(icon_dd51757ef2c55a283f9f3031db9efeee);
+            
+    
+            var marker_a37bc26a0ab417f249a13f6b577ca376 = L.marker(
+                [57.4128, -6.194],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_bc7435ef913cbe671476591b360dd1a9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_76a83cf9b436fd2d2bd05b9dd7e7af73 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_cf0e5fba2434e994b90cd10992e7097b = $(`<div id="html_cf0e5fba2434e994b90cd10992e7097b" style="width: 100.0%; height: 100.0%;"><b>Portree</b><br>Capitale de l'ile, port colore</div>`)[0];
+                popup_76a83cf9b436fd2d2bd05b9dd7e7af73.setContent(html_cf0e5fba2434e994b90cd10992e7097b);
+            
+        
+
+        marker_a37bc26a0ab417f249a13f6b577ca376.bindPopup(popup_76a83cf9b436fd2d2bd05b9dd7e7af73)
+        ;
+
+        
+    
+    
+                marker_a37bc26a0ab417f249a13f6b577ca376.setIcon(icon_bc7435ef913cbe671476591b360dd1a9);
+            
+    
+            var marker_ab1d88802d8c69446c0487323eb5c0f9 = L.marker(
+                [57.52, -6.17],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_b269314a51fc240e87287c73c4cd7afe = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_67d865b48eaeddbf3ced656497e582ef = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_33809eb8550048e68b9f1e65efd033e1 = $(`<div id="html_33809eb8550048e68b9f1e65efd033e1" style="width: 100.0%; height: 100.0%;"><b>Old Man of Storr</b><br>Formation rocheuse iconique, rando 1h30</div>`)[0];
+                popup_67d865b48eaeddbf3ced656497e582ef.setContent(html_33809eb8550048e68b9f1e65efd033e1);
+            
+        
+
+        marker_ab1d88802d8c69446c0487323eb5c0f9.bindPopup(popup_67d865b48eaeddbf3ced656497e582ef)
+        ;
+
+        
+    
+    
+                marker_ab1d88802d8c69446c0487323eb5c0f9.setIcon(icon_b269314a51fc240e87287c73c4cd7afe);
+            
+    
+            var marker_37c3613075e2af1b71e61dd2aaa057a9 = L.marker(
+                [57.25, -6.2],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_ad40bbec65b7e14c537eff7f6b995bd4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_cbd13fd104044ce40d2f28f7afe691b8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e3883c9ce53dcff7ae42e190e462f909 = $(`<div id="html_e3883c9ce53dcff7ae42e190e462f909" style="width: 100.0%; height: 100.0%;"><b>Fairy Pools</b><br>Piscines naturelles d'eau cristalline</div>`)[0];
+                popup_cbd13fd104044ce40d2f28f7afe691b8.setContent(html_e3883c9ce53dcff7ae42e190e462f909);
+            
+        
+
+        marker_37c3613075e2af1b71e61dd2aaa057a9.bindPopup(popup_cbd13fd104044ce40d2f28f7afe691b8)
+        ;
+
+        
+    
+    
+                marker_37c3613075e2af1b71e61dd2aaa057a9.setIcon(icon_ad40bbec65b7e14c537eff7f6b995bd4);
+            
+    
+            var marker_078f11e068c44b808eec0f55446ad641 = L.marker(
+                [56.4333, -6.3333],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_0b56279c9564b2ccd00b19770cea1812 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_00b35edd9fcf3426cb24ef59c4ebfb53 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_983c0147b42ced1f4cc4b77d2ec60bf0 = $(`<div id="html_983c0147b42ced1f4cc4b77d2ec60bf0" style="width: 100.0%; height: 100.0%;"><b>Fingal's Cave</b><br>Grotte basaltique (Staffa, bateau)</div>`)[0];
+                popup_00b35edd9fcf3426cb24ef59c4ebfb53.setContent(html_983c0147b42ced1f4cc4b77d2ec60bf0);
+            
+        
+
+        marker_078f11e068c44b808eec0f55446ad641.bindPopup(popup_00b35edd9fcf3426cb24ef59c4ebfb53)
+        ;
+
+        
+    
+    
+                marker_078f11e068c44b808eec0f55446ad641.setIcon(icon_0b56279c9564b2ccd00b19770cea1812);
+            
+    
+            var marker_7fbda6e71c9e76a5e5eb0ac58ddcc9c2 = L.marker(
+                [57.42, -6.78],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_523147f154c7598cd4acbad445443718 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_592df90748270f5f8e5959a69c026301 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_dd066700aae3b1f80345b05464ec350e = $(`<div id="html_dd066700aae3b1f80345b05464ec350e" style="width: 100.0%; height: 100.0%;"><b>Neist Point</b><br>Phares et falaises, coucher de soleil</div>`)[0];
+                popup_592df90748270f5f8e5959a69c026301.setContent(html_dd066700aae3b1f80345b05464ec350e);
+            
+        
+
+        marker_7fbda6e71c9e76a5e5eb0ac58ddcc9c2.bindPopup(popup_592df90748270f5f8e5959a69c026301)
+        ;
+
+        
+    
+    
+                marker_7fbda6e71c9e76a5e5eb0ac58ddcc9c2.setIcon(icon_523147f154c7598cd4acbad445443718);
+            
+    
+            var marker_88b2930be1e2471ca298a14282b00eb6 = L.marker(
+                [57.4486, -6.59],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_d6dca285b601d860c3ab9b0034d2a264 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4b7682a9d431ed30e53fee2a81be34cf = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_34ba7c93461725324e11ec554e8bb749 = $(`<div id="html_34ba7c93461725324e11ec554e8bb749" style="width: 100.0%; height: 100.0%;"><b>Dunvegan Castle</b><br>Chateau habite depuis 800 ans</div>`)[0];
+                popup_4b7682a9d431ed30e53fee2a81be34cf.setContent(html_34ba7c93461725324e11ec554e8bb749);
+            
+        
+
+        marker_88b2930be1e2471ca298a14282b00eb6.bindPopup(popup_4b7682a9d431ed30e53fee2a81be34cf)
+        ;
+
+        
+    
+    
+                marker_88b2930be1e2471ca298a14282b00eb6.setIcon(icon_d6dca285b601d860c3ab9b0034d2a264);
+            
+    
+            var marker_b22abafa7303df1ccc91f2fa60ff5aa4 = L.marker(
+                [57.4778, -4.225],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_11f8dc5ca54b00a8bf17a4a64f62e05a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f1aadfc00ca9c83cc3d76e5a9be8596b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_eb5f93b258295635065e674df42063b0 = $(`<div id="html_eb5f93b258295635065e674df42063b0" style="width: 100.0%; height: 100.0%;"><b>Inverness</b><br>Capitale des Highlands, marche, cathedrales</div>`)[0];
+                popup_f1aadfc00ca9c83cc3d76e5a9be8596b.setContent(html_eb5f93b258295635065e674df42063b0);
+            
+        
+
+        marker_b22abafa7303df1ccc91f2fa60ff5aa4.bindPopup(popup_f1aadfc00ca9c83cc3d76e5a9be8596b)
+        ;
+
+        
+    
+    
+                marker_b22abafa7303df1ccc91f2fa60ff5aa4.setIcon(icon_11f8dc5ca54b00a8bf17a4a64f62e05a);
+            
+    
+            var marker_f5896b5d3061820b36878913fa95bca8 = L.marker(
+                [57.25, -4.55],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_8995b573115ee1e681fa7b55dc6e5aa8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_959207d2970528edcc549345add2a384 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c37239117f22de145875665d038c5484 = $(`<div id="html_c37239117f22de145875665d038c5484" style="width: 100.0%; height: 100.0%;"><b>Loch Ness</b><br>Lac legendaire - croisiere, Urquhart Castle</div>`)[0];
+                popup_959207d2970528edcc549345add2a384.setContent(html_c37239117f22de145875665d038c5484);
+            
+        
+
+        marker_f5896b5d3061820b36878913fa95bca8.bindPopup(popup_959207d2970528edcc549345add2a384)
+        ;
+
+        
+    
+    
+                marker_f5896b5d3061820b36878913fa95bca8.setIcon(icon_8995b573115ee1e681fa7b55dc6e5aa8);
+            
+    
+            var marker_521280e273c3f3fe9488eb6dafeb056f = L.marker(
+                [57.3236, -4.442],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_376b709e2d0355cb3b8ff6c5054eab6e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_af781eeea332ebd1f16a137c6090e48e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_46b511eedc6c5433c0270f83ebcd4832 = $(`<div id="html_46b511eedc6c5433c0270f83ebcd4832" style="width: 100.0%; height: 100.0%;"><b>Urquhart Castle</b><br>Ruines de chateau surplombant le loch</div>`)[0];
+                popup_af781eeea332ebd1f16a137c6090e48e.setContent(html_46b511eedc6c5433c0270f83ebcd4832);
+            
+        
+
+        marker_521280e273c3f3fe9488eb6dafeb056f.bindPopup(popup_af781eeea332ebd1f16a137c6090e48e)
+        ;
+
+        
+    
+    
+                marker_521280e273c3f3fe9488eb6dafeb056f.setIcon(icon_376b709e2d0355cb3b8ff6c5054eab6e);
+            
+    
+            var marker_aaee6e02c1593677ddb341def5730b36 = L.marker(
+                [57.4721, -4.105],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_915d6f25fef7e821d641a3c6276aed21 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c9dc707d53716bfa60427ea5bad5d33e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1bb524bbc8f59bcab5d1a734bd409f0e = $(`<div id="html_1bb524bbc8f59bcab5d1a734bd409f0e" style="width: 100.0%; height: 100.0%;"><b>Culloden Battlefield</b><br>Champ de bataille historique (1746)</div>`)[0];
+                popup_c9dc707d53716bfa60427ea5bad5d33e.setContent(html_1bb524bbc8f59bcab5d1a734bd409f0e);
+            
+        
+
+        marker_aaee6e02c1593677ddb341def5730b36.bindPopup(popup_c9dc707d53716bfa60427ea5bad5d33e)
+        ;
+
+        
+    
+    
+                marker_aaee6e02c1593677ddb341def5730b36.setIcon(icon_915d6f25fef7e821d641a3c6276aed21);
+            
+    
+            var marker_21000711aa4d8186bb043c94066b1e41 = L.marker(
+                [57.1, -3.8],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_be4b0c3ddae48fab3fcb7af57ab39e36 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6ec2c48d848d67d4dd61ddaca783b8c8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_97b11adfbef93d182691dc51f33ae9c3 = $(`<div id="html_97b11adfbef93d182691dc51f33ae9c3" style="width: 100.0%; height: 100.0%;"><b>Cairngorms NP</b><br>Parc national - rando, faune, paysages</div>`)[0];
+                popup_6ec2c48d848d67d4dd61ddaca783b8c8.setContent(html_97b11adfbef93d182691dc51f33ae9c3);
+            
+        
+
+        marker_21000711aa4d8186bb043c94066b1e41.bindPopup(popup_6ec2c48d848d67d4dd61ddaca783b8c8)
+        ;
+
+        
+    
+    
+                marker_21000711aa4d8186bb043c94066b1e41.setIcon(icon_be4b0c3ddae48fab3fcb7af57ab39e36);
+            
+    
+            var marker_02ee2f704dcc787f50adcd0d6b513e94 = L.marker(
+                [57.45, -3.12],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_0863bf3cdaf06050934d32cf69157186 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "glass",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2b3a7a2c255f7642d6a9dc8a4a22362f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bb2aed4af53d4138b0854c754e34017d = $(`<div id="html_bb2aed4af53d4138b0854c754e34017d" style="width: 100.0%; height: 100.0%;"><b>Glenfiddich</b><br>Distillerie celebre (Speyside)</div>`)[0];
+                popup_2b3a7a2c255f7642d6a9dc8a4a22362f.setContent(html_bb2aed4af53d4138b0854c754e34017d);
+            
+        
+
+        marker_02ee2f704dcc787f50adcd0d6b513e94.bindPopup(popup_2b3a7a2c255f7642d6a9dc8a4a22362f)
+        ;
+
+        
+    
+    
+                marker_02ee2f704dcc787f50adcd0d6b513e94.setIcon(icon_0863bf3cdaf06050934d32cf69157186);
+            
+    
+            var marker_c4095353e5d45af938a5e8cc980fac4a = L.marker(
+                [55.63, -6.15],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_8dc6a9e95bda57ceefc1c9fce50235b4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "glass",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b194b81ea80b811469ee26c71114dc1b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_657dfecce7a980306714f3031c70fe94 = $(`<div id="html_657dfecce7a980306714f3031c70fe94" style="width: 100.0%; height: 100.0%;"><b>Laphroaig</b><br>Islay whisky, tourbe</div>`)[0];
+                popup_b194b81ea80b811469ee26c71114dc1b.setContent(html_657dfecce7a980306714f3031c70fe94);
+            
+        
+
+        marker_c4095353e5d45af938a5e8cc980fac4a.bindPopup(popup_b194b81ea80b811469ee26c71114dc1b)
+        ;
+
+        
+    
+    
+                marker_c4095353e5d45af938a5e8cc980fac4a.setIcon(icon_8dc6a9e95bda57ceefc1c9fce50235b4);
+            
+    
+            var marker_a5e1fbdcda964f7f5efc11093645fa3b = L.marker(
+                [57.3, -6.35],
+                {
+}
+            ).addTo(map_7ebcee08b4e903e27d33c216fa4b8c29);
+        
+    
+            var icon_6991297c3d0544af919d0b01a9eef6cf = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "glass",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3b892f8c645b4770177929971c528907 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5b7cb6f9a7a5f6b18d6282574f7979e0 = $(`<div id="html_5b7cb6f9a7a5f6b18d6282574f7979e0" style="width: 100.0%; height: 100.0%;"><b>Talisker</b><br>Distillerie de l'ile de Skye</div>`)[0];
+                popup_3b892f8c645b4770177929971c528907.setContent(html_5b7cb6f9a7a5f6b18d6282574f7979e0);
+            
+        
+
+        marker_a5e1fbdcda964f7f5efc11093645fa3b.bindPopup(popup_3b892f8c645b4770177929971c528907)
+        ;
+
+        
+    
+    
+                marker_a5e1fbdcda964f7f5efc11093645fa3b.setIcon(icon_6991297c3d0544af919d0b01a9eef6cf);
+            
+    
+            map_7ebcee08b4e903e27d33c216fa4b8c29.fitBounds(
+                [[55.5, -7.0], [58.7, -3.0]],
+                {}
+            );
+        
+</script>
+</html>
