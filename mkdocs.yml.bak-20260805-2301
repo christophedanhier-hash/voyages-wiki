@@ -1,0 +1,87 @@
+site_name: Carnet de Voyages
+site_description: Carnet de voyages BAVI LEO — roadbooks générés par le bot
+site_author: Christophe Danhier
+site_url: https://christophedanhier-hash.github.io/voyages-wiki/
+
+repo_name: voyages-wiki
+repo_url: https://github.com/christophedanhier-hash/voyages-wiki
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: fr
+  palette:
+    primary: blue
+    accent: light blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - content.action.edit
+
+
+nav:
+  - 🏠 Accueil: index.md
+  - 📊 Monitoring: monitoring.md
+  - 🧑‍✈️ Voyages Tof:
+    - 🇮🇹 Italie (09/2026): italie/index.md
+    - 🇫🇷 Lac d'Orient (08/2026): lac-orient-2026/index.md
+    - 🇮🇨 Canaries (02/2027 — Camille & Jérémy): canaries-2027/index.md
+    - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Écosse (05/2027): ecosse-2027/index.md
+  - 🤖 Voyages Amis (Bot):
+    - 🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge (01→02/2027): vietnam-laos-cambodge-2027/index.md
+    - 🇳🇴 Scandinavie (08→10/2026): scandinavie-2026/index.md
+    - 🇫🇷 Canet (06/2026): weekend-canet/index.md
+    - 🇪🇸 Andalousie (09→10/2026): andalousie-pauline/index.md
+  - 📖 Guide utilisateur: guide-utilisateur.md
+  - 📓 Journal de bord:
+    - 📅 15/07/2026: journaux/journal-2026-07-15.md
+    - 📅 16/07/2026: journaux/journal-2026-07-16.md
+    - 📅 17/07/2026: journaux/journal-2026-07-17.md
+    - 📅 18/07/2026: journaux/journal-2026-07-18.md
+    - 📅 19/07/2026: journaux/journal-2026-07-19.md
+    - 📅 20/07/2026: journaux/journal-2026-07-20.md
+    - 📅 21/07/2026: journaux/journal-2026-07-21.md
+    - 📅 23/07/2026: journaux/journal-2026-07-23.md
+    - 📅 24/07/2026: journaux/journal-2026-07-24.md
+    - 📅 25/07/2026: journaux/journal-2026-07-25.md
+    - 📅 26/07/2026: journaux/journal-2026-07-26.md
+    - 📅 27/07/2026: journaux/journal-2026-07-27.md
+    - 📅 28/07/2026: journaux/journal-2026-07-28.md
+    - 📅 29/07/2026: journaux/journal-2026-07-29.md
+ 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+
+extra_javascript:
+  - assets/js/roadbook-actions.js
+  - https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/christophedanhier-hash
+    - icon: fontawesome/solid/globe
+      link: https://www.polarsteps.com/christophedanhier/
+
+copyright: Roadbooks générés par le BAVI LEO Voyages Bot — Christophe Danhier
