@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_fd9261a19347c7b1ac7ba42218892d67 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_fd9261a19347c7b1ac7ba42218892d67" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_fd9261a19347c7b1ac7ba42218892d67 = L.map(
+                "map_fd9261a19347c7b1ac7ba42218892d67",
+                {
+                    center: [44.5, 3.5],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 6,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_fd9261a19347c7b1ac7ba42218892d67);
+
+            
+
+        
+    
+            var tile_layer_52bd8442fac071fc2111108d6f1aea66 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_52bd8442fac071fc2111108d6f1aea66.addTo(map_fd9261a19347c7b1ac7ba42218892d67);
+        
+    
+            var poly_line_867a6a01f7eb703bca8c1ea847392ca6 = L.polyline(
+                [[42.704359, 3.0105105], [42.4207991, 2.8728485], [42.2193323, 2.5512465], [42.6195205, 2.7031011], [42.6866075, 2.6210651], [43.092381, 2.962919], [45.738, 4.8212], [46.56739, 4.91104], [50.3364, 4.5239]],
+                {"bubblingMouseEvents": true, "color": "#e63946", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#e63946", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(map_fd9261a19347c7b1ac7ba42218892d67);
+        
+    
+            var circle_25e0978e3004ca10a41e7bd6c6b350e6 = L.circle(
+                [45.7638, 4.8276],
+                {"bubblingMouseEvents": true, "color": "#e63946", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#e63946", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1500, "stroke": true, "weight": 3}
+            ).addTo(map_fd9261a19347c7b1ac7ba42218892d67);
+        
+    
+        var popup_0d42a81c93a08accdf76acd9f6cf4897 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8a4ed499a3211d8c772fa5de999bd0f4 = $(`<div id="html_8a4ed499a3211d8c772fa5de999bd0f4" style="width: 100.0%; height: 100.0%;">🏛️ Vieux Lyon</div>`)[0];
+                popup_0d42a81c93a08accdf76acd9f6cf4897.setContent(html_8a4ed499a3211d8c772fa5de999bd0f4);
+            
+        
+
+        circle_25e0978e3004ca10a41e7bd6c6b350e6.bindPopup(popup_0d42a81c93a08accdf76acd9f6cf4897)
+        ;
+
+        
+    
+    
+            var marker_048ae5113763d5b4ddd32f70214b6438 = L.marker(
+                [42.704359, 3.0105105],
+                {
+}
+            ).addTo(map_fd9261a19347c7b1ac7ba42218892d67);
+        
+    
+            var icon_ec8a095dc410a272c7c3ff1892e5a6db = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c00f77d89f651f3db87982827f68d701 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3000a0475b9739c60f57c717f611a86a = $(`<div id="html_3000a0475b9739c60f57c717f611a86a" style="width: 100.0%; height: 100.0%;"><b>🇫🇷 Canet</b><br>Départ ven 12h</div>`)[0];
+                popup_c00f77d89f651f3db87982827f68d701.setContent(html_3000a0475b9739c60f57c717f611a86a);
+            
+        
+
+        marker_048ae5113763d5b4ddd32f70214b6438.bindPopup(popup_c00f77d89f651f3db87982827f68d701)
+        ;
+
+        
+    
+    
+            marker_048ae5113763d5b4ddd32f70214b6438.bindTooltip(
+                `<div>
+                     🇫🇷 Canet
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_048ae5113763d5b4ddd32f70214b6438.setIcon(icon_ec8a095dc410a272c7c3ff1892e5a6db);
+            
+    
+            var marker_44a7ef8aa4f3566459cf568b04fb717c = L.marker(
+                [42.4207991, 2.8728485],
+                {
+}
+            ).addTo(map_fd9261a19347c7b1ac7ba42218892d67);
+        
+    
+            var icon_d99bf4ff4aedb28f2757d0db3b13ecd0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "shopping-cart",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7ee8116adddefc1abc8dcabd68046412 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f3f13e0471a99360521d841cbdf5c860 = $(`<div id="html_f3f13e0471a99360521d841cbdf5c860" style="width: 100.0%; height: 100.0%;"><b>🛍️ La Jonquera</b><br>Shopping</div>`)[0];
+                popup_7ee8116adddefc1abc8dcabd68046412.setContent(html_f3f13e0471a99360521d841cbdf5c860);
+            
+        
+
+        marker_44a7ef8aa4f3566459cf568b04fb717c.bindPopup(popup_7ee8116adddefc1abc8dcabd68046412)
+        ;
+
+        
+    
+    
+            marker_44a7ef8aa4f3566459cf568b04fb717c.bindTooltip(
+                `<div>
+                     🛍️ La Jonquera
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_44a7ef8aa4f3566459cf568b04fb717c.setIcon(icon_d99bf4ff4aedb28f2757d0db3b13ecd0);
+            
+    
+            var marker_3c3b2238eef1a73e530e6df89d4bcdc5 = L.marker(
+                [42.2193323, 2.5512465],
+                {
+}
+            ).addTo(map_fd9261a19347c7b1ac7ba42218892d67);
+        
+    
+            var icon_c99841c5420b9a6ae6709115e7ec4ac2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkred",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5774bef417637d135f0ecdc7f133ca2f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ed2456750df9aa8813e99cf97d2e8b3b = $(`<div id="html_ed2456750df9aa8813e99cf97d2e8b3b" style="width: 100.0%; height: 100.0%;"><b>🏰 Castellfollit</b><br>Nuit gratuite</div>`)[0];
+                popup_5774bef417637d135f0ecdc7f133ca2f.setContent(html_ed2456750df9aa8813e99cf97d2e8b3b);
+            
+        
+
+        marker_3c3b2238eef1a73e530e6df89d4bcdc5.bindPopup(popup_5774bef417637d135f0ecdc7f133ca2f)
+        ;
+
+        
+    
+    
+            marker_3c3b2238eef1a73e530e6df89d4bcdc5.bindTooltip(
+                `<div>
+                     🏰 Castellfollit
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3c3b2238eef1a73e530e6df89d4bcdc5.setIcon(icon_c99841c5420b9a6ae6709115e7ec4ac2);
+            
+    
+            var marker_e7aadbab56ca3f6ab4163c3ee923ef0b = L.marker(
+                [42.6195205, 2.7031011],
+                {
+}
+            ).addTo(map_fd9261a19347c7b1ac7ba42218892d67);
+        
+    
+            var icon_b566ce93a1de3b797fe3ca65a08da225 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkpurple",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b581c84eb3ffd423485e2ecc54b966a3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_cfe3744f52ec6c5eab5e51199c961005 = $(`<div id="html_cfe3744f52ec6c5eab5e51199c961005" style="width: 100.0%; height: 100.0%;"><b>🏰 Castelnou</b><br>Plus Beau Village</div>`)[0];
+                popup_b581c84eb3ffd423485e2ecc54b966a3.setContent(html_cfe3744f52ec6c5eab5e51199c961005);
+            
+        
+
+        marker_e7aadbab56ca3f6ab4163c3ee923ef0b.bindPopup(popup_b581c84eb3ffd423485e2ecc54b966a3)
+        ;
+
+        
+    
+    
+            marker_e7aadbab56ca3f6ab4163c3ee923ef0b.bindTooltip(
+                `<div>
+                     🏰 Castelnou
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_e7aadbab56ca3f6ab4163c3ee923ef0b.setIcon(icon_b566ce93a1de3b797fe3ca65a08da225);
+            
+    
+            var marker_7234bc42338cce1ccb7d3eac6349f7a0 = L.marker(
+                [42.6866075, 2.6210651],
+                {
+}
+            ).addTo(map_fd9261a19347c7b1ac7ba42218892d67);
+        
+    
+            var icon_e9ec114bac1506a21bc438913d892e34 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b9a0f658ff9c541d6274cba240750c4a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7661f1de050c28bb99ce9084188d7c15 = $(`<div id="html_7661f1de050c28bb99ce9084188d7c15" style="width: 100.0%; height: 100.0%;"><b>🏔️ Orgues d'Ille</b><br>5€ - 4M d'années</div>`)[0];
+                popup_b9a0f658ff9c541d6274cba240750c4a.setContent(html_7661f1de050c28bb99ce9084188d7c15);
+            
+        
+
+        marker_7234bc42338cce1ccb7d3eac6349f7a0.bindPopup(popup_b9a0f658ff9c541d6274cba240750c4a)
+        ;
+
+        
+    
+    
+            marker_7234bc42338cce1ccb7d3eac6349f7a0.bindTooltip(
+                `<div>
+                     🏔️ Orgues d'Ille
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_7234bc42338cce1ccb7d3eac6349f7a0.setIcon(icon_e9ec114bac1506a21bc438913d892e34);
+            
+    
+            var marker_71f05f2748054c6afb971dbadf3ca749 = L.marker(
+                [43.092381, 2.962919],
+                {
+}
+            ).addTo(map_fd9261a19347c7b1ac7ba42218892d67);
+        
+    
+            var icon_0d5fa748fd641b374fb927a4c5aa5a95 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "tint",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_bcb3698159966b5d3ef3b130bbe55b43 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2bb33a2993694efa68a341533769866e = $(`<div id="html_2bb33a2993694efa68a341533769866e" style="width: 100.0%; height: 100.0%;"><b>🧂 Peyriac-de-Mer</b><br>Salins + nuit 8€</div>`)[0];
+                popup_bcb3698159966b5d3ef3b130bbe55b43.setContent(html_2bb33a2993694efa68a341533769866e);
+            
+        
+
+        marker_71f05f2748054c6afb971dbadf3ca749.bindPopup(popup_bcb3698159966b5d3ef3b130bbe55b43)
+        ;
+
+        
+    
+    
+            marker_71f05f2748054c6afb971dbadf3ca749.bindTooltip(
+                `<div>
+                     🧂 Peyriac-de-Mer
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_71f05f2748054c6afb971dbadf3ca749.setIcon(icon_0d5fa748fd641b374fb927a4c5aa5a95);
+            
+    
+            var marker_6af09133a564ee1ab5bd8973ffa4da2a = L.marker(
+                [45.738, 4.8212],
+                {
+}
+            ).addTo(map_fd9261a19347c7b1ac7ba42218892d67);
+        
+    
+            var icon_410d06e0708809dae45e194b952c6e3c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c5ec9cb8789e59fe10d9e4c4af262c47 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ece2d930090b7d59cc1d82a7d54c03ea = $(`<div id="html_ece2d930090b7d59cc1d82a7d54c03ea" style="width: 100.0%; height: 100.0%;"><b>🏛️ LYON Confluence</b><br>Parking gratuit dimanche</div>`)[0];
+                popup_c5ec9cb8789e59fe10d9e4c4af262c47.setContent(html_ece2d930090b7d59cc1d82a7d54c03ea);
+            
+        
+
+        marker_6af09133a564ee1ab5bd8973ffa4da2a.bindPopup(popup_c5ec9cb8789e59fe10d9e4c4af262c47)
+        ;
+
+        
+    
+    
+            marker_6af09133a564ee1ab5bd8973ffa4da2a.bindTooltip(
+                `<div>
+                     🏛️ LYON Confluence
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_6af09133a564ee1ab5bd8973ffa4da2a.setIcon(icon_410d06e0708809dae45e194b952c6e3c);
+            
+    
+            var marker_761bc7a2c7ffd96bba895999cf8d0150 = L.marker(
+                [46.56739, 4.91104],
+                {
+}
+            ).addTo(map_fd9261a19347c7b1ac7ba42218892d67);
+        
+    
+            var icon_154a1900fc7e919f6018d8fd3f744309 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "tent",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1d7b1dfc9ca43c58e249dd97b636148f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7a6e460a96f1e49e45280074b30c0e9a = $(`<div id="html_7a6e460a96f1e49e45280074b30c0e9a" style="width: 100.0%; height: 100.0%;"><b>🏕️ Tournus</b><br>Nuit gratuite (ou Dinant)</div>`)[0];
+                popup_1d7b1dfc9ca43c58e249dd97b636148f.setContent(html_7a6e460a96f1e49e45280074b30c0e9a);
+            
+        
+
+        marker_761bc7a2c7ffd96bba895999cf8d0150.bindPopup(popup_1d7b1dfc9ca43c58e249dd97b636148f)
+        ;
+
+        
+    
+    
+            marker_761bc7a2c7ffd96bba895999cf8d0150.bindTooltip(
+                `<div>
+                     🏕️ Tournus
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_761bc7a2c7ffd96bba895999cf8d0150.setIcon(icon_154a1900fc7e919f6018d8fd3f744309);
+            
+    
+            var marker_4e8a6fc4f12652686a9e6b28fc567aa0 = L.marker(
+                [50.3364, 4.5239],
+                {
+}
+            ).addTo(map_fd9261a19347c7b1ac7ba42218892d67);
+        
+    
+            var icon_ecf583d560d11fb0529aeb56a7a7adba = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1f8672a7a91c92038f46a8b0617e3f0d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f8a2f6090d13793f772aae326bc12458 = $(`<div id="html_f8a2f6090d13793f772aae326bc12458" style="width: 100.0%; height: 100.0%;"><b>🏠 Gerpinnes</b><br>Arrivée</div>`)[0];
+                popup_1f8672a7a91c92038f46a8b0617e3f0d.setContent(html_f8a2f6090d13793f772aae326bc12458);
+            
+        
+
+        marker_4e8a6fc4f12652686a9e6b28fc567aa0.bindPopup(popup_1f8672a7a91c92038f46a8b0617e3f0d)
+        ;
+
+        
+    
+    
+            marker_4e8a6fc4f12652686a9e6b28fc567aa0.bindTooltip(
+                `<div>
+                     🏠 Gerpinnes
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_4e8a6fc4f12652686a9e6b28fc567aa0.setIcon(icon_ecf583d560d11fb0529aeb56a7a7adba);
+            
+</script>
+</html>

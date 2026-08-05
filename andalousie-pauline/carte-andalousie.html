@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_9e1f3ff6b5e76284f994d24501027c97 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="position:fixed; bottom:30px; left:10px; z-index:1000; background:white;
+     padding:10px; border-radius:8px; font-size:12px; border:1px solid #ccc; box-shadow: 0 0 8px rgba(0,0,0,0.2);">
+<b>🇪🇸 Andalousie — Pauline</b><br>
+🔵 Départ / Retour (Séville)<br>
+🔴 Étapes intermédiaires<br>
+➖ Parcours ~680 km en voiture<br>
+<i>20/09 → 02/10 2026</i>
+</div>
+    
+            <div class="folium-map" id="map_9e1f3ff6b5e76284f994d24501027c97" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_9e1f3ff6b5e76284f994d24501027c97 = L.map(
+                "map_9e1f3ff6b5e76284f994d24501027c97",
+                {
+                    center: [37.3, -4.5],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 7.5,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_9e1f3ff6b5e76284f994d24501027c97);
+
+            
+
+        
+    
+            var tile_layer_30cdb2d5be1834465461c38dcd04245c = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_30cdb2d5be1834465461c38dcd04245c.addTo(map_9e1f3ff6b5e76284f994d24501027c97);
+        
+    
+            var poly_line_a825e6ad1495d23d8eea0f929c19db6c = L.polyline(
+                [[37.3886, -5.9953], [36.7527, -5.8122], [36.7421, -5.1666], [36.8622, -5.1787], [37.1735, -3.5995], [37.8846, -4.776]],
+                {"bubblingMouseEvents": true, "color": "#e63946", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#e63946", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_9e1f3ff6b5e76284f994d24501027c97);
+        
+    
+        var popup_8ea8350c989465d9609396d70a6dafe4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_cab60eb3dde7ace1b08be5cdab620389 = $(`<div id="html_cab60eb3dde7ace1b08be5cdab620389" style="width: 100.0%; height: 100.0%;">Parcours Andalousie (~680 km)</div>`)[0];
+                popup_8ea8350c989465d9609396d70a6dafe4.setContent(html_cab60eb3dde7ace1b08be5cdab620389);
+            
+        
+
+        poly_line_a825e6ad1495d23d8eea0f929c19db6c.bindPopup(popup_8ea8350c989465d9609396d70a6dafe4)
+        ;
+
+        
+    
+    
+            var marker_2af4cbc5a18a556e16f301f06e4732c6 = L.marker(
+                [37.3886, -5.9953],
+                {
+}
+            ).addTo(map_9e1f3ff6b5e76284f994d24501027c97);
+        
+    
+            var icon_2e6e83123c45dfdf7f02bbc027f8a647 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a81c0312ba6d95f88566736602ec5280 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b81ee63e03d07a95c29f91fdc552b76f = $(`<div id="html_b81ee63e03d07a95c29f91fdc552b76f" style="width: 100.0%; height: 100.0%;"><b>✈️ Départ Séville</b><br>20-22/09<br>🏛️ Départ & retour · 3 nuits</div>`)[0];
+                popup_a81c0312ba6d95f88566736602ec5280.setContent(html_b81ee63e03d07a95c29f91fdc552b76f);
+            
+        
+
+        marker_2af4cbc5a18a556e16f301f06e4732c6.bindPopup(popup_a81c0312ba6d95f88566736602ec5280)
+        ;
+
+        
+    
+    
+            marker_2af4cbc5a18a556e16f301f06e4732c6.bindTooltip(
+                `<div>
+                     Séville
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_2af4cbc5a18a556e16f301f06e4732c6.setIcon(icon_2e6e83123c45dfdf7f02bbc027f8a647);
+            
+    
+            var marker_60aa940b65c8a94ddbb28968d3bf4a82 = L.marker(
+                [36.7527, -5.8122],
+                {
+}
+            ).addTo(map_9e1f3ff6b5e76284f994d24501027c97);
+        
+    
+            var icon_fdd2a3e5986a4a1fc62d13bde3c4159a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_cdcd11b34eba8077a0db7f078875e777 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bfb8a97ebc5432b131f400316731796e = $(`<div id="html_bfb8a97ebc5432b131f400316731796e" style="width: 100.0%; height: 100.0%;"><b>📍 Arcos de la Frontera</b><br>23/09<br>🏔️ Premier village blanc</div>`)[0];
+                popup_cdcd11b34eba8077a0db7f078875e777.setContent(html_bfb8a97ebc5432b131f400316731796e);
+            
+        
+
+        marker_60aa940b65c8a94ddbb28968d3bf4a82.bindPopup(popup_cdcd11b34eba8077a0db7f078875e777)
+        ;
+
+        
+    
+    
+            marker_60aa940b65c8a94ddbb28968d3bf4a82.bindTooltip(
+                `<div>
+                     Arcos de la Frontera
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_60aa940b65c8a94ddbb28968d3bf4a82.setIcon(icon_fdd2a3e5986a4a1fc62d13bde3c4159a);
+            
+    
+            var marker_8cb04c18e6306f42c89d99d6f050f0e1 = L.marker(
+                [36.7421, -5.1666],
+                {
+}
+            ).addTo(map_9e1f3ff6b5e76284f994d24501027c97);
+        
+    
+            var icon_6eae18746557c5676b2d2d1843df0050 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_14aeff4e637bdcca6bcf47330152a9f2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_40582ed49cc3ffea966a695b374abcb9 = $(`<div id="html_40582ed49cc3ffea966a695b374abcb9" style="width: 100.0%; height: 100.0%;"><b>📍 Ronda</b><br>23/09<br>🌉 Puente Nuevo & arènes</div>`)[0];
+                popup_14aeff4e637bdcca6bcf47330152a9f2.setContent(html_40582ed49cc3ffea966a695b374abcb9);
+            
+        
+
+        marker_8cb04c18e6306f42c89d99d6f050f0e1.bindPopup(popup_14aeff4e637bdcca6bcf47330152a9f2)
+        ;
+
+        
+    
+    
+            marker_8cb04c18e6306f42c89d99d6f050f0e1.bindTooltip(
+                `<div>
+                     Ronda
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8cb04c18e6306f42c89d99d6f050f0e1.setIcon(icon_6eae18746557c5676b2d2d1843df0050);
+            
+    
+            var marker_ff8267905d4864feebd8965ed50ab2d8 = L.marker(
+                [36.8622, -5.1787],
+                {
+}
+            ).addTo(map_9e1f3ff6b5e76284f994d24501027c97);
+        
+    
+            var icon_5793d84b46d6dee1276f6478f729d1e1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a65617791ca996896fb0619b719c9174 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_cfca0f492a60a412038ad36ec99d9d1b = $(`<div id="html_cfca0f492a60a412038ad36ec99d9d1b" style="width: 100.0%; height: 100.0%;"><b>📍 Setenil de las Bodegas</b><br>24/09<br>🪨 Village troglodyte</div>`)[0];
+                popup_a65617791ca996896fb0619b719c9174.setContent(html_cfca0f492a60a412038ad36ec99d9d1b);
+            
+        
+
+        marker_ff8267905d4864feebd8965ed50ab2d8.bindPopup(popup_a65617791ca996896fb0619b719c9174)
+        ;
+
+        
+    
+    
+            marker_ff8267905d4864feebd8965ed50ab2d8.bindTooltip(
+                `<div>
+                     Setenil de las Bodegas
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_ff8267905d4864feebd8965ed50ab2d8.setIcon(icon_5793d84b46d6dee1276f6478f729d1e1);
+            
+    
+            var marker_e183dd85f72d67a9dae6b35d965c1f7d = L.marker(
+                [37.1735, -3.5995],
+                {
+}
+            ).addTo(map_9e1f3ff6b5e76284f994d24501027c97);
+        
+    
+            var icon_3dfc4d3eabcd399da2bc66a03a48221b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_04160301c92d1ee7de137156fb193e23 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9b0dfd32d8bbb3c17c740b26f932d898 = $(`<div id="html_9b0dfd32d8bbb3c17c740b26f932d898" style="width: 100.0%; height: 100.0%;"><b>📍 Grenade</b><br>25-27/09<br>🏰 Alhambra & Albaicín</div>`)[0];
+                popup_04160301c92d1ee7de137156fb193e23.setContent(html_9b0dfd32d8bbb3c17c740b26f932d898);
+            
+        
+
+        marker_e183dd85f72d67a9dae6b35d965c1f7d.bindPopup(popup_04160301c92d1ee7de137156fb193e23)
+        ;
+
+        
+    
+    
+            marker_e183dd85f72d67a9dae6b35d965c1f7d.bindTooltip(
+                `<div>
+                     Grenade
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_e183dd85f72d67a9dae6b35d965c1f7d.setIcon(icon_3dfc4d3eabcd399da2bc66a03a48221b);
+            
+    
+            var marker_0e9f5c1e0142e5ce4facac6cdb2e558e = L.marker(
+                [37.8846, -4.776],
+                {
+}
+            ).addTo(map_9e1f3ff6b5e76284f994d24501027c97);
+        
+    
+            var icon_c714bd0a65ce4b5d6535d38c1724118c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_96f7b6072bf2f55e620bfe312ce0e25a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b8985d87688ce26828151e48a1d51629 = $(`<div id="html_b8985d87688ce26828151e48a1d51629" style="width: 100.0%; height: 100.0%;"><b>✈️ Retour Cordoue</b><br>28-29/09<br>🕌 Mezquita & Judería</div>`)[0];
+                popup_96f7b6072bf2f55e620bfe312ce0e25a.setContent(html_b8985d87688ce26828151e48a1d51629);
+            
+        
+
+        marker_0e9f5c1e0142e5ce4facac6cdb2e558e.bindPopup(popup_96f7b6072bf2f55e620bfe312ce0e25a)
+        ;
+
+        
+    
+    
+            marker_0e9f5c1e0142e5ce4facac6cdb2e558e.bindTooltip(
+                `<div>
+                     Cordoue
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_0e9f5c1e0142e5ce4facac6cdb2e558e.setIcon(icon_c714bd0a65ce4b5d6535d38c1724118c);
+            
+</script>
+</html>

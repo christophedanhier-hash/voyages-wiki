@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_4e06239743d2e06f4a31f4e60bd99f72 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="position:fixed; bottom:30px; left:10px; z-index:1000; background:white;
+     padding:10px; border-radius:8px; font-size:12px; border:1px solid #ccc; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+<b>🌊 Lac de Garde — POI</b><br>
+🟢 Camp de base (San Francesco)<br>
+🔴 Rive sud-ouest (Desenzano, Sirmione, Salò)<br>
+🔵 Rive est + nord (Malcesine, Riva)<br>
+🟣 Vérone (excursion journée)<br>
+⏺️ 2 km du camping
+</div>
+    
+            <div class="folium-map" id="map_4e06239743d2e06f4a31f4e60bd99f72" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_4e06239743d2e06f4a31f4e60bd99f72 = L.map(
+                "map_4e06239743d2e06f4a31f4e60bd99f72",
+                {
+                    center: [45.6, 10.6],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 11,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_4e06239743d2e06f4a31f4e60bd99f72);
+
+            
+
+        
+    
+            var tile_layer_89053a52a789f30feb1ca51e926eecc8 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_89053a52a789f30feb1ca51e926eecc8.addTo(map_4e06239743d2e06f4a31f4e60bd99f72);
+        
+    
+            var marker_df6455fbcc98c5029e1cabec34122c94 = L.marker(
+                [45.46567, 10.59403],
+                {
+}
+            ).addTo(map_4e06239743d2e06f4a31f4e60bd99f72);
+        
+    
+            var icon_f3bdc04a047bee59ed3e855cfc804a89 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2b25e3c2705c5f7341e04937e1f2a996 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_636413ed54e9b8d6de74fb8d28ea138b = $(`<div id="html_636413ed54e9b8d6de74fb8d28ea138b" style="width: 100.0%; height: 100.0%;"><b>🏕️ Camp de base</b><br>San Francesco Camping Village — Desenzano<br>📍 Piscine, plage, location vélos</div>`)[0];
+                popup_2b25e3c2705c5f7341e04937e1f2a996.setContent(html_636413ed54e9b8d6de74fb8d28ea138b);
+            
+        
+
+        marker_df6455fbcc98c5029e1cabec34122c94.bindPopup(popup_2b25e3c2705c5f7341e04937e1f2a996)
+        ;
+
+        
+    
+    
+            marker_df6455fbcc98c5029e1cabec34122c94.bindTooltip(
+                `<div>
+                     🏕️ San Francesco Camping
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_df6455fbcc98c5029e1cabec34122c94.setIcon(icon_f3bdc04a047bee59ed3e855cfc804a89);
+            
+    
+            var marker_0915dc0537c880a0eb5bb709db4fbfa7 = L.marker(
+                [45.46949, 10.53895],
+                {
+}
+            ).addTo(map_4e06239743d2e06f4a31f4e60bd99f72);
+        
+    
+            var icon_18b18c60ea832155a66c729ec2c07069 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8f1d86c2ecc60e23df025bd6e60cb081 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4c3f664f2809573eb46ab0116a4d18eb = $(`<div id="html_4c3f664f2809573eb46ab0116a4d18eb" style="width: 100.0%; height: 100.0%;"><b>🏙️ Desenzano del Garda</b><br>Centre, château, port, plage publique</div>`)[0];
+                popup_8f1d86c2ecc60e23df025bd6e60cb081.setContent(html_4c3f664f2809573eb46ab0116a4d18eb);
+            
+        
+
+        marker_0915dc0537c880a0eb5bb709db4fbfa7.bindPopup(popup_8f1d86c2ecc60e23df025bd6e60cb081)
+        ;
+
+        
+    
+    
+            marker_0915dc0537c880a0eb5bb709db4fbfa7.bindTooltip(
+                `<div>
+                     🏙️ Desenzano del Garda
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_0915dc0537c880a0eb5bb709db4fbfa7.setIcon(icon_18b18c60ea832155a66c729ec2c07069);
+            
+    
+            var marker_9894f1a2389e677765353ee92566571d = L.marker(
+                [45.46885, 10.60782],
+                {
+}
+            ).addTo(map_4e06239743d2e06f4a31f4e60bd99f72);
+        
+    
+            var icon_361ab3dab41c6aec889373e04e026d7e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7ded81af6c5f2aede61222892f85d7d3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_be86077d4d7bf2fd6f213b9d5b85e4ce = $(`<div id="html_be86077d4d7bf2fd6f213b9d5b85e4ce" style="width: 100.0%; height: 100.0%;"><b>🏰 Sirmione</b><br>Château scaligero, Grotte di Catullo — 15 km</div>`)[0];
+                popup_7ded81af6c5f2aede61222892f85d7d3.setContent(html_be86077d4d7bf2fd6f213b9d5b85e4ce);
+            
+        
+
+        marker_9894f1a2389e677765353ee92566571d.bindPopup(popup_7ded81af6c5f2aede61222892f85d7d3)
+        ;
+
+        
+    
+    
+            marker_9894f1a2389e677765353ee92566571d.bindTooltip(
+                `<div>
+                     🏰 Sirmione
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_9894f1a2389e677765353ee92566571d.setIcon(icon_361ab3dab41c6aec889373e04e026d7e);
+            
+    
+            var marker_b1fdf4f75d98511aa21305fab812e5f7 = L.marker(
+                [45.60568, 10.52007],
+                {
+}
+            ).addTo(map_4e06239743d2e06f4a31f4e60bd99f72);
+        
+    
+            var icon_35e13a308f8611c8f6bd3aa29d0f10fa = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8762c305709cdbee52875252ae69349e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9505bdefcbebbe38b116f1708fd84657 = $(`<div id="html_9505bdefcbebbe38b116f1708fd84657" style="width: 100.0%; height: 100.0%;"><b>🏘️ Salò</b><br>Promenade élégante, cafés — 25 km</div>`)[0];
+                popup_8762c305709cdbee52875252ae69349e.setContent(html_9505bdefcbebbe38b116f1708fd84657);
+            
+        
+
+        marker_b1fdf4f75d98511aa21305fab812e5f7.bindPopup(popup_8762c305709cdbee52875252ae69349e)
+        ;
+
+        
+    
+    
+            marker_b1fdf4f75d98511aa21305fab812e5f7.bindTooltip(
+                `<div>
+                     🏘️ Salò
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b1fdf4f75d98511aa21305fab812e5f7.setIcon(icon_35e13a308f8611c8f6bd3aa29d0f10fa);
+            
+    
+            var marker_21657cfed38a672420f29aff4f7436b3 = L.marker(
+                [45.76848, 10.83147],
+                {
+}
+            ).addTo(map_4e06239743d2e06f4a31f4e60bd99f72);
+        
+    
+            var icon_01afe3b14940cb311a0e1ab9c72ba279 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2701d0b95ce9965586608cd70ae97682 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_756522770b7d45c1301b6ddeabe16cff = $(`<div id="html_756522770b7d45c1301b6ddeabe16cff" style="width: 100.0%; height: 100.0%;"><b>🏰 Malcesine</b><br>Téléphérique Monte Baldo — 50 km</div>`)[0];
+                popup_2701d0b95ce9965586608cd70ae97682.setContent(html_756522770b7d45c1301b6ddeabe16cff);
+            
+        
+
+        marker_21657cfed38a672420f29aff4f7436b3.bindPopup(popup_2701d0b95ce9965586608cd70ae97682)
+        ;
+
+        
+    
+    
+            marker_21657cfed38a672420f29aff4f7436b3.bindTooltip(
+                `<div>
+                     🏰 Malcesine
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_21657cfed38a672420f29aff4f7436b3.setIcon(icon_01afe3b14940cb311a0e1ab9c72ba279);
+            
+    
+            var marker_3536896aab22ccf20139f3ffc56e6279 = L.marker(
+                [45.88675, 10.84577],
+                {
+}
+            ).addTo(map_4e06239743d2e06f4a31f4e60bd99f72);
+        
+    
+            var icon_5a48a56101c7f57f97c6edd4607bf24b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_39abd21bf10860a97903d4f0b33ee19e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_88f29a3ddcdbdc317bc00ee5266788a5 = $(`<div id="html_88f29a3ddcdbdc317bc00ee5266788a5" style="width: 100.0%; height: 100.0%;"><b>🌊 Riva del Garda</b><br>Nord du lac, promenade, port — 55 km</div>`)[0];
+                popup_39abd21bf10860a97903d4f0b33ee19e.setContent(html_88f29a3ddcdbdc317bc00ee5266788a5);
+            
+        
+
+        marker_3536896aab22ccf20139f3ffc56e6279.bindPopup(popup_39abd21bf10860a97903d4f0b33ee19e)
+        ;
+
+        
+    
+    
+            marker_3536896aab22ccf20139f3ffc56e6279.bindTooltip(
+                `<div>
+                     🌊 Riva del Garda
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3536896aab22ccf20139f3ffc56e6279.setIcon(icon_5a48a56101c7f57f97c6edd4607bf24b);
+            
+    
+            var marker_029dd767e202fd2d934b2fd2f8e53a38 = L.marker(
+                [45.43902, 10.99493],
+                {
+}
+            ).addTo(map_4e06239743d2e06f4a31f4e60bd99f72);
+        
+    
+            var icon_74fc9c4fbb8229f82cc9f481e077cee3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_dfdfec2963622eeacab6a41035e8241c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_70dabd17f7735e2d6a8bd0fc80603a02 = $(`<div id="html_70dabd17f7735e2d6a8bd0fc80603a02" style="width: 100.0%; height: 100.0%;"><b>🏛️ Vérone</b><br>Arène, Maison Juliette, Piazza Erbe — 40 km, 35 min</div>`)[0];
+                popup_dfdfec2963622eeacab6a41035e8241c.setContent(html_70dabd17f7735e2d6a8bd0fc80603a02);
+            
+        
+
+        marker_029dd767e202fd2d934b2fd2f8e53a38.bindPopup(popup_dfdfec2963622eeacab6a41035e8241c)
+        ;
+
+        
+    
+    
+            marker_029dd767e202fd2d934b2fd2f8e53a38.bindTooltip(
+                `<div>
+                     Vérone
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_029dd767e202fd2d934b2fd2f8e53a38.setIcon(icon_74fc9c4fbb8229f82cc9f481e077cee3);
+            
+    
+            var circle_438dac354c8288ae9a790701eca41093 = L.circle(
+                [45.46567, 10.59403],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.04, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2000, "stroke": true, "weight": 1}
+            ).addTo(map_4e06239743d2e06f4a31f4e60bd99f72);
+        
+</script>
+</html>
