@@ -66,11 +66,11 @@ R : Si tu es invité, l'abonnement 12 €/an est requis. Christophe n'a pas d'ab
 R : Sylvia refusera poliment.
 
 **Q : Comment sont calculés les coûts ?**
-R : Voir l'onglet [📊 Monitoring](monitoring.md).
+R : Voir le roadbook du voyage concerné.
 
 **Q : Puis-je modifier un roadbook après sa création ?**
 R : Oui, demande à Sylvia de le compléter.
 
 ---
 
-*Propulsé par [BAVI LEO](https://christophedanhier-hash.github.io/BAVI_LEO/) · [📊 Monitoring](monitoring.md) — coûts & sessions*
+*Propulsé par [BAVI LEO](https://christophedanhier-hash.github.io/BAVI_LEO/)*
