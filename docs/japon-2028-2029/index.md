@@ -68,6 +68,23 @@
 
 ---
 
+## 🗺️ Carte du trajet
+
+<iframe src="carte-japon.html" width="100%" height="550" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
+
+> 🗺️ Carte interactive avec le **parcours réel** (6 étapes, boucle Tokyo → Hakone → Kawaguchiko → Kyoto → Osaka → Tokyo). Cliquez sur les marqueurs pour voir les étapes. Bouton ⛶ pour plein écran.
+
+### 📍 Cartes POI par ville (rythme senior — cercles 2 km 🟢 et 3 km 🟡)
+
+| Ville | Carte | Ce qu'on y voit |
+|:---|:---|:---|
+| 🗼 **Tokyo** | <iframe src="carte-tokyo-poi.html" width="100%" height="400" style="border: 2px solid #ccc; border-radius: 8px;"></iframe> | Ueno (base), Sensō-ji, Shinjuku Gyoen, Akihabara, TeamLab, montres 🕰️ |
+| 🗻 **Hakone + Fuji** | <iframe src="carte-fuji-poi.html" width="100%" height="400" style="border: 2px solid #ccc; border-radius: 8px;"></iframe> | Lac Ashi, téléphérique, Mizunosato, pagode Chureito, Mont Fuji |
+| 🏯 **Kyoto** | <iframe src="carte-kyoto-poi.html" width="100%" height="400" style="border: 2px solid #ccc; border-radius: 8px;"></iframe> | Arashiyama, Fushimi Inari (bas), Nishiki, Kinkaku-ji, Kiyomizu |
+| 🐙 **Osaka + Nara** | <iframe src="carte-osaka-poi.html" width="100%" height="400" style="border: 2px solid #ccc; border-radius: 8px;"></iframe> | Dotonbori, Nara, USJ, Minoo |
+
+---
+
 ## ✈️ Vols — Comparatif aéroports de départ (depuis Sombreffe)
 
 > Prix réels relevés sur Google Flights (28/08 → 13/09, référence 2026). Pour 2028/2029 : prévoir **+5-10 %**. Recherche à refaire ~10-11 mois avant le départ (ouverture des ventes).
