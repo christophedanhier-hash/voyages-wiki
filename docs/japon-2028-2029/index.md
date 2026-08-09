@@ -58,11 +58,43 @@
 
 ---
 
+## ✈️ Vols — Comparatif aéroports de départ (depuis Sombreffe)
+
+> Prix réels relevés sur Google Flights (28/08 → 13/09, référence 2026). Pour 2028/2029 : prévoir **+5-10 %**. Recherche à refaire ~10-11 mois avant le départ (ouverture des ventes).
+
+### 🗺️ Distance & temps depuis Sombreffe
+
+| Aéroport | Distance | ~Temps route | Parking 17 j |
+|:---|:---:|:---:|:---:|
+| **Charleroi (CRL)** | 13 km | 0h10 | ❌ Pas de Tokyo |
+| **Bruxelles (BRU)** | 43 km | 0h30 | ~160 € |
+| **Eindhoven (EIN)** | 116 km | 1h20 | ❌ Pas de Tokyo |
+| **Luxembourg (LUX)** | 152 km | 1h45 | ~180 € |
+| **Düsseldorf (DUS)** | 174 km | 2h00 | ~140 € |
+| **Amsterdam (AMS)** | 199 km | 2h20 | ~220 € |
+| **Paris (CDG)** | 224 km | 2h35 | ~280 € |
+| **Francfort (FRA)** | 287 km | 3h20 | ~200 € |
+
+### 💰 Prix réels (AR/pers, économique, 28/08 → 13/09)
+
+| Aéroport | Prix min | Meilleure option | Durée | Total 2 pers (vol+route+parking) |
+|:---|:---:|:---|:---:|:---:|
+| 🥇 **Bruxelles (BRU)** | 1 029 € | **Air France via CDG** (train Bruxelles-Midi inclus !) | 16h15 | **~2 230 €** |
+| 🥈 **Amsterdam (AMS)** | 840 € | China Southern 916 € (18h) • BA 1 087 € (16h40) | 16h40-18h | ~1 950 € (916 €) |
+| 🥉 **Düsseldorf (DUS)** | 1 102 € | **Emirates via Dubaï** | 18h05 | ~2 090 € |
+| **Paris (CDG)** | 921 € | ⭐ **DIRECT Air France 1 274 €** (13h15 — le + rapide) | 13h15 | ~2 180 € (direct) |
+| **Francfort (FRA)** | 1 074 € | ⭐ **DIRECT ANA/Lufthansa 1 243 €** (12h40) | 12h40 | ~2 420 € |
+| **Luxembourg (LUX)** | 1 125 € | Luxair+Air France 1 307 € (15h25) | 15h25 | ~2 470 € |
+
+> 💡 **Recommandation Sylvia** : **Bruxelles** reste le meilleur compromis (30 min de Sombreffe, ~2 230 € les 2, train + Air France). Si vous voulez un **vol direct** : Paris CDG (1 274 €, 13h15) ou Francfort (1 243 €, 12h40) valent le détour pour éviter une escale à 60 ans. **Éviter** : AMS à 840 € = 20h d'escale à Pékin (exténuant), DUS 801 € = dates décalées.
+> ⚠️ Réserver **6-8 mois avant** pour les meilleurs tarifs (les prix montent fort dans les 3 derniers mois).
+
+---
+
 ## 🚄 Transports inter-villes
 
 | Trajet | Moyen | Durée | Coût estimé (2 pers) | Note |
 |:---|:---|:---:|:---:|:---|
-| ✈️ Bruxelles → Tokyo (Haneda) | Avion | ~12h | 1 400-1 800 € AR | Réserver 6-8 mois avant |
 | 🚄 Tokyo (Shinjuku) → Kawaguchiko | **Fuji Excursion** (direct) | ~2h | ~40 € | Réservation conseillée (places limitées) |
 | 🚌 Kawaguchiko → Mishima | Bus direct | ~2h | ~30 € | Pas de train direct |
 | 🚄 Mishima → Kyoto | Shinkansen Hikari/Kodama | ~2h | ~180 € | Porte-à-porte ~4h30 |
@@ -128,13 +160,13 @@
 
 | Poste | Estimation | Détail |
 |:---|:---:|:---|
-| ✈️ **Vols AR** (Bruxelles → Haneda) | **1 400-1 800 €** | ~700-900 €/pers, réserver 6-8 mois avant |
+| ✈️ **Vols AR** (2 pers, depuis Bruxelles) | **~2 050-2 300 €** | 1 029 €/pers (Air France via CDG) — voir comparatif aéroports |
 | 🏨 **Hébergements** (16 nuits) | **1 600-2 400 €** | Tokyo 7 n (Dormy Inn ~110-145 €/n) + ryokan Mizunosato ~250 € + Kyoto 4 n (Celestine ~130-180 €) + Osaka 4 n (Onyado Nono ~100-155 €) |
 | 🚄 **Transports internes** | **500-700 €** | Shinkansen + bus + Suica + excursions |
 | 🍜 **Nourriture** | **1 200-1 800 €** | ~40-55 €/jour/pers (konbini → izakaya) — ryokan avec 2 repas inclus |
 | 🎢 **Activités & entrées** | **400-600 €** | USJ (2×~90 €) + TeamLab + Shibuya Sky + sumo + temples |
 | 🛍️ **Divers & souvenirs** | **300-500 €** | Sans les montres 🕰️ |
-| **Total** | **~5 400-7 800 €** | Fourchette réaliste pour 2 |
+| **Total** | **~6 000-8 500 €** | Fourchette réaliste pour 2 |
 
 ### 🕰️ Budget « montres » (liste à part de Christophe)
 
@@ -230,7 +262,7 @@
 | **Pays** | 🇯🇵 Japon uniquement |
 | **Nuits** | 16 nuits |
 | **KM** | ~1 500 km de transports internes (train/bus) |
-| **Budget total** | **~5 400-7 800 €** (2 pers, sans montres) |
+| **Budget total** | **~6 000-8 500 €** (2 pers, sans montres) |
 | **Visa** | ❌ Non requis — Visit Japan Web obligatoire |
 | **Meilleure période** | Fin août → mi-septembre (prix min + calme, ⚠️ chaud) |
 
