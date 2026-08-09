@@ -1,6 +1,6 @@
-# 🇯🇵 Voyage Japon — Printemps 2028/2029
+# 🇯🇵 Voyage Japon — Fin d'été 2028/2029
 
-> **🗓️ 17/05 → 02/06 | ✈️ Vol + 🏨 Hôtels | 17 jours / 16 nuits | 👥 2 adultes | 🇯🇵 Tokyo → Kawaguchiko → Kyoto → Osaka**
+> **🗓️ 28/08 → 13/09 | ✈️ Vol + 🏨 Hôtels | 17 jours / 16 nuits | 👥 2 adultes | 🇯🇵 Tokyo → Kawaguchiko → Kyoto → Osaka**
 
 ---
 
@@ -12,9 +12,9 @@
 | **Type de voyage** | ✈️ Avion + 🏨 Hôtels/Ryokan (pas de camping-car) |
 | **Objectif** | Découverte du Japon : Tokyo, Mont Fuji, Kyoto, Osaka |
 | **Durée** | 17 jours / 16 nuits (J1 → J17) |
-| **Période visée** | **17 mai → 2 juin** (année 2028 ou 2029 à confirmer) |
+| **Période visée** | **28 août → 13 septembre** (année 2028 ou 2029 à confirmer) |
 | **🐕 Nala** | Pension chez Émilie |
-| **Saison** | ✅ **Idéale** : après Golden Week, avant la saison des pluies (tsuyu, mi-juin) |
+| **Saison** | ✅ **Fin d'été** : après Obon (mi-août), prix au plus bas, foule qui s'évapore début septembre — ⚠️ chaud et humide (27-33 °C) |
 | **Visa** | ❌ **Non requis** pour les Belges (séjour tourisme < 90 j) — juste **Visit Japan Web** (QR code dédouanement) |
 | **Réservations** | ❌ Aucune pour l'instant — checklist en bas du document |
 
@@ -38,23 +38,23 @@
 
 | Jour | Date | Ville / Étape | Activité principale | Nuit |
 |:---:|:---|:---|:---|:---:|
-| **J1** | 17/05 | ✈️ Arrivée Haneda 14h30 → **Tokyo (Ueno)** | Repos, quartier, ramen 🍜 | Tokyo |
-| **J2** | 18/05 | **Tokyo** | Asakusa (Sensō-ji, Nakamise) • Kappabashi • Parc Ueno • Akihabara | Tokyo |
-| **J3** | 19/05 | **Tokyo** | Shinjuku Gyoen • Harajuku (Meiji-jingu, Takeshita) • Shibuya Crossing & Sky | Tokyo |
-| **J4** | 20/05 | **Tokyo** | 🏔️ Option A : **Nikko** (Toshogu, Rinno-ji) / Option B : Kamakura-Kawagoe (selon météo) | Tokyo |
-| **J5** | 21/05 | Tokyo → **Kawaguchiko** | Fuji Excursion ~2h • Pagode Chureito • Lac Kawaguchi • Tenku no Torii | Kawaguchiko |
-| **J6** | 22/05 | **Kawaguchiko** | Randonnée vue Fuji (matin) • Onsen • Trajet → **Kyoto** (bus Mishima + Shinkansen, ~4h30) | Kyoto |
-| **J7** | 23/05 | **Kyoto (Higashiyama)** | Arashiyama (Bambous, Togetsukyo) • Otagi Nenbutsu-ji • Kinkaku-ji 🏯 | Kyoto |
-| **J8** | 24/05 | **Kyoto** | Fushimi Inari (tôt) • Uji (Byōdō-in + matcha) 🍵 | Kyoto |
-| **J9** | 25/05 | **Kyoto** | Rando **Kurama → Kibune** (train Eizan) • Gion / Hanamikoji le soir | Kyoto |
-| **J10** | 26/05 | Kyoto → **Osaka (Namba)** | JR Special Rapid ~30 min • Kuromon Ichiba • Shinsaibashi • Dotonbori 🐙 | Osaka |
-| **J11** | 27/05 | **Osaka** | 🦌 Option Nara (parc, Tōdai-ji) / 🌿 Option Minoo (cascade, Katsuo-ji) | Osaka |
-| **J12** | 28/05 | **Osaka** | 🎢 **Universal Studios Japan** + Nintendo World | Osaka |
-| **J13** | 29/05 | **Osaka** | Nara ou Minoo (celui non fait J11) • Shinsekai le soir | Osaka |
-| **J14** | 30/05 | **Osaka** | Château d'Osaka • Shinsekai / Tsutenkaku • 🚄 Soir → **Tokyo** (~3h) | Tokyo |
-| **J15** | 31/05 | **Tokyo (Odaiba)** | TeamLab 🌸 • Gundam • Sunset baie de Tokyo | Tokyo |
-| **J16** | 01/06 | **Tokyo** | Nikko ou Kamakura (rattrapage) / Tokyo chill • **Kita-Kamakura** • Yanaka Ginza | Tokyo |
-| **J17** | 02/06 | ✈️ Départ | Valises, derniers achats, vol Haneda 21h10 | — |
+| **J1** | 28/08 | ✈️ Arrivée Haneda 14h30 → **Tokyo (Ueno)** | Repos, quartier, ramen 🍜 | Tokyo |
+| **J2** | 29/08 | **Tokyo** | Asakusa (Sensō-ji, Nakamise) • Kappabashi • Parc Ueno • Akihabara | Tokyo |
+| **J3** | 30/08 | **Tokyo** | Shinjuku Gyoen • Harajuku (Meiji-jingu, Takeshita) • Shibuya Crossing & Sky | Tokyo |
+| **J4** | 31/08 | **Tokyo** | 🏔️ Option A : **Nikko** (Toshogu, Rinno-ji) / Option B : Kamakura-Kawagoe (selon météo) | Tokyo |
+| **J5** | 01/09 | Tokyo → **Kawaguchiko** | Fuji Excursion ~2h • Pagode Chureito • Lac Kawaguchi • Tenku no Torii | Kawaguchiko |
+| **J6** | 02/09 | **Kawaguchiko** | Randonnée vue Fuji (matin) • Onsen • Trajet → **Kyoto** (bus Mishima + Shinkansen, ~4h30) | Kyoto |
+| **J7** | 03/09 | **Kyoto (Higashiyama)** | Arashiyama (Bambous, Togetsukyo) • Otagi Nenbutsu-ji • Kinkaku-ji 🏯 | Kyoto |
+| **J8** | 04/09 | **Kyoto** | Fushimi Inari (tôt) • Uji (Byōdō-in + matcha) 🍵 | Kyoto |
+| **J9** | 05/09 | **Kyoto** | Rando **Kurama → Kibune** (train Eizan) • Gion / Hanamikoji le soir | Kyoto |
+| **J10** | 06/09 | Kyoto → **Osaka (Namba)** | JR Special Rapid ~30 min • Kuromon Ichiba • Shinsaibashi • Dotonbori 🐙 | Osaka |
+| **J11** | 07/09 | **Osaka** | 🦌 Option Nara (parc, Tōdai-ji) / 🌿 Option Minoo (cascade, Katsuo-ji) | Osaka |
+| **J12** | 08/09 | **Osaka** | 🎢 **Universal Studios Japan** + Nintendo World | Osaka |
+| **J13** | 09/09 | **Osaka** | Nara ou Minoo (celui non fait J11) • Shinsekai le soir | Osaka |
+| **J14** | 10/09 | **Osaka** | Château d'Osaka • Shinsekai / Tsutenkaku • 🚄 Soir → **Tokyo** (~3h) | Tokyo |
+| **J15** | 11/09 | **Tokyo (Odaiba)** | TeamLab 🌸 • Gundam • Sunset baie de Tokyo | Tokyo |
+| **J16** | 12/09 | **Tokyo** | Nikko ou Kamakura (rattrapage) / Tokyo chill • **Kita-Kamakura** • Yanaka Ginza | Tokyo |
+| **J17** | 13/09 | ✈️ Départ | Valises, derniers achats, vol Haneda 21h10 | — |
 
 ---
 
@@ -183,24 +183,26 @@
 
 ## 📝 Notes & Astuces
 
-### 📅 Saison — pourquoi mi-mai → début juin ?
-- **17/05 → 02/06** : 🌸 après Golden Week (fin avril — prix +20-30 % et foule), avant les pluies de mi-juin (tsuyu). Températures 18-25 °C, ciel souvent dégagé, Fuji visible.
-- **Golden Week 2028** = ~29/04 au 07/05 • **2029** = ~28/04 au 06/05 — le départ le 17/05 est **safe dans les deux cas**.
-- Les **montagnes (Fuji, Kurama)** sont les plus belles en mai — verdure fraîche.
+### 📅 Saison — pourquoi fin août → début septembre ?
+- **28/08 → 13/09** : 🌞 après **Obon** (mi-août — les Japonais rentrent, les prix chutent), avant le pic des typhons (mi-septembre). La **foule s'évapore** début septembre (rentrée scolaire au Japon).
+- 💰 **Prix au plus bas de l'année** pour les vols et hôtels — la basse saison post-été.
+- ⚠️ **Chaud et humide** (27-33 °C, humidité 70-80 %) : prévoir vêtements légers, bouteille d'eau, et visites tôt le matin ou en fin d'après-midi.
+- ✅ **Fuji accessible** : la saison d'ascension officielle du Fuji va de début juillet à **mi-septembre** — la rando J6 est possible (contrairement à mai où elle est fermée).
 
 ### 📊 Classement des périodes (météo × prix)
 
 | Période | 🌡️ Météo | 💰 Prix | 👥 Foule | Verdict |
 |:---|:---|:---:|:---:|:---|
-| **🌟 Mi-mai → début juin** | 18-25 °C, ciel clair | 💶 Redescendus | Moyenne | **LE sweet spot** |
-| 🍂 Fin oct. → mi-nov. | 15-22 °C, sec, koyo | 💶💶 Élevés | Forte (Kyoto saturé) | Beau mais cher |
+| **🌟 Fin août → mi-sept.** | 27-33 °C, humide | 💶 **Minimal** | Faible | **Budget + calme** |
 | 🌸 Fin mars → mi-avril | 12-20 °C, sakura | 💶💶💶 Max | Extrême | Cherry blossom = cher + foule |
+| 🍂 Fin oct. → mi-nov. | 15-22 °C, sec, koyo | 💶💶 Élevés | Forte (Kyoto saturé) | Beau mais cher |
+| 🌟 Mi-mai → début juin | 18-25 °C, ciel clair | 💶 Redescendus | Moyenne | Météo idéale |
 | ❄️ Fin janv. → fév. | 5-10 °C, Fuji dégagé, onsen | 💶 Minimal | Faible | Bon plan budget, froid |
 | ☔ Mi-juin → mi-juillet | Pluies (tsuyu) | 💶 Bas | Faible | ❌ À éviter |
-| 🥵 Juillet → août | 30-35 °C, humide, typhons | 💶 Moyen | Forte (Obon) | ❌ À éviter |
+| 🥵 Juillet → mi-août | 30-35 °C, humide, typhons | 💶 Moyen | Forte (Obon) | ❌ À éviter |
 
 ### ⚠️ Corrections apportées au document source
-- « Rando Mont Hushiwari » → **montagne à confirmer** : le plus probable est le **Mont Mitsutoge** (randonnée classique vue Fuji depuis Kawaguchiko) — l'ascension du **Fuji officiel est fermée en mai** (saison juillet-août uniquement). Vérifier le nom exact.
+- « Rando Mont Hushiwari » → **montagne à confirmer** : le plus probable est le **Mont Mitsutoge** (randonnée classique vue Fuji depuis Kawaguchiko) — l'ascension du **Fuji officiel est possible en septembre** (saison début juillet → mi-septembre), à confirmer selon le niveau de forme.
 - « Kira kamakura » → **Kita-Kamakura** (l'arrêt AVANT Kamakura — on descend à pied par les temples).
 - « Kinkaku-ju » → **Kinkaku-ji** (le Pavillon d'Or).
 - J6 : randonnée le matin + trajet Kawaguchiko → Kyoto l'après-midi = journée dense mais faisable (rando courte + bus 14h → arrivée Kyoto ~19h).
@@ -222,15 +224,15 @@
 
 | | |
 |:---|:---|
-| **Départ** | Bruxelles ✈️ Haneda — J1 (17/05) |
-| **Retour** | Haneda ✈️ Bruxelles — J17 (02/06), vol 21h10 |
+| **Départ** | Bruxelles ✈️ Haneda — J1 (28/08) |
+| **Retour** | Haneda ✈️ Bruxelles — J17 (13/09), vol 21h10 |
 | **Parcours** | Tokyo (7 n) → Kawaguchiko (1 n) → Kyoto (4 n) → Osaka (4 n) → Tokyo (3 n) — **boucle** |
 | **Pays** | 🇯🇵 Japon uniquement |
 | **Nuits** | 16 nuits |
 | **KM** | ~1 500 km de transports internes (train/bus) |
 | **Budget total** | **~5 400-7 800 €** (2 pers, sans montres) |
 | **Visa** | ❌ Non requis — Visit Japan Web obligatoire |
-| **Meilleure période** | Mi-mai → début juin |
+| **Meilleure période** | Fin août → mi-septembre (prix min + calme, ⚠️ chaud) |
 
 ---
 
