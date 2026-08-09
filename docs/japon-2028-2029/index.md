@@ -1,6 +1,6 @@
 # 🇯🇵 Voyage Japon — Fin d'été 2028/2029 (rythme senior)
 
-> **🗓️ 17/08 → 06/09 | ✈️ Vol + 🏨 Hôtels | 21 jours / 20 nuits | 👥 2 adultes (+ amis) | 🇯🇵 Tokyo → Hakone → Kawaguchiko → Kyoto → Osaka → Tokyo**
+> **🗓️ 17/08 → 06/09 | ✈️ Vol + 🏨 Hôtels | 21 jours / 20 nuits | 👥 2 adultes | 🇯🇵 Tokyo → Hakone → Kawaguchiko → Kyoto → Osaka → Tokyo**
 
 ---
 
@@ -8,7 +8,7 @@
 
 | | |
 |:---|:---|
-| **Voyageurs** | Christophe + Sylvie (avec des amis) |
+| **Voyageurs** | Christophe + Sylvie (2 personnes) |
 | **Type de voyage** | ✈️ Avion + 🏨 Hôtels/Ryokan (pas de camping-car) |
 | **Objectif** | Découverte du Japon : Tokyo, Hakone, Mont Fuji, Kyoto, Osaka |
 | **Durée** | 21 jours / 20 nuits (J1 → J21) |
