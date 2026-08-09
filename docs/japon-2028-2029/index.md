@@ -75,16 +75,52 @@
 
 ---
 
-## 🏨 Hébergements (16 nuits)
+## 🏨 Hébergements (16 nuits) — options détaillées
 
-| Ville | Nuits | Quartier conseillé | Options (du PDF + alternatives) | Coût estimé/nuit |
-|:---|:---:|:---|:---|:---:|
-| **Tokyo** | 7 (J1-4 + J14-16) | **Ueno** (calme + connexions) ou Shinjuku / Asakusa | Uplan Hostel (Shinjuku) • Ele Hotel Ginza • APA / Dormy Inn Ueno | 70-120 € |
-| **Kawaguchiko** | 1 (J5) | Lac Kawaguchi | ⭐ **Ryokan Mizunosato** (vue Fuji + onsen) • Dot Hostel | 150-250 € (ryokan) |
-| **Kyoto** | 4 (J6-9) | **Higashiyama** (près Kiyomizu) | Machiya traditionnel • Hôtels près Higashiyama | 80-130 € |
-| **Osaka** | 4 (J10-13) | **Namba** ou Umeda | Hôtel Maganda ? • Cross Hotel / Swissôtel Namba | 70-120 € |
+> 💡 **Conseil global** : réserver **4-6 mois avant** (hôtels japonais se réservent tôt). Prix indicatifs mi-mai → début juin, à vérifier sur Booking.com.
 
-> 💡 **Kyoto** : privilégier **Higashiyama** — temples accessibles à pied matin/soir (quand les day-trippers sont partis), calme la nuit, rues traditionnelles.
+### 🗼 Tokyo — 7 nuits (J1-4 + J14-16)
+
+**Organisation conseillée** : 4 nuits à **Ueno** (arrivée + acclimatation, JR Yamanote + Shinkansen + Skyliner aéroport) + 3 nuits à **Shinjuku** (pôle ouest, retour Odaiba/Nikko). Ou 7 nuits à Ueno si on préfère ne pas changer.
+
+| Hôtel | Quartier | Prix/nuit € | Note | Points forts | Point faible |
+|:---|:---|:---:|:---:|:---|:---|
+| ⭐ **Dormy Inn Ueno Okachimachi** | Ueno | 110-145 € | 8,5 | **Onsen sur le toit** (récupération après 15k pas/jour !) • Ramen gratuit le soir • 2 min JR Okachimachi | Légèrement au-dessus du budget, chambres petites |
+| 💎 **Super Hotel Ueno Okachimachi** | Ueno | 75-100 € | 8,2 | Petit-déj buffet **inclus** • Quartier calme • 2 min JR Yamanote | Check-in strict (avant 22-23h), chambres exiguës |
+| **Sunroute Plaza Shinjuku** | Shinjuku | 95-125 € | 8,4 | 3 min sortie Sud Shinjuku (meilleur emplacement) • Calme malgré la gare • Anglophone | Déco datée, chambres sans charme |
+| **Hotel Gracery Shinjuku** | Shinjuku (Kabukicho) | 110-150 € | 8,4 | Godzilla sur le toit 🦖 • Très bien situé • Chambres spacieuses | Kabukicho = vie nocturne agitée le soir |
+| **APA Hotel Ueno Ekimae** | Ueno | 70-95 € | 7,9 | 1 min de la gare • Propre, fiable • Petit-déj correct | Chambres très petites (14 m²) |
+| **Richmond Hotel Premier Asakusa** | Asakusa | 110-145 € | 8,6 | Chambres spacieuses (25 m²+) • Vue Skytree • Quartier traditionnel calme | Métro seulement (pas JR), bagages moins pratiques |
+
+### 🗻 Kawaguchiko — 1 nuit (J5)
+
+| Option | Type | Vue Fuji | Onsen | Prix/nuit 2 pers € | Points forts | Point faible |
+|:---|:---|:---:|:---:|:---:|:---|:---|
+| ⭐ **Lakeland Hotel Mizunosato** | Ryokan, rive nord | ✅ | ✅ | **~220-300 €** (2 repas) | **Meilleur rapport vue Fuji + onsen + kaiseki** • 5-10 min bus/taxi gare • Accueil réputé | Populaire — réserver tôt |
+| **Ubuya** | Ryokan haut de gamme | ✅ 100 % | ✅ | 400-750 € (2 repas) | Vue Fuji la plus spectaculaire • Bain sur le toit inoubliable | Prix très élevé, complet des mois avant |
+| **Yamagishi** | Petit ryokan familial | ✅ | ✅ | ~190-320 € (2 repas) | Ambiance authentique • Prix doux pour un ryokan | Installations modestes, peu de chambres |
+| **Dot Hostel & Cafe Fuji** | Hôtel design | ⚠️ partielle | ❌ | 55-95 € | Économique, moderne, près de la gare | Pas d'onsen ni de repas japonais |
+
+### 🏯 Kyoto — 4 nuits (J6-9)
+
+| Hôtel | Quartier | Prix/nuit € | Note | Points forts | Point faible |
+|:---|:---|:---:|:---:|:---|:---|
+| ⭐ **Hotel The Celestine Kyoto Gion** | Gion (10 min Higashiyama) | 130-180 € | 9,0 | **Onsen souterrain magnifique** • Très calme • Navette gare • Chambres spacieuses | Haut de fourchette, réserver tôt |
+| **Saka Hotel Kyoto** | Higashiyama (5 min Kiyomizu) | 130-180 € | 9,0 | 5 min à pied de Kiyomizu (visites tôt) • Bain public + sauna • Design chic | Au-dessus du budget, chambres petites |
+| **Onyado Nono Kyoto Shichijo** | Shichijo (15 min Gion) | 110-150 € | 8,9 | **Onsen gratuit dernier étage** • Petit-déj buffet japonais excellent • Ambiance ryokan (tatami, yukata) | Pas au cœur de Higashiyama, chambres compactes |
+| 💎 **Moku House** | Higashiyama (Kiyomizu) | 95-130 € | 8,8 | **Vraie machiya traditionnelle restaurée** • 5 min de Kiyomizu • Futon/tatami authentique | Salles de bain partagées selon chambres |
+| **Rinn Gion Yasaka** | Gion | 100-150 € | 8,5 | Machiya modernisées • Emplacement impeccable | Réception centralisée, tailles variables |
+| **Ryokan Kyoraku** | Gion | 85-120 € | 8,0 | Ryokan familial authentique • Prix doux • Petit-déj maison | Chambres datées, bains partagés, couvre-feu |
+
+### 🐙 Osaka — 4 nuits (J10-13)
+
+| Hôtel | Quartier | Prix/nuit € | Note | Points forts | Point faible |
+|:---|:---|:---:|:---:|:---|:---|
+| ⭐ **Onyado Nono Nambanaka** | Namba | 100-155 € | 8,9 | **Onsen sur le toit** • Petit-déj japonais • 8 min à pied de Dotonbori | Souvent complet — réserver tôt |
+| 💎 **Hotel Gracery Osaka Namba** | Namba | 90-140 € | 8,6 | Emplacement parfait Namba • Récent et moderne | Chambres compactes, rue animée |
+| **Cross Hotel Osaka** | Namba (2 min Dotonbori) | 110-165 € | 8,8 | Emplacement iconique face à Dotonbori • Design moderne | Quartier très bruyant la nuit |
+| **Hotel Monterey Grasmere** | Umeda (au-dessus JR) | 90-140 € | 8,6 | Calme et élégant • Accès direct gare pour Kyoto/Nara • Chambres spacieuses | 15-20 min de métro de Dotonbori |
+| **Ibis Styles Osaka Namba** | Namba | 75-115 € | 8,3 | Le plus abordable • Moderne • 5 min de Namba | Chambres très compactes |
 
 ---
 
@@ -92,13 +128,13 @@
 
 | Poste | Estimation | Détail |
 |:---|:---:|:---|
-| ✈️ **Vols AR** (Bruxelles → Haneda) | **1 400-1 800 €** | ~700-900 €/pers, réserver tôt |
-| 🏨 **Hébergements** (16 nuits) | **1 400-1 900 €** | Tokyo ~700 € + ryokan ~200 € + Kyoto ~400 € + Osaka ~400 € |
+| ✈️ **Vols AR** (Bruxelles → Haneda) | **1 400-1 800 €** | ~700-900 €/pers, réserver 6-8 mois avant |
+| 🏨 **Hébergements** (16 nuits) | **1 600-2 400 €** | Tokyo 7 n (Dormy Inn ~110-145 €/n) + ryokan Mizunosato ~250 € + Kyoto 4 n (Celestine ~130-180 €) + Osaka 4 n (Onyado Nono ~100-155 €) |
 | 🚄 **Transports internes** | **500-700 €** | Shinkansen + bus + Suica + excursions |
-| 🍜 **Nourriture** | **1 200-1 800 €** | ~40-55 €/jour/pers (konbini → izakaya) |
+| 🍜 **Nourriture** | **1 200-1 800 €** | ~40-55 €/jour/pers (konbini → izakaya) — ryokan avec 2 repas inclus |
 | 🎢 **Activités & entrées** | **400-600 €** | USJ (2×~90 €) + TeamLab + Shibuya Sky + sumo + temples |
 | 🛍️ **Divers & souvenirs** | **300-500 €** | Sans les montres 🕰️ |
-| **Total** | **~5 200-7 300 €** | Fourchette réaliste pour 2 |
+| **Total** | **~5 400-7 800 €** | Fourchette réaliste pour 2 |
 
 ### 🕰️ Budget « montres » (liste à part de Christophe)
 
@@ -147,9 +183,21 @@
 
 ## 📝 Notes & Astuces
 
-### 📅 Saison — pourquoi mai ?
-- **Mi-mai → début juin** : 🌸 après Golden Week (fin avril), avant les pluies de mi-juin. Températures 18-25 °C, ciel souvent dégagé.
+### 📅 Saison — pourquoi mi-mai → début juin ?
+- **17/05 → 02/06** : 🌸 après Golden Week (fin avril — prix +20-30 % et foule), avant les pluies de mi-juin (tsuyu). Températures 18-25 °C, ciel souvent dégagé, Fuji visible.
+- **Golden Week 2028** = ~29/04 au 07/05 • **2029** = ~28/04 au 06/05 — le départ le 17/05 est **safe dans les deux cas**.
 - Les **montagnes (Fuji, Kurama)** sont les plus belles en mai — verdure fraîche.
+
+### 📊 Classement des périodes (météo × prix)
+
+| Période | 🌡️ Météo | 💰 Prix | 👥 Foule | Verdict |
+|:---|:---|:---:|:---:|:---|
+| **🌟 Mi-mai → début juin** | 18-25 °C, ciel clair | 💶 Redescendus | Moyenne | **LE sweet spot** |
+| 🍂 Fin oct. → mi-nov. | 15-22 °C, sec, koyo | 💶💶 Élevés | Forte (Kyoto saturé) | Beau mais cher |
+| 🌸 Fin mars → mi-avril | 12-20 °C, sakura | 💶💶💶 Max | Extrême | Cherry blossom = cher + foule |
+| ❄️ Fin janv. → fév. | 5-10 °C, Fuji dégagé, onsen | 💶 Minimal | Faible | Bon plan budget, froid |
+| ☔ Mi-juin → mi-juillet | Pluies (tsuyu) | 💶 Bas | Faible | ❌ À éviter |
+| 🥵 Juillet → août | 30-35 °C, humide, typhons | 💶 Moyen | Forte (Obon) | ❌ À éviter |
 
 ### ⚠️ Corrections apportées au document source
 - « Rando Mont Hushiwari » → **montagne à confirmer** : le plus probable est le **Mont Mitsutoge** (randonnée classique vue Fuji depuis Kawaguchiko) — l'ascension du **Fuji officiel est fermée en mai** (saison juillet-août uniquement). Vérifier le nom exact.
@@ -180,7 +228,7 @@
 | **Pays** | 🇯🇵 Japon uniquement |
 | **Nuits** | 16 nuits |
 | **KM** | ~1 500 km de transports internes (train/bus) |
-| **Budget total** | **~5 200-7 300 €** (2 pers, sans montres) |
+| **Budget total** | **~5 400-7 800 €** (2 pers, sans montres) |
 | **Visa** | ❌ Non requis — Visit Japan Web obligatoire |
 | **Meilleure période** | Mi-mai → début juin |
 
