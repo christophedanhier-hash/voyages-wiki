@@ -1,0 +1,11 @@
+# Build mkdocs
+site/
+_site/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Système
+.DS_Store
