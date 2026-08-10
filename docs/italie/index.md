@@ -873,7 +873,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 ## 🚐 Notes & Astuces
 
 - **Aire Schoenau (Colmar)** : pratique pour la pause avant/après l'Italie, gratuite ou ~14€ selon saison
-- **🎫 Vignette autoroutière suisse (OBLIGATOIRE)** : le trajet Colmar → Lac Majeur passe par **Bâle – Gothard** (Suisse), et le retour Lac de Garde → Colmar aussi. Vignette annuelle **40 CHF (~42 €)** valable pour l'année civile — couvre l'aller **et** le retour. À acheter **avant la frontière** (stations-service belges/françaises) ou en ligne sur via.admin.ch. ⚠️ Sans vignette : amende ~200 CHF. Prévoir l'achat à Colmar la veille du départ.
+- **🎫 Vignette autoroutière suisse ✅ COMMANDÉE** : reçue par email le **10/08/2026** (noreply@bazg.admin.ch — « Via Billet » + « Quittance Via »). Le trajet Colmar → Lac Majeur passe par **Bâle – Gothard** (Suisse), et le retour Lac de Garde → Colmar aussi. Vignette annuelle **40 CHF (~42 €)** — couvre l'aller **et** le retour. Liée électroniquement à la plaque, rien à coller. ⚠️ Sans vignette : amende ~200 CHF.
 - **The Camp by Maggiore Suites (Lac Majeur — Maccagno)** : front pitch FR1 (8m OK). Hauteur max 2,60m — si CC >2,60m, passer par Via Giuseppe Verdi. Code portail: 1593
 - **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². Love Pet Pack 15€. Check-in 24h/24. Tram T1 depuis/vers le centre
 - **Pompéi** : ✅ **Camping Spartacus** (Via Plinio 127, 50m entrée Porta Marina) — résa confirmée ✅, **33€/nuit tout compris**. Arrivée ~15h00 le 17/09. Piscine, pizzeria, dog-sitting 🐕, Wi-Fi
