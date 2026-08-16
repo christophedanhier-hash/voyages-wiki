@@ -13,7 +13,8 @@
 | **🚗 Véhicule** | **Škoda Enyaq 60** (électrique — batterie 58 kWh, autonomie hiver ~290 km) |
 | **🚄 Jérémy** | Rejoint le groupe **vendredi 27/11** en TGV depuis Bruxelles (week-end) |
 | **🐕 Nala** | Reste à la maison (ou pension chez Émilie) |
-| **Motif** | Camille participe au **Congrès ADF (dentaire)** mardi 24/11 → vendredi 27/11 |
+| **Motif** | Camille participe au **Congrès ADF 2026** (dentaire) — **mardi 24/11 → samedi 28/11 midi** |
+| **📍 Congrès** | **Palais des Congrès — 2 place de la Porte-Maillot, 75017 Paris** (Métro ligne 1 — Porte Maillot) |
 | **Type de séjour** | City trip familial — grand-parents + bébé + congrès |
 | **Réservations** | ❌ Aucune pour l'instant |
 
@@ -38,10 +39,10 @@
 | Jour | Date | Programme | Nuit |
 |:---:|:---|:---|:---:|
 | **J1** | Mar 24/11 | 🚗 Sombreffe → Paris (~330 km, recharge en route) • Installation hôtel | Paris |
-| **J2** | Mer 25/11 | 🦷 Camille au congrès ADF • Christophe & Sylvie + Célestine (parc, balade) | Paris |
+| **J2** | Mer 25/11 | 🦷 Camille au congrès ADF (Palais des Congrès) • Christophe & Sylvie + Célestine (parc, balade) | Paris |
 | **J3** | Jeu 26/11 | 🦷 Camille au congrès ADF • Grands-parents + Célestine (musée, jardin) | Paris |
-| **J4** | Ven 27/11 | 🦷 Dernier jour congrès • 🚄 **Jérémy arrive en TGV** (soir) | Paris |
-| **J5** | Sam 28/11 | 👨‍👩‍👧 **Week-end en famille** — Paris ensemble (Camille + Jérémy + grands-parents + bébé) | Paris |
+| **J4** | Ven 27/11 | 🦷 Camille au congrès ADF • 🚄 **Jérémy arrive en TGV** (soir) | Paris |
+| **J5** | Sam 28/11 | 🦷 Camille au congrès **jusqu'à 12h** • 👨‍👩‍👧 **Après-midi + soirée en famille** (Camille + Jérémy + grands-parents + bébé) | Paris |
 | **J6** | Dim 29/11 | 🚗 Retour Paris → Sombreffe (recharge en route) • Jérémy → Bruxelles TGV | — |
 
 ---
@@ -67,13 +68,13 @@
 
 | Critère | Détail |
 |:---|:---|
-| **Quartier** | Proche du congrès ADF — **Palais des Congrès, Porte Maillot (17e)** (à confirmer) ou centre |
+| **Quartier** | ✅ **Confirmé : Porte Maillot / Palais des Congrès (17e)** — quartiers hôtel : **17e arr. (Ternes, Courcelles)**, Neuilly-sur-Seine, ou Levallois (calmes, proches, parkings) |
 | **Bébé** | Lit bébé + baignoire demandés, chambre calme |
 | **Voiture** | Parking avec **borne de recharge** (ou parking public proche) |
 | **Budget** | À définir (fourchette raisonnable pour 5 nuits) |
 | **Petit-déj** | Inclus de préférence (pratique avec bébé) |
 
-> 🔄 Recherche d'hôtels à lancer dès confirmation du lieu exact du congrès. Si c'est bien Porte Maillot : quartiers hôtel recommandés = **17e arr. (Ternes, Courcelles)**, Neuilly-sur-Seine, ou Levallois — calmes, proches du Palais des Congrès, avec parkings.
+> 🔄 **Prochaine étape :** recherche d'hôtels dans le 17e / Neuilly / Levallois avec parking + borne, lit bébé, ~5 nuits (24→29/11).
 
 ---
 
