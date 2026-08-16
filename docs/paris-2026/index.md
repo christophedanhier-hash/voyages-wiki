@@ -156,6 +156,33 @@
 
 ---
 
+## 🍽️ Restaurants — mardi → samedi soir (5 soirs)
+
+> 🍽️ **5 dîners** (mar 24/11 → sam 28/11) — réservations conseillées en soirée. Avec Célestine 👶 : privilégier restaurants **accueillant les bébés**, service pas trop tard (19h-20h), chaises hautes.
+
+| Soir | Ambiance | Suggestion (quartier Porte Maillot / Ternes) | Budget 2-3 pers |
+|:---:|:---|:---|:---:|
+| **Mar 24/11** (arrivée) | 🍕 Simple, proche hôtel | Restaurants du quartier **Ternes** (rue Bayen, rue Poncelet) — brasseries classiques | ~60-90 € |
+| **Mer 25/11** | 🥐 Bistrot français | **Bistrots du 17e** (rue des Acacias, avenue de Wagram) — cuisine de saison | ~80-120 € |
+| **Jeu 26/11** | 🇮🇹 Italien | **Trattorias Ternes/Courcelles** — pâtes, ambiance famille | ~70-100 € |
+| **Ven 27/11** | 🍷 **Dîner avec Jérémy** (arrivée !) | **Restaurant un peu plus chic** proche hôtel — fêter les retrouvailles | ~100-150 € |
+| **Sam 28/11** | 🎉 **Dernier soir en famille** | Après le Louvre : quartier **Saint-Honoré/Palais Royal** ou retour Ternes | ~100-150 € |
+
+> 💡 **Astuces bébé** : réserver vers **19h** (avant la foule), demander une **chaise haute**, prévoir un biberon/petit pot en secours. Les brasseries parisiennes sont généralement accueillantes avec les bébés.
+> 💡 **Marché Poncelet** (rue Poncelet, 17e) : le plus beau marché du quartier — fromages, fruits, plats à emporter pour un dîner tranquille à l'appart'hôtel si fatigue.
+> 🛵 **Livraison** : Uber Eats / Deliveroo si Célestine est fatiguée et que personne ne veut sortir.
+
+### 💰 Budget restaurants (estimation 5 soirs)
+
+| Poste | Coût |
+|:---|:---:|
+| 2 dîners simples (mar + mer) | ~150-200 € |
+| 1 dîner italien (jeu) | ~70-100 € |
+| 2 dîners plus festifs (ven + sam, avec Jérémy/famille) | ~200-300 € |
+| **Total restaurants (5 soirs)** | **~420-600 €** |
+
+---
+
 ## 📅 Résumé
 
 | | |
@@ -163,10 +190,12 @@
 | **Départ** | Sombreffe — mardi 24/11/2026 |
 | **Retour** | Sombreffe — dimanche 29/11/2026 |
 | **Durée** | 6 jours / 5 nuits |
-| **Voyageurs** | Christophe + Sylvie + Camille + 👶 Célestine (+ Jérémy le week-end) |
+| **Voyageurs** | Christophe + Sylvie + Camille + 👶 Célestine (+ Jérémy ven→dim) |
 | **Véhicule** | Enyaq 60 électrique (~330 km, 1 recharge aller + 1 retour) |
 | **Objectif** | Congrès ADF de Camille + garde de Célestine + week-end famille |
+| **Hôtel** | 2 chambres + borne 🔌 — recommandé : Novotel Porte Maillot (~1 000-1 200 € / 5 nuits) |
+| **Budget estimé** | ~2 800-3 800 € (hôtel + restaurants + Uber + visites + transports) |
 
 ---
 
-*Base de travail générée par Sylvia — BAVI LEO Voyages. À affiner : hôtel, quartier, budget, activités.*
+*Base de travail générée par Sylvia — BAVI LEO Voyages. À affiner : hôtel définitif, budget précis, réservations.*
