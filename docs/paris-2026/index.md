@@ -69,12 +69,38 @@
 | Critère | Détail |
 |:---|:---|
 | **Quartier** | ✅ **Confirmé : Porte Maillot / Palais des Congrès (17e)** — quartiers hôtel : **17e arr. (Ternes, Courcelles)**, Neuilly-sur-Seine, ou Levallois (calmes, proches, parkings) |
+| **Type** | 🏨 Hôtel ou 🏠 Appart'hôtel — **2 chambres** (Christophe & Sylvie + Camille & Célestine) |
+| **🔌 Borne** | ✅ **Obligatoire : borne de recharge sur place** (ou parking avec bornes attenant) |
 | **Bébé** | Lit bébé + baignoire demandés, chambre calme |
-| **Voiture** | Parking avec **borne de recharge** (ou parking public proche) |
 | **Budget** | À définir (fourchette raisonnable pour 5 nuits) |
 | **Petit-déj** | Inclus de préférence (pratique avec bébé) |
 
-> 🔄 **Prochaine étape :** recherche d'hôtels dans le 17e / Neuilly / Levallois avec parking + borne, lit bébé, ~5 nuits (24→29/11).
+> 🔄 **Prochaine étape :** recherche d'hôtels dans le 17e / Neuilly / Levallois avec parking + borne, lit bébé, 2 chambres, ~5 nuits (24→29/11).
+
+---
+
+## 🏛️ Visites prévues
+
+### Christophe & Sylvie + Célestine (pendant le congrès — J2 à J4)
+
+| Jour | Visite | Quartier | Notes bébé 👶 |
+|:---:|:---|:---|:---|
+| J2 (mer 25/11) | **Panthéon** ⛪ | 5e (Luxembourg) | Intérieur chauffé, poussette OK |
+| J3 (jeu 26/11) | **Notre-Dame** 🕍 | 4e (Île de la Cité) | Extérieur + parvis, chantier — vérifier accès |
+| J4 (ven 27/11) | **Invalides** 🎖️ | 7e | Musée de l'Armée, esplanade, tombeau de Napoléon |
+| + selon temps | Champs-Élysées, Arc de Triomphe 🏛️ | 8e | À 15 min de l'hôtel (ligne 1) |
+
+> 🚇 **Accès depuis Porte Maillot** : ligne 1 directe pour Champs-Élysées/Concorde, puis RER C ou métro pour les autres.
+> 👶 **Poussette** : privilégier bus ou taxis (métro = escaliers, galère avec bébé).
+
+### Samedi 28/11 — Avec Jérémy (Camille libérée à 12h)
+
+| Visite | Quartier | Note |
+|:---|:---|:---|
+| 🖼️ **Louvre** 🎨 | 1er (Palais Royal) | Après-midi — Camille + Jérémy + grands-parents + Célestine |
+| + option | Jardin des Tuileries | Juste à côté, balade poussette |
+
+> 💡 **Louvre** : entrée accessible (pyramide ou Carrousel), poussettes autorisées, espaces bébé. Réservation créneau horaire conseillée en ligne.
 
 ---
 
