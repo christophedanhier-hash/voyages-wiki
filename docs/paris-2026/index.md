@@ -11,7 +11,7 @@
 | **Voyageurs** | Christophe, Sylvie + **Camille** (dentiste, congrès) |
 | **👶 Bébé** | **Célestine (7-8 mois)** — Camille la confie à Christophe & Sylvie pendant le congrès |
 | **🚗 Véhicule** | **Škoda Enyaq 60** (électrique — batterie 58 kWh, autonomie hiver ~290 km) |
-| **🚄 Jérémy** | Rejoint le groupe **vendredi 27/11** en TGV depuis Bruxelles (week-end) |
+| **🚄 Jérémy** | Arrive **vendredi 27/11 en TGV** depuis Bruxelles — **repart dimanche 29/11 en voiture avec vous** (pas de TGV retour) |
 | **🐕 Nala** | Reste à la maison (ou pension chez Émilie) |
 | **Motif** | Camille participe au **Congrès ADF 2026** (dentaire) — **mardi 24/11 → samedi 28/11 midi** |
 | **📍 Congrès** | **Palais des Congrès — 2 place de la Porte-Maillot, 75017 Paris** (Métro ligne 1 — Porte Maillot) |
@@ -43,7 +43,7 @@
 | **J3** | Jeu 26/11 | 🦷 Camille au congrès ADF • Grands-parents + Célestine (musée, jardin) | Paris |
 | **J4** | Ven 27/11 | 🦷 Camille au congrès ADF • 🚄 **Jérémy arrive en TGV** (soir) | Paris |
 | **J5** | Sam 28/11 | 🦷 Camille au congrès **jusqu'à 12h** • 👨‍👩‍👧 **Après-midi + soirée en famille** (Camille + Jérémy + grands-parents + bébé) | Paris |
-| **J6** | Dim 29/11 | 🚗 Retour Paris → Sombreffe (recharge en route) • Jérémy → Bruxelles TGV | — |
+| **J6** | Dim 29/11 | 🚗 **Retour tous ensemble** Paris → Sombreffe (4 adultes + 👶 + Jérémy, recharge en route) | — |
 
 ---
 
@@ -118,14 +118,17 @@
 
 ---
 
-## 🚄 Jérémy — TGV Bruxelles → Paris
+## 🚄 Jérémy — TGV aller uniquement (retour en voiture)
 
 | Point | Détail |
 |:---|:---|
 | **Aller** | Ven 27/11 — TGV Bruxelles-Midi → Paris-Nord (~1h22) |
-| **Retour** | Dim 29/11 — TGV Paris-Nord → Bruxelles-Midi |
-| **Prix** | ~50-90 € AR selon avance |
-| **Réservation** | SNCF Connect / Eurostar — réserver tôt pour bons tarifs |
+| **Retour** | ❌ **Pas de TGV retour** — Jérémy rentre **dimanche 29/11 en voiture** avec Christophe & Sylvie |
+| **Prix aller** | ~25-45 € selon avance (un aller simple) |
+| **Réservation** | SNCF Connect / Eurostar — réserver tôt |
+
+> ⚠️ **Enyaq avec 5 personnes au retour** : 4 adultes + bébé (siège auto) — ça passe (5 places), mais **bagages serrés** (coffre 585 L + poussette). Prévoir de l'espace, éventuellement un coffre de toit si besoin.
+> 💡 Jérémy n'a pas de bagage lourd (week-end) — ça devrait aller.
 
 ---
 
