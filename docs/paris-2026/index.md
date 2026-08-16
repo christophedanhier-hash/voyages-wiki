@@ -77,6 +77,29 @@
 
 > 🔄 **Prochaine étape :** recherche d'hôtels dans le 17e / Neuilly / Levallois avec parking + borne, lit bébé, 2 chambres, ~5 nuits (24→29/11).
 
+### 🏨 Comparatif hôtels — 17e arrondissement (recommandé)
+
+> ⚠️ Semaine du **Congrès ADF = pic de demande** au Palais des Congrès → prix en hausse, réserver tôt (4-6 mois avant). Prix = estimations 2 chambres/nuit, à vérifier sur Booking.com.
+
+| Hôtel | Adresse | Type | Prix/nuit 2 ch. | Note | 🔌 Borne | Points forts | Point faible |
+|:---|:---|:---|:---:|:---:|:---:|:---|:---|
+| ⭐ **Novotel Paris Porte Maillot** | 46 rue Eugène Flachat, 75017 (Ternes) | Hôtel 4★ | 180-240 € | 8,1 | ✅ **Confirmée** (parking souterrain) | **8 min à pied du Palais des Congrès** • Chambres communicantes 2 ch. • Lit bébé gratuit • Quartier calme | Petit-déj en sus (~20 €/pers) |
+| 💎 **Adagio Paris Ternes** (appart'hôtel) | 51 rue Sauffroy, 75017 | Appart'hôtel 3★ | 190-240 € | 7,8 | ⚠️ À confirmer | **Appart 2 chambres + cuisine** (biberons, petits pots !) • Lit bébé gratuit • Tarif dégressif 5 nuits | Déco datée, petit-déj en sus |
+| **Hyatt Regency Paris Étoile** | 3 place du Général Kœnig, 75017 | Hôtel 4★ congrès | 260-340 € | 8,0 | ✅ **Confirmée** (parking privé) | **Collé au Palais des Congrès** (2 min) • Chambres adjacentes • Vues Tour Eiffel | **Prix explosés + risque complet** pendant ADF |
+| **Mercure Arc de Triomphe Wagram** | 3 rue Brey, 75017 | Hôtel 4★ | 200-260 € | 8,3 | ⚠️ À confirmer | Quartier chic • Arc de Triomphe 400 m • Lit bébé • Note excellente | Congrès à 1,4 km (métro 2 stations) |
+| **Ibis Styles Paris Étoile Pereire** | 77 rue Jouffroy d'Abbans, 75017 | Hôtel 3★ | 130-170 € | 8,0 | ❌ Parking public voisin | **Petit-déj INCLUS** • Chambres communicantes • Lit bébé | Pas de parking privé, plus éloigné |
+
+### 🏨 Alternative Neuilly / Levallois
+
+| Hôtel | Quartier | Prix/nuit 2 ch. | Note | 🔌 Borne | Verdict |
+|:---|:---|:---:|:---:|:---:|:---|
+| **Le 37 Bis** | Neuilly (700 m congrès) | 300-340 € | 9,0 ⭐ | ❌ Parking Indigo avec bornes à 700 m | Meilleure note, chic, mais borne via parking public |
+| **Novotel Porte Maillot** | Bordure Neuilly | 320-420 € | 8,0 | ✅ Parking sur place | Tranquillité voiture, 5 min congrès |
+| **Occidental Levallois** | Levallois centre | 260-340 € | 8,1 | ✅ Parking confirmé | Parking sûr, mais 3,2 km du congrès |
+| **Néméa Appart'Hotel** | Levallois | 200-260 € | 7,6 | ⚠️ À confirmer | Idéal bébé (cuisine + 2 ch.), mais 3,9 km |
+
+> 💡 **Recommandation Sylvia :** **Novotel Paris Porte Maillot** = le seul qui coche TOUT (borne confirmée + 2 chambres communicantes + lit bébé + 8 min à pied du congrès). **Adagio Ternes** = meilleur rapport qualité/prix pour un bébé (cuisine !). **Hyatt** = le plus pratique pour Camille (collé au congrès) mais cher et saturé. Tous les prix sont à vérifier sur Booking + **appeler pour confirmer la borne** avant de réserver.
+
 ---
 
 ## 🏛️ Visites prévues
