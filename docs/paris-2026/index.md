@@ -158,28 +158,44 @@
 
 ## 🍽️ Restaurants — mardi → samedi soir (5 soirs)
 
-> 🍽️ **5 dîners** (mar 24/11 → sam 28/11) — réservations conseillées en soirée. Avec Célestine 👶 : privilégier restaurants **accueillant les bébés**, service pas trop tard (19h-20h), chaises hautes.
+> 🍽️ **5 dîners** (mar 24/11 → sam 28/11) — **notes Google vérifiées le 16/08/2026**. Réservations conseillées. Avec Célestine 👶 : demander une **chaise haute** par téléphone + réserver vers 19h.
 
-| Soir | Ambiance | Suggestion (quartier Porte Maillot / Ternes) | Budget 2-3 pers |
-|:---:|:---|:---|:---:|
-| **Mar 24/11** (arrivée) | 🍕 Simple, proche hôtel | Restaurants du quartier **Ternes** (rue Bayen, rue Poncelet) — brasseries classiques | ~60-90 € |
-| **Mer 25/11** | 🥐 Bistrot français | **Bistrots du 17e** (rue des Acacias, avenue de Wagram) — cuisine de saison | ~80-120 € |
-| **Jeu 26/11** | 🇮🇹 Italien | **Trattorias Ternes/Courcelles** — pâtes, ambiance famille | ~70-100 € |
-| **Ven 27/11** | 🍷 **Dîner avec Jérémy** (arrivée !) | **Restaurant un peu plus chic** proche hôtel — fêter les retrouvailles | ~100-150 € |
-| **Sam 28/11** | 🎉 **Dernier soir en famille** | Après le Louvre : quartier **Saint-Honoré/Palais Royal** ou retour Ternes | ~100-150 € |
+### 📅 Répartition conseillée par soir
 
-> 💡 **Astuces bébé** : réserver vers **19h** (avant la foule), demander une **chaise haute**, prévoir un biberon/petit pot en secours. Les brasseries parisiennes sont généralement accueillantes avec les bébés.
-> 💡 **Marché Poncelet** (rue Poncelet, 17e) : le plus beau marché du quartier — fromages, fruits, plats à emporter pour un dîner tranquille à l'appart'hôtel si fatigue.
-> 🛵 **Livraison** : Uber Eats / Deliveroo si Célestine est fatiguée et que personne ne veut sortir.
+| Soir | 🏆 Restaurant (note) | Adresse | Budget | Pourquoi |
+|:---:|:---|:---|:---:|:---|
+| **Mar 24** (arrivée) | **Monsieur Maillot** (4,7★) | 99 Bd Gouvion-Saint-Cyr, Porte Maillot | 30-40 €/pers | À 2 min de l'hôtel, spacieux (poussette ✅), ouvert 08h-00h30, souple avec bébé |
+| **Mer 25** | **Bistrot des Ternes** (4,7★) | 5 Rue Labie, Ternes | 30-40 €/pers | Vrai bistrot de quartier, cuisine généreuse — réserver (petite salle) |
+| **Jeu 26** | **La Cantina Chic** (4,8★) | 14 Rue de l'Étoile, Ternes | 30-40 €/pers | Meilleure note du lot — italien, pâtes + ardoise, cadre intimiste |
+| **Ven 27** 🎉 | **Le Compositeur** (4,8★) | 42 Bd Pereire | 42-52 €/pers | **Chic avec Jérémy** — bistronomique créatif salué par la presse. ⚠️ Fermé sam/dim → vendredi = LE soir idéal |
+| **Sam 28** 🎉 | **Monsieur Maillot** (4,7★) | 99 Bd Gouvion-Saint-Cyr | 35-50 €/pers | Dîner de clôture après le Louvre — à 5 min de l'hôtel, salle spacieuse, retour facile pour coucher Célestine |
+
+### 🍝 Alternatives bien notées (plan B)
+
+| Restaurant | Note | Adresse | Cuisine | Prix | Note |
+|:---|:---:|:---|:---|:---:|:---|
+| **Nonno Nino** | 4,7★ | 10 Rue Brémontier, Wagram | Pâtes fraîches maison | 20-30 € | Le + économique — plat 16 €, ouvert 7j/7 |
+| **Café Maillotine** | 4,8★ | 108 Av. des Ternes | Bistrot français | 30-45 € | Meilleure note — ambiance de quartier, ouvert jusqu'à 1h |
+| **Le Panna Cotta** | 4,7★ | 9 Rue Belidor | Italien familial | 25-40 € | Idéal bébé — pâtes/pizzas à partager, ouvert jusqu'à 2h |
+| **Les Frérots** | 4,6★ | Courcelles | Bistrot | ~35 € | Très famille |
+| **Au Pied de Cochon** | 4,4★ | 6 Rue Coquillière (Les Halles) | Brasserie mythique 1946 | 30-50 € | Ouvert 24h/24, très accueillant enfants, entrée PMR |
+| **Le Comptoir des Petits Champs** | 4,5★ | 17 Rue des Petits Champs (1er) | Brasserie inventive | 35-50 € | Plan B samedi côté Louvre — à 5 min du Palais Royal |
+| **Frédéric Simonin** | 4,7★ | 25 Rue Bayen, Ternes | ⭐ Étoilé Michelin | 95-145 € | Si grosse occasion SANS Célestine |
+
+> 💡 **À faire avant chaque soir** : réserver par téléphone 2-3 semaines à l'avance (samedi soir surtout) + demander **chaise haute** et table en retrait (poussette).
+> 💡 **Marché Poncelet** (rue Poncelet, 17e) : le plus beau marché du quartier — plats à emporter si fatigue.
+> 🛵 **Plan secours** : Uber Eats / Deliveroo si Célestine est fatiguée.
 
 ### 💰 Budget restaurants (estimation 5 soirs)
 
 | Poste | Coût |
 |:---|:---:|
-| 2 dîners simples (mar + mer) | ~150-200 € |
-| 1 dîner italien (jeu) | ~70-100 € |
-| 2 dîners plus festifs (ven + sam, avec Jérémy/famille) | ~200-300 € |
-| **Total restaurants (5 soirs)** | **~420-600 €** |
+| Mar (Monsieur Maillot, 2 pers) | ~70 € |
+| Mer (Bistrot des Ternes, 2 pers) | ~70 € |
+| Jeu (La Cantina Chic, 2 pers) | ~70 € |
+| Ven (Le Compositeur, 3 pers — avec Jérémy 🎉) | ~140 € |
+| Sam (Monsieur Maillot, 4 pers — famille) | ~170 € |
+| **Total restaurants (5 soirs)** | **~520 €** |
 
 ---
 
