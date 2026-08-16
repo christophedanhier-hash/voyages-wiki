@@ -114,7 +114,7 @@
 | + selon temps | Champs-Élysées, Arc de Triomphe 🏛️ | 8e | À 15 min de l'hôtel (ligne 1) |
 
 > 🚇 **Accès depuis Porte Maillot** : ligne 1 directe pour Champs-Élysées/Concorde, puis RER C ou métro pour les autres.
-> 👶 **Poussette** : privilégier bus ou taxis (métro = escaliers, galère avec bébé).
+> 🚕 **Transport bébé (choix Papy/Mamy) :** **Uber / VTC avec poussette** pour les visites (Panthéon, Notre-Dame, Invalides...) — simple, porte-à-porte, pas d'escaliers. Budget ~10-15 € par trajet. Uber XL si besoin de place pour la poussette.
 
 ### Samedi 28/11 — Avec Jérémy (Camille libérée à 12h)
 
@@ -134,7 +134,8 @@
 | 🍼 **Repas** | Petits pots, biberons, chauffe-biberon (ou à défaut, eau chaude) |
 | 🛏️ **Lit bébé** | Demander à l'hôtel (gratuit en général) |
 | 🚼 **Poussette** | Indispensable — Paris se visite avec poussette |
-| 🚊 **Métro** | ⚠️ Peu accessible en poussette (escaliers) — privilégier bus / RER / taxis |
+| 🚕 **Déplacements** | **Uber / VTC** avec la poussette (choix Papy/Mamy) — ~10-15 €/trajet, porte-à-porte |
+| 🚊 **Métro** | ⚠️ Peu accessible en poussette (escaliers) — éviter avec bébé, préférer Uber/bus |
 | 🧥 **Vêtements** | Novembre = 5-10 °C, prévoir combinaison + bonnet |
 | 💊 **Pharmacie** | Paracétamol bébé, thermomètre, basiques |
 | 🍼 **Allaitement** | Espaces bébé dans les grands magasins (Galeries Lafayette, BHV) |
