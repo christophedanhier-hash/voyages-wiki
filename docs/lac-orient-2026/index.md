@@ -1,6 +1,11 @@
-# 🇫🇷 Lac d'Orient — Août 2026
+# 🇫🇷 Lac d'Orient — Août 2026 ✅
 
 > **🗓️ 15/08/2026 → 20/08/2026 | 🚐 5 jours | 🛌 5 nuits | 📏 ~656 km (A/R)**
+
+> ## ✅ VOYAGE EFFECTUÉ
+>
+> Voyage réalisé du 15 au 20 août 2026 — **retour le 20/08/2026, tout s'est bien passé** 🎉🏕️
+> Ce roadbook reste consultable pour référence (organisation, adresses, astuces).
 
 ---
 
