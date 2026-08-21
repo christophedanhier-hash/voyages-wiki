@@ -292,7 +292,117 @@ La variante mixte sans péage reste une solution de secours uniquement si le mon
 
 ---
 
-# 7. Tableau de validation
+# 7. Tronçon 5 — Pompéi → Monopoli
+
+## Variante 5A — Autoroute italienne recommandée
+
+### Itinéraire
+
+**Camping Spartacus → SS268 → A30 → Autostrada dei Due Mari → A14 → SS16 → Contrada Capitolo → Residence Atlantide**
+
+| Élément | Valeur de travail |
+|:---|---:|
+| **Distance OSM** | Environ **313 km** |
+| **Temps de conduite OSM** | **4h01** |
+| **Pause repas** | 30 min |
+| **Pause courte** | 15 min |
+| **Temps total** | Environ **4h46** |
+| **Diesel consommé** | Environ **31,5 L** |
+| **Péages** | Pass italien — montant à contrôler dans TomTom |
+
+### Horaires — Variante autoroute
+
+| Départ de Pompéi | Arrivée estimée à Monopoli |
+|:---:|:---:|
+| **07h30** | Vers **12h16** |
+| **08h00** | Vers **12h46** |
+| **08h30** | Vers **13h16** |
+
+### Variante 5B — Mixte / économie
+
+- Conserver la SS16 et les grands axes gratuits lorsque cela reste raisonnable.
+- Éviter les petites routes côtières et les centres urbains.
+- Temps prévisible : **5h00 à 6h00 de conduite**.
+- Temps total avec pauses : **5h45 à 6h45**.
+- À comparer dans TomTom avec « éviter les péages ».
+
+### Accès à Residence Atlantide
+
+- Programmer **Contrada Lamandia 13/E / Contrada Capitolo**.
+- Vérifier le dernier kilomètre dans TomTom avant de quitter la SS16.
+- Ne pas chercher à traverser le centre historique de Monopoli avec le CC.
+- Le CC reste ensuite stationné pendant les 9 nuits ; les déplacements se font avec la voiture de location, taxis ou à pied.
+
+### Carburant
+
+- Consommation : environ **31,5 L**.
+- Aucun plein obligatoire si le réservoir est suffisamment rempli après Florence → Pompéi.
+- Faire le plein à Pompéi ou au départ si le niveau est inférieur à la moitié.
+
+### Décision
+
+**Statut : ⏳ À valider par Christophe.**
+
+Proposition Sylvia : variante **5A autoroute**, car le trajet est relativement court et permet une arrivée à Monopoli avant le début de l’après-midi.
+
+---
+
+# 8. Tronçon 6 — Monopoli → Camping Village Led Zeppelin, Cupra Marittima
+
+## Variante 6A — Autoroute Adriatique recommandée
+
+### Itinéraire
+
+**Monopoli → SS16 / A14 → Pescara → San Benedetto del Tronto → Cupra Marittima → Via Boccabianca 5**
+
+| Élément | Valeur de travail |
+|:---|---:|
+| **Distance OSM** | Environ **432 km** |
+| **Temps de conduite OSM** | **4h37** |
+| **Pause repas** | 30 min |
+| **Pause courte** | 15 min |
+| **Temps total** | Environ **5h22** |
+| **Diesel consommé** | Environ **43 L** |
+| **Péages** | Pass italien — A14 à contrôler dans TomTom |
+
+### Horaires — Variante autoroute
+
+| Départ de Monopoli | Arrivée estimée à Cupra Marittima |
+|:---:|:---:|
+| **07h30** | Vers **12h52** |
+| **08h00** | Vers **13h22** |
+| **08h30** | Vers **13h52** |
+
+### Variante 6B — Mixte / économie
+
+- Utiliser la SS16 Adriatica sur les portions adaptées.
+- Reprendre l’A14 pour contourner les zones urbaines lorsque la circulation devient pénible.
+- Temps prévisible : **5h30 à 6h30 de conduite**.
+- Temps total avec pauses : **6h15 à 7h15**.
+- Ne pas utiliser les routes côtières secondaires si le TomTom signale une restriction de largeur ou un passage urbain.
+
+### Accès au Camping Village Led Zeppelin
+
+- Destination : **Via Boccabianca 5, 63064 Cupra Marittima**.
+- Hauteur maximale annoncée : **3,05 m** — votre CC de 2,80 m passe sur le papier.
+- Vérifier le dernier accès dans TomTom, car il s’agit d’un camping avec arrivée en walk-in.
+- Prévoir l’arrivée suffisamment tôt pour obtenir l’emplacement et le branchement électrique.
+
+### Carburant
+
+- Consommation : environ **43,2 L**.
+- Avec un plein au départ de Monopoli, arrivée avec environ 22 L restants.
+- Aucun remplissage obligatoire pendant ce tronçon.
+
+### Décision
+
+**Statut : ⏳ À valider par Christophe.**
+
+Proposition Sylvia : variante **6A autoroute Adriatique**, car elle est plus simple, plus régulière et évite de transformer cette journée en longue succession de traversées urbaines.
+
+---
+
+# 9. Tableau de validation
 
 | Tronçon | Variante proposée | Statut |
 |:---|:---|:---:|
@@ -301,10 +411,12 @@ La variante mixte sans péage reste une solution de secours uniquement si le mon
 | Accès final Maccagno | Via Giuseppe Verdi — CC >2,60 m, sans contrainte de hauteur | ✅ Validé |
 | Maccagno → Florence | Autoroute italienne via Luino, Varese, A1 | ✅ Validé — variante 3A |
 | Florence → Pompéi | Autoroute italienne A1/A3 | ✅ Validé — variante 4A |
+| Pompéi → Monopoli | Autoroute A30 / A14 / SS16 | ⏳ À valider — variante 5A |
+| Monopoli → Cupra Marittima | Autoroute Adriatique A14 | ⏳ À valider — variante 6A |
 
 ---
 
-## 8. Suite du travail
+## 10. Suite du travail
 
 Après validation des deux premiers tronçons, l’analyse continuera dans cet ordre :
 
