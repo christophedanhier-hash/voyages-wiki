@@ -341,9 +341,11 @@ La variante mixte sans péage reste une solution de secours uniquement si le mon
 
 ### Décision
 
-**Statut : ⏳ À valider par Christophe.**
+**Statut : ✅ Validé par Christophe — variante 5A.**
 
-Proposition Sylvia : variante **5A autoroute**, car le trajet est relativement court et permet une arrivée à Monopoli avant le début de l’après-midi.
+Parcours retenu : **Pompéi → SS268 → A30 → Autostrada dei Due Mari → A14 → SS16 → Contrada Capitolo → Residence Atlantide**.
+
+La variante mixte reste une solution de secours uniquement si le montant du péage est jugé trop élevé.
 
 ---
 
@@ -396,9 +398,11 @@ Proposition Sylvia : variante **5A autoroute**, car le trajet est relativement c
 
 ### Décision
 
-**Statut : ⏳ À valider par Christophe.**
+**Statut : ✅ Validé par Christophe — variante 6A.**
 
-Proposition Sylvia : variante **6A autoroute Adriatique**, car elle est plus simple, plus régulière et évite de transformer cette journée en longue succession de traversées urbaines.
+Parcours retenu : **Monopoli → SS16 / A14 → Pescara → San Benedetto del Tronto → Cupra Marittima → Via Boccabianca 5**.
+
+La variante mixte reste une solution de secours uniquement si le montant du péage est jugé trop élevé.
 
 ---
 
@@ -411,8 +415,8 @@ Proposition Sylvia : variante **6A autoroute Adriatique**, car elle est plus sim
 | Accès final Maccagno | Via Giuseppe Verdi — CC >2,60 m, sans contrainte de hauteur | ✅ Validé |
 | Maccagno → Florence | Autoroute italienne via Luino, Varese, A1 | ✅ Validé — variante 3A |
 | Florence → Pompéi | Autoroute italienne A1/A3 | ✅ Validé — variante 4A |
-| Pompéi → Monopoli | Autoroute A30 / A14 / SS16 | ⏳ À valider — variante 5A |
-| Monopoli → Cupra Marittima | Autoroute Adriatique A14 | ⏳ À valider — variante 6A |
+| Pompéi → Monopoli | Autoroute A30 / A14 / SS16 | ✅ Validé — variante 5A |
+| Monopoli → Cupra Marittima | Autoroute Adriatique A14 | ✅ Validé — variante 6A |
 
 ---
 
