@@ -580,9 +580,11 @@ L’ancien roadbook indiquait 547 km. La distance de travail recalculée depuis 
 
 ### Décision
 
-**Statut : ⏳ À valider par Christophe.**
+**Statut : ✅ Validé par Christophe — variante 9A.**
 
-Proposition Sylvia : variante **9A autoroute suisse**, pour éviter une journée trop longue sur des routes secondaires et réutiliser la vignette suisse déjà acquise.
+Parcours retenu : **San Francesco / Desenzano → A4 → Milan → Autostrada dei Laghi → Suisse → Gothard → Bâle → A35 → Colmar**.
+
+La vignette suisse déjà reçue est utilisée pour le retour. Le plein est recommandé au départ du Lac de Garde et obligatoire à Colmar avant le dernier tronçon.
 
 ---
 
@@ -628,9 +630,11 @@ Proposition Sylvia : variante **9A autoroute suisse**, pour éviter une journée
 
 ### Décision
 
-**Statut : ⏳ À valider par Christophe.**
+**Statut : ✅ Validé par Christophe — variante 10A.**
 
-Proposition Sylvia : variante **10A mixte**, suffisante pour le retour, avec priorité au confort et à la maîtrise des péages plutôt qu’à un gain de quelques minutes.
+Parcours retenu : **Colmar → A35 / Strasbourg → A31 → Luxembourg → E411 → Sombreffe**.
+
+Le plein est effectué à Colmar avant le retour final. La variante mixte est retenue pour limiter les dépenses de péage sans rallonger excessivement la dernière journée.
 
 ---
 
@@ -647,8 +651,8 @@ Proposition Sylvia : variante **10A mixte**, suffisante pour le retour, avec pri
 | Monopoli → Cupra Marittima | Autoroute Adriatique A14 | ✅ Validé — variante 6A |
 | Cupra Marittima → Cavallino | Autoroute A14/A13/A4 | ✅ Validé — variante 7A |
 | Cavallino → Lac de Garde | A4 via Mestre | ✅ Validé — variante 8A |
-| Lac de Garde → Colmar | Autoroute italienne + Suisse | ⏳ À valider — variante 9A |
-| Colmar → Sombreffe | Parcours mixte par Luxembourg | ⏳ À valider — variante 10A |
+| Lac de Garde → Colmar | Autoroute italienne + Suisse | ✅ Validé — variante 9A |
+| Colmar → Sombreffe | Parcours mixte par Luxembourg | ✅ Validé — variante 10A |
 
 ---
 
