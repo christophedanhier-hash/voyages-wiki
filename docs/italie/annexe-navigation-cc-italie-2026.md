@@ -406,7 +406,130 @@ La variante mixte reste une solution de secours uniquement si le montant du péa
 
 ---
 
-# 9. Tableau de validation
+# 9. Tronçon 7 — Cupra Marittima → Venise / Cavallino-Treporti
+
+## Variante 7A — Autoroute recommandée
+
+### Itinéraire
+
+**Cupra Marittima → A14 → A13 → A4 / Tangenziale di Mestre → Via Fausta → Camping Europa Village**
+
+### Waypoints à utiliser
+
+- **Mestre / Tangenziale di Mestre** avant l’arrivée dans la zone de Venise ;
+- **Camping Europa Village, Via Fausta 332** comme destination finale ;
+- ne pas laisser TomTom choisir une route côtière secondaire non vérifiée.
+
+| Élément | Valeur de travail |
+|:---|---:|
+| **Distance OSM vers Cavallino** | Environ **475 km** |
+| **Temps de conduite OSM** | **5h12** |
+| **Pause repas** | 30 min |
+| **Pause courte** | 15 min |
+| **Temps total** | Environ **5h57** |
+| **Diesel consommé** | Environ **47,5 L** |
+| **Péages** | Pass italien — A14/A13/A4 à contrôler dans TomTom |
+
+L’ancien roadbook indiquait 429 km. La valeur de travail est maintenant **475 km**, car elle tient compte de l’accès exact à Cavallino-Treporti et non d’une arrivée générale à Venise.
+
+### Horaires — Variante autoroute
+
+| Départ de Cupra | Arrivée estimée à Cavallino |
+|:---:|:---:|
+| **07h30** | Vers **13h27** |
+| **08h00** | Vers **13h57** |
+| **08h30** | Vers **14h27** |
+
+### Variante 7B — Mixte / économie
+
+- Conserver l’A14 sur les sections les plus longues et éviter uniquement les portions de péage les plus coûteuses.
+- Éviter la totalité des routes côtières secondaires avec le CC.
+- Temps prévisible : **6h15 à 7h15 de conduite**.
+- Temps total avec pauses : **7h00 à 8h00**.
+- À tester dans TomTom avec « éviter les péages », puis contrôler chaque route autour de Mestre et Cavallino.
+
+### Accès Camping Europa Village
+
+- Destination : **Via Fausta 332, 30013 Cavallino-Treporti**.
+- Ne pas entrer dans Venise avec le CC.
+- Le camping-car reste au camping ; Venise se visite en bus et vaporetto.
+- Vérifier le dernier accès depuis Via Fausta dans TomTom.
+
+### Diesel
+
+- Environ **47,5 L** consommés.
+- Aucun remplissage obligatoire avec un plein au départ de Cupra.
+- Arrivée avec environ 17,5 L restants.
+- Faire le plein à Cupra ou en route si le réservoir est déjà inférieur à 55 L au départ.
+
+### Décision
+
+**Statut : ⏳ À valider par Christophe.**
+
+Proposition Sylvia : variante **7A autoroute**, car la distance réelle jusqu’à Cavallino est longue et l’accès lagunaire doit rester simple et contrôlé.
+
+---
+
+# 10. Tronçon 8 — Venise / Cavallino-Treporti → Lac de Garde
+
+## Variante 8A — A4 par Mestre, recommandée
+
+### Itinéraire sécurisé
+
+**Camping Europa Village → Via Fausta → Mestre → Tangenziale di Mestre → A4 / Autostrada Serenissima → Desenzano del Garda → San Francesco Camping Village**
+
+### Waypoint obligatoire
+
+Programmer **Mestre** avant **Desenzano del Garda**. Le calcul direct vers Cavallino peut proposer des routes lagunaires comme Via Lio Piccolo, qui ne conviennent pas à un trajet de transit en CC.
+
+| Élément | Valeur de travail |
+|:---|---:|
+| **Distance de travail** | Environ **164 km** |
+| **Temps de conduite** | Environ **1h38** |
+| **Pause repas** | 30 min |
+| **Pause courte** | 15 min |
+| **Temps total** | Environ **2h23** |
+| **Diesel consommé** | Environ **16,5 L** |
+| **Péages** | A4 italien — pass italien |
+
+### Horaires — Variante autoroute
+
+| Départ de Cavallino | Arrivée estimée à Desenzano |
+|:---:|:---:|
+| **07h30** | Vers **09h53** |
+| **08h00** | Vers **10h23** |
+| **08h30** | Vers **10h53** |
+
+### Variante 8B — Mixte / économie
+
+- Rejoindre Mestre par les routes principales.
+- Éviter l’A4 uniquement si TomTom propose une SS11/SS12 praticable pour 8 m.
+- Temps prévisible : **2h30 à 3h30 de conduite**.
+- Temps total avec pause : **3h15 à 4h15**.
+- Le gain financier risque d’être limité par rapport au temps et aux traversées urbaines.
+
+### Accès San Francesco Camping Village
+
+- Destination : **Strada Vicinale San Francesco, Desenzano del Garda**.
+- Vérifier l’accès final dans TomTom avec le profil CC.
+- Ne pas traverser le centre historique de Desenzano inutilement.
+- Suivre l’accès camping et non une destination générale « Lac de Garde ».
+
+### Diesel
+
+- Environ **16,5 L** consommés.
+- Aucun remplissage obligatoire.
+- Avec un plein au départ de Cavallino, arrivée avec environ 48,5 L restants.
+
+### Décision
+
+**Statut : ⏳ À valider par Christophe.**
+
+Proposition Sylvia : variante **8A par Mestre et A4**, car elle est courte, lisible et évite les routes lagunaires secondaires.
+
+---
+
+# 11. Tableau de validation
 
 | Tronçon | Variante proposée | Statut |
 |:---|:---|:---:|
@@ -417,10 +540,12 @@ La variante mixte reste une solution de secours uniquement si le montant du péa
 | Florence → Pompéi | Autoroute italienne A1/A3 | ✅ Validé — variante 4A |
 | Pompéi → Monopoli | Autoroute A30 / A14 / SS16 | ✅ Validé — variante 5A |
 | Monopoli → Cupra Marittima | Autoroute Adriatique A14 | ✅ Validé — variante 6A |
+| Cupra Marittima → Cavallino | Autoroute A14/A13/A4 | ⏳ À valider — variante 7A |
+| Cavallino → Lac de Garde | A4 via Mestre | ⏳ À valider — variante 8A |
 
 ---
 
-## 10. Suite du travail
+## 12. Suite du travail
 
 Après validation des deux premiers tronçons, l’analyse continuera dans cet ordre :
 
