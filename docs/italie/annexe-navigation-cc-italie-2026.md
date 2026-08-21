@@ -163,23 +163,144 @@ La confirmation du camping précise :
 
 ### Décision
 
-**Statut : À valider par Christophe.**
+**Statut : ✅ Validé par Christophe.**
 
-La proposition recommandée est l’autoroute suisse, avec passage imposé par **Locarno et Luino**, puis accès final par **Via Giuseppe Verdi**.
+La proposition retenue est l’autoroute suisse, avec passage imposé par **Locarno et Luino**, puis accès final par **Via Giuseppe Verdi**. Cette route est retenue précisément parce qu’elle évite la variante montagneuse et ne pose pas de contrainte de hauteur pour le camping-car.
 
 ---
 
-# 5. Tableau de validation
+# 5. Tronçon 3 — Maccagno → Florence
+
+## Parcours sécurisé de travail
+
+### Waypoint obligatoire
+
+Le calcul direct Maccagno → Florence repart par **Via alla Forcora**. Cette variante est rejetée pour le CC.
+
+Programmer impérativement :
+
+> **Maccagno → Via Giuseppe Verdi → Luino → Varese → Autostrada dei Laghi → A1 / Variante di Valico → Florence**
+
+Le passage par **Luino** permet de sortir de la zone lacustre par l’itinéraire principal avant de rejoindre l’autoroute.
+
+### Variante 3A — Autoroute italienne
+
+| Élément | Valeur de travail |
+|:---|---:|
+| **Distance** | Environ **410 km** |
+| **Temps de conduite** | Environ **4h57** |
+| **Pause repas** | 30 min |
+| **Pause courte** | 15 min |
+| **Temps total** | Environ **5h42** |
+| **Diesel consommé** | Environ **41 L** |
+| **Péages** | À payer via le pass italien — montant à contrôler dans TomTom |
+
+### Horaires — Variante autoroute
+
+| Départ de Maccagno | Arrivée estimée à Florence |
+|:---:|:---:|
+| **07h30** | Vers **13h12** |
+| **08h00** | Vers **13h42** |
+| **08h30** | Vers **14h12** |
+
+### Variante 3B — Mixte / économie
+
+- Conserver la route principale Maccagno → Luino → Varese.
+- Éviter les sections d’autoroute italienne lorsque le détour reste raisonnable.
+- Reprendre l’autoroute pour contourner les zones urbaines et les secteurs montagneux.
+- Temps prévisible : **environ 6h15 à 7h00 de conduite**, selon le réglage TomTom.
+- Temps total avec repas et pause : **environ 7h00 à 7h45**.
+- Cette variante doit être générée directement dans le TomTom avec **« éviter les péages »**, puis contrôlée pour exclure les routes étroites.
+
+### Diesel — Maccagno → Florence
+
+Après Colmar → Maccagno, le réservoir ne sera plus plein. Il faut :
+
+- faire le plein à Maccagno ou à Luino avant le départ ;
+- parcourir environ 410 km ;
+- arriver à Florence avec environ 24 L restants si le plein est fait au départ.
+
+### Décision
+
+**Statut : ⏳ À valider par Christophe.**
+
+Proposition Sylvia : retenir la **variante 3A autoroute** pour ce long tronçon, car elle évite les routes secondaires et reste compatible avec le CC. La variante mixte sera conservée comme solution économique si le montant du péage italien est trop élevé.
+
+---
+
+# 6. Tronçon 4 — Florence → Pompéi
+
+## Variante 4A — Autoroute italienne directe
+
+### Itinéraire
+
+**Florence → A1 / Autostrada del Sole → Variante di Valico → Rome → A30/A3 → Pompei**
+
+| Élément | Valeur de travail |
+|:---|---:|
+| **Distance OSM** | Environ **488 km** |
+| **Temps de conduite OSM** | Environ **5h00** |
+| **Pause repas** | 30 min |
+| **Pause courte** | 15 min |
+| **Temps total** | Environ **5h45** |
+| **Diesel consommé** | Environ **49 L** |
+| **Péages** | Pass italien — montant à contrôler dans TomTom |
+
+### Horaires — Variante autoroute
+
+| Départ de Florence | Arrivée estimée à Pompéi |
+|:---:|:---:|
+| **07h30** | Vers **13h15** |
+| **08h00** | Vers **13h45** |
+| **08h30** | Vers **14h15** |
+
+Le camping Spartacus étant proche de l’entrée de Pompéi, une arrivée vers 14h00-14h15 laisse une marge correcte pour l’installation, sous réserve du trafic autour de Rome et Naples.
+
+## Variante 4B — Mixte / économie
+
+- Éviter les portions italiennes à péage quand le détour reste acceptable.
+- Conserver les grands axes gratuits et les voies rapides.
+- Ne pas traverser les centres de Rome ou de Naples avec le CC.
+- Temps prévisible : **6h30 à 7h30 de conduite**.
+- Temps total avec repas et pause : **environ 7h15 à 8h15**.
+- À utiliser seulement si l’économie de péage est significative, car la journée devient longue.
+
+### Diesel — Florence → Pompéi
+
+- Distance : environ 488 km.
+- Consommation : environ 49 L.
+- Aucun plein obligatoire si le réservoir est plein au départ.
+- Arrivée avec environ 16 L restants.
+- Par prudence, refaire le plein à Florence si le plein précédent n’a pas été effectué à Maccagno ou Luino.
+
+### Contraintes camping-car à l’arrivée
+
+- Ne pas entrer dans les rues centrales de Pompéi au-delà de l’accès prévu.
+- Utiliser **Via Plinio 127** comme destination finale.
+- Le camping Spartacus est à environ 50 m de l’entrée Porta Marina.
+- Vérifier que TomTom conserve l’accès au camping et ne propose pas un raccourci par une rue étroite.
+
+### Décision
+
+**Statut : ⏳ À valider par Christophe.**
+
+Proposition Sylvia : retenir la **variante 4A autoroute** pour préserver l’énergie et arriver à Pompéi dans l’après-midi. La variante mixte n’est intéressante que si le péage italien est vraiment élevé.
+
+---
+
+# 7. Tableau de validation
 
 | Tronçon | Variante proposée | Statut |
 |:---|:---|:---:|
-| Sombreffe → Colmar | Parcours mixte par Luxembourg et grands axes | ⏳ À valider |
-| Colmar → Maccagno | Suisse autoroute, Gothard, Locarno, Luino | ⏳ À valider |
-| Accès final Maccagno | Via Giuseppe Verdi — CC >2,60 m | ⏳ À confirmer dans TomTom |
+| Sombreffe → Colmar | Parcours mixte par Luxembourg et grands axes | ✅ Validé |
+| Colmar → Maccagno | Suisse autoroute, Gothard, Locarno, Luino | ✅ Validé |
+| Accès final Maccagno | Via Giuseppe Verdi — CC >2,60 m, sans contrainte de hauteur | ✅ Validé |
+| Maccagno → Florence | Autoroute italienne via Luino, Varese, A1 | ⏳ À valider |
+| Florence → Pompéi | Autoroute italienne A1/A3 | ⏳ À valider |
 
 ---
 
-## 6. Suite du travail
+## 8. Suite du travail
 
 Après validation des deux premiers tronçons, l’analyse continuera dans cet ordre :
 
