@@ -1,6 +1,6 @@
 # 🇮🇹 Voyage Italie — Septembre/Octobre 2026
 
-> **🗓️ 11/09/2026 → 11/10/2026 | 🚐 30 jours | 🛌 30 nuits | 📏 ~4028 km**
+> **🗓️ 11/09/2026 → 11/10/2026 | 🚐 30 jours | 🛌 30 nuits | 📏 ~4104 km**
 
 ---
 
@@ -36,81 +36,69 @@
 
 ---
 
+## 🗺️ Carte du trajet
+
+<iframe src="carte-italie.html" width="100%" height="550" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
+
+> 🗺️ Carte interactive du parcours validé : **10 tronçons, ~4104 km**. Cliquez sur les marqueurs pour voir les étapes. Le tracé suit les variantes autoroute/mixte validées dans l’annexe de navigation.
+
+---
+
 ## 🗺️ Itinéraire détaillé
 
 | Jour | Date | Étape | Distance (route) | KM cumulé | Nuits | Camping / Service | Coût |
 |:----:|:----:|-------|:----------------:|:---------:|:-----:|-------------------|:----:|
-| 1 | Ven 11/9 | 🏠 **Sombreffe** → **Colmar** (Alsace) | 446 km | 446 | 1 | Aire CC Schoenau | 14,00 € |
-| 2 | Sam 12/9 | 🇫🇷 **Colmar** → **Lac Majeur — Maccagno** 🏞️ | 333 km | 779 | 2 | The Camp by Maggiore Suites | 154,00 € |
-| 3 | Dim 13/9 | ☀️ *Repos & découverte Lac Majeur* | — | 779 | — | — | — |
-| 4 | Lun 14/9 | 🏛️ **Lac Majeur — Maccagno** → **Florence** | 399 km | 1178 | 3 | **hu Firenze camping in town** 🏕️ | 165,00 € |
-| 5 | Mar 15/9 | 🎨 *Visite Florence* | — | 1210 | — | — | — |
-| 6 | Mer 16/9 | 🎨 *Visite Florence* | — | 1210 | — | — | — |
-| 7 | Jeu 17/9 | 🌋 **Florence** → **Pompéi** | 484 km | 1694 | 2 | Camping Spartacus | 66,00 € |
-| 8 | Ven 18/9 | 🏛️ *Visite Pompéi* | — | 1694 | — | — | — |
-| 9 | Sam 19/9 | 🏖️ **Pompéi** → **Monopoli** (Pouilles) | 318 km | 2012 | 9 | Residence Atlantide — Monopoli | 336,00 € |
-| 10 | Dim 20/9 | 🚗 *Arrivée + découverte Monopoli à pied* 🚶 | — | 2012 | — | — | — |
-| 11 | Lun 21/9 | 🚗 *Jour 1 voiture — Vallée des Trulli* 🏡 | — | 2012 | — | — | — |
-| 12 | Mar 22/9 | 🚗 *Jour 2 voiture — Côte adriatique sud* 🏛️ | — | 2012 | — | — | — |
-| 13 | Mer 23/9 | 🚗 *Jour 3 voiture — Lecce ou Matera* 🌆 | — | 2012 | — | — | — |
-| 14 | Jeu 24/9 | 🚗 *Jour 4 voiture — Au choix* 🎯 | — | 2012 | — | — | — |
-| 15 | Ven 25/9 | 🚗 *Jour 5 voiture — Dernier rayonnement* 🚙 | — | 2012 | — | — | — |
-| 16 | Sam 26/9 | ☀️ *Plages & criques* 🏖️ | — | 2012 | — | — | — |
-| 17 | Dim 27/9 | ☀️ *Dernier jour — farniente & criques* ☀️ | — | 2012 | — | — | — |
-| 18 | Lun 28/9 | ⬆️ **Monopoli** → **Camping Village Led Zeppelin — Cupra Marittima** (simple étape repos) | 431 km | 2443 | 1 | Camping Village Led Zeppelin 🏕️ | ~30,00 € |
-| 19 | Mar 29/9 | 🛶 **Cupra Marittima** → **Venise** (Cavallino) | 429 km | 2872 | 4 | Camping Europa Village — Cavallino-Treporti | 222,80 € |
-| 20 | Mer 30/9 | 🎭 *Jour 1 Venise — Cœur historique* 🏛️ | — | 2872 | — | — | — |
-| 21 | Jeu 1/10 | 🏝️ *Jour 2 Venise — Murano & Burano* 🎨 | — | 2872 | — | — | — |
-| 22 | Ven 2/10 | 🛶 *Jour 3 Venise — Lido ou quartiers au choix* 🎯 | — | 2872 | — | — | — |
-| 23 | Sam 3/10 | 🌊 **Venise** → **Lac de Garde** | 164 km | 3036 | 7 | San Francesco Camping Village | 468,00 € |
-| 24 | Dim 4/10 | 🏖️ *Installation + balade Desenzano à pied* 🚶 | — | 3036 | — | — | — |
-| 25 | Lun 5/10 | 🚗 *Jour 1 voiture — Sirmione + rive ouest* 🏰 | — | 3036 | — | — | — |
-| 26 | Mar 6/10 | 🚗 *Jour 2 voiture — Rive est & nord* 🏔️ | — | 3036 | — | — | — |
-| 27 | Mer 7/10 | 🚗 *Jour 3 voiture — Vérone* 🏛️ | — | 3036 | — | — | — |
-| 28 | Jeu 8/10 | 🚗 *Jour 4 voiture — Riva del Garda* 🌊 | — | 3036 | — | — | — |
-| 29 | Ven 9/10 | ☀️ *Dernier jour — farniente & plages* ☀️ | — | 3036 | — | — | — |
-| 30 | Sam 10/10 | 🇫🇷 **Lac de Garde** → **Colmar** | 547 km | 3583 | 1 | Aire CC Schoenau | 14,00 € |
-| 31 | Dim 11/10 | 🏁 **Colmar** → **Sombreffe** — *Retour maison* | 445 km | **4028** | — | — | — |
+| 1 | Ven 11/9 | 🏠 **Sombreffe** → **Colmar** (Alsace) | 465 km | 465 | 1 | Aire CC Schoenau | 14,00 € |
+| 2 | Sam 12/9 | 🇫🇷 **Colmar** → **Lac Majeur — Maccagno** 🏞️ | 376 km | 841 | 2 | The Camp by Maggiore Suites | 154,00 € |
+| 3 | Dim 13/9 | ☀️ *Repos & découverte Lac Majeur* | — | 841 | — | — | — |
+| 4 | Lun 14/9 | 🏛️ **Lac Majeur — Maccagno** → **Florence** | 410 km | 1251 | 3 | **hu Firenze camping in town** 🏕️ | 165,00 € |
+| 5 | Mar 15/9 | 🎨 *Visite Florence* | — | 1283 | — | — | — |
+| 6 | Mer 16/9 | 🎨 *Visite Florence* | — | 1283 | — | — | — |
+| 7 | Jeu 17/9 | 🌋 **Florence** → **Pompéi** | 488 km | 1739 | 2 | Camping Spartacus | 66,00 € |
+| 8 | Ven 18/9 | 🏛️ *Visite Pompéi* | — | 1739 | — | — | — |
+| 9 | Sam 19/9 | 🏖️ **Pompéi** → **Monopoli** (Pouilles) | 313 km | 2052 | 9 | Residence Atlantide — Monopoli | 336,00 € |
+| 10 | Dim 20/9 | 🚗 *Arrivée + découverte Monopoli à pied* 🚶 | — | 2052 | — | — | — |
+| 11 | Lun 21/9 | 🚗 *Jour 1 voiture — Vallée des Trulli* 🏡 | — | 2052 | — | — | — |
+| 12 | Mar 22/9 | 🚗 *Jour 2 voiture — Côte adriatique sud* 🏛️ | — | 2052 | — | — | — |
+| 13 | Mer 23/9 | 🚗 *Jour 3 voiture — Lecce ou Matera* 🌆 | — | 2052 | — | — | — |
+| 14 | Jeu 24/9 | 🚗 *Jour 4 voiture — Au choix* 🎯 | — | 2052 | — | — | — |
+| 15 | Ven 25/9 | 🚗 *Jour 5 voiture — Dernier rayonnement* 🚙 | — | 2052 | — | — | — |
+| 16 | Sam 26/9 | ☀️ *Plages & criques* 🏖️ | — | 2052 | — | — | — |
+| 17 | Dim 27/9 | ☀️ *Dernier jour — farniente & criques* ☀️ | — | 2052 | — | — | — |
+| 18 | Lun 28/9 | ⬆️ **Monopoli** → **Camping Village Led Zeppelin — Cupra Marittima** (simple étape repos) | 432 km | 2484 | 1 | Camping Village Led Zeppelin 🏕️ | ~30,00 € |
+| 19 | Mar 29/9 | 🛶 **Cupra Marittima** → **Venise** (Cavallino) | 475 km | 2959 | 4 | Camping Europa Village — Cavallino-Treporti | 222,80 € |
+| 20 | Mer 30/9 | 🎭 *Jour 1 Venise — Cœur historique* 🏛️ | — | 2959 | — | — | — |
+| 21 | Jeu 1/10 | 🏝️ *Jour 2 Venise — Murano & Burano* 🎨 | — | 2959 | — | — | — |
+| 22 | Ven 2/10 | 🛶 *Jour 3 Venise — Lido ou quartiers au choix* 🎯 | — | 2959 | — | — | — |
+| 23 | Sam 3/10 | 🌊 **Venise** → **Lac de Garde** | 164 km | 3123 | 7 | San Francesco Camping Village | 468,00 € |
+| 24 | Dim 4/10 | 🏖️ *Installation + balade Desenzano à pied* 🚶 | — | 3123 | — | — | — |
+| 25 | Lun 5/10 | 🚗 *Jour 1 voiture — Sirmione + rive ouest* 🏰 | — | 3123 | — | — | — |
+| 26 | Mar 6/10 | 🚗 *Jour 2 voiture — Rive est & nord* 🏔️ | — | 3123 | — | — | — |
+| 27 | Mer 7/10 | 🚗 *Jour 3 voiture — Vérone* 🏛️ | — | 3123 | — | — | — |
+| 28 | Jeu 8/10 | 🚗 *Jour 4 voiture — Riva del Garda* 🌊 | — | 3123 | — | — | — |
+| 29 | Ven 9/10 | ☀️ *Dernier jour — farniente & plages* ☀️ | — | 3123 | — | — | — |
+| 30 | Sam 10/10 | 🇫🇷 **Lac de Garde** → **Colmar** | 515 km | 3638 | 1 | Aire CC Schoenau | 14,00 € |
+| 31 | Dim 11/10 | 🏁 **Colmar** → **Sombreffe** — *Retour maison* | 466 km | **4104** | — | — | — |
 
 ### Distances routières & temps estimé (CC à 100 km/h max)
 
-| Trajet | Distance route | Temps de route* | Via |
+| Trajet | Distance route | Temps de route* | Via / consigne TomTom |
 |:-------|:--------------:|:---------------:|:----|
-| 🏠 **Sombreffe → Colmar** | 446 km | 4h28 | A4/E411 – Luxembourg – A31 |
-| 🏞️ **Colmar → Lac Majeur — Maccagno** | 333 km | 3h20 | A35 – Bâle – Gotthard – Locarno/Maccagno |
-| 🏛️ **Lac Majeur — Maccagno → Florence** | 399 km | 4h00 | A8/A9 – Milan – A1 – Florence |
-| 🌋 **Florence → Pompéi** | 484 km | 4h50 | A1 – Rome – A30 – Pompéi |
-| 🏖️ **Pompéi → Monopoli** | 318 km | 3h11 | A30 – A16 – A14 – Bari |
-| ↕️ **Monopoli → Led Zeppelin** (Cupra Marittima) | 431 km | 4h30 | A14 adriatique (direction nord) |
-| ↕️ **Led Zeppelin → Venise** | 429 km | 4h25 | A14 – A13 – Venise |
-| 🌊 **Venise → Lac de Garde** | 164 km | 1h38 | A4 – Desenzano |
-| 🏁 **Lac de Garde → Colmar** | 547 km | 5h28 | A4 – Milan – Gotthard – A35 |
-| 🏁 **Colmar → Sombreffe** | 445 km | 4h27 | A31 – Luxembourg – E411/A4 |
-| | **Total** | **4 028 km** | **40h36** | |
+| 🏠 **Sombreffe → Colmar** | 465 km | 5h02 | Parcours mixte : E411 – Luxembourg – A31 – grands axes – A35 |
+| 🏞️ **Colmar → Maccagno** | 376 km | 5h10 | Suisse : Bâle – Lucerne – Gothard – Bellinzona – Locarno – **Luino** – Via Giuseppe Verdi |
+| 🏛️ **Maccagno → Florence** | 410 km | 4h57 | **Luino** – Varese – Autostrada dei Laghi – A1 – Variante di Valico |
+| 🌋 **Florence → Pompéi** | 488 km | 5h00 | A1 – Variante di Valico – A30/A3 – Via Plinio |
+| 🏖️ **Pompéi → Monopoli** | 313 km | 4h01 | SS268 – A30 – Autostrada dei Due Mari – A14 – SS16 |
+| ↕️ **Monopoli → Led Zeppelin** | 432 km | 4h37 | SS16 / A14 – Pescara – San Benedetto – Cupra |
+| ↕️ **Led Zeppelin → Venise** | 475 km | 5h12 | A14 – A13 – A4 – **Mestre** – Via Fausta |
+| 🌊 **Venise → Lac de Garde** | 164 km | 1h38 | Via Fausta – **Mestre** – A4 – Desenzano |
+| 🏁 **Lac de Garde → Colmar** | 515 km | 5h57 | A4 – Milan – Autostrada dei Laghi – Gothard – Bâle – A35 |
+| 🏁 **Colmar → Sombreffe** | 466 km | 5h04 | A35 – Strasbourg – A31 – Luxembourg – E411 |
+| | **Total** | **4 104 km** | **46h38 de conduite** | |
 
-> ⏱️ *Temps de route calculé sur base d'une vitesse constante de **100 km/h** (vitesse max CC sur autoroute). Temps réel à prévoir +15-20% pour pauses, péages, ralentissements.*
+> ⏱️ *Temps de conduite calculés avec les itinéraires validés et le profil CC. Prévoir en plus les pauses : repas de 30 minutes à midi et arrêts courts. Les temps réels restent dépendants du trafic, des travaux et du Gothard.*
 
-> 💡 **Comparaison :** la distance totale route (~4 028 km) est supérieure de ~30% à la distance vol d'oiseau (~3 090 km). En CC à 100 km/h, compter **environ 40h36 de conduite pures**, soit l'équivalent de **~4 jours pleins au volant** répartis sur les 11 jours de route.
-
-### Distances à vol d'oiseau (Haversine)
-
-| Trajet | Distance |
-|:-------|:--------:|
-| 🏠 **Sombreffe →** 🇫🇷 Colmar | **338 km** |
-| 🇫🇷 **Colmar →** 🏞️ Lac Majeur — Maccagno | **249 km** |
-| 🏞️ **Lac Majeur — Maccagno →** 🏛️ Florence | **321 km** |
-| 🏛️ **Florence →** 🌋 Pompéi | **428 km** |
-| 🌋 **Pompéi →** 🏖️ Monopoli | **237 km** |
-| 🏖️ **Monopoli →** ⬆️ Cupra Marittima | **359 km** |
-| ⬆️ **Cupra Marittima →** 🛶 Venise | **300 km** |
-| 🛶 **Venise →** 🌊 Lac de Garde | **152 km** |
-| 🌊 **Lac de Garde →** 🇫🇷 Colmar | **378 km** |
-| 🇫🇷 **Colmar →** 🏠 Sombreffe | **338 km** |
-| **Total** | **~3 096 km** |
-
-> 💡 La distance à vol d'oiseau (~3 096 km) est inférieure de ~23% à la distance route (~4 028 km), ce qui est normal pour un itinéraire en CC suivant les autoroutes.
-
----
+> 🚐 **Consigne générale TomTom :** programmer le profil 8 m × 2,50 m × 2,80 m et utiliser les waypoints indiqués pour éviter les routes étroites ou les variantes de montagne.
 
 ## 🏛️ Visites & Culture
 
@@ -803,15 +791,6 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 
 ---
 
-## 🗺️ Carte du trajet
-
-
-<iframe src="carte-italie.html" width="100%" height="550" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
-
-> 🗺️ Carte interactive avec le **parcours réel** (11 étapes, 4028 km). Cliquez sur les marqueurs pour voir les étapes. Les distances entre chaque étape sont indiquées sur le tracé.
-
----
-
 ## 🏕️ Campings & Hébergements détaillés
 
 | Étape | Camping | Réservation | Durée | Coût | Acompte |
@@ -848,11 +827,11 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 |-------|:----:|
 | 🏕️ Campings | ~1 431,80 € |
 | 🚗 Locations voiture (2×5j) | ~336,96 € |
-| ⛽ Carburant (estimation) | **~777 €** |
+| ⛽ Carburant (estimation) | **~718 €** |
 | 🛣️ Péages (Ulys Pass) | **~293 €** |
 | 🎫 Vignette autoroutière suisse | **~42 €** |
 | 🎟️ Visites & activités | **~435 €** |
-| **Total (campings + locations + carburant + péages + vignette + visites)** | **~3 316 €** |
+| **Total (campings + locations + carburant + péages + vignette + visites)** | **~3 257 €** |
 
 **Détail des visites par étape (pour 2 pers.) :**
 
@@ -896,9 +875,10 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 | Pays traversés | 🇧🇪 Belgique → 🇫🇷 France → 🇨🇭 Suisse → 🇮🇹 Italie → 🇨🇭 Suisse → 🇫🇷 France → 🇧🇪 Belgique |
 | Nuits totales | 30 |
 | Plus long séjour | Pouilles (9 nuits) & Lac de Garde (7 nuits) |
-| KM route | ~4 028 km |
-| Temps route estimé (100 km/h) | ~40h36 de conduite |
-| Estimation budget campings | ~1 431,80 € |
+| KM route | ~4 104 km |
+| Temps route estimé (profil CC) | ~46h38 de conduite |
+| Estimation budget carburant | ~718 € |
+| Estimation budget total | ~3 257 € |
 
 ---
 
