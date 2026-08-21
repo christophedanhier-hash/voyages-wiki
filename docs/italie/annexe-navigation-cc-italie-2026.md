@@ -464,9 +464,11 @@ L’ancien roadbook indiquait 429 km. La valeur de travail est maintenant **475 
 
 ### Décision
 
-**Statut : ⏳ À valider par Christophe.**
+**Statut : ✅ Validé par Christophe — variante 7A.**
 
-Proposition Sylvia : variante **7A autoroute**, car la distance réelle jusqu’à Cavallino est longue et l’accès lagunaire doit rester simple et contrôlé.
+Parcours retenu : **Cupra Marittima → A14 → A13 → A4 / Tangenziale di Mestre → Via Fausta → Camping Europa Village**.
+
+Le waypoint **Mestre** doit être conservé pour éviter les routes lagunaires secondaires.
 
 ---
 
@@ -523,13 +525,116 @@ Programmer **Mestre** avant **Desenzano del Garda**. Le calcul direct vers Caval
 
 ### Décision
 
-**Statut : ⏳ À valider par Christophe.**
+**Statut : ✅ Validé par Christophe — variante 8A.**
 
-Proposition Sylvia : variante **8A par Mestre et A4**, car elle est courte, lisible et évite les routes lagunaires secondaires.
+Parcours retenu : **Camping Europa Village → Via Fausta → Mestre → Tangenziale di Mestre → A4 → Desenzano → San Francesco Camping Village**.
+
+Le waypoint **Mestre** est obligatoire dans la préparation TomTom.
 
 ---
 
-# 11. Tableau de validation
+# 11. Tronçon 9 — Lac de Garde → Colmar
+
+## Variante 9A — Autoroute suisse recommandée
+
+### Itinéraire
+
+**San Francesco / Desenzano → A4 → Milan → Autostrada dei Laghi → Suisse → Gothard → Bâle → A35 → Colmar**
+
+| Élément | Valeur de travail |
+|:---|---:|
+| **Distance OSM** | Environ **515 km** |
+| **Temps de conduite OSM** | **5h57** |
+| **Pause repas** | 30 min |
+| **Pause courte** | 15 min |
+| **Temps total** | Environ **6h42** |
+| **Diesel consommé** | Environ **51,5 L** |
+| **Vignette suisse** | ✅ Valable |
+| **Péages italiens** | Pass italien — A4 / Autostrada dei Laghi à contrôler |
+
+L’ancien roadbook indiquait 547 km. La distance de travail recalculée depuis Desenzano est **515 km**, mais le TomTom peut varier selon l’accès exact au camping et les conditions de circulation.
+
+### Horaires — Variante autoroute
+
+| Départ du Lac de Garde | Arrivée estimée à Colmar |
+|:---:|:---:|
+| **07h30** | Vers **14h12** |
+| **08h00** | Vers **14h42** |
+| **08h30** | Vers **15h12** |
+
+### Variante 9B — Mixte / économie
+
+- Garder les grands axes autour de Milan et du Gothard.
+- Éviter les portions italiennes à péage lorsque le détour reste raisonnable.
+- Ne pas remplacer le passage suisse par des routes alpines secondaires.
+- Temps prévisible : **7h00 à 8h00 de conduite**.
+- Temps total avec repas et pause : **7h45 à 8h45**.
+- Variante déconseillée pour une journée de retour déjà longue.
+
+### Carburant
+
+- Consommation : environ **51,5 L**.
+- Faire le plein au départ du Lac de Garde si le niveau n’est pas proche de 65 L.
+- Arrivée à Colmar avec environ 13,5 L si le plein est fait au départ.
+- **Faire impérativement le plein à Colmar** avant le dernier tronçon vers Sombreffe.
+
+### Décision
+
+**Statut : ⏳ À valider par Christophe.**
+
+Proposition Sylvia : variante **9A autoroute suisse**, pour éviter une journée trop longue sur des routes secondaires et réutiliser la vignette suisse déjà acquise.
+
+---
+
+# 12. Tronçon 10 — Colmar → Sombreffe
+
+## Variante 10A — Parcours mixte recommandé
+
+### Itinéraire
+
+**Colmar → A35 / Strasbourg → A31 → Luxembourg → E411 → Sombreffe**
+
+| Élément | Valeur de travail |
+|:---|---:|
+| **Distance OSM** | Environ **466 km** |
+| **Temps de conduite OSM** | **5h04** |
+| **Pause repas** | 30 min |
+| **Pause courte** | 15 min |
+| **Temps total** | Environ **5h49** |
+| **Diesel consommé** | Environ **46,6 L** |
+| **Péages** | À contrôler dans TomTom ; éviter les péages français si le détour reste raisonnable |
+
+### Horaires — Variante mixte
+
+| Départ de Colmar | Arrivée estimée à Sombreffe |
+|:---:|:---:|
+| **07h30** | Vers **13h19** |
+| **08h00** | Vers **13h49** |
+| **08h30** | Vers **14h19** |
+
+### Variante 10B — Autoroute maximale
+
+- Autoroute sur les sections disponibles.
+- Temps légèrement plus court selon trafic.
+- Coût potentiellement supérieur selon les péages sélectionnés.
+- La différence ne justifie pas forcément un détour ou une dépense importante pour le dernier jour.
+
+### Carburant
+
+- Arrivée à Colmar après l’étape précédente avec environ 13,5 L si départ du Lac de Garde avec un plein.
+- **Plein obligatoire à Colmar** avant de repartir.
+- Consommation Colmar → Sombreffe : environ 46,6 L.
+- Arrivée à Sombreffe avec environ 18 L restants.
+
+### Décision
+
+**Statut : ⏳ À valider par Christophe.**
+
+Proposition Sylvia : variante **10A mixte**, suffisante pour le retour, avec priorité au confort et à la maîtrise des péages plutôt qu’à un gain de quelques minutes.
+
+---
+
+# 13. Tableau de validation
 
 | Tronçon | Variante proposée | Statut |
 |:---|:---|:---:|
@@ -540,12 +645,14 @@ Proposition Sylvia : variante **8A par Mestre et A4**, car elle est courte, lisi
 | Florence → Pompéi | Autoroute italienne A1/A3 | ✅ Validé — variante 4A |
 | Pompéi → Monopoli | Autoroute A30 / A14 / SS16 | ✅ Validé — variante 5A |
 | Monopoli → Cupra Marittima | Autoroute Adriatique A14 | ✅ Validé — variante 6A |
-| Cupra Marittima → Cavallino | Autoroute A14/A13/A4 | ⏳ À valider — variante 7A |
-| Cavallino → Lac de Garde | A4 via Mestre | ⏳ À valider — variante 8A |
+| Cupra Marittima → Cavallino | Autoroute A14/A13/A4 | ✅ Validé — variante 7A |
+| Cavallino → Lac de Garde | A4 via Mestre | ✅ Validé — variante 8A |
+| Lac de Garde → Colmar | Autoroute italienne + Suisse | ⏳ À valider — variante 9A |
+| Colmar → Sombreffe | Parcours mixte par Luxembourg | ⏳ À valider — variante 10A |
 
 ---
 
-## 12. Suite du travail
+## 14. Suite du travail
 
 Après validation des deux premiers tronçons, l’analyse continuera dans cet ordre :
 
