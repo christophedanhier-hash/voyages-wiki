@@ -222,9 +222,11 @@ Après Colmar → Maccagno, le réservoir ne sera plus plein. Il faut :
 
 ### Décision
 
-**Statut : ⏳ À valider par Christophe.**
+**Statut : ✅ Validé par Christophe — variante 3A.**
 
-Proposition Sylvia : retenir la **variante 3A autoroute** pour ce long tronçon, car elle évite les routes secondaires et reste compatible avec le CC. La variante mixte sera conservée comme solution économique si le montant du péage italien est trop élevé.
+Parcours retenu : **Maccagno → Via Giuseppe Verdi → Luino → Varese → Autostrada dei Laghi → A1 / Variante di Valico → Florence**.
+
+La variante mixte sans péage reste une solution de secours uniquement si le montant du péage italien est jugé trop élevé.
 
 ---
 
@@ -282,9 +284,11 @@ Le camping Spartacus étant proche de l’entrée de Pompéi, une arrivée vers 
 
 ### Décision
 
-**Statut : ⏳ À valider par Christophe.**
+**Statut : ✅ Validé par Christophe — variante 4A.**
 
-Proposition Sylvia : retenir la **variante 4A autoroute** pour préserver l’énergie et arriver à Pompéi dans l’après-midi. La variante mixte n’est intéressante que si le péage italien est vraiment élevé.
+Parcours retenu : **Florence → A1 / Autostrada del Sole → Variante di Valico → Rome → A30/A3 → Pompei**.
+
+La variante mixte sans péage reste une solution de secours uniquement si le montant du péage italien est jugé trop élevé, car elle allonge fortement la journée.
 
 ---
 
@@ -295,8 +299,8 @@ Proposition Sylvia : retenir la **variante 4A autoroute** pour préserver l’é
 | Sombreffe → Colmar | Parcours mixte par Luxembourg et grands axes | ✅ Validé |
 | Colmar → Maccagno | Suisse autoroute, Gothard, Locarno, Luino | ✅ Validé |
 | Accès final Maccagno | Via Giuseppe Verdi — CC >2,60 m, sans contrainte de hauteur | ✅ Validé |
-| Maccagno → Florence | Autoroute italienne via Luino, Varese, A1 | ⏳ À valider |
-| Florence → Pompéi | Autoroute italienne A1/A3 | ⏳ À valider |
+| Maccagno → Florence | Autoroute italienne via Luino, Varese, A1 | ✅ Validé — variante 3A |
+| Florence → Pompéi | Autoroute italienne A1/A3 | ✅ Validé — variante 4A |
 
 ---
 
