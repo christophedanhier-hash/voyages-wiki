@@ -52,7 +52,7 @@
 | 1 | Ven 11/9 | 🏠 **Sombreffe** → **Colmar** (Alsace) | 465 km | 465 | 1 | Aire CC Schoenau | 14,00 € |
 | 2 | Sam 12/9 | 🇫🇷 **Colmar** → **Lac Majeur — Maccagno** 🏞️ | 376 km | 841 | 2 | The Camp by Maggiore Suites | 154,00 € |
 | 3 | Dim 13/9 | ☀️ *Repos & découverte Lac Majeur* | — | 841 | — | — | — |
-| 4 | Lun 14/9 | 🏛️ **Lac Majeur — Maccagno** → **Florence** | 410 km | 1251 | 3 | **hu Firenze camping in town** 🏕️ | 165,00 € |
+| 4 | Lun 14/9 | 🏛️ **Lac Majeur — Maccagno** → **Florence** | 410 km | 1251 | 3 | **hu Firenze camping in town** 🏕️ | 310,00 € |
 | 5 | Mar 15/9 | 🎨 *Visite Florence* | — | 1283 | — | — | — |
 | 6 | Mer 16/9 | 🎨 *Visite Florence* | — | 1283 | — | — | — |
 | 7 | Jeu 17/9 | 🌋 **Florence** → **Pompéi** | 488 km | 1739 | 2 | Camping Spartacus | 66,00 € |
