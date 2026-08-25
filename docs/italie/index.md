@@ -13,8 +13,9 @@
 | **Mobilité** | Sylvie : max 5-7 km/j à pied. Pas de VAE à bord — transports : à pied, taxi, bus, voiture de location |
 | **🐕 Nala** | **Pension chez Émilie** (fille de Christophe) — pas du voyage |
 | **Équipement** | Pas de vélos à bord — location possible sur place si besoin (Lac de Garde, Venise Lido) |
-| **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise). ✅ **Europa Village entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place |
+| **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise). ✅ **Europa Village entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place. ✅ **Confirmations d'arrivée reçues le 25/08/2026** (Spartacus, Atlantide, Led Zeppelin) |
 
+> 📥 **[Télécharger le roadbook au format PDF](roadbook-italie.pdf)**
 
 ---
 
@@ -22,12 +23,12 @@
 
 | Métrique | Valeur |
 |:---------|------:|
-| **Sessions LEO** | 14 (8 création + 1 VAE + 1 cartes Côme/Florence + 1 correctif icônes + 1 cartes Pompéi/Monopoli/Venise/Garde + 1 suivi mail Sandaya — solde Europa Village + 1 cron 25/08 — alignement statut paiement Europa Village) |
-| **Commits git** | 80 |
-| **Messages échangés** | ~268 |
-| **Appels API DeepSeek** | ~68 |
-| **Outils mobilisés** | ~192 (recherche web, scripts, git, cartes, patches, géocodage) |
-| **Tokens consommés** | 270 000 IN · 87 000 OUT |
+| **Sessions LEO** | 15 (8 création + 1 VAE + 1 cartes Côme/Florence + 1 correctif icônes + 1 cartes Pompéi/Monopoli/Venise/Garde + 1 suivi mail Sandaya — solde Europa Village + 1 cron 25/08 — alignement statut paiement Europa Village + 1 cron 25/08 — confirmations d'arrivée Spartacus/Atlantide/Led Zeppelin) |
+| **Commits git** | 81 |
+| **Messages échangés** | ~280 |
+| **Appels API DeepSeek** | ~70 |
+| **Outils mobilisés** | ~200 (recherche web, scripts, git, cartes, patches, géocodage) |
+| **Tokens consommés** | 290 000 IN · 93 000 OUT |
 | **Coût DeepSeek réel** | **~0,09 €** |
 | **Frais de service BAVI LEO** | **2,50 €** forfait |
 | **Total facturé** | **2,59 €** |
@@ -440,7 +441,7 @@ Envie de sortir des sentiers battus avec la voiture de location ? Voici quelques
 
 ### ⚠️ Astuces pratiques
 
-- **Residence Atlantide :** C.da Lamandia 13/E, Monopoli. 9 nuits confirmées via wubook (CD-0008).
+- **Residence Atlantide :** C.da Lamandia 13/E, Monopoli. 9 nuits confirmées via wubook (CD-0008). Piazzola adaptée au CC 8m, électricité + eau incluses (conf. 25/08/2026).
 - **Sunny Cars #15253750** : vérifier si l'agence livre à Monopoli ou si navette Bari.
 - **🔑 Le CC reste à la Residence** pendant tout le séjour — transports : location voiture, taxi ou à pied.
 - **⚠️ ZTL :** de nombreuses villes des Pouilles (Ostuni, Martina Franca, Lecce, Polignano) ont des ZTL. **Ne pas entrer dans les centres historiques** avec la voiture de location. Parking en périphérie toujours (1-2 €/h).
@@ -597,7 +598,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 
 ### ⚠️ Astuces pratiques
 
-- **Camping Europa Village :** piscine, plage privée, pinède. Réservé via Sandaya (N°06426005202000) — ✅ **entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place.
+- **Camping Europa Village :** piscine, plage privée, pinède. Réservé via Sandaya (N°06426005202000) — ✅ **entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place. ⏳ Confirmation d'arrivée : demande envoyée le 25/08/2026, réponse Sandaya sous 72h.
 - **⚠️ Attention aux pickpockets** à Venise (San Marco, Rialto, vaporetto bondés) — sac fermé, poches zippées.
 - **Pass ACTV 72h** : le plus rentable (bus+ferry Cavallino + vaporetto illimité ~45 €). Sinon tickets unité 9,50 €/trajet.
 - **Marées (acqua alta)** : fin septembre possible mais rare. Consulvier aprevisioni su [Comune Venezia](https://www.comune.venezia.it).
@@ -798,9 +799,9 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 | Colmar | Aire CC Schoenau | ❌ Sans résa | 1 nuit | 14,00 € | — |
 | Lac Majeur — Maccagno | **The Camp by Maggiore Suites** | ✅ #32877 | 2 nuits | 154,00 € | **30,80 €** ✔️ Stripe |
 | Florence | **hu Firenze camping in town** | ✅ #314185774 | 3 nuits | 165,00 € | ❌ Carte garantie |
-| Pompéi | **Camping Spartacus** | ✅ Confirmé | 2 nuits | **66,00 €** (33€/nuit) | ✅ Confirmé |
+| Pompéi | **Camping Spartacus** | ✅ Confirmé (arrivée 17/09 ✅) | 2 nuits | **66,00 €** (33€/nuit) | ✅ Confirmé |
 | Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ✅ Confirmé wubook |
-| San Benedetto del Tronto / Cupra Marittima | **Camping Village Led Zeppelin** — Cupra Marittima | ⏳ Sans résa (walk-in confirmé) | 1 nuit | ~30,00 € | — |
+| San Benedetto del Tronto / Cupra Marittima | **Camping Village Led Zeppelin** — Cupra Marittima | ⏳ Walk-in re-confirmé 25/08 | 1 nuit | ~30,00 € | — |
 | Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | ✅ **222,80 € payé** (65,76 € + solde 153,44 € le 25/08) |
 | | *(David & Nancy même camping, 2 emplacements)* | ✅ Réservé | 4 nuits | — | ✅ |
 | Lac de Garde | **San Francesco Camping Village** | ✅ #654795826 | 7 nuits | 468,00 € | **140,40 €** ✔️ MC 14/01 |
@@ -813,10 +814,10 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 |:--------|:---------|
 | **The Camp by Maggiore Suites** | Pitch FRONT FR1 (8m ✅). Hauteur 2,5m OK (<2,60m). Check-in 16h. Code portail: 1593. Plaque: 2FUQ668 |
 | **hu Firenze camping in town** | Emplacement 50-60m². Love Pet Pack 15€. Check-in 24h/24. Adresse: Via della Chiesa 1/3, 50136 Firenze |
-| **Pompéi** | **Camping Spartacus** (Via Plinio 127) — ✅ **Confirmé** par Alessandro. **33€/nuit tout compris** (2 pers, CC, électricité, taxes). Arrivée ~15h00 le 17/09/2026. CC 8m OK. Piscine, restaurant-pizzeria, Wi-Fi, supérette. 50m entrée Porta Marina — idéal ! |
-| **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). ✅ Confirmé via wubook (CD-0008) le 13/01/2026. 336€. Politique annulation: 30 jours. Check-in en ligne dispo |
+| **Pompéi** | **Camping Spartacus** (Via Plinio 127) — ✅ **Confirmé** par Alessandro. **33€/nuit tout compris** (2 pers, CC, électricité, taxes). Arrivée ~15h00 le 17/09/2026 — **confirmée par le camping le 25/08/2026** (« Vi aspettiamo il 17.09 »). CC 8m OK. Piscine, restaurant-pizzeria, Wi-Fi, supérette. 50m entrée Porta Marina — idéal ! |
+| **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). ✅ Confirmé via wubook (CD-0008) le 13/01/2026. 336€. Politique annulation: 30 jours. Check-in en ligne fait ✅. **Piazzola adaptée au CC 8 m confirmée + électricité & eau incluses** (confirmation Iolanda, 25/08/2026) |
 | **Europa Village** | Réservé via Sandaya (N°06426005202000, client 900189). Emplacement **XL** n°2134 — 29/09 15h00 → 03/10 11h00, 2 pers. ✅ **SOLDE PAYÉ le 25/08/2026** — acompte 30 % (65,76 €) payé le 14/01/2026, solde 153,44 € réglé le 25/08/2026 (confirmation Sandaya reçue). Taxe de séjour **3,60 €** à régler sur place. Total séjour 222,80 €. Cavallino-Treporti, bus+ferry ACTV Venise 45 min. Piscine, plage privée, pinède |
-| **Camping Village Led Zeppelin** | Cupra Marittima (AP) — Via Boccabianca 5. 🌐 campingledzeppelin.it 📞 +39 0735 778125. Piazzola camper 65 m² avec électricité ✅. Ouvert jusqu'au 30/09 ✅. Hauteur max 3,05m ✅. Piscine, plage, restaurant, pizzeria sur place. Simple étape repos 🌅. ⏳ **Pas de résa possible pour 1 nuit** — walk-in accepté. Mail de remerciement + confirmation envoyé le 08/07/2026 ✅ |
+| **Camping Village Led Zeppelin** | Cupra Marittima (AP) — Via Boccabianca 5. 🌐 campingledzeppelin.it 📞 +39 0735 778125. Piazzola camper 65 m² avec électricité ✅. Ouvert jusqu'au 30/09 ✅. Hauteur max 3,05m ✅. Piscine, plage, restaurant, pizzeria sur place. Simple étape repos 🌅. ⏳ **Pas de résa possible pour 1 nuit** — walk-in accepté. Mail de remerciement + confirmation envoyé le 08/07/2026 ✅. **Relance confirmation arrivée 25/08/2026 → walk-in re-confirmé** (accès direct, électricité OK, sous-passage piazzole mare 3,05 m) |
 | **San Francesco Camping Village** | Desenzano del Garda (BS). ✅ Réservation #654795826. Acompte **140,40 € payé** ✔️ le 14/01/2026 via Mastercard. Solde restant: ~327,60 € à régler sur place. Email reçu de booking@campingsanfrancesco.com |
 
 ---
@@ -855,10 +856,10 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 - **🎫 Vignette autoroutière suisse ✅ COMMANDÉE** : reçue par email le **10/08/2026** (noreply@bazg.admin.ch — « Via Billet » + « Quittance Via »). Le trajet Colmar → Lac Majeur passe par **Bâle – Gothard** (Suisse), et le retour Lac de Garde → Colmar aussi. Vignette annuelle **40 CHF (~42 €)** — couvre l'aller **et** le retour. Liée électroniquement à la plaque, rien à coller. ⚠️ Sans vignette : amende ~200 CHF.
 - **The Camp by Maggiore Suites (Lac Majeur — Maccagno)** : front pitch FR1 (8m OK). Hauteur max 2,60m — si CC >2,60m, passer par Via Giuseppe Verdi. Code portail: 1593
 - **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². Love Pet Pack 15€. Check-in 24h/24. Tram T1 depuis/vers le centre
-- **Pompéi** : ✅ **Camping Spartacus** (Via Plinio 127, 50m entrée Porta Marina) — résa confirmée ✅, **33€/nuit tout compris**. Arrivée ~15h00 le 17/09. Piscine, pizzeria, Wi-Fi
-- **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), taxi, à pied. Centre-ville à 15 min à pied. Voir section dédiée 🚗🚶
-- **Camping Village Led Zeppelin (Cupra Marittima)** : étape repos à 10 min de San Benedetto del Tronto. Piazzola camper 65 m² avec électricité. Hauteur max 3,05m ✅. Piscine, plage, restaurant. Ouvert jusqu'au 30/09. ⏳ **Pas de réservation possible pour 1 nuit** — walk-in accepté. Mail de remerciement + confirmation envoyé le 08/07/2026 ✅. 🏕️
-- **Camping Europa Village (Cavallino)** : réservé via Sandaya (N°06426005202000). ✅ **Entièrement payé (25/08/2026)** — acompte 65,76 € + solde 153,44 €. Accès Venise : bus + ferry ACTV (45 min). 4 nuits, 3 jours pleins. Voir section Venise dédiée 🛶
+- **Pompéi** : ✅ **Camping Spartacus** (Via Plinio 127, 50m entrée Porta Marina) — résa confirmée ✅, **33€/nuit tout compris**. Arrivée ~15h00 le 17/09 — **confirmée par le camping le 25/08/2026**. Piscine, pizzeria, Wi-Fi
+- **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), taxi, à pied. Centre-ville à 15 min à pied. Piazzola adaptée au CC 8m + eau/électricité incluses (confirmé 25/08/2026). Voir section dédiée 🚗🚶
+- **Camping Village Led Zeppelin (Cupra Marittima)** : étape repos à 10 min de San Benedetto del Tronto. Piazzola camper 65 m² avec électricité. Hauteur max 3,05m ✅. Piscine, plage, restaurant. Ouvert jusqu'au 30/09. ⏳ **Pas de réservation possible pour 1 nuit** — walk-in accepté. Mail de remerciement + confirmation envoyé le 08/07/2026 ✅. Walk-in **re-confirmé le 25/08/2026** (accès direct, électricité OK). 🏕️
+- **Camping Europa Village (Cavallino)** : réservé via Sandaya (N°06426005202000). ✅ **Entièrement payé (25/08/2026)** — acompte 65,76 € + solde 153,44 €. Accès Venise : bus + ferry ACTV (45 min). 4 nuits, 3 jours pleins. ⏳ Confirmation d'arrivée demandée le 25/08 — accusé Sandaya reçu (réponse sous 72h). Voir section Venise dédiée 🛶
 - **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte 140,40 € payé le 14/01/2026. Solde ~327,60 €. Piscine, plage. Location vélos sur place. Sunny Cars #15253704 (5j). Voir section dédiée 🚗🚶
 - **Location voiture** : prévue 2 fois (Pouilles + Lac de Garde) via Sunny Cars — ✅ **Vouchers reçus le 28/07/2026** pour les deux réservations (#15253750 Pouilles: 386€ et #15253704 Lac de Garde: 293€). Paiement total : 679€
 - **⚠️ Dimensions CC 8m × 2,5m × 2,8m** : vérifier les parkings souterrains et entrées de ville. Florence ZTL interdite au CC. Parkings conseillés en périphérie (Scandicci, Villa Costanza)
