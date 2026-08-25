@@ -13,7 +13,7 @@
 | **Mobilité** | Sylvie : max 5-7 km/j à pied. Pas de VAE à bord — transports : à pied, taxi, bus, voiture de location |
 | **🐕 Nala** | **Pension chez Émilie** (fille de Christophe) — pas du voyage |
 | **Équipement** | Pas de vélos à bord — location possible sur place si besoin (Lac de Garde, Venise Lido) |
-| **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise). ✅ **Europa Village entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place. ✅ **Confirmations d'arrivée reçues le 25/08/2026** (Spartacus, Atlantide, Led Zeppelin). ✅ **hu Firenze : upgrade hu camp Premium confirmé le 25/08/2026 (+310 €)** — piazzola adaptée au CC 8 m |
+| **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise). ✅ **Europa Village entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place. ✅ **Confirmations d'arrivée reçues le 25/08/2026** (Spartacus, Atlantide, Led Zeppelin). ⏳ **hu Firenze : passage en hu camp Premium — offre exacte en attente (prix initial 165 €, upgrade annoncé 310 € — à clarifier)** |
 
 > 📥 **[Télécharger le roadbook au format PDF](roadbook-italie.pdf)**
 
@@ -798,7 +798,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 |-------|---------|:-----------:|:-----:|:----:|:-------:|
 | Colmar | Aire CC Schoenau | ❌ Sans résa | 1 nuit | 14,00 € | — |
 | Lac Majeur — Maccagno | **The Camp by Maggiore Suites** | ✅ #32877 | 2 nuits | 154,00 € | **30,80 €** ✔️ Stripe |
-| Florence | **hu Firenze camping in town** | ✅ #314185774 — **hu camp Premium** (+310 €) — adapté CC 8 m | 3 nuits | 165,00 € + 310 € | ❌ Carte garantie |
+| Florence | **hu Firenze camping in town** | ⏳ #314185774 — **hu camp Premium en cours de confirmation** — offre exacte en attente | 3 nuits | 165 € initial / 310 € annoncé ? | ❌ Carte garantie |
 | Pompéi | **Camping Spartacus** | ✅ Confirmé (arrivée 17/09 ✅) | 2 nuits | **66,00 €** (33€/nuit) | ✅ Confirmé |
 | Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ✅ Confirmé wubook |
 | San Benedetto del Tronto / Cupra Marittima | **Camping Village Led Zeppelin** — Cupra Marittima | ⏳ Walk-in re-confirmé 25/08 | 1 nuit | ~30,00 € | — |
@@ -813,7 +813,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 | Camping | À savoir |
 |:--------|:---------|
 | **The Camp by Maggiore Suites** | Pitch FRONT FR1 (8m ✅). Hauteur 2,5m OK (<2,60m). Check-in 16h. Code portail: 1593. Plaque: 2FUQ668 |
-| **hu Firenze camping in town** | Emplacement 50-60m². ✅ **hu camp Premium confirmé le 25/08/2026 (+310 €)** — eau + électricité exclusifs, adapté au CC 8 m. Mail de confirmation envoyé à Giada (booking@huopenair.com). Check-in 24h/24. Adresse: Via della Chiesa 1/3, 50136 Firenze |
+| **hu Firenze camping in town** | Emplacement 50-60m². ⏳ **hu camp Premium en cours de confirmation** — prix initial 165 €, upgrade annoncé 310 € (total ou supplément ? à clarifier avec Giada, mail envoyé 25/08). Sans chien (Love Pet Pack non requis). Check-in 24h/24. Adresse: Via della Chiesa 1/3, 50136 Firenze |
 | **Pompéi** | **Camping Spartacus** (Via Plinio 127) — ✅ **Confirmé** par Alessandro. **33€/nuit tout compris** (2 pers, CC, électricité, taxes). Arrivée ~15h00 le 17/09/2026 — **confirmée par le camping le 25/08/2026** (« Vi aspettiamo il 17.09 »). CC 8m OK. Piscine, restaurant-pizzeria, Wi-Fi, supérette. 50m entrée Porta Marina — idéal ! |
 | **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). ✅ Confirmé via wubook (CD-0008) le 13/01/2026. 336€. Politique annulation: 30 jours. Check-in en ligne fait ✅. **Piazzola adaptée au CC 8 m confirmée + électricité & eau incluses** (confirmation Iolanda, 25/08/2026) |
 | **Europa Village** | Réservé via Sandaya (N°06426005202000, client 900189). Emplacement **XL** n°2134 — 29/09 15h00 → 03/10 11h00, 2 pers. ✅ **SOLDE PAYÉ le 25/08/2026** — acompte 30 % (65,76 €) payé le 14/01/2026, solde 153,44 € réglé le 25/08/2026 (confirmation Sandaya reçue). Taxe de séjour **3,60 €** à régler sur place. Total séjour 222,80 €. Cavallino-Treporti, bus+ferry ACTV Venise 45 min. Piscine, plage privée, pinède |
@@ -826,13 +826,13 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 
 | Poste | Coût |
 |-------|:----:|
-| 🏕️ Campings | ~1 741,80 € *(+310 € hu Firenze Premium inclus)* |
+| 🏕️ Campings | ~1 431,80 € ⏳ *(+310 € max si hu Firenze Premium — offre exacte en attente)* |
 | 🚗 Locations voiture (2×5j) | ~336,96 € |
 | ⛽ Carburant (estimation) | **~718 €** |
 | 🛣️ Péages (Ulys Pass) | **~293 €** |
 | 🎫 Vignette autoroutière suisse | **~42 €** |
 | 🎟️ Visites & activités | **~435 €** |
-| **Total (campings + locations + carburant + péages + vignette + visites)** | **~3 567 €** |
+| **Total (campings + locations + carburant + péages + vignette + visites)** | **~3 257 €** ⏳ *(+310 € max si hu Firenze Premium — offre en attente)* |
 
 **Détail des visites par étape (pour 2 pers.) :**
 
@@ -855,7 +855,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 - **Aire Schoenau (Colmar)** : pratique pour la pause avant/après l'Italie, gratuite ou ~14€ selon saison
 - **🎫 Vignette autoroutière suisse ✅ COMMANDÉE** : reçue par email le **10/08/2026** (noreply@bazg.admin.ch — « Via Billet » + « Quittance Via »). Le trajet Colmar → Lac Majeur passe par **Bâle – Gothard** (Suisse), et le retour Lac de Garde → Colmar aussi. Vignette annuelle **40 CHF (~42 €)** — couvre l'aller **et** le retour. Liée électroniquement à la plaque, rien à coller. ⚠️ Sans vignette : amende ~200 CHF.
 - **The Camp by Maggiore Suites (Lac Majeur — Maccagno)** : front pitch FR1 (8m OK). Hauteur max 2,60m — si CC >2,60m, passer par Via Giuseppe Verdi. Code portail: 1593
-- **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². ✅ **hu camp Premium confirmé le 25/08/2026 (+310 €)** — eau + électricité exclusifs, adapté au CC 8 m (la piazzola Easy max 7 m ne convenait pas). Check-in 24h/24. Tram T1 depuis/vers le centre
+- **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. Grands emplacements 50-60m². ⏳ **hu camp Premium en cours de confirmation** — prix initial 165 €, upgrade annoncé 310 € (total ou supplément ? à clarifier — mail envoyé 25/08 à Giada). Sans chien. Check-in 24h/24. Tram T1 depuis/vers le centre
 - **Pompéi** : ✅ **Camping Spartacus** (Via Plinio 127, 50m entrée Porta Marina) — résa confirmée ✅, **33€/nuit tout compris**. Arrivée ~15h00 le 17/09 — **confirmée par le camping le 25/08/2026**. Piscine, pizzeria, Wi-Fi
 - **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), taxi, à pied. Centre-ville à 15 min à pied. Piazzola adaptée au CC 8m + eau/électricité incluses (confirmé 25/08/2026). Voir section dédiée 🚗🚶
 - **Camping Village Led Zeppelin (Cupra Marittima)** : étape repos à 10 min de San Benedetto del Tronto. Piazzola camper 65 m² avec électricité. Hauteur max 3,05m ✅. Piscine, plage, restaurant. Ouvert jusqu'au 30/09. ⏳ **Pas de réservation possible pour 1 nuit** — walk-in accepté. Mail de remerciement + confirmation envoyé le 08/07/2026 ✅. Walk-in **re-confirmé le 25/08/2026** (accès direct, électricité OK). 🏕️
@@ -879,7 +879,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 | KM route | ~4 104 km |
 | Temps route estimé (profil CC) | ~46h38 de conduite |
 | Estimation budget carburant | ~718 € |
-| Estimation budget total | ~3 567 € |
+| Estimation budget total | ~3 257 € ⏳ (+310 € max si hu Firenze Premium) |
 
 ---
 
