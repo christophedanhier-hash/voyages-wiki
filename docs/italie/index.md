@@ -13,7 +13,7 @@
 | **Mobilité** | Sylvie : max 5-7 km/j à pied. Pas de VAE à bord — transports : à pied, taxi, bus, voiture de location |
 | **🐕 Nala** | **Pension chez Émilie** (fille de Christophe) — pas du voyage |
 | **Équipement** | Pas de vélos à bord — location possible sur place si besoin (Lac de Garde, Venise Lido) |
-| **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise). ⚠️ **Solde Europa Village (153,44 €) à régler avant le 30/08/2026** |
+| **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise). ✅ **Europa Village entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place |
 
 
 ---
@@ -22,17 +22,17 @@
 
 | Métrique | Valeur |
 |:---------|------:|
-| **Sessions LEO** | 13 (8 création + 1 VAE + 1 cartes Côme/Florence + 1 correctif icônes + 1 cartes Pompéi/Monopoli/Venise/Garde + 1 suivi mail Sandaya — solde Europa Village) |
-| **Commits git** | 68 |
-| **Messages échangés** | ~265 |
-| **Appels API DeepSeek** | ~67 |
-| **Outils mobilisés** | ~190 (recherche web, scripts, git, cartes, patches, géocodage) |
-| **Tokens consommés** | 255 000 IN · 82 000 OUT |
-| **Coût DeepSeek réel** | **~0,08 €** |
+| **Sessions LEO** | 14 (8 création + 1 VAE + 1 cartes Côme/Florence + 1 correctif icônes + 1 cartes Pompéi/Monopoli/Venise/Garde + 1 suivi mail Sandaya — solde Europa Village + 1 cron 25/08 — alignement statut paiement Europa Village) |
+| **Commits git** | 80 |
+| **Messages échangés** | ~268 |
+| **Appels API DeepSeek** | ~68 |
+| **Outils mobilisés** | ~192 (recherche web, scripts, git, cartes, patches, géocodage) |
+| **Tokens consommés** | 270 000 IN · 87 000 OUT |
+| **Coût DeepSeek réel** | **~0,09 €** |
 | **Frais de service BAVI LEO** | **2,50 €** forfait |
-| **Total facturé** | **2,58 €** |
+| **Total facturé** | **2,59 €** |
 
-> ℹ️ Le coût réel DeepSeek (~0,08 €) est dérisoire. Le forfait de **2,50 €** couvre : orchestration multi-bureau (Sylvia 🧭), recherche web, production du roadbook structuré (583 lignes), génération de la carte interactive OSM, archivage wiki + git. Transparence totale — chaque projet BAVI LEO affiche sa facture détaillée.
+> ℹ️ Le coût réel DeepSeek (~0,09 €) est dérisoire. Le forfait de **2,50 €** couvre : orchestration multi-bureau (Sylvia 🧭), recherche web, production du roadbook structuré (885 lignes), génération de la carte interactive OSM, archivage wiki + git. Transparence totale — chaque projet BAVI LEO affiche sa facture détaillée.
 
 ---
 
@@ -447,7 +447,7 @@ Envie de sortir des sentiers battus avec la voiture de location ? Voici quelques
 
 ### 🛶 Venise — Cavallino (J19–J22 · 4 nuits · 3 jours pleins)
 
-**🏠 Base :** Camping **Europa Village** ⭐⭐⭐⭐⭐ — Via Fausta 332, Cavallino-Treporti. Réservé via Sandaya (N°06426005202000) — ⚠️ **acompte 65,76 € payé (14/01) · solde 153,44 € à régler avant le 30/08/2026**
+**🏠 Base :** Camping **Europa Village** ⭐⭐⭐⭐⭐ — Via Fausta 332, Cavallino-Treporti. Réservé via Sandaya (N°06426005202000) — ✅ **entièrement payé le 25/08/2026** (acompte 65,76 € le 14/01 + solde 153,44 €). Taxe de séjour 3,60 € sur place
 
 > **🚐🚐 David & Nancy rejoignent à Venise !** Ils arrivent avec leur CC et sont dans le **même camping** (mêmes dates J19-J22). Réservations faites pour les 2 emplacements.
 
@@ -597,7 +597,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 
 ### ⚠️ Astuces pratiques
 
-- **Camping Europa Village :** piscine, plage privée, pinède. Réservé via Sandaya (N°06426005202000) — ⚠️ **solde 153,44 € à payer avant le 30/08/2026** (acompte 65,76 € déjà réglé).
+- **Camping Europa Village :** piscine, plage privée, pinède. Réservé via Sandaya (N°06426005202000) — ✅ **entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place.
 - **⚠️ Attention aux pickpockets** à Venise (San Marco, Rialto, vaporetto bondés) — sac fermé, poches zippées.
 - **Pass ACTV 72h** : le plus rentable (bus+ferry Cavallino + vaporetto illimité ~45 €). Sinon tickets unité 9,50 €/trajet.
 - **Marées (acqua alta)** : fin septembre possible mais rare. Consulvier aprevisioni su [Comune Venezia](https://www.comune.venezia.it).
@@ -801,7 +801,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 | Pompéi | **Camping Spartacus** | ✅ Confirmé | 2 nuits | **66,00 €** (33€/nuit) | ✅ Confirmé |
 | Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ✅ Confirmé wubook |
 | San Benedetto del Tronto / Cupra Marittima | **Camping Village Led Zeppelin** — Cupra Marittima | ⏳ Sans résa (walk-in confirmé) | 1 nuit | ~30,00 € | — |
-| Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | **65,76 €** ✔️ (30%) · ⚠️ **solde 153,44 € dû 30/08** |
+| Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | ✅ **222,80 € payé** (65,76 € + solde 153,44 € le 25/08) |
 | | *(David & Nancy même camping, 2 emplacements)* | ✅ Réservé | 4 nuits | — | ✅ |
 | Lac de Garde | **San Francesco Camping Village** | ✅ #654795826 | 7 nuits | 468,00 € | **140,40 €** ✔️ MC 14/01 |
 | | *(David & Nancy même camping, 2 emplacements)* | ✅ Réservé | 7 nuits | — | ✅ |
