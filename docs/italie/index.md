@@ -13,7 +13,7 @@
 | **Mobilité** | Sylvie : max 5-7 km/j à pied. Pas de VAE à bord — transports : à pied, taxi, bus, voiture de location |
 | **🐕 Nala** | **Pension chez Émilie** (fille de Christophe) — pas du voyage |
 | **Équipement** | Pas de vélos à bord — location possible sur place si besoin (Lac de Garde, Venise Lido) |
-| **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise). ✅ **Europa Village entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place. ✅ **Confirmations d'arrivée reçues le 25/08/2026** (Spartacus, Atlantide, Led Zeppelin). ✅ **hu Firenze : hu camp Premium confirmé le 25/08/2026 — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien — taxe de séjour 21 € à l'arrivée) |
+| **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise). ✅ **Europa Village entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place. ✅ **Confirmations d'arrivée reçues le 25/08/2026** (Spartacus, Atlantide, Led Zeppelin). ✅ **hu Firenze : hu camp Premium confirmé le 25/08/2026 — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien — taxe de séjour 21 € à l'arrivée). 💰 **Paiement total sur place à l'arrivée** (électronique ou espèces — confirmé 26/08/2026) |
 
 > 📥 **[Télécharger le roadbook au format PDF](roadbook-italie.pdf)**
 
@@ -23,12 +23,12 @@
 
 | Métrique | Valeur |
 |:---------|------:|
-| **Sessions LEO** | 15 (8 création + 1 VAE + 1 cartes Côme/Florence + 1 correctif icônes + 1 cartes Pompéi/Monopoli/Venise/Garde + 1 suivi mail Sandaya — solde Europa Village + 1 cron 25/08 — alignement statut paiement Europa Village + 1 cron 25/08 — confirmations d'arrivée Spartacus/Atlantide/Led Zeppelin + alerte hu Firenze 7m) |
-| **Commits git** | 82 |
-| **Messages échangés** | ~285 |
-| **Appels API DeepSeek** | ~72 |
-| **Outils mobilisés** | ~205 (recherche web, scripts, git, cartes, patches, géocodage) |
-| **Tokens consommés** | 292 000 IN · 94 000 OUT |
+| **Sessions LEO** | 16 (8 création + 1 VAE + 1 cartes Côme/Florence + 1 correctif icônes + 1 cartes Pompéi/Monopoli/Venise/Garde + 1 suivi mail Sandaya — solde Europa Village + 1 cron 25/08 — alignement statut paiement Europa Village + 1 cron 25/08 — confirmations d'arrivée Spartacus/Atlantide/Led Zeppelin + alerte hu Firenze 7m + 1 cron 26/08 — hu Firenze : paiement sur place confirmé) |
+| **Commits git** | 87 |
+| **Messages échangés** | ~288 |
+| **Appels API DeepSeek** | ~74 |
+| **Outils mobilisés** | ~208 (recherche web, scripts, git, cartes, patches, géocodage) |
+| **Tokens consommés** | 295 000 IN · 95 000 OUT |
 | **Coût DeepSeek réel** | **~0,09 €** |
 | **Frais de service BAVI LEO** | **2,50 €** forfait |
 | **Total facturé** | **2,59 €** |
@@ -798,7 +798,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 |-------|---------|:-----------:|:-----:|:----:|:-------:|
 | Colmar | Aire CC Schoenau | ❌ Sans résa | 1 nuit | 14,00 € | — |
 | Lac Majeur — Maccagno | **The Camp by Maggiore Suites** | ✅ #32877 | 2 nuits | 154,00 € | **30,80 €** ✔️ Stripe |
-| Florence | **hu Firenze camping in town** | ✅ #314185774 — **hu camp Premium — 310 € TOTAL** (2 adultes, sans chien) | 3 nuits | **310,00 €** | ❌ Carte garantie |
+| Florence | **hu Firenze camping in town** | ✅ #314185774 — **hu camp Premium — 310 € TOTAL** (2 adultes, sans chien) | 3 nuits | **310,00 €** | 💰 Sur place (confirmé 26/08) |
 | Pompéi | **Camping Spartacus** | ✅ Confirmé (arrivée 17/09 ✅) | 2 nuits | **66,00 €** (33€/nuit) | ✅ Confirmé |
 | Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ✅ Confirmé wubook |
 | San Benedetto del Tronto / Cupra Marittima | **Camping Village Led Zeppelin** — Cupra Marittima | ⏳ Walk-in re-confirmé 25/08 | 1 nuit | ~30,00 € | — |
@@ -813,7 +813,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 | Camping | À savoir |
 |:--------|:---------|
 | **The Camp by Maggiore Suites** | Pitch FRONT FR1 (8m ✅). Hauteur 2,5m OK (<2,60m). Check-in 16h. Code portail: 1593. Plaque: 2FUQ668 |
-| **hu Firenze camping in town** | Emplacement 50-60m². ✅ **hu camp Premium confirmé le 25/08/2026 — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien — pas de Love Pet Pack). Eau + électricité incluses. Taxe de séjour 3,50 €/nuit/pers = **21 € à l'arrivée**. Check-in 24h/24. Adresse: Via della Chiesa 1/3, 50136 Firenze |
+| **hu Firenze camping in town** | Emplacement 50-60m². ✅ **hu camp Premium confirmé le 25/08/2026 — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien — pas de Love Pet Pack). Eau + électricité incluses. Taxe de séjour 3,50 €/nuit/pers = **21 € à l'arrivée**. Check-in 24h/24. Adresse: Via della Chiesa 1/3, 50136 Firenze. ✅ **Modification Easy → Premium confirmée le 26/08/2026** (mail de détails annoncé par le camping). 💰 **Paiement total (310 €) sur place à l'arrivée** — paiement électronique ou espèces (confirmé 26/08/2026) |
 | **Pompéi** | **Camping Spartacus** (Via Plinio 127) — ✅ **Confirmé** par Alessandro. **33€/nuit tout compris** (2 pers, CC, électricité, taxes). Arrivée ~15h00 le 17/09/2026 — **confirmée par le camping le 25/08/2026** (« Vi aspettiamo il 17.09 »). CC 8m OK. Piscine, restaurant-pizzeria, Wi-Fi, supérette. 50m entrée Porta Marina — idéal ! |
 | **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). ✅ Confirmé via wubook (CD-0008) le 13/01/2026. 336€. Politique annulation: 30 jours. Check-in en ligne fait ✅. **Piazzola adaptée au CC 8 m confirmée + électricité & eau incluses** (confirmation Iolanda, 25/08/2026) |
 | **Europa Village** | Réservé via Sandaya (N°06426005202000, client 900189). Emplacement **XL** n°2134 — 29/09 15h00 → 03/10 11h00, 2 pers. ✅ **SOLDE PAYÉ le 25/08/2026** — acompte 30 % (65,76 €) payé le 14/01/2026, solde 153,44 € réglé le 25/08/2026 (confirmation Sandaya reçue). Taxe de séjour **3,60 €** à régler sur place. Total séjour 222,80 €. Cavallino-Treporti, bus+ferry ACTV Venise 45 min. Piscine, plage privée, pinède |
