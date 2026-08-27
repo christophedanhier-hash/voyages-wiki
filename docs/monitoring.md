@@ -1,12 +1,12 @@
 # 📊 Monitoring — Coûts & Activité
 
-> 🕐 **Dernière mise en ligne : 27/08/2026 13:30**  
+> 🕐 **Dernière mise en ligne : 27/08/2026 13:15**  
 
 ## 💳 Coûts par roadbook
 
 | Roadbook | Sessions | Commits | Tokens IN | Tokens OUT | Coût API | Forfait | Total |
 |----------|:--------:|:-------:|:---------:|:----------:|:--------:|:-------:|:-----:|
-| 🇮🇹 Italie | 17 | 88 | 298K | 96.5K | ~0.10 € | 0.00 € | **0.10 €** |
+| 🇮🇹 Italie | 17 | 88 | 298K | 96K | ~0.10 € | 0.00 € | **0.10 €** |
 | 🇮🇨 Canaries 2027 | 3 | 3 | 0 | 0 | ~0.00 € | 2.50 € | **2.50 €** |
 | 🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge | 1 | 1 | 18K | 6K | ~0.01 € | 2.50 € | **2.51 €** |
 | 🇳🇴 Scandinavie | 10 | 12 | 241K | 30K | ~0.05 € | 2.50 € | **2.55 €** |
@@ -41,4 +41,4 @@
 
 ---
 
-*🕐 Dernière mise en ligne : 27/08/2026 13:30 — [🏛️ BAVI LEO](https://christophedanhier-hash.github.io/BAVI_LEO/)*
+*🕐 Dernière mise en ligne : 27/08/2026 13:15 — [🏛️ BAVI LEO](https://christophedanhier-hash.github.io/BAVI_LEO/)*
