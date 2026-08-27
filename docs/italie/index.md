@@ -13,7 +13,7 @@
 | **Mobilité** | Sylvie : max 5-7 km/j à pied. Pas de VAE à bord — transports : à pied, taxi, bus, voiture de location |
 | **🐕 Nala** | **Pension chez Émilie** (fille de Christophe) — pas du voyage |
 | **Équipement** | Pas de vélos à bord — location possible sur place si besoin (Lac de Garde, Venise Lido) |
-| **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise). ✅ **Europa Village entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place. ✅ **Confirmations d'arrivée reçues le 25/08/2026** (Spartacus, Atlantide, Led Zeppelin). ✅ **hu Firenze : hu camp Premium confirmé le 25/08/2026 — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien — taxe de séjour 21 € à l'arrivée). 💰 **Paiement total sur place à l'arrivée** (électronique ou espèces — confirmé 26/08/2026) |
+| **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise). ✅ **Europa Village entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place. ✅ **Confirmations d'arrivée reçues le 25/08/2026** (Spartacus, Atlantide, Led Zeppelin). ✅ **hu Firenze : hu camp Premium confirmé le 25/08/2026 — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien — taxe de séjour 21 € à l'arrivée). ✅ **Confirmation officielle reçue le 26/08/2026** (détails complets : emplacement ~100-105 m², WiFi, linge, annulation 24h). 💰 **Paiement total sur place à l'arrivée** (électronique ou espèces — confirmé 26/08/2026) |
 
 > 📥 **[Télécharger le roadbook au format PDF](roadbook-italie.pdf)**
 
@@ -23,12 +23,12 @@
 
 | Métrique | Valeur |
 |:---------|------:|
-| **Sessions LEO** | 16 (8 création + 1 VAE + 1 cartes Côme/Florence + 1 correctif icônes + 1 cartes Pompéi/Monopoli/Venise/Garde + 1 suivi mail Sandaya — solde Europa Village + 1 cron 25/08 — alignement statut paiement Europa Village + 1 cron 25/08 — confirmations d'arrivée Spartacus/Atlantide/Led Zeppelin + alerte hu Firenze 7m + 1 cron 26/08 — hu Firenze : paiement sur place confirmé) |
-| **Commits git** | 87 |
-| **Messages échangés** | ~288 |
-| **Appels API DeepSeek** | ~74 |
-| **Outils mobilisés** | ~208 (recherche web, scripts, git, cartes, patches, géocodage) |
-| **Tokens consommés** | 295 000 IN · 95 000 OUT |
+| **Sessions LEO** | 17 (8 création + 1 VAE + 1 cartes Côme/Florence + 1 correctif icônes + 1 cartes Pompéi/Monopoli/Venise/Garde + 1 suivi mail Sandaya — solde Europa Village + 1 cron 25/08 — alignement statut paiement Europa Village + 1 cron 25/08 — confirmations d'arrivée Spartacus/Atlantide/Led Zeppelin + alerte hu Firenze 7m + 1 cron 26/08 — hu Firenze : paiement sur place confirmé + 1 cron 27/08 — confirmation officielle hu Firenze : emplacement 100-105 m², WiFi, annulation 24h) |
+| **Commits git** | 88 |
+| **Messages échangés** | ~292 |
+| **Appels API DeepSeek** | ~75 |
+| **Outils mobilisés** | ~212 (recherche web, scripts, git, cartes, patches, géocodage) |
+| **Tokens consommés** | 298 000 IN · 96 500 OUT |
 | **Coût DeepSeek réel** | **~0,09 €** |
 | **Frais de service BAVI LEO** | **2,50 €** forfait |
 | **Total facturé** | **2,59 €** |
@@ -813,7 +813,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 | Camping | À savoir |
 |:--------|:---------|
 | **The Camp by Maggiore Suites** | Pitch FRONT FR1 (8m ✅). Hauteur 2,5m OK (<2,60m). Check-in 16h. Code portail: 1593. Plaque: 2FUQ668 |
-| **hu Firenze camping in town** | Emplacement 50-60m². ✅ **hu camp Premium confirmé le 25/08/2026 — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien — pas de Love Pet Pack). Eau + électricité incluses. Taxe de séjour 3,50 €/nuit/pers = **21 € à l'arrivée**. Check-in 24h/24. Adresse: Via della Chiesa 1/3, 50136 Firenze. ✅ **Modification Easy → Premium confirmée le 26/08/2026** (mail de détails annoncé par le camping). 💰 **Paiement total (310 €) sur place à l'arrivée** — paiement électronique ou espèces (confirmé 26/08/2026) |
+| **hu Firenze camping in town** | ✅ **Confirmation officielle reçue le 26/08/2026** (mail hu openair, N° 314185774). **hu camp Premium — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien — pas de Love Pet Pack). **Emplacement ~100-105 m²** (fontaine d'eau privée, électricité, **WiFi gratuit sur l'emplacement**). Inclus : parking 1 véhicule, station vidange, **première fourniture de linge de lit et serviettes**, accès parc aquatique (avril-septembre), WiFi zones communes. Taxe de séjour 3,50 €/nuit/pers = **21 € à l'arrivée**. 💰 **Paiement total (310 €) sur place** — électronique ou espèces (confirmé 26/08). **Tarif Standard : annulation gratuite jusqu'à 24h avant l'arrivée** — coordonnées carte de crédit en garantie. Check-in : réception 24h/7j, clés dès **12h00**, services dès 10h00. Après 23h00 : parking extérieur + heures de silence. Documents : carte d'identité (pas de photos/copies). Emplacement attribué au check-in. 📍 GPS : 43.7646314, 11.3161007. Adresse : Via Generale C. A. dalla Chiesa 1/3, 50136 Firenze |
 | **Pompéi** | **Camping Spartacus** (Via Plinio 127) — ✅ **Confirmé** par Alessandro. **33€/nuit tout compris** (2 pers, CC, électricité, taxes). Arrivée ~15h00 le 17/09/2026 — **confirmée par le camping le 25/08/2026** (« Vi aspettiamo il 17.09 »). CC 8m OK. Piscine, restaurant-pizzeria, Wi-Fi, supérette. 50m entrée Porta Marina — idéal ! |
 | **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). ✅ Confirmé via wubook (CD-0008) le 13/01/2026. 336€. Politique annulation: 30 jours. Check-in en ligne fait ✅. **Piazzola adaptée au CC 8 m confirmée + électricité & eau incluses** (confirmation Iolanda, 25/08/2026) |
 | **Europa Village** | Réservé via Sandaya (N°06426005202000, client 900189). Emplacement **XL** n°2134 — 29/09 15h00 → 03/10 11h00, 2 pers. ✅ **SOLDE PAYÉ le 25/08/2026** — acompte 30 % (65,76 €) payé le 14/01/2026, solde 153,44 € réglé le 25/08/2026 (confirmation Sandaya reçue). Taxe de séjour **3,60 €** à régler sur place. Total séjour 222,80 €. Cavallino-Treporti, bus+ferry ACTV Venise 45 min. Piscine, plage privée, pinède |
@@ -855,7 +855,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 - **Aire Schoenau (Colmar)** : pratique pour la pause avant/après l'Italie, gratuite ou ~14€ selon saison
 - **🎫 Vignette autoroutière suisse ✅ COMMANDÉE** : reçue par email le **10/08/2026** (noreply@bazg.admin.ch — « Via Billet » + « Quittance Via »). Le trajet Colmar → Lac Majeur passe par **Bâle – Gothard** (Suisse), et le retour Lac de Garde → Colmar aussi. Vignette annuelle **40 CHF (~42 €)** — couvre l'aller **et** le retour. Liée électroniquement à la plaque, rien à coller. ⚠️ Sans vignette : amende ~200 CHF.
 - **The Camp by Maggiore Suites (Lac Majeur — Maccagno)** : front pitch FR1 (8m OK). Hauteur max 2,60m — si CC >2,60m, passer par Via Giuseppe Verdi. Code portail: 1593
-- **hu Firenze camping in town** : Via della Chiesa 1/3, 50136 Florence. ✅ **hu camp Premium confirmé le 25/08/2026 — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien). Eau + électricité incluses. Taxe de séjour 3,50 €/nuit/pers (21 €) à l'arrivée. Check-in 24h/24. Tram T1 depuis/vers le centre
+- **hu Firenze camping in town** : Via Generale C. A. dalla Chiesa 1/3, 50136 Florence 📍 GPS 43.7646314, 11.3161007. ✅ **Confirmation officielle reçue le 26/08/2026** — **hu camp Premium 310 € TOTAL pour 3 nuits** (2 adultes, sans chien). **Emplacement ~100-105 m²** avec eau, électricité et WiFi gratuits sur l'emplacement ; linge/serviettes fournis. Taxe de séjour 3,50 €/nuit/pers (21 €) à l'arrivée. **Annulation gratuite jusqu'à 24h avant l'arrivée**. Check-in : clés dès 12h00, réception 24h/7j. Tram T1 depuis/vers le centre
 - **Pompéi** : ✅ **Camping Spartacus** (Via Plinio 127, 50m entrée Porta Marina) — résa confirmée ✅, **33€/nuit tout compris**. Arrivée ~15h00 le 17/09 — **confirmée par le camping le 25/08/2026**. Piscine, pizzeria, Wi-Fi
 - **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), taxi, à pied. Centre-ville à 15 min à pied. Piazzola adaptée au CC 8m + eau/électricité incluses (confirmé 25/08/2026). Voir section dédiée 🚗🚶
 - **Camping Village Led Zeppelin (Cupra Marittima)** : étape repos à 10 min de San Benedetto del Tronto. Piazzola camper 65 m² avec électricité. Hauteur max 3,05m ✅. Piscine, plage, restaurant. Ouvert jusqu'au 30/09. ⏳ **Pas de réservation possible pour 1 nuit** — walk-in accepté. Mail de remerciement + confirmation envoyé le 08/07/2026 ✅. Walk-in **re-confirmé le 25/08/2026** (accès direct, électricité OK). 🏕️
