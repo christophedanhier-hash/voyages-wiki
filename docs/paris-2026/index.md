@@ -64,47 +64,9 @@
 
 ---
 
-## 🏨 Hébergement (5 nuits) — recherche terminée 28/08/2026
+## 🏨 Hébergement — ✅ RÉSERVÉ
 
-| Critère | Détail |
-|:---|:---|
-| **Quartier** | ✅ **Porte Maillot / Palais des Congrès (17e)** + alternatives La Défense |
-| **Type** | 🏨 Hôtel ou 🏠 Appart'hôtel — **suite familiale / 2 chambres : 4 adultes + 1 bébé** |
-| **🔌 Borne** | ✅ Obligatoire : borne de recharge sur place (ou parking avec bornes attenant) |
-| **Bébé** | Lit bébé + baignoire demandés, chambre calme |
-| **Budget** | 900-1 400 € les 5 nuits (réaliste 4 adultes) |
-| **Petit-déj** | Inclus de préférence (pratique avec bébé) |
-
-> ⚠️ **Mises à jour 28/08/2026 (vérifié en direct Google Maps + sites officiels)** :
-> - ❌ **Adagio Porte Maillot n'existe pas** (vérifié adagio-city.com)
-> - ❌ **Novotel Porte Maillot renommé → Novotel Paris 17** (34 av. Porte d'Asnières, ~2 km)
-> - ❌ **Crowne Plaza & Courtyard Neuilly fermés définitivement**
-> - ❌ **Hyatt Regency : pas de parking propre** (→ parking Indigo Palais des Congrès, 300 m, bornes ✅)
-> - ⚠️ Semaine **ADF = prix gonflés +20-40 %** — réserver très tôt
-
-### 🏆 Top 3 — Suite familiale 4 adultes + bébé (vérifié 28/08/2026)
-
-| Option | Adresse | Distance PdC | Capacité 4 adultes | Parking + borne | Prix 5 nuits | Note | Verdict |
-|:---|:---|:---|:---|:---|:---:|:---:|:---|
-| ⭐ **Adagio La Défense Kléber** | 73 av. Gambetta, Courbevoie | ~28 min à pied / 8 min voiture | ✅ **Appart 3 pièces 52 m² — 2 vraies chambres (2 lits double) = 4 adultes + lit bébé** | ✅ **Parking couvert privé + borne VE (confirmé site officiel)** | **~900-1 200 €** | 4,3/5 (721 avis) | **Seul vrai 2 chambres du secteur** • Kitchenette (biberons !) • Meilleur rapport prix/capacité |
-| 💎 **Hyatt Regency Paris Étoile** | 3 pl. Général Kœnig, 75017 | **0,2 km (au pied !)** | Suites/chambres familiales — **à confirmer par tél** | ❌ Parking Indigo PdC 300 m (bornes ✅) | 2 000-2 750 € | 4,4★ Google / 8,4 Booking | **Zéro contrainte congrès** • Rénové • Vue Tour Eiffel • Cher + voiture au parking public |
-| 🏨 **Hilton Paris La Défense** | 2 pl. de la Défense, CNIT | ~3,5 km (métro 1 direct) | Suites/chambres communicantes — **à confirmer** | ✅ **Parking CNIT sous l'hôtel + bornes** | 1 750-2 500 € | 4,1★ | **L'Enyaq dort à l'hôtel** • Quartier calme semaine ADF • Mais pas à pied |
-
-### 💡 Autres pistes (contexte)
-
-| Option | Note | Particularité |
-|:---|:---:|:---|
-| **Staycity La Défense** | **4,7★** | Parking + bornes + lit bébé gratuits (confirmés) — mais 1 ch. + canapé-lit (pas 4 vrais lits) • Prix réel vérifié : 1 725 € / 5 nuits |
-| **Novotel Paris 17** (ex Porte Maillot) | 4,1★ | Parking sous-sol payant, 4★ famille — mais ~2 km du PdC (bus 341/PC2) |
-| **Le Méridien Arc de Triomphe** | 4,1★ | 0,4 km, parking sous l'hôtel — très cher (500-700 €/nuit) |
-| **AC Hotel Paris Porte Maillot** | 4,2★ | 0,4 km — pas de parking propre, très cher (700 €+) |
-| **Le 37 Bis** (Neuilly) | 9,0 ⭐ | 0,7 km, excellent — mais pas de suite 4 adultes |
-
-> 📞 **3 appels AVANT réservation** : ① Adagio Kléber — borne + prix ferme nov (+33 1 56 37 20 00) • ② Hyatt — suite 4 adultes + lit bébé ? • ③ Hilton — 2 chambres communicantes ?
->
-> 💡 **Recommandation Sylvia :** **Adagio La Défense Kléber** = le seul qui coche TOUTES les cases (vrai 2 chambres 4 adultes, kitchenette bébé, parking + borne VE, budget maîtrisé ~900-1 200 €). **Hyatt Regency** = le plus pratique pour Camille (au pied du congrès) si le budget le permet. **Hilton La Défense** = le plus simple pour la voiture.
-
-### ✅ Réservation confirmée — 28/08/2026
+### Aparthotel Adagio La Défense Kléber
 
 | Élément | Détail |
 |:---|:---|
