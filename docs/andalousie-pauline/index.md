@@ -4,6 +4,22 @@
 
 ---
 
+## 💳 Coût du service BAVI LEO
+
+| Métrique | Valeur |
+|:---------|------:|
+| **Sessions LEO** | 1 (cette conversation) |
+| **Commits git** | 2 |
+| **Messages échangés** | ~8 |
+| **Appels API DeepSeek** | ~12 |
+| **Outils mobilisés** | ~20 (recherche web, scripts, cartes, git) |
+| **Tokens consommés** | ~290K IN · ~11K OUT |
+| **Coût DeepSeek réel** | **~0,05 €** |
+| **Frais de service BAVI LEO** | **2,50 €** forfait |
+| **Total facturé** | **2,55 €** |
+
+---
+
 ## 👥 Contexte du voyage
 
 | | |
