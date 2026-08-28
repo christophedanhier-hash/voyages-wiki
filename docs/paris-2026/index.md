@@ -16,7 +16,7 @@
 | **Motif** | Camille participe au **Congrès ADF 2026** (dentaire) — **mardi 24/11 → samedi 28/11 midi** |
 | **📍 Congrès** | **Palais des Congrès — 2 place de la Porte-Maillot, 75017 Paris** (Métro ligne 1 — Porte Maillot) |
 | **Type de séjour** | City trip familial — grand-parents + bébé + congrès |
-| **Réservations** | ⏳ **Hôtel : recherche terminée — top 3 identifié (Adagio Kléber, Hyatt Regency, Hilton La Défense)** — réservation à faire dès validation |
+| **Réservations** | ✅ **HÔTEL RÉSERVÉ le 28/08/2026 : Aparthotel Adagio La Défense Kléber** — N° QQBLGBVC (au nom de Camille) — Appart 3 pièces 6 pers, 24→29/11, 1 981,10 €, petit-déj inclus |
 
 > 🔄 Base de travail — à affiner : hôtel, quartier, activités bébé, points de recharge.
 
@@ -103,6 +103,23 @@
 > 📞 **3 appels AVANT réservation** : ① Adagio Kléber — borne + prix ferme nov (+33 1 56 37 20 00) • ② Hyatt — suite 4 adultes + lit bébé ? • ③ Hilton — 2 chambres communicantes ?
 >
 > 💡 **Recommandation Sylvia :** **Adagio La Défense Kléber** = le seul qui coche TOUTES les cases (vrai 2 chambres 4 adultes, kitchenette bébé, parking + borne VE, budget maîtrisé ~900-1 200 €). **Hyatt Regency** = le plus pratique pour Camille (au pied du congrès) si le budget le permet. **Hilton La Défense** = le plus simple pour la voiture.
+
+### ✅ Réservation confirmée — 28/08/2026
+
+| Élément | Détail |
+|:---|:---|
+| **Établissement** | **Aparthotel Adagio La Défense Kléber** — 73 av. Gambetta, 92400 Courbevoie |
+| **Réservation** | **N° QQBLGBVC** — au nom de **Camille Danhier** |
+| **Appartement** | **3 pièces pour 6 personnes** (2 chambres, 52 m²) |
+| **Voyageurs** | 4 adultes + 1 enfant (Célestine) |
+| **Dates** | Mar 24/11 → Dim 29/11/2026 (5 nuits) |
+| **Petit-déj** | ✅ Inclus |
+| **Options** | Arrivée anticipée 10h (+40 €) • Départ tardif 14h (+40 €) |
+| **Total** | **1 981,10 €** (frais et taxes inclus) |
+| **Parking** | Parking couvert privé + borne VE (à confirmer à l'arrivée) |
+| **Confirmation** | Email ALL Accor du 28/08 17h09, transféré par Camille |
+
+> 📞 **Vérifications restantes** : confirmer la borne de recharge VE + le lit bébé auprès de l'Adagio Kléber (+33 1 56 37 20 00) avant l'arrivée.
 
 ---
 
