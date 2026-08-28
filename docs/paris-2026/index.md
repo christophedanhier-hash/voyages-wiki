@@ -41,7 +41,7 @@
 | **J1** | Mar 24/11 | 🚗 Sombreffe → Paris (~330 km, recharge en route) • Installation hôtel | Paris |
 | **J2** | Mer 25/11 | 🦷 Camille au congrès ADF (Palais des Congrès) • Christophe & Sylvie + Célestine (parc, balade) | Paris |
 | **J3** | Jeu 26/11 | 🦷 Camille au congrès ADF • Grands-parents + Célestine (musée, jardin) | Paris |
-| **J4** | Ven 27/11 | 🦷 Camille au congrès ADF • 🚄 **Jérémy arrive en TGV** (soir) | Paris |
+| **J4** | Ven 27/11 | 🦷 Camille au congrès ADF • 🚄 **Jérémy arrive en TGV** (jeudi soir 26/11 **ou** vendredi 27/11 — selon dispo travail) | Paris |
 | **J5** | Sam 28/11 | 🦷 Camille au congrès **jusqu'à 12h** • 👨‍👩‍👧 **Après-midi + soirée en famille** (Camille + Jérémy + grands-parents + bébé) | Paris |
 | **J6** | Dim 29/11 | 🚗 **Retour tous ensemble** Paris → Sombreffe (4 adultes + 👶 + Jérémy, recharge en route) | — |
 
@@ -163,14 +163,45 @@
 
 ---
 
-## 🚄 Jérémy — TGV aller uniquement (retour en voiture)
+## 🚄 Jérémy — TGV aller (retour en voiture)
 
 | Point | Détail |
 |:---|:---|
-| **Aller** | Ven 27/11 — TGV Bruxelles-Midi → Paris-Nord (~1h22) |
+| **Trajet** | TGV/Eurostar **Bruxelles-Midi → Paris-Nord** (~1h23, direct) |
+| **Options** | Jeudi 26/11 soir **ou** vendredi 27/11 journée — ⏳ **à choisir selon dispo travail de Jérémy** |
 | **Retour** | ❌ **Pas de TGV retour** — Jérémy rentre **dimanche 29/11 en voiture** avec Christophe & Sylvie |
-| **Prix aller** | ~25-45 € selon avance (un aller simple) |
-| **Réservation** | SNCF Connect / Eurostar — réserver tôt |
+| **Prix aller** | Dès 29 € — typiquement 35-55 € (réserver tôt) |
+| **Réservation** | eurostar.com ou SNCF Connect — réserver dès que la date est fixée |
+
+### 🗓️ Jeudi 26/11 — départs de soirée
+
+| Départ Bruxelles-Midi | Arrivée Paris-Nord | Idéal pour |
+|:---:|:---:|:---|
+| 17h25 | 18h48 | Dîner ensemble le soir ✅ |
+| 18h25 | 19h48 | Soirée tranquille ✅ |
+| 19h25 | 20h48 | Dîner tardif |
+| 20h25 | 21h48 | Si contrainte pro |
+| 21h25 | 22h48 | Dernier train |
+
+### 🗓️ Vendredi 27/11 — journée complète
+
+| Départ Bruxelles-Midi | Arrivée Paris-Nord | Idéal pour |
+|:---:|:---:|:---|
+| 06h25 | 07h48 | Arrivée très tôt |
+| 07h25 | 08h48 | Matinée complète |
+| 08h25 | 09h48 | Matinée + |
+| 09h25 | 10h48 | Milieu de matinée ✅ |
+| 10h25 | 11h48 | Avant déjeuner |
+| 11h25 | 12h48 | Déjeuner à Paris |
+| 12h25 | 13h48 | Début d'après-midi |
+| 14h25 | 15h48 | Après-midi |
+| 16h25 | 17h48 | Fin de journée |
+| 17h25 | 18h48 | Soirée |
+| 18h25 | 19h48 | Dîner |
+
+> 💡 **Conseil Sylvia :** si Jérémy est libre **jeudi soir** → train 18h25 (arrivée 19h48, dîner famille avec Camille qui a fini le congrès). Si **vendredi** → matin 09h25 (arrivée 10h48) pour profiter de l'après-midi avec Papy/Mamy + Célestine.
+>
+> ⚠️ **Cadence indicative** (ligne très stable) : ~1 train/heure. Prix dès 29 € en Standard — **réserver dès que la date est connue** (les prix montent avec l'approche).
 
 > ⚠️ **Enyaq avec 5 personnes au retour** : 4 adultes + bébé (siège auto) — ça passe (5 places), mais **bagages serrés** (coffre 585 L + poussette). Prévoir de l'espace, éventuellement un coffre de toit si besoin.
 > 💡 Jérémy n'a pas de bagage lourd (week-end) — ça devrait aller.
