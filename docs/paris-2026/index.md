@@ -1,6 +1,6 @@
 # 🇫🇷 City Trip Paris — Novembre 2026
 
-> **🗓️ 24/11/2026 → 29/11/2026 | 🚗 Enyaq 60 électrique | 6 jours / 5 nuits | 👨‍👩‍👧 3 adultes + 👶 Célestine (7-8 mois)**
+> **🗓️ 24/11/2026 → 29/11/2026 | 🚗 Enyaq 60 électrique | 6 jours / 5 nuits | 👨‍👩‍👧‍👦 4 adultes + 👶 Célestine (7-8 mois)**
 
 ---
 
@@ -8,7 +8,7 @@
 
 | | |
 |:---|:---|
-| **Voyageurs** | Christophe, Sylvie + **Camille** (dentiste, congrès) |
+| **Voyageurs** | Christophe, Sylvie + **Camille** (dentiste, congrès) + **Jérémy** (arrive ven 27/11) |
 | **👶 Bébé** | **Célestine (7-8 mois)** — Camille la confie à Christophe & Sylvie pendant le congrès |
 | **🚗 Véhicule** | **Škoda Enyaq 60** (électrique — batterie 58 kWh, autonomie hiver ~290 km) |
 | **🚄 Jérémy** | Arrive **vendredi 27/11 en TGV** depuis Bruxelles — **repart dimanche 29/11 en voiture avec vous** (pas de TGV retour) |
@@ -16,7 +16,7 @@
 | **Motif** | Camille participe au **Congrès ADF 2026** (dentaire) — **mardi 24/11 → samedi 28/11 midi** |
 | **📍 Congrès** | **Palais des Congrès — 2 place de la Porte-Maillot, 75017 Paris** (Métro ligne 1 — Porte Maillot) |
 | **Type de séjour** | City trip familial — grand-parents + bébé + congrès |
-| **Réservations** | ❌ Aucune pour l'instant |
+| **Réservations** | ⏳ **Hôtel : recherche terminée — top 3 identifié (Adagio Kléber, Hyatt Regency, Hilton La Défense)** — réservation à faire dès validation |
 
 > 🔄 Base de travail — à affiner : hôtel, quartier, activités bébé, points de recharge.
 
@@ -64,41 +64,45 @@
 
 ---
 
-## 🏨 Hébergement (5 nuits) — à rechercher
+## 🏨 Hébergement (5 nuits) — recherche terminée 28/08/2026
 
 | Critère | Détail |
 |:---|:---|
-| **Quartier** | ✅ **Confirmé : Porte Maillot / Palais des Congrès (17e)** — quartiers hôtel : **17e arr. (Ternes, Courcelles)**, Neuilly-sur-Seine, ou Levallois (calmes, proches, parkings) |
-| **Type** | 🏨 Hôtel ou 🏠 Appart'hôtel — **2 chambres** (Christophe & Sylvie + Camille & Célestine) |
-| **🔌 Borne** | ✅ **Obligatoire : borne de recharge sur place** (ou parking avec bornes attenant) |
+| **Quartier** | ✅ **Porte Maillot / Palais des Congrès (17e)** + alternatives La Défense |
+| **Type** | 🏨 Hôtel ou 🏠 Appart'hôtel — **suite familiale / 2 chambres : 4 adultes + 1 bébé** |
+| **🔌 Borne** | ✅ Obligatoire : borne de recharge sur place (ou parking avec bornes attenant) |
 | **Bébé** | Lit bébé + baignoire demandés, chambre calme |
-| **Budget** | À définir (fourchette raisonnable pour 5 nuits) |
+| **Budget** | 900-1 400 € les 5 nuits (réaliste 4 adultes) |
 | **Petit-déj** | Inclus de préférence (pratique avec bébé) |
 
-> 🔄 **Prochaine étape :** recherche d'hôtels dans le 17e / Neuilly / Levallois avec parking + borne, lit bébé, 2 chambres, ~5 nuits (24→29/11).
+> ⚠️ **Mises à jour 28/08/2026 (vérifié en direct Google Maps + sites officiels)** :
+> - ❌ **Adagio Porte Maillot n'existe pas** (vérifié adagio-city.com)
+> - ❌ **Novotel Porte Maillot renommé → Novotel Paris 17** (34 av. Porte d'Asnières, ~2 km)
+> - ❌ **Crowne Plaza & Courtyard Neuilly fermés définitivement**
+> - ❌ **Hyatt Regency : pas de parking propre** (→ parking Indigo Palais des Congrès, 300 m, bornes ✅)
+> - ⚠️ Semaine **ADF = prix gonflés +20-40 %** — réserver très tôt
 
-### 🏨 Comparatif hôtels — 17e arrondissement (recommandé)
+### 🏆 Top 3 — Suite familiale 4 adultes + bébé (vérifié 28/08/2026)
 
-> ⚠️ Semaine du **Congrès ADF = pic de demande** au Palais des Congrès → prix en hausse, réserver tôt (4-6 mois avant). Prix = estimations 2 chambres/nuit, à vérifier sur Booking.com.
+| Option | Adresse | Distance PdC | Capacité 4 adultes | Parking + borne | Prix 5 nuits | Note | Verdict |
+|:---|:---|:---|:---|:---|:---:|:---:|:---|
+| ⭐ **Adagio La Défense Kléber** | 73 av. Gambetta, Courbevoie | ~28 min à pied / 8 min voiture | ✅ **Appart 3 pièces 52 m² — 2 vraies chambres (2 lits double) = 4 adultes + lit bébé** | ✅ **Parking couvert privé + borne VE (confirmé site officiel)** | **~900-1 200 €** | 4,3/5 (721 avis) | **Seul vrai 2 chambres du secteur** • Kitchenette (biberons !) • Meilleur rapport prix/capacité |
+| 💎 **Hyatt Regency Paris Étoile** | 3 pl. Général Kœnig, 75017 | **0,2 km (au pied !)** | Suites/chambres familiales — **à confirmer par tél** | ❌ Parking Indigo PdC 300 m (bornes ✅) | 2 000-2 750 € | 4,4★ Google / 8,4 Booking | **Zéro contrainte congrès** • Rénové • Vue Tour Eiffel • Cher + voiture au parking public |
+| 🏨 **Hilton Paris La Défense** | 2 pl. de la Défense, CNIT | ~3,5 km (métro 1 direct) | Suites/chambres communicantes — **à confirmer** | ✅ **Parking CNIT sous l'hôtel + bornes** | 1 750-2 500 € | 4,1★ | **L'Enyaq dort à l'hôtel** • Quartier calme semaine ADF • Mais pas à pied |
 
-| Hôtel | Adresse | Type | Prix/nuit 2 ch. | Note | 🔌 Borne | Points forts | Point faible |
-|:---|:---|:---|:---:|:---:|:---:|:---|:---|
-| ⭐ **Novotel Paris Porte Maillot** | 46 rue Eugène Flachat, 75017 (Ternes) | Hôtel 4★ | 180-240 € | 8,1 | ✅ **Confirmée** (parking souterrain) | **8 min à pied du Palais des Congrès** • Chambres communicantes 2 ch. • Lit bébé gratuit • Quartier calme | Petit-déj en sus (~20 €/pers) |
-| 💎 **Adagio Paris Ternes** (appart'hôtel) | 51 rue Sauffroy, 75017 | Appart'hôtel 3★ | 190-240 € | 7,8 | ⚠️ À confirmer | **Appart 2 chambres + cuisine** (biberons, petits pots !) • Lit bébé gratuit • Tarif dégressif 5 nuits | Déco datée, petit-déj en sus |
-| **Hyatt Regency Paris Étoile** | 3 place du Général Kœnig, 75017 | Hôtel 4★ congrès | 260-340 € | 8,0 | ✅ **Confirmée** (parking privé) | **Collé au Palais des Congrès** (2 min) • Chambres adjacentes • Vues Tour Eiffel | **Prix explosés + risque complet** pendant ADF |
-| **Mercure Arc de Triomphe Wagram** | 3 rue Brey, 75017 | Hôtel 4★ | 200-260 € | 8,3 | ⚠️ À confirmer | Quartier chic • Arc de Triomphe 400 m • Lit bébé • Note excellente | Congrès à 1,4 km (métro 2 stations) |
-| **Ibis Styles Paris Étoile Pereire** | 77 rue Jouffroy d'Abbans, 75017 | Hôtel 3★ | 130-170 € | 8,0 | ❌ Parking public voisin | **Petit-déj INCLUS** • Chambres communicantes • Lit bébé | Pas de parking privé, plus éloigné |
+### 💡 Autres pistes (contexte)
 
-### 🏨 Alternative Neuilly / Levallois
+| Option | Note | Particularité |
+|:---|:---:|:---|
+| **Staycity La Défense** | **4,7★** | Parking + bornes + lit bébé gratuits (confirmés) — mais 1 ch. + canapé-lit (pas 4 vrais lits) • Prix réel vérifié : 1 725 € / 5 nuits |
+| **Novotel Paris 17** (ex Porte Maillot) | 4,1★ | Parking sous-sol payant, 4★ famille — mais ~2 km du PdC (bus 341/PC2) |
+| **Le Méridien Arc de Triomphe** | 4,1★ | 0,4 km, parking sous l'hôtel — très cher (500-700 €/nuit) |
+| **AC Hotel Paris Porte Maillot** | 4,2★ | 0,4 km — pas de parking propre, très cher (700 €+) |
+| **Le 37 Bis** (Neuilly) | 9,0 ⭐ | 0,7 km, excellent — mais pas de suite 4 adultes |
 
-| Hôtel | Quartier | Prix/nuit 2 ch. | Note | 🔌 Borne | Verdict |
-|:---|:---|:---:|:---:|:---:|:---|
-| **Le 37 Bis** | Neuilly (700 m congrès) | 300-340 € | 9,0 ⭐ | ❌ Parking Indigo avec bornes à 700 m | Meilleure note, chic, mais borne via parking public |
-| **Novotel Porte Maillot** | Bordure Neuilly | 320-420 € | 8,0 | ✅ Parking sur place | Tranquillité voiture, 5 min congrès |
-| **Occidental Levallois** | Levallois centre | 260-340 € | 8,1 | ✅ Parking confirmé | Parking sûr, mais 3,2 km du congrès |
-| **Néméa Appart'Hotel** | Levallois | 200-260 € | 7,6 | ⚠️ À confirmer | Idéal bébé (cuisine + 2 ch.), mais 3,9 km |
-
-> 💡 **Recommandation Sylvia :** **Novotel Paris Porte Maillot** = le seul qui coche TOUT (borne confirmée + 2 chambres communicantes + lit bébé + 8 min à pied du congrès). **Adagio Ternes** = meilleur rapport qualité/prix pour un bébé (cuisine !). **Hyatt** = le plus pratique pour Camille (collé au congrès) mais cher et saturé. Tous les prix sont à vérifier sur Booking + **appeler pour confirmer la borne** avant de réserver.
+> 📞 **3 appels AVANT réservation** : ① Adagio Kléber — borne + prix ferme nov (+33 1 56 37 20 00) • ② Hyatt — suite 4 adultes + lit bébé ? • ③ Hilton — 2 chambres communicantes ?
+>
+> 💡 **Recommandation Sylvia :** **Adagio La Défense Kléber** = le seul qui coche TOUTES les cases (vrai 2 chambres 4 adultes, kitchenette bébé, parking + borne VE, budget maîtrisé ~900-1 200 €). **Hyatt Regency** = le plus pratique pour Camille (au pied du congrès) si le budget le permet. **Hilton La Défense** = le plus simple pour la voiture.
 
 ---
 
