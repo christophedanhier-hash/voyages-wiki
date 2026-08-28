@@ -19,28 +19,9 @@
 | **Départ** | Gerpinnes le 31/08 — Étape 1 vers Bielefeld (~400 km) |
 | **Arrivée Rostock** | 01/09 — Nuit près du port |
 
-
 ---
 
 _Roadbook préparatoire — Premier test du Bureau Sylvia (BAVI LEO)_
-
----
-
-## 💳 Coût du service BAVI LEO
-
-| Métrique | Valeur |
-|:---------|------:|
-| **Sessions LEO** | 10 (9 création + màjs + 1 carte Stockholm POIs) |
-| **Commits git** | 12 |
-| **Messages échangés** | 120 |
-| **Appels API DeepSeek** | 28 |
-| **Outils mobilisés** | 86 (recherche web, géocodage, carte folium, git) |
-| **Tokens consommés** | 241 539 IN · 30 141 OUT |
-| **Coût DeepSeek réel** | **~0,08 €** |
-| **Frais de service BAVI LEO** | **2,50 €** forfait |
-| **Total facturé** | **2,58 €** |
-
-> ℹ️ Mise à jour du 17/06/2026 : ajout profil Pascal & Agnès + carte interactive des POIs de Stockholm (13 marqueurs). Le forfait de **2,50 €** couvre l'ensemble du projet Scandinavie 2026.
 
 ---
 

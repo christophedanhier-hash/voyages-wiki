@@ -19,24 +19,6 @@
 
 ---
 
-## 💳 Coût du service BAVI LEO
-
-| Métrique | Valeur |
-|:---------|------:|
-| **Sessions LEO** | 17 (8 création + 1 VAE + 1 cartes Côme/Florence + 1 correctif icônes + 1 cartes Pompéi/Monopoli/Venise/Garde + 1 suivi mail Sandaya — solde Europa Village + 1 cron 25/08 — alignement statut paiement Europa Village + 1 cron 25/08 — confirmations d'arrivée Spartacus/Atlantide/Led Zeppelin + alerte hu Firenze 7m + 1 cron 26/08 — hu Firenze : paiement sur place confirmé + 1 cron 27/08 — confirmation officielle hu Firenze : emplacement 100-105 m², WiFi, annulation 24h) |
-| **Commits git** | 88 |
-| **Messages échangés** | ~292 |
-| **Appels API DeepSeek** | ~75 |
-| **Outils mobilisés** | ~212 (recherche web, scripts, git, cartes, patches, géocodage) |
-| **Tokens consommés** | 298 000 IN · 96 500 OUT |
-| **Coût DeepSeek réel** | **~0,09 €** |
-| **Frais de service BAVI LEO** | **2,50 €** forfait |
-| **Total facturé** | **2,59 €** |
-
-> ℹ️ Le coût réel DeepSeek (~0,09 €) est dérisoire. Le forfait de **2,50 €** couvre : orchestration multi-bureau (Sylvia 🧭), recherche web, production du roadbook structuré (885 lignes), génération de la carte interactive OSM, archivage wiki + git. Transparence totale — chaque projet BAVI LEO affiche sa facture détaillée.
-
----
-
 ## 🗺️ Carte du trajet
 
 <iframe src="carte-italie.html" width="100%" height="550" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
@@ -259,8 +241,6 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 | **La Bettola del Gusto** | 🍝 Cuisine locale | Produits frais, conviviale |
 | **Pub27** | 🍔 Burgers | Pas cher, rapide |
 | **Enoteca Masseria** | 🍷 Vins + planches | Dégustation produits du terroir |
-
-
 
 ---
 
@@ -742,7 +722,6 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | 🚲 **Balade à vélo lac** | Desenzano → Sirmione (24 km A/R, plat, piste cyclable) | ~15-20 € loc | 3h | sur place |
 
 > 💡 **Idée pour le groupe :** Le **téléphérique du Monte Baldo** 🏔️ est MAGNIFIQUE — vue à 360° sur le lac et les Alpes. Cabine accessible, pas de marche. À faire absolument ! Et le **ferry** 🚤 entre les villages du lac est déjà une activité en soi — confortable, belle vue, parfait pour Sylvie.
-
 
 ### 🚗 Voiture de location — Vraiment nécessaire ? Analyse alternative
 

@@ -218,14 +218,3 @@
 
 ---
 
-## 💳 Coût du service BAVI LEO
-
-| Métrique | Valeur |
-|:---------|------:|
-| **Sessions BAVI** | 3 (création, recherche vols, détail hôtels) |
-| **Commits git** | 3 |
-| **Messages échangés** | ~80 |
-| **Appels API DeepSeek** | ~25 |
-| **Outils mobilisés** | ~40 (recherche web, cartes, géocodage, comparaison prix) |
-
-> 🪙 Tarif DeepSeek Flash : $0,15/1M IN · $0,60/1M OUT

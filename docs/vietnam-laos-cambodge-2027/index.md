@@ -16,22 +16,6 @@
 
 ---
 
-## 💳 Coût du service BAVI LEO
-
-| Métrique | Valeur |
-|:---------|------:|
-| **Sessions LEO** | 1 (cette conversation) |
-| **Commits git** | 1 |
-| **Messages échangés** | ~25 |
-| **Appels API DeepSeek** | ~15 |
-| **Outils mobilisés** | ~20 (recherche web, scripts, cartes, git) |
-| **Tokens consommés** | ~18K IN · ~6K OUT |
-| **Coût DeepSeek réel** | **~0,01 €** |
-| **Frais de service BAVI LEO** | **2,50 €** forfait |
-| **Total facturé** | **2,51 €** |
-
----
-
 ## 🗺️ Carte du trajet
 
 <iframe src="carte-vietnam-laos-cambodge.html" width="100%" height="550" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>

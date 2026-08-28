@@ -16,12 +16,6 @@
 
 ---
 
-## 💳 Coût du service BAVI LEO
-
-*À mettre à jour en fin de projet*
-
----
-
 ## 🚢 Option de traversée Continent → Angleterre
 
 | Option | Trajet | Durée | Prix / CC (AR) | Total 2 CC | Verdict |

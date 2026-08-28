@@ -22,18 +22,6 @@
 
 ---
 
-## 💳 Coût du service BAVI LEO
-
-| Métrique | Valeur |
-|:---|:---:|
-| **Tokens IN** | ~20 000 (estimation) |
-| **Tokens OUT** | ~6 000 (estimation) |
-| **Coût DeepSeek réel** | ~0,01 € |
-| **Frais de service** | 2,50 € |
-| **Total facturé** | **~2,51 €** |
-
----
-
 ## 🗓️ Itinéraire jour par jour
 
 | Jour | Date | Programme | Nuit |

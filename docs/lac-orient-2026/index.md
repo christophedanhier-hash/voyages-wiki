@@ -22,20 +22,6 @@
 
 ---
 
-## 💳 Coût du service BAVI LEO
-
-| Métrique | Valeur |
-|:---------|------:|
-| **Sessions LEO** | 1 (création roadbook) |
-| **Appels API DeepSeek** | ~8 |
-| **Outils mobilisés** | ~15 (recherche email, géocodage, cartes, wiki) |
-| **Tokens consommés** | ~15 000 IN · ~5 000 OUT |
-| **Coût DeepSeek réel** | **~0,01 €** |
-| **Frais de service BAVI LEO** | **2,50 €** forfait |
-| **Total facturé** | **2,51 €** |
-
----
-
 ## 🗺️ Itinéraire détaillé
 
 | Jour | Date | Étape | Distance | KM cumulé | Nuits | Camping | Coût |

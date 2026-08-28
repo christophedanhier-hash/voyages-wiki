@@ -12,23 +12,6 @@
 | **Véhicule** | Camping-car |
 | **Mobilité** | Max 5 km/j à pied |
 
-
----
-
-## 💳 Coût du service BAVI LEO
-
-| Métrique | Valeur |
-|:---------|------:|
-| **Sessions LEO** | 14 (création + 13 mises à jour itératives) |
-| **Commits git** | 26 |
-| **Messages échangés** | ~350 |
-| **Appels API DeepSeek** | ~80 |
-| **Outils mobilisés** | ~210 (recherche web, scripts, git, cartes, PDF, géocodage) |
-| **Tokens consommés** | 280 000 IN · 95 000 OUT |
-| **Coût DeepSeek réel** | **~0,10 €** |
-| **Frais de service BAVI LEO** | **2,50 €** forfait |
-| **Total facturé** | **2,60 €** |
-
 ---
 
 ## 🗺️ Carte du trajet
