@@ -1,6 +1,6 @@
-# 🇯🇵 Voyage Japon — Fin d'été 2028/2029 (rythme senior)
+# 🇯🇵 Voyage Japon — Octobre 2027 — 60 ans de Christophe 🎂 (rythme senior)
 
-> **🗓️ 17/08 → 06/09 | ✈️ Vol + 🏨 Hôtels | 21 jours / 20 nuits | 👥 2 adultes | 🇯🇵 Tokyo → Hakone → Kawaguchiko → Kyoto → Osaka → Tokyo**
+> **🗓️ 07/10 → 27/10/2027 | ✈️ Vol + 🏨 Hôtels | 21 jours / 20 nuits | 👥 2 adultes | 🇯🇵 Tokyo → Hakone → Kawaguchiko → Kyoto → Osaka → Tokyo**
 
 ---
 
@@ -12,11 +12,11 @@
 | **Type de voyage** | ✈️ Avion + 🏨 Hôtels/Ryokan (pas de camping-car) |
 | **Objectif** | Découverte du Japon : Tokyo, Hakone, Mont Fuji, Kyoto, Osaka |
 | **Durée** | 21 jours / 20 nuits (J1 → J21) |
-| **Période visée** | **17 août → 6 septembre** (année 2028 ou 2029 à confirmer) |
-| **🎂 Contexte** | Voyage pour les **60 ans** de Christophe & Sylvie |
+| **Période visée** | **07 octobre → 27 octobre 2027** (fenêtre demandée : août-octobre 2027 — meilleur compromis = mi-octobre) |
+| **🎂 Contexte** | **Cadeau d'anniversaire des 60 ans de Christophe (2027)** 🎂 — les 60 ans de Sylvie (2029) = autre destination (à définir) |
 | **🚶 Mobilité Sylvie** | **Max 5-6 km de marche/jour** — rythme doux, repos intégrés, escaliers limités |
 | **🐕 Nala** | Pension chez Émilie |
-| **Saison** | ✅ **Fin d'été** : après Obon (13-16/08), prix au plus bas, foule qui s'évapore début septembre — ⚠️ chaud et humide (27-33 °C) |
+| **Saison** | ✅ **Automne (mi-octobre)** : saison des typhons terminée, 15-22 °C secs et ensoleillés — **la météo idéale pour la mobilité de Sylvie** • feuillage automnal qui débute au nord |
 | **Visa** | ❌ **Non requis** pour les Belges (séjour tourisme < 90 j) — juste **Visit Japan Web** (QR code dédouanement) |
 | **Réservations** | ❌ Aucune pour l'instant — checklist en bas du document |
 
@@ -30,27 +30,27 @@
 
 | Jour | Date | Ville / Étape | Activités (max 2-3) | KM marche | Nuit |
 |:---:|:---|:---|:---|:---:|:---:|
-| **J1** | 17/08 | ✈️ Arrivée Haneda → **Tokyo (Ueno)** | Transfert, check-in, repos, ramen 🍜 | <1 | Tokyo |
-| **J2** | 18/08 | **Tokyo** | Asakusa (Sensō-ji, Nakamise) • Parc Ueno (bancs) | ~4 | Tokyo |
-| **J3** | 19/08 | **Tokyo** | Shinjuku Gyoen (jardin, bancs) • Vue gratuite Tocho | ~4 | Tokyo |
-| **J4** | 20/08 | **Tokyo** | **Repos matin** • Akihabara (intérieur, climatisé) | ~3 | Tokyo |
-| **J5** | 21/08 | **Tokyo** | Meiji-jingu (allée plate) • Harajuku balade douce | ~4 | Tokyo |
-| **J6** | 22/08 | Tokyo → **Hakone** | 🚃 Romancecar 1h30 • 🚢 Bateau lac Ashi • 🚠 Téléphérique (assis !) • Onsen | ~2 | Hakone |
-| **J7** | 23/08 | Hakone → **Kawaguchiko** | Bus ~2h30 • Pagode Chureito (bus + vue) • Ryokan onsen | ~3 | Kawaguchiko |
-| **J8** | 24/08 | **Kawaguchiko** | **Matin libre** • Lac Kawaguchi (balade rive plate) • Onsen | ~3 | Kawaguchiko |
-| **J9** | 25/08 | Kawaguchiko → **Kyoto** | Bus Mishima + Shinkansen (~4h30) — trajet seul, repos | <2 | Kyoto |
-| **J10** | 26/08 | **Kyoto (Higashiyama)** | **Repos matin** • Arashiyama (bambous, plat) • Pont Togetsukyo | ~4 | Kyoto |
-| **J11** | 27/08 | **Kyoto** | Fushimi Inari **bas seulement** (0 marche raide) • Uji matcha 🍵 | ~4 | Kyoto |
-| **J12** | 28/08 | **Kyoto** | **Journée off** : Nishiki Market (intérieur) • Gion balade | ~3 | Kyoto |
-| **J13** | 29/08 | **Kyoto** | Kinkaku-ji (bus direct) • Kiyomizu-dera (vue, marche douce) | ~4 | Kyoto |
-| **J14** | 30/08 | Kyoto → **Osaka (Namba)** | JR 30 min • Kuromon Ichiba • Dotonbori | ~4 | Osaka |
-| **J15** | 31/08 | **Osaka** | **Repos matin** • 🦌 Nara (parc plat, Tōdai-ji accessible) | ~5 | Osaka |
-| **J16** | 01/09 | **Osaka** | **Journée off** : Shinsekai, sieste, onsen urbain | ~2 | Osaka |
-| **J17** | 02/09 | **Osaka** | 🎢 USJ **optionnel** (fauteuil roulant gratuit sur place) OU Minoo cascade | ~5 | Osaka |
-| **J18** | 03/09 | Osaka → **Tokyo** | Shinkansen 3h • Odaiba TeamLab (assis, climatisé) 🌸 | ~3 | Tokyo |
-| **J19** | 04/09 | **Tokyo** | **Repos matin** • Shibuya/Sunset • Dîner | ~4 | Tokyo |
-| **J20** | 05/09 | **Tokyo** | 🕰️ **Montres** (Jackroad, Seiko Dream Square) • Derniers achats | ~4 | Tokyo |
-| **J21** | 06/09 | ✈️ Retour | Valises, transfert, vol Haneda | <2 | — |
+| **J1** | 07/10 | ✈️ Arrivée Haneda → **Tokyo (Ueno)** | Transfert, check-in, repos, ramen 🍜 | <1 | Tokyo |
+| **J2** | 08/10 | **Tokyo** | Asakusa (Sensō-ji, Nakamise) • Parc Ueno (bancs) | ~4 | Tokyo |
+| **J3** | 09/10 | **Tokyo** | Shinjuku Gyoen (jardin, bancs) • Vue gratuite Tocho | ~4 | Tokyo |
+| **J4** | 10/10 | **Tokyo** | **Repos matin** • Akihabara (intérieur, climatisé) | ~3 | Tokyo |
+| **J5** | 11/10 | **Tokyo** | Meiji-jingu (allée plate) • Harajuku balade douce | ~4 | Tokyo |
+| **J6** | 12/10 | Tokyo → **Hakone** | 🚃 Romancecar 1h30 • 🚢 Bateau lac Ashi • 🚠 Téléphérique (assis !) • Onsen | ~2 | Hakone |
+| **J7** | 13/10 | Hakone → **Kawaguchiko** | Bus ~2h30 • Pagode Chureito (bus + vue) • Ryokan onsen | ~3 | Kawaguchiko |
+| **J8** | 14/10 | **Kawaguchiko** | **Matin libre** • Lac Kawaguchi (balade rive plate) • Onsen | ~3 | Kawaguchiko |
+| **J9** | 15/10 | Kawaguchiko → **Kyoto** | Bus Mishima + Shinkansen (~4h30) — trajet seul, repos | <2 | Kyoto |
+| **J10** | 16/10 | **Kyoto (Higashiyama)** | **Repos matin** • Arashiyama (bambous, plat) • Pont Togetsukyo | ~4 | Kyoto |
+| **J11** | 17/10 | **Kyoto** | Fushimi Inari **bas seulement** (0 marche raide) • Uji matcha 🍵 | ~4 | Kyoto |
+| **J12** | 18/10 | **Kyoto** | **Journée off** : Nishiki Market (intérieur) • Gion balade | ~3 | Kyoto |
+| **J13** | 19/10 | **Kyoto** | Kinkaku-ji (bus direct) • Kiyomizu-dera (vue, marche douce) | ~4 | Kyoto |
+| **J14** | 20/10 | Kyoto → **Osaka (Namba)** | JR 30 min • Kuromon Ichiba • Dotonbori | ~4 | Osaka |
+| **J15** | 21/10 | **Osaka** | **Repos matin** • 🦌 Nara (parc plat, Tōdai-ji accessible) | ~5 | Osaka |
+| **J16** | 22/10 | **Osaka** | **Journée off** : Shinsekai, sieste, onsen urbain | ~2 | Osaka |
+| **J17** | 23/10 | **Osaka** | 🎢 USJ **optionnel** (fauteuil roulant gratuit sur place) OU Minoo cascade | ~5 | Osaka |
+| **J18** | 24/10 | Osaka → **Tokyo** | Shinkansen 3h • Odaiba TeamLab (assis, climatisé) 🌸 | ~3 | Tokyo |
+| **J19** | 25/10 | **Tokyo** | **Repos matin** • Shibuya/Sunset • Dîner | ~4 | Tokyo |
+| **J20** | 26/10 | **Tokyo** | 🕰️ **Montres** (Jackroad, Seiko Dream Square) • Derniers achats | ~4 | Tokyo |
+| **J21** | 27/10 | ✈️ Retour | Valises, transfert, vol Haneda | <2 | — |
 
 **Total marche** : ~60-65 km sur 21 jours ≈ **3 km/jour en moyenne** — dans la limite des 5-6 km de Sylvie ✅
 
@@ -75,7 +75,7 @@
 
 ## ✈️ Vols — Comparatif aéroports de départ (depuis Sombreffe)
 
-> Prix réels relevés sur Google Flights (28/08 → 13/09, référence 2026). Pour 2028/2029 : prévoir **+5-10 %**. Recherche à refaire ~10-11 mois avant le départ (ouverture des ventes).
+> Prix réels relevés sur Google Flights (fenêtre comparable, référence 2026) — mi-octobre = saison intermédiaire (léger surcoût vs fin août, ~+5-10 %). Recherche à refaire ~10-11 mois avant le départ (déc. 2026/janv. 2027 = ouverture des ventes 2027).
 
 ### 🗺️ Distance & temps depuis Sombreffe
 
@@ -102,7 +102,7 @@
 | **Luxembourg (LUX)** | 1 125 € | Luxair+Air France 1 307 € (15h25) | 15h25 | ~2 470 € |
 
 > 💡 **Recommandation Sylvia** : **Bruxelles** reste le meilleur compromis (30 min de Sombreffe, ~2 230 € les 2, train + Air France). Si vous voulez un **vol direct** : Paris CDG (1 274 €, 13h15) ou Francfort (1 243 €, 12h40) valent le détour pour éviter une escale à 60 ans. **Éviter** : AMS à 840 € = 20h d'escale à Pékin (exténuant), DUS 801 € = dates décalées.
-> ⚠️ Réserver **6-8 mois avant** pour les meilleurs tarifs (les prix montent fort dans les 3 derniers mois).
+> ⚠️ Réserver **6-8 mois avant** (mars-avril 2027) pour les meilleurs tarifs (les prix montent fort dans les 3 derniers mois).
 
 ---
 
@@ -125,7 +125,7 @@
 
 ## 🏨 Hébergements (20 nuits) — options détaillées
 
-> 💡 **Conseil global** : réserver **4-6 mois avant** (hôtels japonais se réservent tôt). Prix indicatifs fin août → début septembre, à vérifier sur Booking.com.
+> 💡 **Conseil global** : réserver **4-6 mois avant** (avril-juin 2027 — hôtels japonais se réservent tôt). Prix indicatifs octobre (mi-saison, léger surcoût vs août), à vérifier sur Booking.com.
 
 ### 🗼 Tokyo — 9 nuits (J1-5 + J18-20)
 
@@ -184,13 +184,13 @@
 
 | Poste | Estimation | Détail |
 |:---|:---:|:---|
-| ✈️ **Vols AR** (2 pers, depuis Bruxelles) | **~2 050-2 300 €** | 1 029 €/pers (Air France via CDG) — voir comparatif aéroports |
-| 🏨 **Hébergements** (20 nuits) | **2 200-3 100 €** | Tokyo 9 n (Dormy Inn) + Hakone ryokan ~250 € + Kawaguchiko 2 n (Mizunosato) + Kyoto 5 n (Celestine) + Osaka 4 n (Onyado Nono) |
+| ✈️ **Vols AR** (2 pers, depuis Bruxelles) | **~2 250-2 600 €** | Base 1 029 €/pers + surcoût mi-octobre (+5-10 %) — voir comparatif aéroports |
+| 🏨 **Hébergements** (20 nuits) | **2 400-3 400 €** | Tokyo 9 n (Dormy Inn) + Hakone ryokan ~250 € + Kawaguchiko 2 n (Mizunosato) + Kyoto 5 n (Celestine) + Osaka 4 n (Onyado Nono) |
 | 🚄 **Transports internes** | **600-800 €** | Romancecar + bus + Shinkansen + Suica + excursions |
 | 🍜 **Nourriture** | **1 400-2 100 €** | ~35-50 €/jour/pers (konbini → izakaya) — ryokan avec 2 repas inclus |
 | 🎢 **Activités & entrées** | **400-650 €** | USJ (2×~90 €, optionnel) + TeamLab + Hakone pass + temples |
 | 🛍️ **Divers & souvenirs** | **300-500 €** | Sans les montres 🕰️ |
-| **Total** | **~7 000-9 500 €** | Fourchette réaliste pour 2, sans montres |
+| **Total** | **~7 400-10 000 €** | Fourchette réaliste pour 2, sans montres |
 
 ### 🕰️ Budget « montres » (liste à part de Christophe)
 
@@ -209,11 +209,11 @@
 
 | Élément | Quand réserver | Où | Priorité |
 |:---|:---|:---|:---:|
-| ✈️ **Vols** Bruxelles → Haneda | 6-8 mois avant | TUI Fly / Brussels Airlines / JAL / ANA | 🔴 |
+| ✈️ **Vols** Bruxelles → Haneda | **mars-avril 2027** (6-8 mois avant) | Brussels Airlines / Air France / ANA / JAL | 🔴 |
 | 🚃 **Romancecar** Tokyo → Hakone | 1 mois avant (sièges réservés) | Odakyu / site officiel | 🔴 |
-| 🏨 **Hôtels Tokyo / Kyoto / Osaka** | 3-6 mois avant | Booking.com / sites locaux | 🟠 |
-| 🏔️ **Ryokan Hakone** (bain privé) | 3-6 mois avant | Site du ryokan | 🔴 |
-| 🏔️ **Ryokan Mizunosato** (Kawaguchiko, 2 nuits) | 3-6 mois avant | Site du ryokan | 🔴 |
+| 🏨 **Hôtels Tokyo / Kyoto / Osaka** | **avril-juillet 2027** | Booking.com / sites locaux | 🟠 |
+| 🏔️ **Ryokan Hakone** (bain privé) | **avril-juillet 2027** | Site du ryokan | 🔴 |
+| 🏔️ **Ryokan Mizunosato** (Kawaguchiko, 2 nuits) | **avril-juillet 2027** | Site du ryokan | 🔴 |
 | 🎢 **Universal Studios Japan** (optionnel) | Dès ouverture des ventes (~2 mois avant) | site officiel USJ | 🟠 |
 | 🌸 **TeamLab** | 1-2 semaines avant (créneau horaire) | teamlab.art | 🟡 |
 | 🗼 **Shibuya Sky** | 1-2 semaines avant | shibuyasky.jp | 🟡 |
@@ -253,17 +253,27 @@
 - ✅ **Fushimi Inari** : bas du sanctuaire uniquement (magnifique sans monter)
 - ✅ **USJ** : avec fauteuil roulant loué sur place, ou option Minoo (cascade, balade plate)
 
-### 📅 Saison — pourquoi fin août → début septembre ?
-- **17/08 → 06/09** : 🌞 après **Obon** (13-16/08 — les Japonais rentrent, les prix chutent), avant le pic des typhons (mi-septembre). La **foule s'évapore** début septembre (rentrée scolaire au Japon).
-- 💰 **Prix au plus bas de l'année** pour les vols et hôtels — la basse saison post-été.
-- ⚠️ **Chaud et humide** (27-33 °C, humidité 70-80 %) : prévoir vêtements légers, bouteille d'eau, et visites **tôt le matin ou en fin d'après-midi**. Sieste à l'onsen aux heures chaudes (14h-16h).
-- ✅ **Fuji visible** : ciel souvent dégagé en fin d'été — belles chances depuis Hakone et Kawaguchiko.
+### 📅 Saison — pourquoi le 07 → 27 octobre 2027 ? (fenêtre demandée : août → octobre)
+| Fenêtre | Météo | Prix | Verdict |
+|:---|:---|:---:|:---|
+| Fin août → début sept. | 27-33 °C, très humide | 💶 Minimum | ⚠️ Étouffant pour la mobilité + début saison typhons |
+| Septembre (pic typhons) | 24-29 °C, pluies, **~25 typhons/an dont pic en sept.** | 💶 Bas | ❌ Risque le plus élevé de la fenêtre |
+| 🌟 **Mi-octobre (retenu)** | **15-22 °C, sec, ensoleillé** | 💶 Moyen (+5-10 % vs août) | ✅ **Typhons terminés, confort maximal, feuillage qui débute** |
+| Fin octobre → novembre | 13-20 °C, koyo pointe | 💶💶 Élevés | Chouette mais hors fenêtre + Kyoto saturé |
+
+- ✅ **Météo idéale pour Sylvie** : 15-22 °C = marche confortable sans chaleur écrasante (vs 27-33 °C en août).
+- ✅ **Saison des typhons terminée** (pic août-septembre, nette baisse en octobre).
+- ⚠️ **Sports Day lundi 11/10/2027** (férié) : trains/musées chargés ce jour-là — J5 est à Tokyo, journée déjà douce, tout va bien.
+- 💰 **Prix** : mi-octobre = saison intermédiaire — **+5-10 % vs fin août** (le prix le plus bas de l'année reste post-Obon), mais très en dessous de la haute saison koyo de novembre.
+- 🍁 **Bonus** : premiers feuillages rouges au nord (Hokkaidé début oct., Tokyo fin oct.) + **Halloween/Harajuku** le 31/10 si départ décalé.
+- ✅ **Fuji visible** : octobre = l'un des meilleurs mois pour un ciel dégagé depuis Hakone et Kawaguchiko.
 
 ### 📊 Classement des périodes (météo × prix)
 
 | Période | 🌡️ Météo | 💰 Prix | 👥 Foule | Verdict |
 |:---|:---|:---:|:---:|:---|
-| **🌟 Fin août → mi-sept.** | 27-33 °C, humide | 💶 **Minimal** | Faible | **Budget + calme** |
+| **🌟 Mi-octobre (retenu 2027)** | 15-22 °C, sec | 💶 Moyen | Faible | **Météo idéale + typhons finis** |
+| Fin août → mi-sept. | 27-33 °C, humide | 💶 **Minimal** | Faible | Budget, mais étouffant |
 | 🌟 Mi-mai → début juin | 18-25 °C, ciel clair | 💶 Redescendus | Moyenne | Météo idéale |
 | 🌸 Fin mars → mi-avril | 12-20 °C, sakura | 💶💶💶 Max | Extrême | Cherry blossom = cher + foule |
 | 🍂 Fin oct. → mi-nov. | 15-22 °C, sec, koyo | 💶💶 Élevés | Forte (Kyoto saturé) | Beau mais cher |
@@ -287,17 +297,17 @@
 
 | | |
 |:---|:---|
-| **Départ** | Bruxelles ✈️ Haneda — J1 (17/08) |
-| **Retour** | Haneda ✈️ Bruxelles — J21 (06/09) |
+| **Départ** | Bruxelles ✈️ Haneda — J1 (07/10/2027) 🎂 60 ans de Christophe |
+| **Retour** | Haneda ✈️ Bruxelles — J21 (27/10/2027) |
 | **Parcours** | Tokyo (5 n) → **Hakone (1 n)** → Kawaguchiko (2 n) → Kyoto (5 n) → Osaka (4 n) → Tokyo (4 n) — **boucle** |
 | **Pays** | 🇯🇵 Japon uniquement |
 | **Nuits** | 20 nuits |
 | **KM** | ~1 800 km de transports internes (train/bus) |
 | **Marche** | ~3 km/jour en moyenne (max 5-6 km pour Sylvie) |
-| **Budget total** | **~7 000-9 500 €** (2 pers, sans montres) |
+| **Budget total** | **~7 400-10 000 €** (2 pers, sans montres) |
 | **Visa** | ❌ Non requis — Visit Japan Web obligatoire |
-| **Meilleure période** | Fin août → mi-septembre (prix min + calme, ⚠️ chaud) |
+| **Meilleure période** | **Mi-octobre 2027** (météo idéale + typhons finis — choisi dans la fenêtre août-oct.) |
 
 ---
 
-*Roadbook généré par Sylvia — BAVI LEO Voyages. Adapté rythme senior (60 ans, mobilité 5-6 km/j). À affiner : année exacte (2028/2029), hôtels définitifs, prix vols réels au moment de la réservation.*
+*Roadbook généré par Sylvia — BAVI LEO Voyages. Adapté rythme senior (60 ans, mobilité 5-6 km/j). **Voyage 2027 : 07→27/10** — cadeau des 60 ans de Christophe 🎂. À affiner : hôtels définitifs, prix vols réels (ouverture des ventes déc. 2026/janv. 2027).*
