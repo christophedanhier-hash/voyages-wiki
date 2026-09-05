@@ -13,7 +13,7 @@
 | **Mobilité** | Sylvie : max 5-7 km/j à pied. Pas de VAE à bord — transports : à pied, taxi, bus, voiture de location |
 | **🐕 Nala** | **Pension chez Émilie** (fille de Christophe) — pas du voyage |
 | **Équipement** | Pas de vélos à bord — location possible sur place si besoin (Lac de Garde, Venise Lido) |
-| **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise). ✅ **Europa Village entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place. ✅ **Confirmations d'arrivée reçues le 25/08/2026** (Spartacus, Atlantide, Led Zeppelin). ✅ **hu Firenze : hu camp Premium confirmé le 25/08/2026 — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien — taxe de séjour 21 € à l'arrivée). ✅ **Confirmation officielle reçue le 26/08/2026** (détails complets : emplacement ~100-105 m², WiFi, linge, annulation 24h). 💰 **Paiement total sur place à l'arrivée** (électronique ou espèces — confirmé 26/08/2026) |
+| **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise). ✅ **Schoenau J1 payé (16 €) + Atlantide soldé le 05/09/2026** (235,20 € virement, facture demandée). ✅ **Europa Village entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place. ✅ **Confirmations d'arrivée reçues le 25/08/2026** (Spartacus, Atlantide, Led Zeppelin). ✅ **hu Firenze : hu camp Premium confirmé le 25/08/2026 — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien — taxe de séjour 21 € à l'arrivée). ✅ **Confirmation officielle reçue le 26/08/2026** (détails complets : emplacement ~100-105 m², WiFi, linge, annulation 24h). 💰 **Paiement total sur place à l'arrivée** (électronique ou espèces — confirmé 26/08/2026) |
 
 > 📥 **[Télécharger le roadbook au format PDF](roadbook-italie-2026.pdf)**
 
@@ -31,7 +31,7 @@
 
 | Jour | Date | Étape | Distance (route) | KM cumulé | Nuits | Camping / Service | Coût |
 |:----:|:----:|-------|:----------------:|:---------:|:-----:|-------------------|:----:|
-| 1 | Ven 11/9 | 🏠 **Sombreffe** → **Colmar** (Alsace) | 465 km | 465 | 1 | Aire CC Schoenau | 14,00 € |
+| 1 | Ven 11/9 | 🏠 **Sombreffe** → **Colmar** (Alsace) | 465 km | 465 | 1 | Aire CC Schoenau ✅ payé | 16,00 € |
 | 2 | Sam 12/9 | 🇫🇷 **Colmar** → **Lac Majeur — Maccagno** 🏞️ | 376 km | 841 | 2 | The Camp by Maggiore Suites | 154,00 € |
 | 3 | Dim 13/9 | ☀️ *Repos & découverte Lac Majeur* | — | 841 | — | — | — |
 | 4 | Lun 14/9 | 🏛️ **Lac Majeur — Maccagno** → **Florence** | 410 km | 1251 | 3 | **hu Firenze camping in town** 🏕️ | 310,00 € |
@@ -39,7 +39,7 @@
 | 6 | Mer 16/9 | 🎨 *Visite Florence* | — | 1283 | — | — | — |
 | 7 | Jeu 17/9 | 🌋 **Florence** → **Pompéi** | 488 km | 1739 | 2 | Camping Spartacus | 66,00 € |
 | 8 | Ven 18/9 | 🏛️ *Visite Pompéi* | — | 1739 | — | — | — |
-| 9 | Sam 19/9 | 🏖️ **Pompéi** → **Monopoli** (Pouilles) | 313 km | 2052 | 9 | Residence Atlantide — Monopoli | 336,00 € |
+| 9 | Sam 19/9 | 🏖️ **Pompéi** → **Monopoli** (Pouilles) | 313 km | 2052 | 9 | Residence Atlantide — Monopoli ✅ payé | 336,00 € |
 | 10 | Dim 20/9 | 🚗 *Arrivée + découverte Monopoli à pied* 🚶 | — | 2052 | — | — | — |
 | 11 | Lun 21/9 | 🚗 *Jour 1 voiture — Vallée des Trulli* 🏡 | — | 2052 | — | — | — |
 | 12 | Mar 22/9 | 🚗 *Jour 2 voiture — Côte adriatique sud* 🏛️ | — | 2052 | — | — | — |
@@ -775,11 +775,11 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 
 | Étape | Camping | Réservation | Durée | Coût | Acompte |
 |-------|---------|:-----------:|:-----:|:----:|:-------:|
-| Colmar | Aire CC Schoenau | ❌ Sans résa | 1 nuit | 14,00 € | — |
+| Colmar (J1) | Aire CC Schoenau | ✅ Résa en ligne (créneau strict 11/09 12h→12/09 11h) | 1 nuit | **16,00 € payé** | ✅ Payé le 05/09 |
 | Lac Majeur — Maccagno | **The Camp by Maggiore Suites** | ✅ #32877 | 2 nuits | 154,00 € | **30,80 €** ✔️ Stripe |
 | Florence | **hu Firenze camping in town** | ✅ #314185774 — **hu camp Premium — 310 € TOTAL** (2 adultes, sans chien) | 3 nuits | **310,00 €** | 💰 Sur place (confirmé 26/08) |
 | Pompéi | **Camping Spartacus** | ✅ Confirmé (arrivée 17/09 ✅) | 2 nuits | **66,00 €** (33€/nuit) | ✅ Confirmé |
-| Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € | ✅ Confirmé wubook |
+| Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € (acompte 100,80 € + solde 235,20 €) | ✅ **Solde payé le 05/09** (virement) — facture demandée |
 | San Benedetto del Tronto / Cupra Marittima | **Camping Village Led Zeppelin** — Cupra Marittima | ⏳ Walk-in re-confirmé 25/08 | 1 nuit | ~30,00 € | — |
 | Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | ✅ **222,80 € payé** (65,76 € + solde 153,44 € le 25/08) |
 | | *(David & Nancy même camping, 2 emplacements)* | ✅ Réservé | 4 nuits | — | ✅ |
