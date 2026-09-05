@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_cef333231e3955f319c86540b1a62b92 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="position:fixed; bottom:30px; left:10px; z-index:1000; background:white;
+     padding:10px; border-radius:8px; font-size:12px; border:1px solid #ccc;">
+<b>Toscane — Toni &amp; Bernadette (24/09-04/10/2026)</b><br>
+🔵 Bologne (vol)<br>
+🟢 Base agriturismo — Tenuta Sovestro (9 nuits)<br>
+🔴 Villes d'art &amp; villages<br>
+🟠 Chianti<br>
+🟣 Cinque Terre (EN TRAIN)<br>
+➖ Trajets (pointillés)
+</div>
+    
+            <div class="folium-map" id="map_cef333231e3955f319c86540b1a62b92" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_cef333231e3955f319c86540b1a62b92 = L.map(
+                "map_cef333231e3955f319c86540b1a62b92",
+                {
+                    center: [43.55, 11.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 8,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_cef333231e3955f319c86540b1a62b92);
+
+            
+
+        
+    
+            var tile_layer_8459d3136d6dea04558b0a67a61af99e = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_8459d3136d6dea04558b0a67a61af99e.addTo(map_cef333231e3955f319c86540b1a62b92);
+        
+    
+            var marker_0798c20df638a6e517f6cf970d6ab663 = L.marker(
+                [44.4942, 11.3464],
+                {
+}
+            ).addTo(map_cef333231e3955f319c86540b1a62b92);
+        
+    
+            var icon_25049042c9669b0bcc6ebc48ab306506 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_51240225167445cb33b75bf0f35e1bc7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9abe2d4ececd443cda074f0377edb9b9 = $(`<div id="html_9abe2d4ececd443cda074f0377edb9b9" style="width: 100.0%; height: 100.0%;"><b>✈️ Bologne (J1)</b></div>`)[0];
+                popup_51240225167445cb33b75bf0f35e1bc7.setContent(html_9abe2d4ececd443cda074f0377edb9b9);
+            
+        
+
+        marker_0798c20df638a6e517f6cf970d6ab663.bindPopup(popup_51240225167445cb33b75bf0f35e1bc7)
+        ;
+
+        
+    
+    
+            marker_0798c20df638a6e517f6cf970d6ab663.bindTooltip(
+                `<div>
+                     ✈️ Bologne (J1)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_0798c20df638a6e517f6cf970d6ab663.setIcon(icon_25049042c9669b0bcc6ebc48ab306506);
+            
+    
+            var marker_7f1e060981e9ce5b11febc0cea91fbda = L.marker(
+                [43.467, 11.044],
+                {
+}
+            ).addTo(map_cef333231e3955f319c86540b1a62b92);
+        
+    
+            var icon_e4ad0459ff0e91bf01862962ed49217f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5dd1b1283a2bc05835d926f9bf00d5b8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8647e24cb4391baccc46a0a95b5cd596 = $(`<div id="html_8647e24cb4391baccc46a0a95b5cd596" style="width: 100.0%; height: 100.0%;"><b>🏡 Tenuta Sovestro — Agriturismo (J2-J10)</b></div>`)[0];
+                popup_5dd1b1283a2bc05835d926f9bf00d5b8.setContent(html_8647e24cb4391baccc46a0a95b5cd596);
+            
+        
+
+        marker_7f1e060981e9ce5b11febc0cea91fbda.bindPopup(popup_5dd1b1283a2bc05835d926f9bf00d5b8)
+        ;
+
+        
+    
+    
+            marker_7f1e060981e9ce5b11febc0cea91fbda.bindTooltip(
+                `<div>
+                     🏡 Tenuta Sovestro — Agriturismo (J2-J10)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_7f1e060981e9ce5b11febc0cea91fbda.setIcon(icon_e4ad0459ff0e91bf01862962ed49217f);
+            
+    
+            var marker_4520ccce6af687302a73f2d03cd07033 = L.marker(
+                [43.4682, 11.0454],
+                {
+}
+            ).addTo(map_cef333231e3955f319c86540b1a62b92);
+        
+    
+            var icon_350eed1fd0fec70cfec4ade3369b9a4d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d3360b64f7dfdb3df8770d10254e06cb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_27fc24276a2a3e6cd0a774c34d787bef = $(`<div id="html_27fc24276a2a3e6cd0a774c34d787bef" style="width: 100.0%; height: 100.0%;"><b>🏰 San Gimignano</b></div>`)[0];
+                popup_d3360b64f7dfdb3df8770d10254e06cb.setContent(html_27fc24276a2a3e6cd0a774c34d787bef);
+            
+        
+
+        marker_4520ccce6af687302a73f2d03cd07033.bindPopup(popup_d3360b64f7dfdb3df8770d10254e06cb)
+        ;
+
+        
+    
+    
+            marker_4520ccce6af687302a73f2d03cd07033.bindTooltip(
+                `<div>
+                     🏰 San Gimignano
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_4520ccce6af687302a73f2d03cd07033.setIcon(icon_350eed1fd0fec70cfec4ade3369b9a4d);
+            
+    
+            var marker_a49c66757b9aa5b24e64d302104ba682 = L.marker(
+                [43.3186, 11.3306],
+                {
+}
+            ).addTo(map_cef333231e3955f319c86540b1a62b92);
+        
+    
+            var icon_0405de3f8fb4fe4ef5c5bdf38faffc03 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d8da46018e57f240d0ad39fa594558a3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e515ff6cecc9aa1835321d7bd29d044d = $(`<div id="html_e515ff6cecc9aa1835321d7bd29d044d" style="width: 100.0%; height: 100.0%;"><b>🏛️ Sienne</b></div>`)[0];
+                popup_d8da46018e57f240d0ad39fa594558a3.setContent(html_e515ff6cecc9aa1835321d7bd29d044d);
+            
+        
+
+        marker_a49c66757b9aa5b24e64d302104ba682.bindPopup(popup_d8da46018e57f240d0ad39fa594558a3)
+        ;
+
+        
+    
+    
+            marker_a49c66757b9aa5b24e64d302104ba682.bindTooltip(
+                `<div>
+                     🏛️ Sienne
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a49c66757b9aa5b24e64d302104ba682.setIcon(icon_0405de3f8fb4fe4ef5c5bdf38faffc03);
+            
+    
+            var marker_6b4418a0b6c18980322602e938d070ec = L.marker(
+                [43.7696, 11.2558],
+                {
+}
+            ).addTo(map_cef333231e3955f319c86540b1a62b92);
+        
+    
+            var icon_e5d744bd7221c80e75110c3a50c86da2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_518e273d6568aec663badf66eafffc61 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_584cface078c29e36b4ca73b26e3b1ae = $(`<div id="html_584cface078c29e36b4ca73b26e3b1ae" style="width: 100.0%; height: 100.0%;"><b>🎨 Florence</b></div>`)[0];
+                popup_518e273d6568aec663badf66eafffc61.setContent(html_584cface078c29e36b4ca73b26e3b1ae);
+            
+        
+
+        marker_6b4418a0b6c18980322602e938d070ec.bindPopup(popup_518e273d6568aec663badf66eafffc61)
+        ;
+
+        
+    
+    
+            marker_6b4418a0b6c18980322602e938d070ec.bindTooltip(
+                `<div>
+                     🎨 Florence
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_6b4418a0b6c18980322602e938d070ec.setIcon(icon_e5d744bd7221c80e75110c3a50c86da2);
+            
+    
+            var marker_d2cb912a2b8b61c794f517ed844712a1 = L.marker(
+                [43.4695, 11.28],
+                {
+}
+            ).addTo(map_cef333231e3955f319c86540b1a62b92);
+        
+    
+            var icon_339f3de289ddc6d98f18c0dc0d876677 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b2b56da34c7b12a75f92f1739e1b0361 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bf9f970cf205ed6455c64616b9d40272 = $(`<div id="html_bf9f970cf205ed6455c64616b9d40272" style="width: 100.0%; height: 100.0%;"><b>🍷 Castellina in Chianti</b></div>`)[0];
+                popup_b2b56da34c7b12a75f92f1739e1b0361.setContent(html_bf9f970cf205ed6455c64616b9d40272);
+            
+        
+
+        marker_d2cb912a2b8b61c794f517ed844712a1.bindPopup(popup_b2b56da34c7b12a75f92f1739e1b0361)
+        ;
+
+        
+    
+    
+            marker_d2cb912a2b8b61c794f517ed844712a1.bindTooltip(
+                `<div>
+                     🍷 Castellina in Chianti
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d2cb912a2b8b61c794f517ed844712a1.setIcon(icon_339f3de289ddc6d98f18c0dc0d876677);
+            
+    
+            var marker_b6881967c0bf1707340323d38fdbe0e6 = L.marker(
+                [43.071, 10.68],
+                {
+}
+            ).addTo(map_cef333231e3955f319c86540b1a62b92);
+        
+    
+            var icon_66d58be7af4ee7630fba8928778e78c9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5fe04c9c47bdf2b1c224602e38a488d5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_79b439c5f83fec2a79cf58914f512571 = $(`<div id="html_79b439c5f83fec2a79cf58914f512571" style="width: 100.0%; height: 100.0%;"><b>🌊 Cinque Terre (train)</b></div>`)[0];
+                popup_5fe04c9c47bdf2b1c224602e38a488d5.setContent(html_79b439c5f83fec2a79cf58914f512571);
+            
+        
+
+        marker_b6881967c0bf1707340323d38fdbe0e6.bindPopup(popup_5fe04c9c47bdf2b1c224602e38a488d5)
+        ;
+
+        
+    
+    
+            marker_b6881967c0bf1707340323d38fdbe0e6.bindTooltip(
+                `<div>
+                     🌊 Cinque Terre (train)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b6881967c0bf1707340323d38fdbe0e6.setIcon(icon_66d58be7af4ee7630fba8928778e78c9);
+            
+    
+            var marker_1051b2514545b7ad9cdc340724639d83 = L.marker(
+                [43.0886, 11.6825],
+                {
+}
+            ).addTo(map_cef333231e3955f319c86540b1a62b92);
+        
+    
+            var icon_8c7dca1be18bce3428d253bb508f52a5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2b169835a47fee26f2f372182b916a19 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4a4f39eb3d3e8f7622360f8881a56475 = $(`<div id="html_4a4f39eb3d3e8f7622360f8881a56475" style="width: 100.0%; height: 100.0%;"><b>🌄 Pienza — Val d'Orcia</b></div>`)[0];
+                popup_2b169835a47fee26f2f372182b916a19.setContent(html_4a4f39eb3d3e8f7622360f8881a56475);
+            
+        
+
+        marker_1051b2514545b7ad9cdc340724639d83.bindPopup(popup_2b169835a47fee26f2f372182b916a19)
+        ;
+
+        
+    
+    
+            marker_1051b2514545b7ad9cdc340724639d83.bindTooltip(
+                `<div>
+                     🌄 Pienza — Val d'Orcia
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_1051b2514545b7ad9cdc340724639d83.setIcon(icon_8c7dca1be18bce3428d253bb508f52a5);
+            
+    
+            var marker_bc364a9efad9a6e116b2fbd568334957 = L.marker(
+                [43.723, 10.3966],
+                {
+}
+            ).addTo(map_cef333231e3955f319c86540b1a62b92);
+        
+    
+            var icon_5d45d1a35f168747630fee76588bb03c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4aaac37d5517cf76321f9e2ecd476f10 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d4cdf93102f455675420bf717a10ff88 = $(`<div id="html_d4cdf93102f455675420bf717a10ff88" style="width: 100.0%; height: 100.0%;"><b>🗼 Pise</b></div>`)[0];
+                popup_4aaac37d5517cf76321f9e2ecd476f10.setContent(html_d4cdf93102f455675420bf717a10ff88);
+            
+        
+
+        marker_bc364a9efad9a6e116b2fbd568334957.bindPopup(popup_4aaac37d5517cf76321f9e2ecd476f10)
+        ;
+
+        
+    
+    
+            marker_bc364a9efad9a6e116b2fbd568334957.bindTooltip(
+                `<div>
+                     🗼 Pise
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_bc364a9efad9a6e116b2fbd568334957.setIcon(icon_5d45d1a35f168747630fee76588bb03c);
+            
+    
+            var marker_11a3f44aa61e4a92de7c1093e65cdca9 = L.marker(
+                [43.8429, 10.5027],
+                {
+}
+            ).addTo(map_cef333231e3955f319c86540b1a62b92);
+        
+    
+            var icon_518be973c2a2a89c841e2a09c70dee92 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5b9be57ad0cf1cc96f8de86f169e94d6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3821c269e36fe36b8376b7c879297811 = $(`<div id="html_3821c269e36fe36b8376b7c879297811" style="width: 100.0%; height: 100.0%;"><b>🏛️ Lucques</b></div>`)[0];
+                popup_5b9be57ad0cf1cc96f8de86f169e94d6.setContent(html_3821c269e36fe36b8376b7c879297811);
+            
+        
+
+        marker_11a3f44aa61e4a92de7c1093e65cdca9.bindPopup(popup_5b9be57ad0cf1cc96f8de86f169e94d6)
+        ;
+
+        
+    
+    
+            marker_11a3f44aa61e4a92de7c1093e65cdca9.bindTooltip(
+                `<div>
+                     🏛️ Lucques
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_11a3f44aa61e4a92de7c1093e65cdca9.setIcon(icon_518be973c2a2a89c841e2a09c70dee92);
+            
+    
+            var marker_1ba3bff93757245b33712f06378ea430 = L.marker(
+                [43.4, 10.86],
+                {
+}
+            ).addTo(map_cef333231e3955f319c86540b1a62b92);
+        
+    
+            var icon_347826987ae9ce013459a5505cdafea0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_36a8e0e1a5373d48bffa02344447bcf7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5a5271eb3e07ff63446336100b4761af = $(`<div id="html_5a5271eb3e07ff63446336100b4761af" style="width: 100.0%; height: 100.0%;"><b>🪨 Volterra</b></div>`)[0];
+                popup_36a8e0e1a5373d48bffa02344447bcf7.setContent(html_5a5271eb3e07ff63446336100b4761af);
+            
+        
+
+        marker_1ba3bff93757245b33712f06378ea430.bindPopup(popup_36a8e0e1a5373d48bffa02344447bcf7)
+        ;
+
+        
+    
+    
+            marker_1ba3bff93757245b33712f06378ea430.bindTooltip(
+                `<div>
+                     🪨 Volterra
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_1ba3bff93757245b33712f06378ea430.setIcon(icon_347826987ae9ce013459a5505cdafea0);
+            
+    
+            var poly_line_518b4f3dd173d49f795b3375fb3555a3 = L.polyline(
+                [[44.4942, 11.3464], [43.467, 11.044], [43.3186, 11.3306], [43.467, 11.044], [43.7696, 11.2558], [43.467, 11.044], [43.071, 10.68], [43.467, 11.044], [43.0886, 11.6825], [43.467, 11.044], [43.723, 10.3966], [43.8429, 10.5027], [43.467, 11.044], [44.4942, 11.3464]],
+                {"bubblingMouseEvents": true, "color": "#e63946", "dashArray": "6,8", "dashOffset": null, "fill": false, "fillColor": "#e63946", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.6, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_cef333231e3955f319c86540b1a62b92);
+        
+</script>
+</html>
