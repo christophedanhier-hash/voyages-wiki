@@ -15,7 +15,7 @@
 | **Équipement** | Pas de vélos à bord — location possible sur place si besoin (Lac de Garde, Venise Lido) |
 | **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise). ✅ **Europa Village entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place. ✅ **Confirmations d'arrivée reçues le 25/08/2026** (Spartacus, Atlantide, Led Zeppelin). ✅ **hu Firenze : hu camp Premium confirmé le 25/08/2026 — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien — taxe de séjour 21 € à l'arrivée). ✅ **Confirmation officielle reçue le 26/08/2026** (détails complets : emplacement ~100-105 m², WiFi, linge, annulation 24h). 💰 **Paiement total sur place à l'arrivée** (électronique ou espèces — confirmé 26/08/2026) |
 
-> 📥 **[Télécharger le roadbook au format PDF](roadbook-italie.pdf)**
+> 📥 **[Télécharger le roadbook au format PDF](roadbook-italie-2026.pdf)**
 
 ---
 
