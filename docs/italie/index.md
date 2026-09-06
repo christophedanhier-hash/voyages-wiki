@@ -39,8 +39,8 @@
 | 6 | Mer 16/9 | 🎨 *Visite Florence* | — | 1283 | — | — | — |
 | 7 | Jeu 17/9 | 🌋 **Florence** → **Pompéi** | 488 km | 1739 | 2 | Camping Spartacus | 66,00 € |
 | 8 | Ven 18/9 | 🏛️ *Visite Pompéi* | — | 1739 | — | — | — |
-| 9 | Sam 19/9 | 🏖️ **Pompéi** → **Monopoli** (Pouilles) | 313 km | 2052 | 9 | Residence Atlantide — Monopoli ✅ payé | 336,00 € |
-| 10 | Dim 20/9 | 🚗 *Arrivée + découverte Monopoli à pied* 🚶 | — | 2052 | — | — | — |
+| 9 | Sam 19/9 | 🏖️ **Pompéi** → **Monopoli/Capitolo** (Pouilles) | 313 km | 2052 | 9 | Residence Atlantide — Capitolo ✅ payé | 336,00 € |
+| 10 | Dim 20/9 | 🚌 *Monopoli centre (bus Capitolo) + plage* 🏖️ | — | 2052 | — | — | — |
 | 11 | Lun 21/9 | 🚗 *Jour 1 voiture — Vallée des Trulli* 🏡 | — | 2052 | — | — | — |
 | 12 | Mar 22/9 | 🚗 *Jour 2 voiture — Côte adriatique sud* 🏛️ | — | 2052 | — | — | — |
 | 13 | Mer 23/9 | 🚗 *Jour 3 voiture — Lecce ou Matera* 🌆 | — | 2052 | — | — | — |
@@ -246,7 +246,9 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 
 ### 🏖️ Monopoli — Pouilles (J9–J17 · 9 nuits)
 
-**🏠 Base :** Residence Atlantide (C.da Lamandia 13/E, Monopoli) — le CC reste **garé** pendant tout le séjour (9 nuits). Déplacements : à pied 🚶, taxi 🚕 ou voiture de location 🚗.
+**🏠 Base :** Residence Camping Atlantide (C.da Lamandia 13/E, **Località Capitolo** — GPS 40.9135, 17.3443) — le CC reste **garé** pendant tout le séjour (9 nuits). Déplacements : à pied 🚶 (plages Capitolo), **bus Capitolo–Monopoli 🚌 (~1,10 €)**, taxi 🚕 (~10 €) ou voiture de location 🚗.
+
+> ⚠️ **Correction distance (06/09/2026) :** la Residence Atlantide est à **Capitolo, à 5,5 km au SUD du centre de Monopoli** — et non « 15 min à pied » comme noté initialement. Le centre historique se rejoint en **bus Capitolo–Monopoli** (Miccolis, ~40 courses/jour lun-sam, 20 le dim, ~1,10 €, arrêt à ~100 m de la résidence) ou en **taxi (~10 €)** — ou avec la voiture de location les jours 21-25/09.
 
 > 🗺️ **Carte interactive des Pouilles** — Camp de base (Monopoli), sites à pied, excursions en voiture et restaurants :
 > <iframe src="carte-monopoli-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
@@ -257,15 +259,15 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 
 | Jour | Date | Activité | Transport |
 |:----:|:----:|----------|:---------:|
-| 🏁 | Sam 19/9 | Arrivée, installation — promenade Monopoli à pied | 🚶 |
-| 🚶 | Dim 20/9 | Découverte Monopoli centre, port, criques | 🚶 |
+| 🏁 | Sam 19/9 | Arrivée, installation — promenade plage de Capitolo | 🚶 |
+| 🚶 | Dim 20/9 | **Monopoli centre** (bus Capitolo ou taxi) OU plage Capitolo | 🚌🚕 |
 | 🏡 | Lun 21/9 | **Vallée des Trulli** : Alberobello, Locorotondo, Martina Franca | 🚗 |
 | 🏛️ | Mar 22/9 | **Côte sud** : Ostuni + plages Torre Canne → Capitolo | 🚗 |
 | 🌆 | Mer 23/9 | **Grande excursion** : Matera (Sassi UNESCO) toute la journée | 🚗 |
 | 🎯 | Jeu 24/9 | **Lecce** (Florence du Sud) ou Castellana Grotte | 🚗 |
 | 🚙 | Ven 25/9 | **Polignano a Mare** matin + dernier rayonnement | 🚗 |
-| | ☀️ | Sam 26/9 | Plages & criques côtières 🏖️ | 🚶 |
-| | ☀️ | Dim 27/9 | Dernier jour — farniente, criques, gelato 🍨 | 🚶 |
+| | ☀️ | Sam 26/9 | Plages & criques de Capitolo 🏖️ (Porto Ghiacciolo, Santo Stefano) | 🚶 |
+| | ☀️ | Dim 27/9 | Dernier jour — farniente criques, gelato 🍨 (ou Monopoli en bus) | 🚶🚌 |
 | ⬆️ | Lun 28/9 | Départ → Camping Village Led Zeppelin (Cupra Marittima) | 🚐 |
 
 **🎭 Visites à pied dans Monopoli (accessible Sylvie ✅) :**
@@ -363,16 +365,18 @@ Le centre historique est compact et plat — se visite en **1-2h** à votre ryth
 
 ### 🚶 Balades à pied & baignade
 
-Les 2 jours sans voiture (Sam 26 + Dim 27/9) se feront à pied ou en taxi pour les criques :
+Les jours sans voiture (Sam 19, Dim 20, Sam 26 + Dim 27/9) se feront à pied pour les plages de Capitolo, ou bus/taxi pour le centre de Monopoli :
 
 | Balade | Distance | Temps | Description |
 |:-----------|:--------:|:-----:|:------------|
-| **Criques sud à pied** (Porto Bianco → Porto Rosso → Porto Ghiacciolo) | 4-5 km A/R | 1h-1h30 | Accessible à pied depuis la résidence, eau turquoise, chaussures d'eau recommandées |
-| **Monopoli centre → vieille ville** | 2 km A/R | 1h | Centre historique plat ✅, port, remparts |
-| **Polignano a Mare en taxi 🚕** | 10 min de trajet | 2-3h sur place | Possible en taxi si envie de voir les falaises |
+| **Plage Capitolo** (depuis la résidence) | 300 m | 5 min | Sable, eau calme — la plage de la résidence |
+| **Lido Santo Stefano** (depuis la résidence) | 2,0 km | ~25 min | Calanque avec lido, eau cristalline |
+| **Porto Ghiacciolo** (depuis la résidence) | 2,1 km | ~25 min | Sable + rocher, eau extraordinaire, vue château Santo Stefano |
+| **Centre de Monopoli** (depuis la résidence) | 5,5 km | bus 15 min | Bus Capitolo–Monopoli (~1,10 €) ou taxi (~10 €) — centre plat ✅ |
+| **Polignano a Mare en taxi 🚕** | 9 km de trajet | 2-3h sur place | Possible en taxi ou voiture si envie de voir les falaises |
 
-> 💡 **Pour Sylvie :** les criques sud (Porto Bianco, Porto Ghiacciolo) sont accessibles à pied (~20-25 min de la résidence), plat ✅. Sinon, une petite course en taxi pour aller plus loin.
-> 🚲 **Location de vélos sur place ?** Monopoli n'a pas de location VAE évidente — privilégier marche + taxi + farniente plage.
+> 💡 **Pour Sylvie :** depuis la résidence (Capitolo), les criques accessibles à pied sont **Porto Ghiacciolo et Santo Stefano (~2 km, plat ✅)**. Porto Bianco et Porto Rosso sont en réalité **près du centre de Monopoli** (rive nord) : y accéder en bus Capitolo–Monopoli ou en voiture, pas à pied depuis la résidence. Chaussures d'eau recommandées pour les criques rocheuses.
+> 🚲 **Location de vélos sur place ?** Capitolo/Monopoli n'ont pas de location VAE évidente — privilégier marche + bus + taxi + farniente plage.
 
 ---
 
@@ -389,11 +393,14 @@ Les 2 jours sans voiture (Sam 26 + Dim 27/9) se feront à pied ou en taxi pour l
 
 ### 🌊 Les plus belles plages & criques
 
-| Spot | Distance du centre | Sable/Rocher | Eau |
+| Spot | Accès depuis Capitolo | Sable/Rocher | Eau |
 |:-----|:------------------:|:------------:|:---:|
-| **Cala Porta Vecchia** | 0 (sous remparts) | Galets | Turquoise, familiale |
-| **Porto Bianco** | 15 min à pied | Rocher | Cristalline |
-| **Porto Rosso** | 15 min à pied | Rocher | Cristalline |
+| **Plage Capitolo** | 5 min à pied | Sable | Calme, familiale |
+| **Lido Santo Stefano** | 25 min à pied (2 km) | Sable + rocher | Cristalline |
+| **Porto Ghiacciolo** | 25 min à pied (2,1 km) | Sable + rocher | Extraordinaire 🌟 |
+| **Cala Paradiso** | 25 min à pied | Transats | Guindée |
+
+> Les criques **Porto Bianco, Porto Rosso et Cala Porta Vecchia** sont près du **centre de Monopoli** (rive nord) — y aller en bus Capitolo (descendre au centre) ou en voiture de location. Cala Porta Vecchia est sous les remparts du centre (galets, familiale).
 
 ### 🎉 Activités fun — Pouilles
 
@@ -411,17 +418,13 @@ Envie de sortir des sentiers battus avec la voiture de location ? Voici quelques
 
 > 💡 **Mon conseil fun :** Le **cours de pâtes orecchiette** 🍝 ou le **bateau le long des criques** 🚤 sont les expériences les plus mémorables dans les Pouilles !
 
-| **Porto Ghiacciolo** | 20 min à pied | Sable + rocher | Extraordinaire 🌟 |
-| **Spiaggia di Porto Ghiacciolo** | 20 min à pied | Sable | Vue château Santo Stefano |
-| **Cala Paradiso** | 25 min à pied | Transats | Guindée |
-
 > 💡 Venir **tôt** (avant 10h) pour les criques. **Chaussures d'eau** recommandées pour les criques rocheuses.
 
 ---
 
 ### ⚠️ Astuces pratiques
 
-- **Residence Atlantide :** C.da Lamandia 13/E, Monopoli. 9 nuits confirmées via wubook (CD-0008). Piazzola adaptée au CC 8m, électricité + eau incluses (conf. 25/08/2026).
+- **Residence Camping Atlantide :** C.da Lamandia 13/E, Località Capitolo, Monopoli (GPS 40.9135, 17.3443 — 5,5 km au sud du centre, bus Capitolo ~1,10 €). 9 nuits confirmées via wubook (CD-0008). Piazzola adaptée au CC 8m, électricité + eau incluses (conf. 25/08/2026).
 - **Sunny Cars #15253750** : vérifier si l'agence livre à Monopoli ou si navette Bari.
 - **🔑 Le CC reste à la Residence** pendant tout le séjour — transports : location voiture, taxi ou à pied.
 - **⚠️ ZTL :** de nombreuses villes des Pouilles (Ostuni, Martina Franca, Lecce, Polignano) ont des ZTL. **Ne pas entrer dans les centres historiques** avec la voiture de location. Parking en périphérie toujours (1-2 €/h).
@@ -780,7 +783,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 | Lac Majeur — Maccagno | **The Camp by Maggiore Suites** | ✅ #32877 | 2 nuits | 154,00 € | **30,80 €** ✔️ Stripe |
 | Florence | **hu Firenze camping in town** | ✅ #314185774 — **hu camp Premium — 310 € TOTAL** (2 adultes, sans chien) | 3 nuits | **310,00 €** | 💰 Sur place (confirmé 26/08) |
 | Pompéi | **Camping Spartacus** | ✅ Confirmé (arrivée 17/09 ✅) | 2 nuits | **66,00 €** (33€/nuit) | ✅ Confirmé |
-| Pouilles | **Residence Atlantide** — Monopoli | ✅ CD-0008 | 9 nuits | 336,00 € (acompte 100,80 € + solde 235,20 €) | ✅ **Solde payé le 05/09** (virement) — facture demandée |
+| Pouilles | **Residence Atlantide** — Capitolo (Monopoli) | ✅ CD-0008 | 9 nuits | 336,00 € (acompte 100,80 € + solde 235,20 €) | ✅ **Solde payé le 05/09** (virement) — facture demandée |
 | San Benedetto del Tronto / Cupra Marittima | **Camping Village Led Zeppelin** — Cupra Marittima | ⏳ Walk-in re-confirmé 25/08 | 1 nuit | ~30,00 € | — |
 | Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | ✅ **222,80 € payé** (65,76 € + solde 153,44 € le 25/08) |
 | | *(David & Nancy même camping, 2 emplacements)* | ✅ Réservé | 4 nuits | — | ✅ |
@@ -795,7 +798,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 | **The Camp by Maggiore Suites** | Pitch FRONT FR1 (8m ✅). Hauteur 2,5m OK (<2,60m). Check-in 16h. Code portail: 1593. Plaque: 2FUQ668 |
 | **hu Firenze camping in town** | ✅ **Confirmation officielle reçue le 26/08/2026** (mail hu openair, N° 314185774). **hu camp Premium — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien — pas de Love Pet Pack). **Emplacement ~100-105 m²** (fontaine d'eau privée, électricité, **WiFi gratuit sur l'emplacement**). Inclus : parking 1 véhicule, station vidange, **première fourniture de linge de lit et serviettes**, accès parc aquatique (avril-septembre), WiFi zones communes. Taxe de séjour 3,50 €/nuit/pers = **21 € à l'arrivée**. 💰 **Paiement total (310 €) sur place** — électronique ou espèces (confirmé 26/08). **Tarif Standard : annulation gratuite jusqu'à 24h avant l'arrivée** — coordonnées carte de crédit en garantie. Check-in : réception 24h/7j, clés dès **12h00**, services dès 10h00. Après 23h00 : parking extérieur + heures de silence. Documents : carte d'identité (pas de photos/copies). Emplacement attribué au check-in. 📍 GPS : 43.7646314, 11.3161007. Adresse : Via Generale C. A. dalla Chiesa 1/3, 50136 Firenze |
 | **Pompéi** | **Camping Spartacus** (Via Plinio 127) — ✅ **Confirmé** par Alessandro. **33€/nuit tout compris** (2 pers, CC, électricité, taxes). Arrivée ~15h00 le 17/09/2026 — **confirmée par le camping le 25/08/2026** (« Vi aspettiamo il 17.09 »). CC 8m OK. Piscine, restaurant-pizzeria, Wi-Fi, supérette. 50m entrée Porta Marina — idéal ! |
-| **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli. 19/09→28/09 (9 nuits). ✅ Confirmé via wubook (CD-0008) le 13/01/2026. 336€. Politique annulation: 30 jours. Check-in en ligne fait ✅. **Piazzola adaptée au CC 8 m confirmée + électricité & eau incluses** (confirmation Iolanda, 25/08/2026) |
+| **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli (Località **Capitolo**, GPS 40.9135/17.3443 — 5,5 km au sud du centre). 19/09→28/09 (9 nuits). ✅ Confirmé via wubook (CD-0008) le 13/01/2026. 336€. Politique annulation: 30 jours. Check-in en ligne fait ✅. **Piazzola adaptée au CC 8 m confirmée + électricité & eau incluses** (confirmation Iolanda, 25/08/2026). Centre de Monopoli : bus Capitolo (~1,10 €) / taxi (~10 €) / voiture |
 | **Europa Village** | Réservé via Sandaya (N°06426005202000, client 900189). Emplacement **XL** n°2134 — 29/09 15h00 → 03/10 11h00, 2 pers. ✅ **SOLDE PAYÉ le 25/08/2026** — acompte 30 % (65,76 €) payé le 14/01/2026, solde 153,44 € réglé le 25/08/2026 (confirmation Sandaya reçue). Taxe de séjour **3,60 €** à régler sur place. Total séjour 222,80 €. Cavallino-Treporti, bus+ferry ACTV Venise 45 min. Piscine, plage privée, pinède |
 | **Camping Village Led Zeppelin** | Cupra Marittima (AP) — Via Boccabianca 5. 🌐 campingledzeppelin.it 📞 +39 0735 778125. Piazzola camper 65 m² avec électricité ✅. Ouvert jusqu'au 30/09 ✅. Hauteur max 3,05m ✅. Piscine, plage, restaurant, pizzeria sur place. Simple étape repos 🌅. ⏳ **Pas de résa possible pour 1 nuit** — walk-in accepté. Mail de remerciement + confirmation envoyé le 08/07/2026 ✅. **Relance confirmation arrivée 25/08/2026 → walk-in re-confirmé** (accès direct, électricité OK, sous-passage piazzole mare 3,05 m) |
 | **San Francesco Camping Village** | Desenzano del Garda (BS). ✅ Réservation #654795826. Acompte **140,40 € payé** ✔️ le 14/01/2026 via Mastercard. Solde restant: ~327,60 € à régler sur place. Email reçu de booking@campingsanfrancesco.com |
@@ -837,7 +840,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 - **The Camp by Maggiore Suites (Lac Majeur — Maccagno)** : front pitch FR1 (8m OK). Hauteur max 2,60m — si CC >2,60m, passer par Via Giuseppe Verdi. Code portail: 1593
 - **hu Firenze camping in town** : Via Generale C. A. dalla Chiesa 1/3, 50136 Florence 📍 GPS 43.7646314, 11.3161007. ✅ **Confirmation officielle reçue le 26/08/2026** — **hu camp Premium 310 € TOTAL pour 3 nuits** (2 adultes, sans chien). **Emplacement ~100-105 m²** avec eau, électricité et WiFi gratuits sur l'emplacement ; linge/serviettes fournis. Taxe de séjour 3,50 €/nuit/pers (21 €) à l'arrivée. **Annulation gratuite jusqu'à 24h avant l'arrivée**. Check-in : clés dès 12h00, réception 24h/7j. Tram T1 depuis/vers le centre
 - **Pompéi** : ✅ **Camping Spartacus** (Via Plinio 127, 50m entrée Porta Marina) — résa confirmée ✅, **33€/nuit tout compris**. Arrivée ~15h00 le 17/09 — **confirmée par le camping le 25/08/2026**. Piscine, pizzeria, Wi-Fi
-- **Residence Atlantide (Monopoli)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), taxi, à pied. Centre-ville à 15 min à pied. Piazzola adaptée au CC 8m + eau/électricité incluses (confirmé 25/08/2026). Voir section dédiée 🚗🚶
+- **Residence Camping Atlantide (Monopoli — Capitolo)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (5j), **bus Capitolo–Monopoli (~1,10 €)**, taxi (~10 €), à pied (plages Capitolo). ⚠️ La résidence est à **Capitolo, 5,5 km au sud du centre** (GPS 40.9135, 17.3443) — centre en bus/taxi/voiture, pas à pied. Piazzola adaptée au CC 8m + eau/électricité incluses (confirmé 25/08/2026). Voir section dédiée 🚗🚶🚌
 - **Camping Village Led Zeppelin (Cupra Marittima)** : étape repos à 10 min de San Benedetto del Tronto. Piazzola camper 65 m² avec électricité. Hauteur max 3,05m ✅. Piscine, plage, restaurant. Ouvert jusqu'au 30/09. ⏳ **Pas de réservation possible pour 1 nuit** — walk-in accepté. Mail de remerciement + confirmation envoyé le 08/07/2026 ✅. Walk-in **re-confirmé le 25/08/2026** (accès direct, électricité OK). 🏕️
 - **Camping Europa Village (Cavallino)** : réservé via Sandaya (N°06426005202000). ✅ **Entièrement payé (25/08/2026)** — acompte 65,76 € + solde 153,44 €. Accès Venise : bus + ferry ACTV (45 min). 4 nuits, 3 jours pleins. ⏳ Confirmation d'arrivée demandée le 25/08 — accusé Sandaya reçu (réponse sous 72h). Voir section Venise dédiée 🛶
 - **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte 140,40 € payé le 14/01/2026. Solde ~327,60 €. Piscine, plage. Location vélos sur place. Sunny Cars #15253704 (5j). Voir section dédiée 🚗🚶
