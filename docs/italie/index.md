@@ -146,7 +146,7 @@ Le roadbook principal ne répète plus les programmes détaillés. Les horaires,
 
 ---
 
-## 🚐 Navigation et sécurité
+## 🚐 Notes & Astuces — navigation et sécurité
 
 - Programmer les waypoints validés dans TomTom GO Camper ; ne pas utiliser une destination générale quand un accès camping précis est indiqué.
 - Pour Maccagno : passer par Bâle, Lucerne, Gothard, Bellinzona, Locarno, Luino ; accéder au camping par Via Giuseppe Verdi.
