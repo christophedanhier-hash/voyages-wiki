@@ -1,6 +1,6 @@
 # 🇮🇹 Voyage Italie — Septembre/Octobre 2026
 
-> **🗓️ 11/09/2026 → 11/10/2026 | 🚐 30 jours | 🛌 30 nuits | 📏 ~4104 km**
+> **🗓️ 11/09/2026 → 11/10/2026 | 🚐 31 jours calendaires | 🛌 30 nuits | 📏 ~4 104 km**
 
 ---
 
@@ -8,874 +8,170 @@
 
 | | |
 |:---|:---|
-| **Voyageurs** | Christophe, Sylvie + **David & Nancy** (voisins, rejoignent à Venise J19) |
-| **Véhicules** | 2 camping-cars (à partir de Venise J19) |
-| **Mobilité** | Sylvie : max 5-7 km/j à pied. Pas de VAE à bord — transports : à pied, taxi, bus, voiture de location |
-| **🐕 Nala** | **Pension chez Émilie** (fille de Christophe) — pas du voyage |
-| **Équipement** | Pas de vélos à bord — location possible sur place si besoin (Lac de Garde, Venise Lido) |
-| **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise). ✅ **Schoenau J1 (16 €) + Schoenau retour (13,64 €) payés + Atlantide soldé le 05-06/09/2026** (235,20 € virement, facture par email demandée). ✅ **Europa Village entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place. ✅ **Confirmations d'arrivée reçues le 25/08/2026** (Spartacus, Atlantide, Led Zeppelin). ✅ **hu Firenze : hu camp Premium confirmé le 25/08/2026 — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien — taxe de séjour 21 € à l'arrivée). ✅ **Confirmation officielle reçue le 26/08/2026** (détails complets : emplacement ~100-105 m², WiFi, linge, annulation 24h). 💰 **Paiement total sur place à l'arrivée** (électronique ou espèces — confirmé 26/08/2026) |
-
-> 📥 **[Télécharger le roadbook au format PDF](roadbook-italie-2026.pdf)**
+| **Voyageurs** | Christophe, Sylvie + David & Nancy à partir de Venise |
+| **Véhicules** | 2 camping-cars à partir de Venise |
+| **Camping-car** | 8 m × 2,50 m × 2,80 m — plaque 2FUQ668 |
+| **Mobilité** | Sylvie : maximum 5–7 km à pied/jour ; privilégier bateau, taxi, bus et visites assises |
+| **Nala** | Reste à la maison — aucune contrainte animale pendant le voyage |
+| **Équipement** | Pas de vélos à bord ; location possible sur place |
+| **Réservations** | Campings réservés ; détails et numéros ci-dessous |
 
 ---
 
 ## 🗺️ Carte du trajet
 
-<iframe src="carte-italie.html" width="100%" height="550" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
+<iframe src="carte-italie.html" width="100%" height="550" style="border:2px solid #ccc;border-radius:8px;"></iframe>
 
-> 🗺️ Carte interactive du parcours validé : **10 tronçons, ~4104 km**. Cliquez sur les marqueurs pour voir les étapes. Le tracé suit les variantes autoroute/mixte validées dans l’annexe de navigation.
+> Carte interactive du parcours réel : 10 tronçons et environ 4 104 km. Les détails des excursions sont dans les fiches PDF dédiées.
 
 ---
 
 ## 🗺️ Itinéraire détaillé
 
-| Jour | Date | Étape | Distance (route) | KM cumulé | Nuits | Camping / Service | Coût |
-|:----:|:----:|-------|:----------------:|:---------:|:-----:|-------------------|:----:|
-| 1 | Ven 11/9 | 🏠 **Sombreffe** → **Colmar** (Alsace) | 465 km | 465 | 1 | Aire CC Schoenau ✅ payé | 16,00 € |
-| 2 | Sam 12/9 | 🇫🇷 **Colmar** → **Lac Majeur — Maccagno** 🏞️ | 376 km | 841 | 2 | The Camp by Maggiore Suites | 154,00 € |
-| 3 | Dim 13/9 | ☀️ *Repos & découverte Lac Majeur* | — | 841 | — | — | — |
-| 4 | Lun 14/9 | 🏛️ **Lac Majeur — Maccagno** → **Florence** | 410 km | 1251 | 3 | **hu Firenze camping in town** 🏕️ | 310,00 € |
-| 5 | Mar 15/9 | 🎨 *Visite Florence* | — | 1283 | — | — | — |
-| 6 | Mer 16/9 | 🎨 *Visite Florence* | — | 1283 | — | — | — |
-| 7 | Jeu 17/9 | 🌋 **Florence** → **Pompéi** | 488 km | 1739 | 2 | Camping Spartacus | 66,00 € |
-| 8 | Ven 18/9 | 🏛️ *Visite Pompéi* | — | 1739 | — | — | — |
-| 9 | Sam 19/9 | 🏖️ **Pompéi** → **Monopoli/Capitolo** (Pouilles) | 313 km | 2052 | 9 | Residence Atlantide — Capitolo ✅ payé | 336,00 € |
-| 10 | Dim 20/9 | 🚌 *Monopoli centre (bus Capitolo) + plage* 🏖️ | — | 2052 | — | — | — |
-| 11 | Lun 21/9 | 🚗 *Jour 1 voiture — Vallée des Trulli* 🏡 | — | 2052 | — | — | — |
-| 12 | Mar 22/9 | 🚗 *Jour 2 voiture — Côte adriatique sud* 🏛️ | — | 2052 | — | — | — |
-| 13 | Mer 23/9 | 🚗 *Jour 3 voiture — Lecce ou Matera* 🌆 | — | 2052 | — | — | — |
-| 14 | Jeu 24/9 | 🚗 *Jour 4 voiture — Au choix* 🎯 | — | 2052 | — | — | — |
-| 15 | Ven 25/9 | 🚕 *Rendu voiture 10h + Polignano en taxi* 🌊 | — | 2052 | — | — | — |
-| 16 | Sam 26/9 | ☀️ *Plages & criques* 🏖️ | — | 2052 | — | — | — |
-| 17 | Dim 27/9 | ☀️ *Dernier jour — farniente & criques* ☀️ | — | 2052 | — | — | — |
-| 18 | Lun 28/9 | ⬆️ **Monopoli** → **Camping Village Led Zeppelin — Cupra Marittima** (simple étape repos) | 432 km | 2484 | 1 | Camping Village Led Zeppelin 🏕️ | ~30,00 € |
-| 19 | Mar 29/9 | 🛶 **Cupra Marittima** → **Venise** (Cavallino) | 475 km | 2959 | 4 | Camping Europa Village — Cavallino-Treporti | 222,80 € |
-| 20 | Mer 30/9 | 🎭 *Jour 1 Venise — Cœur historique* 🏛️ | — | 2959 | — | — | — |
-| 21 | Jeu 1/10 | 🏝️ *Jour 2 Venise — Murano & Burano* 🎨 | — | 2959 | — | — | — |
-| 22 | Ven 2/10 | 🛶 *Jour 3 Venise — Lido ou quartiers au choix* 🎯 | — | 2959 | — | — | — |
-| 23 | Sam 3/10 | 🌊 **Venise** → **Lac de Garde** | 164 km | 3123 | 7 | San Francesco Camping Village | 468,00 € |
-| 24 | Dim 4/10 | 🏖️ *Installation + balade Desenzano à pied* 🚶 | — | 3123 | — | — | — |
-| 25 | Lun 5/10 | 🚗 *Jour 1 voiture — Sirmione + rive ouest* 🏰 | — | 3123 | — | — | — |
-| 26 | Mar 6/10 | 🚗 *Jour 2 voiture — Rive est & nord* 🏔️ | — | 3123 | — | — | — |
-| 27 | Mer 7/10 | 🚗 *Jour 3 voiture — Vérone* 🏛️ | — | 3123 | — | — | — |
-| 28 | Jeu 8/10 | 🚗 *Jour 4 voiture — Riva del Garda* 🌊 | — | 3123 | — | — | — |
-| 29 | Ven 9/10 | ☀️ *Dernier jour — farniente & plages* ☀️ | — | 3123 | — | — | — |
-| 30 | Sam 10/10 | 🇫🇷 **Lac de Garde** → **Colmar** | 515 km | 3638 | 1 | Aire CC Schoenau ✅ payé | 13,64 € |
-| 31 | Dim 11/10 | 🏁 **Colmar** → **Sombreffe** — *Retour maison* | 466 km | **4104** | — | — | — |
-
-### Distances routières & temps estimé (CC à 100 km/h max)
-
-| Trajet | Distance route | Temps de route* | Via / consigne TomTom |
-|:-------|:--------------:|:---------------:|:----|
-| 🏠 **Sombreffe → Colmar** | 465 km | 5h02 | Parcours mixte : E411 – Luxembourg – A31 – grands axes – A35 |
-| 🏞️ **Colmar → Maccagno** | 376 km | 5h10 | Suisse : Bâle – Lucerne – Gothard – Bellinzona – Locarno – **Luino** – Via Giuseppe Verdi |
-| 🏛️ **Maccagno → Florence** | 410 km | 4h57 | **Luino** – Varese – Autostrada dei Laghi – A1 – Variante di Valico |
-| 🌋 **Florence → Pompéi** | 488 km | 5h00 | A1 – Variante di Valico – A30/A3 – Via Plinio |
-| 🏖️ **Pompéi → Monopoli** | 313 km | 4h01 | SS268 – A30 – Autostrada dei Due Mari – A14 – SS16 |
-| ↕️ **Monopoli → Led Zeppelin** | 432 km | 4h37 | SS16 / A14 – Pescara – San Benedetto – Cupra |
-| ↕️ **Led Zeppelin → Venise** | 475 km | 5h12 | A14 – A13 – A4 – **Mestre** – Via Fausta |
-| 🌊 **Venise → Lac de Garde** | 164 km | 1h38 | Via Fausta – **Mestre** – A4 – Desenzano |
-| 🏁 **Lac de Garde → Colmar** | 515 km | 5h57 | A4 – Milan – Autostrada dei Laghi – Gothard – Bâle – A35 |
-| 🏁 **Colmar → Sombreffe** | 466 km | 5h04 | A35 – Strasbourg – A31 – Luxembourg – E411 |
-| | **Total** | **4 104 km** | **46h38 de conduite** | |
-
-> ⏱️ *Temps de conduite calculés avec les itinéraires validés et le profil CC. Prévoir en plus les pauses : repas de 30 minutes à midi et arrêts courts. Les temps réels restent dépendants du trafic, des travaux et du Gothard.*
-
-> 🚐 **Consigne générale TomTom :** programmer le profil 8 m × 2,50 m × 2,80 m et utiliser les waypoints indiqués pour éviter les routes étroites ou les variantes de montagne.
-
-## 🏛️ Visites & Culture
-
-### 🏞️ Lac Majeur — Maccagno (J2–J3 · 2 nuits)
-
-**Base :** The Camp by Maggiore Suites — Maccagno, Lago Maggiore (Front Pitch FR1)
-
-> 🗺️ **Carte interactive du Lac Majeur** — Camp de base, POIs, restaurants et itinéraire conseillé :
-> <iframe src="carte-maggiore-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
-
-**🎭 Visites accessibles :**
-
-| Site | Distance à pied | Accès | Prix | Durée | Astuce | 🎟️ Réservation |
-|:-----|:---------------:|:-----:|:----:|:-----:|:-------|:---------------|
-| 🌴 **Îles Borromées — Isola Bella** 🏰 | 0 (débarquer ferry) | Bateau 20 min depuis Maccagno | ~15 € | 2h | Palais Borromée + jardins en terrasse. Accès ferry direct | sur getyourguide.com |
-| 🏡 **Isola dei Pescatori** | 0 (débarquer) | Bateau 25 min | Gratuit (île) | 1h | Village de pêcheurs, ruelles plates, boucle rapide | — |
-| 🌸 **Villa Taranto** (Verbania) | 200 m ✅ | Voiture 25 min ou bateau 40 min | 13 € | 1h30 | **Incontournable** 🌟 Jardins botaniques parmi les plus beaux d'Europe, plat, accessible | sur getyourguide.com |
-| 🏛️ **Stresa — centre** | 0 (débarquer) | Bateau 30 min | Gratuit | 1h30 | Belle promenade lacustre piétonne, cafés, glacier | — |
-| ⛪ **Santa Caterina del Sasso** (ermitage) | Escaliers ⚠️ | Voiture 15 min | 5 € | 45 min | Église rupestre accrochée à la falaise. Magnifique vue | — |
-| 🛍️ **Luino — marché** (mercredi) | 300 m plat ✅ | Voiture 5 min / bateau 10 min | Gratuit | 1h | Grand marché hebdomadaire, ambiance locale | — |
-| 🚤 **Tour privé en bateau** | — | Départ Maccagno | 60-100 € | 1-2h | Skipper privé, découverte des îles | sur getyourguide.com |
-
-**🛥️ Meilleur plan :** Prendre le **ferry public** depuis Maccagno (ligne Locarno–Arona) pour une boucle Maccagno → Luino → Isola Bella → Stresa. Les ferries sont adaptés aux PMR.
-
-**🎯 Balades à pied & ferry :**
-
-| Activité | Temps | Accès |
-|:---------|:-----:|:------|
-| **Maccagno — promenade lacustre** (via Lungolago) | 20 min → 1h A/R | À pied depuis le camping |
-| **Ferry Maccagno → Isola Bella → Stresa** | 30-45 min de traversée | Débarcadère Maccagno à 500 m du camping |
-
-**⚠️ Astuces CC 8m :**
-- Hauteur max route d'accès : **2,60 m** — via Giuseppe Verdi si + haut (cf. email camping ✅)
-- Parking camping : emplacement FR1 dédié, le CC reste sur place
-- Maccagno centre est à 5 min à pied du camping
-- **Hauteur CC : bien vérifier avant le tunnel du Gotthard (4m) — aucun problème pour un CC classique**
-- Ferry Maccagno → toutes les îles sans voiture. Le CC reste au camping.
-
-### 🍝 Manger près du camping (Maccagno)
-
-| Restaurant | Type | Ambiance |
-|:-----------|:----:|:---------|
-| **Ristorante Al Giona** | 🐟 Poisson du lac | Terrasse vue lac, cuisine locale, à 300 m du camping |
-| **La Veranda del Lago** | 🍝 Traditionnel | Famille, poisson frais, prix corrects |
-| **Pizzeria Da Franco** | 🍕 Pizza | Simple, bon rapport qualité/prix, centre Maccagno |
-| **Gelateria Artigianale** 🍨 | Centre Maccagno | Glaces artisanales, balade digestive |
+| Jour | Date | Étape / programme essentiel | Distance | KM cumulé | Nuit / service |
+|:---:|:---|:---|---:|---:|:---|
+| 1 | 11/09 | Sombreffe → Colmar | 465 km | 465 | Aire CC Schoenau — payé |
+| 2 | 12/09 | Colmar → Maccagno, Lac Majeur | 376 km | 841 | The Camp by Maggiore Suites |
+| 3 | 13/09 | Lac Majeur — excursion | — | 841 | The Camp |
+| 4 | 14/09 | Maccagno → Florence | 410 km | 1 251 | hu Firenze Premium |
+| 5 | 15/09 | Florence — visite | — | 1 251 | hu Firenze |
+| 6 | 16/09 | Florence — visite | — | 1 251 | hu Firenze |
+| 7 | 17/09 | Florence → Pompéi | 488 km | 1 739 | Camping Spartacus |
+| 8 | 18/09 | Pompéi — visite | — | 1 739 | Camping Spartacus |
+| 9 | 19/09 | Pompéi → Capitolo / Monopoli | 313 km | 2 052 | Residence Atlantide |
+| 10 | 20/09 | Monopoli centre / plage | — | 2 052 | Residence Atlantide |
+| 11 | 21/09 | Vallée des Trulli — voiture après 10h | — | 2 052 | Residence Atlantide |
+| 12 | 22/09 | Ostuni / côte adriatique — voiture | — | 2 052 | Residence Atlantide |
+| 13 | 23/09 | Matera ou Lecce — voiture | — | 2 052 | Residence Atlantide |
+| 14 | 24/09 | Dernière journée voiture | — | 2 052 | Residence Atlantide |
+| 15 | 25/09 | Retour voiture 10h à Monopoli → Polignano en taxi | — | 2 052 | Residence Atlantide |
+| 16 | 26/09 | Plages et criques | — | 2 052 | Residence Atlantide |
+| 17 | 27/09 | Repos / criques | — | 2 052 | Residence Atlantide |
+| 18 | 28/09 | Monopoli → Cupra Marittima | 432 km | 2 484 | Led Zeppelin — walk-in |
+| 19 | 29/09 | Cupra → Cavallino / Venise | 475 km | 2 959 | Europa Village — payé |
+| 20 | 30/09 | Venise — cœur historique | — | 2 959 | Europa Village |
+| 21 | 01/10 | Venise — Murano & Burano | — | 2 959 | Europa Village |
+| 22 | 02/10 | Venise — Lido ou quartiers | — | 2 959 | Europa Village |
+| 23 | 03/10 | Cavallino → Lac de Garde / Desenzano | 164 km | 3 123 | San Francesco |
+| 24 | 04/10 | Lac de Garde — bateaux, sans voiture | — | 3 123 | San Francesco |
+| 25 | 05/10 | Prise voiture 10h → Sirmione, Salò, Gardone | — | 3 123 | San Francesco |
+| 26 | 06/10 | Torri, Bardolino, Malcesine — voiture | — | 3 123 | San Francesco |
+| 27 | 07/10 | Vérone — voiture | — | 3 123 | San Francesco |
+| 28 | 08/10 | Riva del Garda / Torbole — voiture | — | 3 123 | San Francesco |
+| 29 | 09/10 | Retour voiture 10h ; repos au camping | — | 3 123 | San Francesco |
+| 30 | 10/10 | Desenzano → Colmar | 515 km | 3 638 | Aire CC Schoenau — payé |
+| 31 | 11/10 | Colmar → Sombreffe | 466 km | **4 104** | Retour maison |
 
 ---
 
-### 🏛️ Florence (J4–J6 · 3 nuits)
+## 📏 Distances routières validées
 
-**Base :** Florence Sud — Confort et Nature
+| Tronçon | Distance | Temps de conduite | Consigne TomTom |
+|:---|---:|---:|:---|
+| Sombreffe → Colmar | 465 km | 5h02 | E411, Luxembourg, A31, A35 |
+| Colmar → Maccagno | 376 km | 5h10 | Bâle, Lucerne, Gothard, Bellinzona, Locarno, Luino, Via Giuseppe Verdi |
+| Maccagno → Florence | 410 km | 4h57 | Luino, Varese, A1, Variante di Valico |
+| Florence → Pompéi | 488 km | 5h00 | A1, A30/A3, Via Plinio |
+| Pompéi → Monopoli | 313 km | 4h01 | SS268, A30, A14, SS16 |
+| Monopoli → Cupra | 432 km | 4h37 | SS16 / A14 |
+| Cupra → Venise | 475 km | 5h12 | A14, A13, A4, Mestre, Via Fausta |
+| Venise → Lac de Garde | 164 km | 1h38 | Mestre, A4, Desenzano |
+| Lac de Garde → Colmar | 515 km | 5h57 | A4, Milan, Gothard, Bâle, A35 |
+| Colmar → Sombreffe | 466 km | 5h04 | A35, Strasbourg, A31, Luxembourg, E411 |
+| **Total** | **4 104 km** | **46h38** | Prévoir repas et pauses en plus |
 
-> 🗺️ **Carte interactive de Florence** — Camp de base (hu Firenze Camping in Town), POIs culturels, restaurants et parcours piéton Jour 1 :
-> <iframe src="carte-florence-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
-
-**⚠️ RÈGLE #1 : ZTL Florence — NE JAMAIS entrer dans la ZTL avec le CC (amende 80-300 € par flash).**
-
-**🅿️ Parking recommandé CC 8m : Florence Park Scandicci** (bus n°6 + Tram T1 → centre en 15 min, 20 €/jour, pas de limite de taille).
-
-**🎭 Plan de visite (2 jours, accessibilité optimisée) :**
-
-**Jour 1 — Centre historique (~3,5 km, plat ✅)**
-: Tram T1 (gare SMN) → **Duomo** (extérieur + intérieur, gratuit, accessible) → **Accademia — David** (650 m, rampe à droite, ascenseur ✅) → Déjeuner → **Piazza Signoria** (300 m, plat) → **Galerie des Offices** (250 m, rampe via della Ninna, ascenseurs ✅, ~2h) → **Ponte Vecchio** (250 m, piéton, plat) → Tram retour
-
-**Jour 2 — Oltrarno + Piazzale Michelangelo (~4 km, côte modérée)**
-: Tram T1 → **Palazzo Pitti** (depuis Ponte Vecchio, 500 m) → **Jardins de Boboli** (accès direct, terrain vallonné) → Déjeuner Oltrarno → **Piazzale Michelangelo** (1,5 km montée — à faire **en bus 12/13**) → Panorama 360° sur Florence
-
-**🎟️ Billets coupe-file** : Réserver Uffizi et Accademia sur [B-ticket.com](https://www.b-ticket.com) ou [Uffizi.it](https://www.uffizi.it). Sans réservation, compter 2-3h de queue l'été.
-
-**🎯 Accès Piazzale Michelangelo :** bus 12/13 depuis le centre. La montée en bus est simple et économique (~1,50 €).
-
-**🎭 Visites & billets :**
-
-| Site | Accès | Prix | Durée | Accessible Sylvie ? | 🎟️ Réservation |
-|:-----|:-----:|:----:|:-----:|:-------------------:|:---------------|
-| 🗿 **Galleria Accademia (David)** | Tram T1 + 650 m | 12 € | 1h | ✅ Rampe à droite, ascenseur | sur getyourguide.com |
-| 🖼️ **Galerie des Offices** | 250 m depuis Piazza Signoria | 20 € | 2h | ✅ Rampe via della Ninna, ascenseurs | sur getyourguide.com |
-| ⛪ **Duomo (Cathédrale Sainte-Marie-des-Fleurs)** | Centre ville | Gratuit (extérieur + intérieur) | 30 min | ✅ Plat, accessible | — |
-| 🏛️ **Palazzo Vecchio** | Piazza Signoria | 12,50 € | 1h30 | ✅ Ascenseur | sur getyourguide.com |
-| 🏰 **Palazzo Pitti & Jardins Boboli** | Oltrarno (500 m depuis Ponte Vecchio) | 16 € (combo) | 2h | ✅ Jardins accessibles | sur getyourguide.com |
-| 🌄 **Piazzale Michelangelo** | Bus 12/13 depuis centre | Gratuit | 30 min | ✅ Bus direct, vue panoramique | — |
-| 🍷 **Dégustation vins toscans** | Centre ou environs | ~40-60 € | 2h | ✅ | sur getyourguide.com |
-
-> 💡 **Conseil réservation :** Les **Office** et **Accademia** sont très demandés — réserver **obligatoire** en haute saison (septembre). Sans résa, compter 2-3h de queue. Réserver sur [B-ticket.com](https://www.b-ticket.com) ou GetYourGuide.
-
-### 🍝 Manger à Florence
-
-| Restaurant | Type | Coin | Ambiance |
-|:-----------|:----:|:----:|:---------|
-| **Trattoria Mario** | 🍝 Traditionnel | San Lorenzo | Authentique, pas cher, menu du jour |
-| **All'Antico Vinaio** | 🥪 Sandwichs | Via dei Neri | Mythique, énormes, 7 € |
-| **Gusta Pizza** | 🍕 Pizza | Santo Spirito | La meilleure pizza de Florence |
-| **Mercato Centrale** | 🥟 Street food | San Lorenzo | Halles, étages, tout type |
-| **La Carraia** | 🍨 Gelato | Lungarno | Réputée meilleure glace de Florence |
+> Profil TomTom : CC 8 m × 2,50 m × 2,80 m ; maximum 100 km/h sur autoroute et 80 km/h ailleurs. Vignette suisse annuelle déjà achetée : 40 CHF, valable aller et retour.
 
 ---
 
-### 🌋 Pompéi (J7–J8 · 2 nuits)
+## 🏛️ Visites & fiches d’excursion
 
-**Base :** Camping Spartacus (Via Plinio 127) — à 50m de l'entrée Porta Marina ✅
+Le roadbook principal ne répète plus les programmes détaillés. Les horaires, cartes, prix, plans B et références sont dans les fiches PDF :
 
-> 🗺️ **Carte interactive de Pompéi** — Camp de base, sites archéologiques, parcours accessible et restaurants :
-> <iframe src="carte-pompei-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
-
-**🎭 Parcours adapté à Sylvie :**
-
-Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. Mais il existe un **parcours accessible « Pompei per tutti »** :
-
-| 💡 | Info |
-|:---|:-----|
-| **Entrée recommandée** | **Piazza Anfiteatro** (plate) — parking à 8 min |
-| **Parcours** | Amphithéâtre → Via dell'Abbondanza → Forum → Antiquarium |
-| **Distance** | **~2,5 km** (bien dans la limite de Sylvie ✅) |
-| **Fauteuil roulant** | Prêt **gratuit** à l'entrée Piazza Anfiteatro (arriver avant 9h) |
-| **Tarif handicap** | **Gratuit** pour Sylvie + 1 accompagnateur (carte handicap UE) |
-| **Points d'eau** | Fontaines partout, bancs, café CHORA au Forum |
-
-**Parcours recommandé :**
-1. 🏟️ **Amphithéâtre** (15 min)
-2. 🏛️ **Grande Palestre** (10 min)
-3. 🏘️ **Via dell'Abbondanza** (rue commerçante, thermopolia, graffitis)
-4. 🏠 **Maison de la Vénus à la Coquille** (10 min)
-5. 🏠 **Maison d'Octavius Quartio** (10 min)
-6. 🏛️ **Forum + Basilique + Temple d'Apollon** (30 min)
-7. 🖼️ **Antiquarium** (frais, moulages des victimes, 20 min)
-8. Sortie Piazza Anfiteatro (replat) → pause café au CHORA
-
-**🎟️ Billets :** Réserver sur [GetYourGuide](https://www.getyourguide.com/fr-fr/) (rechercher "Pompeii skip the line") ou sur le site officiel [ticketspompei.it](https://www.ticketspompei.it). **Tarif handicap : gratuit** pour Sylvie + 1 accompagnateur (carte handicap UE) ✅ — pas de réservation nécessaire.
----
-
-**🔄 Alternative : Herculanum (plus petit, mieux conservé)**
-
-| Critère | Pompéi | Herculanum |
-|:--------|:------:|:----------:|
-| **Superficie** | 66 ha (dont 44 ha fouillés) | **20 ha (dont 4,5 ha fouillés)** |
-| **Temps visite** | 3-6h | **2-3h** ✅ |
-| **Marche minimale** | ~2,5 km (parcours accessible) | **~1,5 km** ✅ |
-| **Foule** | 3 millions/an | **10× moins** ✅ |
-| **Conservation** | Bonne (murs, fresques) | **Exceptionnelle** (bois, toits, papyrus) |
-
-> 💡 **Notre conseil :** visite Pompéi 2h (parcours accessible via Piazza Anfiteatro) puis direction Herculanum l'après-midi pour une visite plus tranquille et mieux conservée. Les 2 sites se complètent parfaitement.
-
-**⚠️ Astuces CC 8m :**
-- **Camping Spartacus** (Via Plinio, 127 — 50 m des fouilles) : 🏕️ Piazzole avec eau + électricité. Chiens admis. Ouvert toute l'année. Tél: +39 081 862 40 78.
-- **Camping Pompei** (face à l'entrée) : alternative, en face des fouilles.
-- Parking Via Plinio (parkings restaurants) — 10 €/jour si camping complet.
-- Arriver avant **9h** en haute saison.
-- Le CC reste au parking/camping, les fouilles sont à **50 m à pied** ✅
-- Pompéi est très chaude l'été — prévoir eau + chapeau
-
-### 🍝 Manger près de Pompéi
-
-| Restaurant | Type | Ambiance |
-|:-----------|:----:|:---------|
-| **Trammiere** | 🍕 Pizza | À 3 km, four au bois, pâtes aussi |
-| **La Bettola del Gusto** | 🍝 Cuisine locale | Produits frais, conviviale |
-| **Pub27** | 🍔 Burgers | Pas cher, rapide |
-| **Enoteca Masseria** | 🍷 Vins + planches | Dégustation produits du terroir |
+| Zone | Fiche | Contenu |
+|:---|:---|:---|
+| Lac Majeur | [Fiche 1A — Plan bateau](https://drive.google.com/file/d/1VbGIuip_KmJ8O9punBR0-uUQXpj8c8Pf/view) | Maccagno → Isola Bella, déjeuner, palais Borromeo, retour |
+| Lac Majeur | [Fiche 1B — Variante Stresa](https://drive.google.com/file/d/1nOFb3zdbyet2IlLNMQitfI1wVeT6ztRP/view) | Eremo en route, Stresa, Isola Bella |
+| Lac Majeur | Fiche 1C — Eremo en CC | Monastère de Santa Caterina del Sasso seul |
+| Florence | [Fiche 2 — Florence](https://drive.google.com/file/d/1CEzpaZmEoQhw0WCQ1QSHAtYz-Co7kSeM/view) | Duomo, San Lorenzo, SMN, Uffizi, Doges, bus panoramique |
+| Pompéi | Fiche 3 — Pompéi | Pompei+, entrée Piazza Esedra, parcours sud→nord |
+| Pouilles | [Fiche 4 — Pouilles](https://drive.google.com/file/d/1NEKhgiLTWztMsQIkECXnxAmgFLk3_zgP/view) | Trulli, Ostuni, Matera/Lecce, Polignano |
+| Venise | [Fiche 5 — Venise](https://drive.google.com/file/d/1NAYSXWy-sen6d5AUt4NSAXSTs3RWp6PK/view) | San Marco, Doges, Rialto, Murano, Burano |
+| Lac de Garde | [Fiche 6 — Lac de Garde](https://drive.google.com/file/d/1_Hm3e-fNkKhmphjlWz97tlNsn4tXGFP8/view) | Bateaux, Sirmione, Salò, rive est, Vérone, Riva |
 
 ---
 
-### 🏖️ Monopoli — Pouilles (J9–J17 · 9 nuits)
+## 🏕️ Campings & réservations
 
-**🏠 Base :** Residence Camping Atlantide (C.da Lamandia 13/E, **Località Capitolo** — GPS 40.9135, 17.3443) — le CC reste **garé** pendant tout le séjour (9 nuits). Déplacements : à pied 🚶 (plages Capitolo), **bus Capitolo–Monopoli 🚌 (~1,10 €)**, taxi 🚕 (~10 €) ou voiture de location 🚗.
+| Étape | Hébergement | Réservation / paiement | Coût |
+|:---|:---|:---|---:|
+| Colmar aller | Aire CC Schoenau | Réservée et payée | 16,00 € |
+| Maccagno | The Camp by Maggiore Suites | #32877 ; pitch FR1 ; 8 m OK | 154,00 € |
+| Florence | hu Firenze Premium | #314185774 ; 310 € total ; taxe à l’arrivée | 310,00 € |
+| Pompéi | Camping Spartacus | Confirmé ; Via Plinio 127 | 66,00 € |
+| Pouilles | Residence Atlantide, Capitolo | CD-0008 ; solde payé le 05/09 | 336,00 € |
+| Cupra | Camping Led Zeppelin | Walk-in confirmé ; hauteur 3,05 m | ~30,00 € |
+| Venise | Europa Village, Cavallino | #06426005202000 ; entièrement payé | 222,80 € |
+| Lac de Garde | San Francesco Camping Village | #654795826 ; acompte payé ; solde ~327,60 € | 468,00 € |
+| Colmar retour | Aire CC Schoenau | Réservée et payée | 13,64 € |
 
-> ⚠️ **Correction distance (06/09/2026) :** la Residence Atlantide est à **Capitolo, à 5,5 km au SUD du centre de Monopoli** — et non « 15 min à pied » comme noté initialement. Le centre historique se rejoint en **bus Capitolo–Monopoli** (Miccolis, ~40 courses/jour lun-sam, 20 le dim, ~1,10 €, arrêt à ~100 m de la résidence) ou en **taxi (~10 €)** — ou avec la voiture de location les jours 21-25/09.
+### Locations de voiture
 
-> 🗺️ **Carte interactive des Pouilles** — Camp de base (Monopoli), sites à pied, excursions en voiture et restaurants :
-> <iframe src="carte-monopoli-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
+- **Pouilles — Sunny Cars #15253750 :** réception lundi 21/09 à 10h00, retour vendredi 25/09 à 10h00 à Monopoli ; 386 € payés.
+- **Lac de Garde — Sunny Cars #15253704 :** prise lundi 05/10 à 10h00, retour vendredi 09/10 à 10h00 à Desenzano ; 293 € payés ; **4 jours réels**.
+- **Vendredi 09/10 après 10h :** aucune visite en voiture ; repos au camping.
 
-**🚗 Location voiture :** Sunny Cars réservation **#15253750** — 5 jours. ✅ **Voucher reçu le 28/07/2026** — paiement 386,00 € confirmé. ⚠️ **Réception LUNDI 21/09 à 10h00 à Monopoli** → **Retour VENDREDI 25/09 à 10h00 à Monopoli** (agence). Le Jour 1 (Trulli) démarre après la prise (~10h45) et le vendredi se fait sans voiture (Polignano en taxi). Idéal pour rayonner : Alberobello, Ostuni, Lecce, Matera à portée (lun→jeu).
+### Contraintes importantes
 
-**📋 Organisation du séjour :**
-
-| Jour | Date | Activité | Transport |
-|:----:|:----:|----------|:---------:|
-| 🏁 | Sam 19/9 | Arrivée, installation — promenade plage de Capitolo | 🚶 |
-| 🚶 | Dim 20/9 | **Monopoli centre** (bus Capitolo ou taxi) OU plage Capitolo | 🚌🚕 |
-| 🏡 | Lun 21/9 | **Réception voiture 10h00** Monopoli → **Vallée des Trulli** : Alberobello, Locorotondo, Martina Franca | 🚗 |
-| 🏛️ | Mar 22/9 | **Côte sud** : Ostuni + plages Torre Canne → Capitolo | 🚗 |
-| 🌆 | Mer 23/9 | **Grande excursion** : Matera (Sassi UNESCO) toute la journée | 🚗 |
-| 🎯 | Jeu 24/9 | **Lecce** (Florence du Sud) ou Castellana Grotte | 🚗 |
-| 🚙 | Ven 25/9 | **Rendre voiture 10h00** à Monopoli → Polignano a Mare en **taxi** | 🚕 |
-| | ☀️ | Sam 26/9 | Plages & criques de Capitolo 🏖️ (Porto Ghiacciolo, Santo Stefano) | 🚶 |
-| | ☀️ | Dim 27/9 | Dernier jour — farniente criques, gelato 🍨 (ou Monopoli en bus) | 🚶🚌 |
-| ⬆️ | Lun 28/9 | Départ → Camping Village Led Zeppelin (Cupra Marittima) | 🚐 |
-
-**🎭 Visites à pied dans Monopoli (accessible Sylvie ✅) :**
-
-Le centre historique est compact et plat — se visite en **1-2h** à votre rythme.
-
-| Site | Description | Temps | Entrée |
-|:-----|:------------|:-----:|:------:|
-| ⛪ **Cathédrale Maria Santissima della Madia** | Baroque, crypte archéologique, icône de la Madone | 30 min | Gratuit |
-| 🏰 **Château Carlo V** | Forteresse XVIe, vue panoramique sur le port | 20 min | 10 € (extérieur gratuit) |
-| 🚤 **Porto Antico** | Barques rouges et bleues, pêcheurs, photogénique | 15 min | Gratuit |
-| 🌊 **Cala Porta Vecchia** | Plage sous les remparts, eau turquoise | Libre | Gratuit |
-| 🏘️ **Via Papacenere** | Promenade longeant les remparts + ruelles fleuries | 15 min | Gratuit |
-| ⛪ **Chiesa del Purgatorio** | Église baroque, façade avec symboles funèbres | 10 min | Gratuit |
-| 🛍️ **Piazza Garibaldi** | Place principale, cafés, ambiance locale | Libre | Gratuit |
-
-> 💡 **Free Walking Tour** de Monopoli (donation libre) : réserver sur [freewalkingtouritalia.com](https://freewalkingtouritalia.com/free-walking-tour/free-walking-tour-monopoli/)
-
-**📌 Astuces :**
-- Meilleur moment : **fin d'après-midi** pour la lumière dorée sur le port
-- Gelato chez **Dal Siciliano** (arancini aussi) ou **Caffè Roma**
-- **⚠️ ZTL active** dans le centre — la voiture de location ne doit pas y entrer
+- Atlantide est à **Capitolo**, 5,5 km au sud du centre de Monopoli : bus, taxi ou voiture ; pas de trajet à pied vers le centre.
+- Venise : CC garés au camping Europa ; accès par bus + ferry ACTV.
+- Lac de Garde : les horaires été officiels des bateaux sont publiés jusqu’au 04/10/2026 ; confirmer au quai le dimanche 04/10.
+- ZTL : ne jamais entrer avec le CC dans Florence, Vérone, Sirmione ou les centres historiques.
 
 ---
 
-### 🚗 Excursions en voiture — jour par jour
+## 💰 Budget estimé
 
-**🗓️ Jour 1 — Vallée des Trulli (Lun 21/9 — ~50 km)**
+| Poste | Estimation |
+|:---|---:|
+| Campings et aires | **1 616,44 €** |
+| Locations de voitures | 679 € |
+| Carburant CC | ~718 € — 4 104 km × 10 L/100 × ~1,75 € |
+| Péages italiens | ~293 € |
+| Vignette suisse | ~42 € |
+| Visites et activités | ~435 € |
+| **Total estimé** | **~3 783 €** |
 
-⚠️ **Réception de la voiture à 10h00 à Monopoli** — l'excursion démarre après la prise du véhicule (~10h45).
-
-| Horaire | Site | Distance de Monopoli | Temps visite |
-|:-------:|:-----|:--------------------:|:-----------:|
-| 10h00 | 🔑 **Réception voiture** (agence Monopoli) | — | — |
-| 10h45-12h45 | 🏡 **Alberobello** — Trulli UNESCO | 21 km / 25 min | 2h |
-| 13h00-14h15 | 🏘️ **Locorotondo** — balcon fleuri + déjeuner | 30 km / 30 min | 1h15 |
-| 14h45-16h15 | 🎭 **Martina Franca** — baroque | 33 km / 30 min | 1h30 |
-| 16h30-17h30 | 🦇 **Castellana Grotte** — grottes (option) | 15 km / 15 min | 1h |
-| 18h00 | Retour Monopoli / Capitolo | 30 km / 30 min | — |
-
-- **Alberobello :** parcourir le quartier **Aia Piccola** (moins touristique que Monti). Parking Via Isonzo (gratuit, 5 min du centre).
-- **Locorotondo :** village perché, vue sur la vallée d'Itria. Ruelles blanches, balcons fleuris.
-- **Martina Franca :** palais et églises baroques, place XX Settembre.
-- **Astuce :** Route panoramique **SP13** entre Alberobello et Locorotondo — oliviers à perte de vue ✨
-- Option : si la journée est trop chargée après la réception, sacrifier Castellana Grotte et rentrer vers 17h.
-
-**🗓️ Jour 2 — Côte adriatique sud (Mar 22/9 — ~80 km)**
-
-| Horaire | Site | Distance de Monopoli | Temps visite |
-|:-------:|:-----|:--------------------:|:-----------:|
-| 9h30 | 🤍 **Ostuni** — la ville blanche perchée | 35 km / 40 min | 2h |
-| 12h | 🏖️ **Torre Canne** — plage + déjeuner | 48 km / 50 min | 1h30 |
-| 15h | 🏖️ **Capitolo / Torre a Mare** — criques | 58 km / 1h | 1h30 |
-
-- **Ostuni :** un coup de cœur ❤️. Vieille ville blanche éblouissante, cathédrale, vue sur la mer jusqu'au Gargano. Arriver **tôt** (avant 10h) pour éviter la foule. Parking : parcheggio Via Giovanni XXIII.
-- **Plages :** eau cristalline, plages de sable entre Torre Canne et Capitolo.
-
-**🗓️ Jour 3 — Matera (Mer 23/9 — ~150 km A/R — journée entière)**
-
-| Horaire | Activité | Distance de Monopoli |
-|:-------:|:---------|:--------------------:|
-| 9h-9h30 | 🚗 Route Monopoli → **Matera** | 75 km / 1h10 |
-| 10h-13h | 🪨 **Sassi de Matera** — Site UNESCO | Visite ~3h |
-| 13h | 🍝 Déjeuner dans un **ristoro rupestre** | — |
-| 14h30-16h | 🏛️ **Casa Grotta + Musée** | 1h30 |
-| 16h-17h | 🚗 Retour Monopoli | 75 km / 1h10 |
-
-- **Matera** : l'une des plus anciennes villes habitées au monde. Les **Sassi** (quartiers troglodytes) sont classés UNESCO. Sublime.
-- **Visite :** Parcours piéton dans les Sassi — prévoir de la marche (descendre/remonter). Sylvie : accessible mais prévoir rythme cool avec pauses dans les cafés panoramiques.
-- **Parking :** **Parcheggio Via delle Beccherie** ou **Parcheggio centrale Matera** (proche Sassi).
-- **Astuce :** Réserver à l'avance la visite de la **Casa Grotta di Vico Solitario** (~3-5 €).
-
-**🗓️ Jour 4 — Lecce (Jeu 24/9 — ~170 km A/R)**
-
-| Horaire | Activité | Distance de Monopoli |
-|:-------:|:---------|:--------------------:|
-| 9h-10h15 | 🚗 Route Monopoli → **Lecce** | 85 km / 1h10 |
-| 10h15-13h | 🎭 **Lecce baroque** — Basilique Santa Croce, Piazza Duomo, amphithéâtre romain | Visite ~3h |
-| 13h | 🍝 Déjeuner — pasta *leccese* | — |
-| 14h30-16h | 🎨 Flânerie dans la vieille ville + petit train (option) | 1h30 |
-
-- **Lecce :** la « Florence du Sud ». Baroque absolument partout. Basilique Santa Croce, cathédrale, amphithéâtre romain.
-- **Mobilité Sylvie :** vieille ville plate ✅, idéale pour flâner. **Petit train touristique** disponible (10 €/adulte, gratuit -7 ans).
-- **Parking :** **Parcheggio Ex-Foro Boario** (grand, pas cher, 10 min à pied du centre).
-
-> **Alternative Jour 4 au lieu de Lecce :** **Castellana Grotte** (15 min, 1h de visite, 13 €) + piscines naturelles de **Torre dell'Orso** (mer turquoise, 50 min). Option plus tranquille.
-
-**🗓️ Jour 5 — Rendu voiture + Polignano en taxi (Ven 25/9)**
-
-⚠️ **La voiture Sunny Cars est rendue le vendredi 25/09 à 10h00 à Monopoli** (agence) — plus de voiture ce jour-là. Polignano (9 km au nord de Monopoli) se fait en **taxi** (~15 € la course, 10-15 min).
-
-| Horaire | Activité |
-|:-------:|:---------|
-| 9h15 | 🚗 Départ Capitolo en voiture (dernier trajet) |
-| 10h00 | 🔑 **Rendre la voiture** à l'agence de Monopoli |
-| 10h15 | 🚕 Taxi Monopoli → Polignano a Mare (~15 €) |
-| 10h45-13h | 🌊 **Polignano a Mare** — falaises, Lama Monachile, balade |
-| 13h-14h | 🍝 Déjeuner Polignano (vue mer) |
-| 14h15 | 🚕 Taxi Polignano → Capitolo (~20 €) ou bus + Capitolo |
-| 15h30 | 🏖️ Retour résidence — repos, piscine |
-
-- **Polignano a Mare :** falaises vertigineuses, Lama Monachile (plage iconique entre deux falaises). Plus touristique mais incontournable. Le taxi dépose au centre — parking inutile.
-- Option : si météo mauvaise le vendredi, Polignano peut se faire le **samedi 26 matin** en taxi (même principe).
+> Budget hors achats personnels et repas. Le coût BAVI LEO n’est pas affiché : il s’agit d’un voyage de Christophe.
 
 ---
 
-### 🚶 Balades à pied & baignade
-
-Les jours sans voiture (Sam 19, Dim 20, Sam 26 + Dim 27/9) se feront à pied pour les plages de Capitolo, ou bus/taxi pour le centre de Monopoli :
-
-| Balade | Distance | Temps | Description |
-|:-----------|:--------:|:-----:|:------------|
-| **Plage Capitolo** (depuis la résidence) | 300 m | 5 min | Sable, eau calme — la plage de la résidence |
-| **Lido Santo Stefano** (depuis la résidence) | 2,0 km | ~25 min | Calanque avec lido, eau cristalline |
-| **Porto Ghiacciolo** (depuis la résidence) | 2,1 km | ~25 min | Sable + rocher, eau extraordinaire, vue château Santo Stefano |
-| **Centre de Monopoli** (depuis la résidence) | 5,5 km | bus 15 min | Bus Capitolo–Monopoli (~1,10 €) ou taxi (~10 €) — centre plat ✅ |
-| **Polignano a Mare en taxi 🚕** | 9 km de trajet | 2-3h sur place | Possible en taxi ou voiture si envie de voir les falaises |
-
-> 💡 **Pour Sylvie :** depuis la résidence (Capitolo), les criques accessibles à pied sont **Porto Ghiacciolo et Santo Stefano (~2 km, plat ✅)**. Porto Bianco et Porto Rosso sont en réalité **près du centre de Monopoli** (rive nord) : y accéder en bus Capitolo–Monopoli ou en voiture, pas à pied depuis la résidence. Chaussures d'eau recommandées pour les criques rocheuses.
-> 🚲 **Location de vélos sur place ?** Capitolo/Monopoli n'ont pas de location VAE évidente — privilégier marche + bus + taxi + farniente plage.
-
----
-
-### 🍝 Restos & Street food à Monopoli
-
-| Restaurant | Type | Ambiance |
-|:-----------|:----:|:---------|
-| **Osteria Perricci** | 🐟 Poisson, traditionnel | Familial de pêcheurs, simple et vrai |
-| **Ai Mangiatori** | 🍝 Trattoria | Cuisine maison généreuse, locaux |
-| **La Locanda sul Porto** | 🐟 Méditerranéen | Vue sur les bateaux, romantique |
-| **Piazza Palmieri** | 🍝 Travaillé | Cadre magnifique le soir |
-| **Dal Siciliano** | 🥟 Street food | Arancini, snacks siciliens |
-| **Vini & Panini** | 🥪 Street food | Sandwichs, focaccia à emporter |
-
-### 🌊 Les plus belles plages & criques
-
-| Spot | Accès depuis Capitolo | Sable/Rocher | Eau |
-|:-----|:------------------:|:------------:|:---:|
-| **Plage Capitolo** | 5 min à pied | Sable | Calme, familiale |
-| **Lido Santo Stefano** | 25 min à pied (2 km) | Sable + rocher | Cristalline |
-| **Porto Ghiacciolo** | 25 min à pied (2,1 km) | Sable + rocher | Extraordinaire 🌟 |
-| **Cala Paradiso** | 25 min à pied | Transats | Guindée |
-
-> Les criques **Porto Bianco, Porto Rosso et Cala Porta Vecchia** sont près du **centre de Monopoli** (rive nord) — y aller en bus Capitolo (descendre au centre) ou en voiture de location. Cala Porta Vecchia est sous les remparts du centre (galets, familiale).
-
-### 🎉 Activités fun — Pouilles
-
-Envie de sortir des sentiers battus avec la voiture de location ? Voici quelques idées plus fun :
-
-| Activité | Description | Prix/pers | Durée | 🎟️ Réservation |
-|:---------|:------------|:--------:|:-----:|:---------------|
-| 🚤 **Bateau côte adriatique** | Exploration des criques et grottes marines en petit bateau (Polignano/Monopoli) | ~40-60 € | 2-3h | sur getyourguide.com |
-| 🍝 **Cours de pâtes (orecchiette)** | Apprendre à faire les orecchiette chez l'habitant avec dégustation | ~45-70 € | 3h | sur getyourguide.com |
-| 🍷 **Dégustation Masseria** | Visite de ferme fortifiée + vins locaux + huile d'olive, dans la vallée d'Itria | ~30-50 € | 2-3h | sur getyourguide.com |
-| 🏛️ **Matera de nuit** | Visite guidée des Sassi illuminés — magique et moins chaud | ~25-40 € | 2h | sur getyourguide.com |
-| 🚗 **Balade en Fiat 500 ancienne** | Découverte des trulli au volant d'une Fiat 500 vintage, décapotable 🕶️ | ~50-70 € | 2-3h | sur getyourguide.com |
-| 🌅 **Sunset aperitivo en bateau** | Apéritif au coucher du soleil le long de la côte, musique et prosecco 🥂 | ~35-50 € | 2h | sur getyourguide.com |
-| 🧀 **Street food tour** | Dégustation de spécialités des Pouilles (focaccia, panzerotti, pasticciotto) | ~35-55 € | 2-3h | sur getyourguide.com |
-
-> 💡 **Mon conseil fun :** Le **cours de pâtes orecchiette** 🍝 ou le **bateau le long des criques** 🚤 sont les expériences les plus mémorables dans les Pouilles !
-
-> 💡 Venir **tôt** (avant 10h) pour les criques. **Chaussures d'eau** recommandées pour les criques rocheuses.
-
----
-
-### ⚠️ Astuces pratiques
-
-- **Residence Camping Atlantide :** C.da Lamandia 13/E, Località Capitolo, Monopoli (GPS 40.9135, 17.3443 — 5,5 km au sud du centre, bus Capitolo ~1,10 €). 9 nuits confirmées via wubook (CD-0008). Piazzola adaptée au CC 8m, électricité + eau incluses (conf. 25/08/2026).
-- **Sunny Cars #15253750** : vérifier si l'agence livre à Monopoli ou si navette Bari.
-- **🔑 Le CC reste à la Residence** pendant tout le séjour — transports : location voiture, taxi ou à pied.
-- **⚠️ ZTL :** de nombreuses villes des Pouilles (Ostuni, Martina Franca, Lecce, Polignano) ont des ZTL. **Ne pas entrer dans les centres historiques** avec la voiture de location. Parking en périphérie toujours (1-2 €/h).
-
-### 🛶 Venise — Cavallino (J19–J22 · 4 nuits · 3 jours pleins)
-
-**🏠 Base :** Camping **Europa Village** ⭐⭐⭐⭐⭐ — Via Fausta 332, Cavallino-Treporti. Réservé via Sandaya (N°06426005202000) — ✅ **entièrement payé le 25/08/2026** (acompte 65,76 € le 14/01 + solde 153,44 €). Taxe de séjour 3,60 € sur place
-
-> **🚐🚐 David & Nancy rejoignent à Venise !** Ils arrivent avec leur CC et sont dans le **même camping** (mêmes dates J19-J22). Réservations faites pour les 2 emplacements.
-
-> 🗺️ **Carte interactive de Venise** — Camp de base (Cavallino), sites culturels, îles et trajet ferry :
-> <iframe src="carte-venise-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
-
-**🚐 CC :** Garé au camping pendant tout le séjour. Accès Venise uniquement par **bus + ferry** (pas de voiture dans Venise).
-
-**🚌 Accès Venise :**
-
-| Étape | Durée | Info |
-|:------|:-----:|:-----|
-| 🚶 Camping → **Arrêt bus** | 5 min | Navette camping ou bus ligne 2/5 |
-| 🚌 **Bus** → **Punta Sabbioni** (ferry) | 10-15 min | ACTV ligne 2/5, ticket ~1,50 € |
-| ⛴️ **Ferry** → **Venise (San Marco / Riva degli Schiavoni)** | 30-45 min | ACTV ligne 14, trajet magnifique |
-| 🚤 **Vaporetto** (déplacement dans Venise) | — | Pass 24h/48h/72h disponible |
-
-> 💡 **Pass ACTV recommandé :** **Venezia Unica City Pass** 72h (~45 €) — bus + ferry Cavallino + vaporetto illimité dans Venise + Murano/Burano. S'achète aux guichets ACTV ou en ligne. Alternative : tickets à l'unité (9,50 € le vaporetto seul).
-
-**🎟️ Billets à réserver à l'avance :**
-- Palais des Doges : coupe-file recommandé (30 €, réserver sur [Palaisdesdoges.it](https://palaisdesdoges.it))
-- Basilique Saint-Marc : réservation créneau obligatoire (3 € entrée, 7 € avec Pala d'Oro)
-- Campanile : pas de résa (15 €, file d'attente ~30 min en septembre)
-
----
-
-**📋 Organisation des 3 jours :**
-
-**🗓️ Jour 1 — Cœur historique de Venise (Mer 30/9) ⛴️**
-
-*Rythme cool pour Sylvie — max 5-7 km de marche, vaporetto entre chaque étape.*
-
-| Horaire | Activité | Transport | Marche |
-|:-------:|:---------|:---------:|:-----:|
-| 9h | 🚌 Bus camping → **Punta Sabbioni** → **Ferry** | 🚌⛴️ 45 min | — |
-| 10h | 🏛️ **Place Saint-Marc** — Basilique + Campanile | 🚶 | ~200 m ✅ |
-| 12h | 🍝 Déjeuner près de San Marco | 🚶 | — |
-| 13h30 | 🏰 **Palais des Doges** + Pont des Soupirs | 🚶 | ~300 m ✅ |
-| 15h | 🛶 **Vaporetto Grand Canal** — Rialto en bateau | 🚤 Ligne 1 | 0 🚤 |
-| 16h | 🌉 **Pont du Rialto** + marché | 🚶 | ~200 m |
-| 17h | 🛍️ Flânerie San Polo ou retour camping | 🚶⛴️ | — |
-
-**Détails :**
-- **Basilique Saint-Marc :** mosaïques byzantines dorées, Pala d'Oro. Entrée payante (3 €), réservation créneau conseillée.
-- **Campanile :** ascenseur ✅ — vue panoramique à 360° sur Venise et la lagune (15 €).
-- **Palais des Doges :** salle du Grand Conseil, pont des Soupirs. Ascenseurs ✅. Compter 2h.
-- **Vaporetto Ligne 1 :** le « bus aquatique » qui parcourt tout le Grand Canal de San Marco à Piazzale Roma — 45 min de balade assise, meilleure façon de voir les palais sans marcher.
-- **Pont du Rialto :** le plus célèbre. Marché couvert à côté (fruits, légumes, poisson le matin).
-
-**Mobilité Sylvie :** place Saint-Marc et parcours vers Rialto = plat ✅. Ascenseurs au Campanile et au Palais des Doges ✅. Vaporetto = assis, reposant.
-
----
-
-**🗓️ Jour 2 — Murano & Burano (Jeu 1/10) 🏝️**
-
-| Horaire | Activité | Transport | Marche |
-|:-------:|:---------|:---------:|:-----:|
-| 9h30 | 🚌 Bus + ferry → Venise Fondamente Nove | 🚌⛴️ 50 min | — |
-| 10h30 | 🚤 **Vaporetto → Murano** (verre soufflé) | 🚤 Ligne 12, 10 min | ~1 km sur l'île |
-| 12h | 🍝 Déjeuner Murano | 🚶 | — |
-| 14h | 🚤 **Murano → Burano** (maisons colorées) | 🚤 Ligne 12, 30 min | ~1,5 km sur l'île |
-| 16h | 🚤 **Burano → Venise** (retour Fondamente Nove) | 🚤 Ligne 12, 45 min | — |
-| 17h30 | ⛴️ Ferry retour → Camping | ⛴️🚌 | — |
-
-- **Murano :** île du verre soufflé. Assister à une démonstration dans une fornace (gratuit). Musée du Verre (10 €).
-- **Burano :** maisons colorées, dentelle, photogénique à chaque coin de rue. Plus petit, se visite en 1h-1h30.
-- **Mobilité Sylvie :** Murano et Burano sont **plats** ✅, petites îles sans ponts difficiles. Marche tranquille.
-
-> 💡 **Alternative Jour 2 :** si fatigué, zapper Burano et rester sur Murano le matin, puis farniente à Venise l'après-midi (quartier Cannaregio moins touristique, bouquin, spritz).
-
----
-
-**🗓️ Jour 3 — Au choix (Ven 2/10) 🎯**
-
-**Option A — Lido di Venezia (location vélo possible sur place) 🚤**
-
-| Horaire | Activité |
-|:-------:|:---------|
-| 9h30 | Bus + ferry → **Punta Sabbioni** → **Lido** (vaporetto) |
-| 10h30 | 🚲 **Location vélo au Lido** — tour de l'île |
-| 13h | 🍝 Déjeuner Lido |
-| 14h30 | 🚲 Balade plages + San Nicolò |
-| 16h | Retour camping |
-
-- **Lido** : 11 km de long, plat ✅, parfait pour le vélo. Piste cyclable tout du long. Plage libre ou privée.
-- **Location vélo :** ~15-20 €/demi-journée (via *BiciLido* ou *Venezia Bike* à Santa Maria Elisabetta).
-- **Parcours :** Santa Maria Elisabetta → San Nicolò (phare, vue lagune) → plage nord → retour par le sud.
-- **Vélo sur le vaporetto :** autorisé sur les lignes de lagune (Lido, Punta Sabbioni) — pas de supplément.
-
-> ✅ **Pour Sylvie :** 11 km plat, location vélo possible, pauses glace et plage — parfait.
-
-**Option B — Quartiers hors des sentiers battus 🚶**
-
-| Horaire | Activité |
-|:-------:|:---------|
-| 9h30 | Bus + ferry → Venise |
-| 10h30 | 🚶 **Cannaregio** — quartier juif, authentique, peu de touristes |
-| 12h | 🍝 Déjeuner chez un bacaro (cicchetti vénitiens) |
-| 14h | 🚶 **Castello** — balade calme jusqu'à l'Arsenal |
-| 16h | 🚶 **Dorsoduro** — Zattere (promenade au bord de l'eau) |
-
-- **Cannaregio :** Fondamenta della Misericordia, bars à cicchetti, église Madonna dell'Orto.
-- **Castello :** promenade le long des canaux calmes, parc delle Rimembranze, Arsenale.
-- **Zattere :** large promenade piétonne côté Giudecca, super pour finir la journée au soleil.
-- **Mobilité Sylvie :** tout **plat** ✅, peu de ponts dans ces quartiers, rythme cool.
-
----
-
-### 🚶 Balades & alternatives sans vélo
-
-Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
-
-| Option | Description | Accès |
-|:-------|:------------|:-----:|
-| **Option A** — Retour sur Venise pour flâner dans les quartiers calmes (Cannaregio, Castello, Dorsoduro) | Balade piétonne, cicchetti, atmosphère authentique | Bus + ferry ACTV |
-| **Option B** — Journée piscine & plage au camping Europa Village | Piscine, plage privée, pinède — farniente 😎 | Sur place |
-| **Option C** — Balade à vélo au Lido (location sur place 🚲) | 15-20 €/demi-journée via BiciLido ou Venezia Bike | Vaporetto jusqu'au Lido |
-
-### 🎉 Activités fun à Venise (en groupe avec David & Nancy)
-
-| Activité | Description | Prix/pers | Durée | 🎟️ Réservation |
-|:---------|:------------|:--------:|:-----:|:---------------|
-| 🚤 **Tour en gondole** | Classique incontournable — 30 min dans les petits canaux. À faire en groupe, se partager le prix | ~80 € (pour 4) | 30 min | sur getyourguide.com |
-| 🍝 **Cours de cuisine vénitienne** | Apprendre à faire les cicchetti + pasta e fagioli + tiramisu chez un chef local | ~60-80 € | 3-4h | sur getyourguide.com |
-| 🏝️ **Tour privé en bateau** | Murano, Burano et Torcello en petit bateau privé (max 6 pers) — plus sympa qu'en vaporetto bondé | ~50-80 € | 4-5h | sur getyourguide.com |
-| 🍷 **Apéritif à San Giorgio Maggiore** | Vaporetto jusqu'à l'île San Giorgio, vue magnifique sur la Place Saint-Marc depuis le campanile + spritz au coucher du soleil 🌅 | ~15 € (vaporetto + entrée) | 2h | — |
-| 🎭 **Dégustation de cicchetti** | Tour des bacari (bars à cicchetti) : 4-5 arrêts dans Cannaregio avec prosecco et petites bouchées | ~30-45 € | 2-3h | sur getyourguide.com |
-| 🏛️ **Visite guidée Palais des Doges** | Coupe-file + guide privé — plus intéressant qu'en solo, surtout avec David & Nancy | ~35-50 € | 1h30 | sur getyourguide.com |
-| 🚤 **Balade en barque traditionnelle** | Balade en sandolo (barque vénitienne) sur les canaux moins fréquentés, avec rameur | ~40-60 € | 1h | sur getyourguide.com |
-
-> 💡 **Idée pour le groupe :** Un **tour privé en bateau** 🚤 pour aller aux îles (Murano, Burano) est plus confortable que le vaporetto public, surtout à 4 — vous partagez le coût et c'est bien plus agréable !
-
-> 💡 Si l'envie de faire du vélo au Lido vous prend, c'est possible en location — pas besoin d'avoir vos VAE avec vous.
-
----
-
-### 🍝 Manger & boire à Venise
-
-| Type | Adresse | Coin | Ambiance |
-|:-----|:--------|:----:|:---------|
-| **Cicchetti** 🥟 | **Cantina Do Spade** | Rialto | Authentique, vénitien, prix corrects |
-| **Pizza 🍕** | **Antico Forno** | San Marco | Pizza au poids, rapide, bon |
-| **Poisson 🐟** | **Trattoria alla Madonna** | Rialto | Cuisine vénitienne, fruits de mer |
-| **Gelato 🍨** | **Gelateria Il Doge** | San Marco | L'une des meilleures de Venise |
-| **Spritz 🍹** | **Bacaro Jazz** | Cannaregio | Ambiance locale, musique jazz |
-| **Panini 🥪** | **Casa del Parmigiano** | Rialto | Fromage, charcuterie, à emporter |
-
-### ⚠️ Astuces pratiques
-
-- **Camping Europa Village :** piscine, plage privée, pinède. Réservé via Sandaya (N°06426005202000) — ✅ **entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place. ⏳ Confirmation d'arrivée : demande envoyée le 25/08/2026, réponse Sandaya sous 72h.
-- **⚠️ Attention aux pickpockets** à Venise (San Marco, Rialto, vaporetto bondés) — sac fermé, poches zippées.
-- **Pass ACTV 72h** : le plus rentable (bus+ferry Cavallino + vaporetto illimité ~45 €). Sinon tickets unité 9,50 €/trajet.
-- **Marées (acqua alta)** : fin septembre possible mais rare. Consulvier aprevisioni su [Comune Venezia](https://www.comune.venezia.it).
-- **Réserver les billets coupe-file** pour Palais des Doges et Basilique Saint-Marc — éviter 1-2h de queue.
-- **Vélo au camping** : des vélos sont disponibles à la location dans la région.
-
----
-
-### 🌊 Lac de Garde — Desenzano (J23–J29 · 7 nuits · 6 jours)
-
-**🏠 Base :** **San Francesco Camping Village** — Desenzano del Garda (BS). ⭐⭐⭐⭐. Réservé #654795826. Acompte 140,40 € payé ✔️ MC.
-
-> **🚐🚐 David & Nancy partagent le séjour au Lac de Garde** (J23-J29 mêmes dates). Réservation confirmée pour les 2 emplacements sur le même camping.
-
-> 🗺️ **Carte interactive du Lac de Garde** — Camp de base, rives sud/est/nord et excursion Vérone :
-> <iframe src="carte-garde-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
-
-**🚐 CC :** Garé au camping. Location voiture Sunny Cars **#15253704** (293,00 €) — ✅ **Voucher reçu le 28/07/2026** — **prise lundi 05/10 à 10h00, restitution vendredi 09/10 à 10h00** (4 jours réels). ⚠️ **Aucune visite en voiture le vendredi après la restitution.**
-
-> 💡 **Alternative sans voiture ?** Le Lac de Garde est bien desservi en **ferry** ⛴️ et **train** 🚄. Voir section dédiée plus bas.
-
-**📋 Organisation du séjour :**
-
-| Jour | Date | Activité | Transport |
-|:----:|:----:|----------|:---------:|
-| 🏁 | Sam 3/10 | Arrivée, installation — balade Desenzano à pied | 🚶 |
-| 🏖️ | Dim 4/10 | **Journée bateaux** — Desenzano/Sirmione, selon horaires confirmés au quai | 🚤 |
-| 🏰 | Lun 5/10 | **Prise voiture 10h** — Sirmione + Salò + Gardone | 🚗 |
-| 🏔️ | Mar 6/10 | **Jour 2 voiture — Rive est** (Torri, Bardolino, Malcesine) | 🚗 |
-| 🏛️ | Mer 7/10 | **Jour 3 voiture — Vérone** | 🚗 |
-| 🌊 | Jeu 8/10 | **Jour 4 voiture — Riva del Garda + Torbole** | 🚗 |
-| ☀️ | Ven 9/10 | **Restitution voiture 10h** — piscine, plage, repos uniquement | 🚶 |
-| ⬆️ | Sam 10/10 | Départ → Colmar | 🚐 |
-
----
-
-**🎭 Visites à pied à Desenzano (accessible ✅) :**
-
-| Site | Description | Temps | Entrée |
-|:-----|:------------|:-----:|:------:|
-| 🏰 **Château de Desenzano** | Forteresse, vue panoramique sur le lac | 30 min | Gratuit |
-| ⛪ **Cathédrale Sainte Marie** | Baroque, tableau du Titien | 15 min | Gratuit |
-| 🚤 **Port de Desenzano** | Embarcadère ferries, promenade, bars | Libre | Gratuit |
-| 🏖️ **Spaggia d'Desenzano** | Plage publique près du centre | Libre | Gratuit |
-
-> 💡 **Piste cyclable Desenzano → Sirmione** : ~12 km longeant le lac, plate ✅. Location de vélos possible au camping si envie.
-
----
-
-### 🚗 Excursions en voiture — jour par jour
-
-**🗓️ Jour 1 — Prise voiture 10h + Sirmione, Salò, Gardone (Lun 5/10 — ~128 km)**
-
-| Horaire | Site | Distance de Desenzano | Temps visite |
-|:-------:|:-----|:--------------------:|:-----------:|
-| **10h00** | **Prise de la voiture** à Desenzano | — | — |
-| 10h30 | 🏰 **Sirmione** — château + vieille ville | 5 km / 10 min | 2h |
-| 12h | 🍝 Déjeuner Sirmione | — | 1h |
-| 14h15 | 🏘️ **Salò** — promenade lacustre | 25 km / 35 min | 1h15 |
-| 16h | 🏡 **Gardone Riviera** — promenade ou Vittoriale en option | 5 km / 10 min | 1h30 |
-| 18h30 | Retour au camping | — | — |
-
-- **Sirmione :** château scaligero (environ 6 €), parking Montebaldo hors ZTL.
-- **Salò :** promenade élégante, place, cafés. Ville plate ✅.
-- **Vittoriale :** demeure de D'Annunzio, option payante et plus fatigante ; supprimer si besoin.
-- ⚠️ **ZTL :** active dans plusieurs villages — se garer en périphérie.
-
-**🗓️ Jour 2 — Rive est du lac (Mar 6/10 — ~156 km)**
-
-| Horaire | Site | Distance de Desenzano | Temps visite |
-|:-------:|:-----|:--------------------:|:-----------:|
-| 9h00 | Départ du camping | — | — |
-| 10h00 | 🏰 **Torri del Benaco** — château, port | 37 km / 48 min | 1h15 |
-| 11h45 | 🍷 **Bardolino** — promenade et café | 15 km / 20 min | 1h |
-| 13h | 🍝 Déjeuner Malcesine | — | 1h |
-| 14h15 | 🏰 **Malcesine** — château et vieille ville | 28 km / 35 min | 2h |
-| 18h30 | Retour au camping | — | — |
-
-- **Malcesine :** château Scaligero (6 €). **Téléphérique du Monte Baldo** (25 € A/R) — vue à 360° sur le lac et les Alpes ❤️. Accessible (cabine). Parking : Via Gardesana.
-- **Torri del Benaco :** château + musée ethnographique (5 €).
-- **Bardolino :** vignoble, dégustation de vin locale.
-- **Bateau :** non retenu comme liaison principale après le 04/10 ; vérifier au quai si un service réduit circule.
-
-**🗓️ Jour 3 — Vérone (Mer 7/10 — ~80 km A/R)**
-
-| Horaire | Site | Distance de Desenzano |
-|:-------:|:-----|:--------------------:|
-| 9h-9h30 | 🚗 Route → **Vérone** | 40 km / 35 min |
-| 10h-12h | 🏛️ **Arène de Vérone** + Piazza Bra | Visite 1h |
-| 12h | 🍝 Déjeuner | — |
-| 13h30-15h | 💔 **Maison de Juliette** + Piazza delle Erbe | 1h30 |
-| 15h-16h | 🏛️ **Castelvecchio** ou promenade sur l'Adige | 1h |
-| 16h-17h | 🚗 Retour Desenzano | 40 km / 35 min |
-
-- **Arène :** amphithéâtre romain, 3e plus grand du monde. 10 €, coupe-file conseillé.
-- **Mobilité Sylvie :** vieille ville **plate** ✅, grand piétonnier. Maison de Juliette accessible. 
-- **Parking :** Parcheggio Piazza Cittadella (grand, 10 min à pied du centre).
-- **Astuce :** éviter de prendre la voiture dans le centre historique (ZTL). 
-
-**🗓️ Jour 4 — Riva del Garda + Torbole (Jeu 8/10 — ~178 km A/R)**
-
-| Horaire | Site | Distance de Desenzano |
-|:-------:|:-----|:--------------------:|
-| 9h | 🚗 Route → **Riva del Garda** | 88 km / 1h15 |
-| 10h-12h | 🏖️ **Riva del Garda** — vieille ville, port | Visite 2h |
-| 12h | 🍝 Déjeuner Riva | — |
-| 14h | 🏞️ **Torbole** — plage + vue nord lac | 5 km / 10 min |
-| 15h | Vue sur la Gola del Ponale — sans randonnée | — |
-| 15h30 | 🚗 Retour Desenzano | — |
-
-- **Riva del Garda :** ville la plus au nord du lac. Vieille ville piétonne, place III Novembre, tour Apponale. 
-- **Gola del Ponale :** randonnée non retenue pour Sylvie ; simple vue depuis un point accessible si possible.
-- **Mobilité Sylvie :** Riva = plat ✅, belle promenade le long du lac.
-
-> 💡 **Alternative Jour 4 :** au lieu de Riva, **Brescia** (25 km, 25 min) — musées, place de la Loggia, château. Moins touristique.
-
----
-
-### 🚶 Balades & location vélo possible
-
-**Pas de VAE à bord**, mais le **San Francesco Camping Village loue des vélos** 🚲 (demander à l'accueil). Sinon, les balades ci-dessous sont faisables à pied ou en bus :
-
-| Balade | Distance | Dénivelé | En pratique |
-|:-----------|:--------:|:--------:|:------------|
-| **Desenzano → Sirmione** (piste cyclable lac) | 24 km A/R | Plat ✅ | Location au camping possible. Sinon, bus ligne LN010-LN026 Depuis Desenzano |
-| **Desenzano → Salò** (rive ouest) | 16 km A/R | Plat ✅ | Accessible à pied jusqu'au port de Desenzano pour la promenade |
-| **Tour du port → plages sud** | 3 km A/R | Plat ✅ | À pied depuis le camping ✅ |
-| **Promenade Desenzano centre** | 2 km | Plat ✅ | À pied, château, port, plage publique |
-
-> 💡 Location de vélos directement au **San Francesco Camping Village** 🚲 si l'envie vous prend sur place. La piste Desenzano→Sirmione est vraiment belle — à faire en location si vous vous sentez motivés un dimanche 🌅
-
-### 🎉 Activités fun — Lac de Garde (avec David & Nancy)
-
-| Activité | Description | Prix/pers | Durée | 🎟️ Réservation |
-|:---------|:------------|:--------:|:-----:|:---------------|
-| 🚤 **Tour en bateau sur le lac** | Croisière Desenzano → Malcesine → Riva en ferry panoramique | ~15-20 € | 2-3h | sur place |
-| 🏔️ **Téléphérique Monte Baldo** | Cabine panoramique Malcesine → sommet (1 780 m), vue lac + Alpes 🏔️ | 25 € | 2-3h | sur getyourguide.com |
-| 🍷 **Dégustation vins Bardolino** | Visite de cave + dégustation de vins DOC Bardolino, Chiaretto | ~25-40 € | 1h30 | sur getyourguide.com |
-| 🏛️ **Vérone guidée** | Visite privée Arène + ville avec guide francophone | ~40-60 € | 2-3h | sur getyourguide.com |
-| 🍝 **Cours de cuisine + marché** | Marché à Vérone + cours de pasta et tiramisu chez un chef | ~65-85 € | 4h | sur getyourguide.com |
-| 🍋 **Visite de limonera** | Découverte des citronniers en terrasses à Limone sul Garda | ~10-15 € | 1h | sur place |
-| 🚲 **Balade à vélo lac** | Desenzano → Sirmione (24 km A/R, plat, piste cyclable) | ~15-20 € loc | 3h | sur place |
-
-> 💡 **Idée pour le groupe :** Le **téléphérique du Monte Baldo** 🏔️ est MAGNIFIQUE — vue à 360° sur le lac et les Alpes. Cabine accessible, pas de marche. À faire absolument ! Et le **ferry** 🚤 entre les villages du lac est déjà une activité en soi — confortable, belle vue, parfait pour Sylvie.
-
-### 🚗 Voiture de location — Vraiment nécessaire ? Analyse alternative
-
-La voiture Sunny Cars **#15253704** est confirmée du **lundi 05/10 à 10h00 au vendredi 09/10 à 10h00** (4 jours réels, 293 €). Les bateaux restent utilisés le dimanche 04/10 ; après la fin de l'horaire été officiel le 04/10, ils ne sont pas la base du programme des excursions du 05 au 08/10.
-
-| Excursion | En voiture | Alternative sans voiture | Verdict |
-|:----------|:----------:|:------------------------|:-------:|
-| 🏰 **Sirmione** (15 km) | 20 min | **Bus LN026** depuis Desenzano (20 min, ~2 €) ou **ferry** ⛴️ (30 min, ~5 €) | ✅ **Easy sans voiture** |
-| 🏘️ **Salò / Gardone** (25-30 km) | 30-35 min | **Bus LN026** direct depuis Desenzano (30-40 min) | ✅ **Easy sans voiture** |
-| 🍋 **Limone** (50 km) | 55 min | **Ferry** ⛴️ depuis Desenzano (1h30, traversée magnifique) | ✅ **Le ferry est plus beau !** |
-| 🏰 **Malcesine** (rive est) | 50 km route | **Ferry** ⛴️ Desenzano → Malcesine direct (1h, ~8 €) | ✅ **Le ferry, conseillé !** |
-| 🏛️ **Vérone** (40 km) | 35 min + parking 15 € | **Train** 🚄 Desenzano → Verona Porta Nuova (20 min, ~4 €) — gare à 2 km du camping | ✅✅ **Train ++ pratique** |
-| 🏔️ **Riva del Garda** (55 km) | 1h | **Bus LN027** (1h30, ~6 €) ou **ferry** ⛴️ (2h, ~10 €) | ⚠️ Possible mais long |
-| 🍷 **Bardolino** vins | 45 km | **Ferry** ⛴️ Desenzano → Bardolino (45 min) | ✅ **Ferry direct** |
-
-### 💡 Recommandation
-
-| Option | Coût | Flexibilité | Stress | Pour qui ? |
-|:-------|:---:|:-----------:|:-----:|:-----------|
-| 🚗 **Voiture confirmée 4 jours** | **293 € + carburant** | ✅✅✅ | ⚠️ ZTL, parking | Sirmione/Salò/Gardone, rive est, Vérone, Riva |
-| 🚤 **Bateaux** | selon billet | ✅ | Horaires à confirmer | Journée du dimanche 04/10, sans voiture |
-| 🚆 **Train/bus de secours** | selon billet | ✅✅ | — | Vérone ou Desenzano si besoin |
-
-> **🏆 Organisation retenue :** voiture du lundi 05/10 10h au vendredi 09/10 10h pour les quatre journées d'excursion. Dimanche 04/10 : bateau sans voiture. Vendredi après la restitution : repos au camping, sans visite motorisée.
-
-### 🍝 Manger autour du lac
-
-| Restaurant | Type | Coin | Ambiance |
-|:-----------|:----:|:----:|:---------|
-| **Ristorante Esplanade** | 🐟 Poisson, vue 🌅 | Desenzano | Terrasse lac, chic décontracté |
-| **La Locanda del Pescatore** | 🐟 Poisson, pizza | Desenzano | Familial, terrasse, poisson frais |
-| **Osteria Al Borgo** | 🍝 Traditionnel | Sirmione | Cuisine locale, cadre charmant |
-| **Trattoria Al Vecchio** | 🍝 Pâtes maisons | Desenzano | Prix doux, menu du jour |
-| **Gelateria Artigianale** 🍨 | Glaces | Desenzano | Via Roma, artisanales |
-
----
-
-### ⚠️ Astuces pratiques (Lac de Garde)
-
-- **San Francesco Camping Village :** piscine, location vélos, accès direct plage. 7 nuits (3→10/10). Acompte 140,40 € payé. Solde ~327,60 € à régler sur place.
-- **Sunny Cars #15253704** : **293 € — prise lundi 05/10 à 10h00, retour vendredi 09/10 à 10h00**. Quatre jours réels. Le vendredi après 10h : piscine, plage et repos au camping uniquement.
-- **Pas de chien pendant ce voyage :** Nala reste à la maison. Aucune contrainte « chien » à vérifier.
-- **⚠️ ZTL :** active dans Sirmione, Malcesine, Salò, Vérone. Se garer en périphérie.
-- **Parking recommandé Sirmione :** Parcheggio Montebaldo (grand, ombragé, 2 €/h).
-- **Ferry lac de Garde :** possibilité de traverser le lac en bateau (Desenzano → Malcesine, etc.). Voiture possible sur certaines lignes.
-- **Dernier jour (Ven 9/10) :** profiter de la piscine du camping, plage. Dernier soir au lac ❤️.
-
----
-
-## 🏕️ Campings & Hébergements détaillés
-
-| Étape | Camping | Réservation | Durée | Coût | Acompte |
-|-------|---------|:-----------:|:-----:|:----:|:-------:|
-| Colmar (J1) | Aire CC Schoenau | ✅ Résa en ligne (créneau strict 11/09 12h→12/09 11h) | 1 nuit | **16,00 € payé** | ✅ Payé le 05/09 |
-| Colmar (retour J30) | Aire CC Schoenau | ✅ Résa en ligne (créneau strict 10/10 12h→11/10 11h) | 1 nuit | **13,64 € payé** | ✅ Payé le 06/09 |
-| Lac Majeur — Maccagno | **The Camp by Maggiore Suites** | ✅ #32877 | 2 nuits | 154,00 € | **30,80 €** ✔️ Stripe |
-| Florence | **hu Firenze camping in town** | ✅ #314185774 — **hu camp Premium — 310 € TOTAL** (2 adultes, sans chien) | 3 nuits | **310,00 €** | 💰 Sur place (confirmé 26/08) |
-| Pompéi | **Camping Spartacus** | ✅ Confirmé (arrivée 17/09 ✅) | 2 nuits | **66,00 €** (33€/nuit) | ✅ Confirmé |
-| Pouilles | **Residence Atlantide** — Capitolo (Monopoli) | ✅ CD-0008 | 9 nuits | 336,00 € (acompte 100,80 € + solde 235,20 €) | ✅ **Solde payé le 05/09** (virement) — facture demandée |
-| San Benedetto del Tronto / Cupra Marittima | **Camping Village Led Zeppelin** — Cupra Marittima | ⏳ Walk-in re-confirmé 25/08 | 1 nuit | ~30,00 € | — |
-| Venise | **Camping Europa Village** — Cavallino | ✅ N°06426005202000 | 4 nuits | 222,80 € | ✅ **222,80 € payé** (65,76 € + solde 153,44 € le 25/08) |
-| | *(David & Nancy même camping, 2 emplacements)* | ✅ Réservé | 4 nuits | — | ✅ |
-| Lac de Garde | **San Francesco Camping Village** | ✅ #654795826 | 7 nuits | 468,00 € | **140,40 €** ✔️ MC 14/01 |
-| | *(David & Nancy même camping, 2 emplacements)* | ✅ Réservé | 7 nuits | — | ✅ |
-| Colmar (retour) | Aire CC Schoenau | ❌ Sans résa | 1 nuit | 14,00 € | — |
-
-**Détails des réservations :**
-
-| Camping | À savoir |
-|:--------|:---------|
-| **The Camp by Maggiore Suites** | Pitch FRONT FR1 (8m ✅). Hauteur 2,5m OK (<2,60m). Check-in 16h. Code portail: 1593. Plaque: 2FUQ668 |
-| **hu Firenze camping in town** | ✅ **Confirmation officielle reçue le 26/08/2026** (mail hu openair, N° 314185774). **hu camp Premium — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien — pas de Love Pet Pack). **Emplacement ~100-105 m²** (fontaine d'eau privée, électricité, **WiFi gratuit sur l'emplacement**). Inclus : parking 1 véhicule, station vidange, **première fourniture de linge de lit et serviettes**, accès parc aquatique (avril-septembre), WiFi zones communes. Taxe de séjour 3,50 €/nuit/pers = **21 € à l'arrivée**. 💰 **Paiement total (310 €) sur place** — électronique ou espèces (confirmé 26/08). **Tarif Standard : annulation gratuite jusqu'à 24h avant l'arrivée** — coordonnées carte de crédit en garantie. Check-in : réception 24h/7j, clés dès **12h00**, services dès 10h00. Après 23h00 : parking extérieur + heures de silence. Documents : carte d'identité (pas de photos/copies). Emplacement attribué au check-in. 📍 GPS : 43.7646314, 11.3161007. Adresse : Via Generale C. A. dalla Chiesa 1/3, 50136 Firenze |
-| **Pompéi** | **Camping Spartacus** (Via Plinio 127) — ✅ **Confirmé** par Alessandro. **33€/nuit tout compris** (2 pers, CC, électricité, taxes). Arrivée ~15h00 le 17/09/2026 — **confirmée par le camping le 25/08/2026** (« Vi aspettiamo il 17.09 »). CC 8m OK. Piscine, restaurant-pizzeria, Wi-Fi, supérette. 50m entrée Porta Marina — idéal ! |
-| **Residence Atlantide** | Atlantide, C.da Lamandia 13/E, 70043 Monopoli (Località **Capitolo**, GPS 40.9135/17.3443 — 5,5 km au sud du centre). 19/09→28/09 (9 nuits). ✅ Confirmé via wubook (CD-0008) le 13/01/2026. 336€. Politique annulation: 30 jours. Check-in en ligne fait ✅. **Piazzola adaptée au CC 8 m confirmée + électricité & eau incluses** (confirmation Iolanda, 25/08/2026). Centre de Monopoli : bus Capitolo (~1,10 €) / taxi (~10 €) / voiture |
-| **Europa Village** | Réservé via Sandaya (N°06426005202000, client 900189). Emplacement **XL** n°2134 — 29/09 15h00 → 03/10 11h00, 2 pers. ✅ **SOLDE PAYÉ le 25/08/2026** — acompte 30 % (65,76 €) payé le 14/01/2026, solde 153,44 € réglé le 25/08/2026 (confirmation Sandaya reçue). Taxe de séjour **3,60 €** à régler sur place. Total séjour 222,80 €. Cavallino-Treporti, bus+ferry ACTV Venise 45 min. Piscine, plage privée, pinède |
-| **Camping Village Led Zeppelin** | Cupra Marittima (AP) — Via Boccabianca 5. 🌐 campingledzeppelin.it 📞 +39 0735 778125. Piazzola camper 65 m² avec électricité ✅. Ouvert jusqu'au 30/09 ✅. Hauteur max 3,05m ✅. Piscine, plage, restaurant, pizzeria sur place. Simple étape repos 🌅. ⏳ **Pas de résa possible pour 1 nuit** — walk-in accepté. Mail de remerciement + confirmation envoyé le 08/07/2026 ✅. **Relance confirmation arrivée 25/08/2026 → walk-in re-confirmé** (accès direct, électricité OK, sous-passage piazzole mare 3,05 m) |
-| **San Francesco Camping Village** | Desenzano del Garda (BS). ✅ Réservation #654795826. Acompte **140,40 € payé** ✔️ le 14/01/2026 via Mastercard. Solde restant: ~327,60 € à régler sur place. Email reçu de booking@campingsanfrancesco.com |
-
----
-
-## 💰 Budget
-
-| Poste | Coût |
-|-------|:----:|
-| 🏕️ Campings | ~1 576,80 € *(+145 € hu Firenze Premium : 165 → 310 €)* |
-| 🚗 Locations voiture | **679 €** *(Pouilles 386 € + Lac de Garde 293 € ; Lac de Garde = 4 jours d'utilisation)* |
-| ⛽ Carburant (estimation) | **~718 €** |
-| 🛣️ Péages (Ulys Pass) | **~293 €** |
-| 🎫 Vignette autoroutière suisse | **~42 €** |
-| 🎟️ Visites & activités | **~435 €** |
-| **Total (campings + locations + carburant + péages + vignette + visites)** | **~3 744 €** |
-
-**Détail des visites par étape (pour 2 pers.) :**
-
-| Étape | Visites | Coût (2 pers.) |
-|:------|:--------|:--------------:|
-| 🏞️ **Lac Majeur — Maccagno** (J2-J3) | Ferry Îles Borromées + Villa Taranto (2×13€) + repas | **~80 €** |
-| 🏛️ **Florence** (J4-J6) | Accademia/David (12€×2) + Offices (20€×2) + Duomo combo (18€×2) | **~100 €** |
-| 🌋 **Pompéi** (J7-J8) | Site Pompéi (18€×2) — **gratuit si carte handicap UE** ✅ | **0-36 €** |
-| 🏖️ **Pouilles** (J9-J17) | Château Monopoli (10€×2) + Casa Grotta Matera (5€×2) + options | **~40 €** |
-| 🛶 **Venise** (J19-J22) | Pass ACTV 72h (45€×2) + Palais Doges (30€×2) + Basilique (3€×2) | **~155 €** |
-| 🌊 **Lac de Garde** (J23-J29) | Téléphérique Monte Baldo (25€×2) + Arène Vérone (10€×2) + Château Sirmione (6€×2) | **~80 €** |
-| | **Total estimé** | **~435 €** |
-
-> 💡 *Estimation raisonnable — 1-2 visites payantes par étape. Avec la carte handicap UE de Sylvie, Pompéi est gratuit (18€/pers économisé).*
-
----
-
-## 🚐 Notes & Astuces
-
-- **Aire Schoenau (Colmar)** : pratique pour la pause avant/après l'Italie, gratuite ou ~14€ selon saison
-- **🎫 Vignette autoroutière suisse ✅ COMMANDÉE** : reçue par email le **10/08/2026** (noreply@bazg.admin.ch — « Via Billet » + « Quittance Via »). Le trajet Colmar → Lac Majeur passe par **Bâle – Gothard** (Suisse), et le retour Lac de Garde → Colmar aussi. Vignette annuelle **40 CHF (~42 €)** — couvre l'aller **et** le retour. Liée électroniquement à la plaque, rien à coller. ⚠️ Sans vignette : amende ~200 CHF.
-- **The Camp by Maggiore Suites (Lac Majeur — Maccagno)** : front pitch FR1 (8m OK). Hauteur max 2,60m — si CC >2,60m, passer par Via Giuseppe Verdi. Code portail: 1593
-- **hu Firenze camping in town** : Via Generale C. A. dalla Chiesa 1/3, 50136 Florence 📍 GPS 43.7646314, 11.3161007. ✅ **Confirmation officielle reçue le 26/08/2026** — **hu camp Premium 310 € TOTAL pour 3 nuits** (2 adultes, sans chien). **Emplacement ~100-105 m²** avec eau, électricité et WiFi gratuits sur l'emplacement ; linge/serviettes fournis. Taxe de séjour 3,50 €/nuit/pers (21 €) à l'arrivée. **Annulation gratuite jusqu'à 24h avant l'arrivée**. Check-in : clés dès 12h00, réception 24h/7j. Tram T1 depuis/vers le centre
-- **Pompéi** : ✅ **Camping Spartacus** (Via Plinio 127, 50m entrée Porta Marina) — résa confirmée ✅, **33€/nuit tout compris**. Arrivée ~15h00 le 17/09 — **confirmée par le camping le 25/08/2026**. Piscine, pizzeria, Wi-Fi
-- **Residence Camping Atlantide (Monopoli — Capitolo)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (reçue lun 21/09 10h00 → rendue ven 25/09 10h00 à Monopoli), **bus Capitolo–Monopoli (~1,10 €)**, taxi (~10 €), à pied (plages Capitolo). ⚠️ La résidence est à **Capitolo, 5,5 km au sud du centre** (GPS 40.9135, 17.3443) — centre en bus/taxi/voiture, pas à pied. Piazzola adaptée au CC 8m + eau/électricité incluses (confirmé 25/08/2026). Voir section dédiée 🚗🚶🚌
-- **Camping Village Led Zeppelin (Cupra Marittima)** : étape repos à 10 min de San Benedetto del Tronto. Piazzola camper 65 m² avec électricité. Hauteur max 3,05m ✅. Piscine, plage, restaurant. Ouvert jusqu'au 30/09. ⏳ **Pas de réservation possible pour 1 nuit** — walk-in accepté. Mail de remerciement + confirmation envoyé le 08/07/2026 ✅. Walk-in **re-confirmé le 25/08/2026** (accès direct, électricité OK). 🏕️
-- **Camping Europa Village (Cavallino)** : réservé via Sandaya (N°06426005202000). ✅ **Entièrement payé (25/08/2026)** — acompte 65,76 € + solde 153,44 €. Accès Venise : bus + ferry ACTV (45 min). 4 nuits, 3 jours pleins. ⏳ Confirmation d'arrivée demandée le 25/08 — accusé Sandaya reçu (réponse sous 72h). Voir section Venise dédiée 🛶
-- **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte 140,40 € payé le 14/01/2026. Solde ~327,60 €. Piscine, plage. Location vélos sur place. Sunny Cars #15253704 : **prise 05/10 10h00, retour 09/10 10h00 — 4 jours réels**. Voir section dédiée 🚗🚶
-- **Location voiture** : prévue 2 fois (Pouilles + Lac de Garde) via Sunny Cars — ✅ **Vouchers reçus le 28/07/2026** pour les deux réservations (#15253750 Pouilles: 386€ et #15253704 Lac de Garde: 293€). Paiement total : 679€
-- **⚠️ Dimensions CC 8m × 2,5m × 2,8m** : vérifier les parkings souterrains et entrées de ville. Florence ZTL interdite au CC. Parkings conseillés en périphérie (Scandicci, Villa Costanza)
+## 🚐 Navigation et sécurité
+
+- Programmer les waypoints validés dans TomTom GO Camper ; ne pas utiliser une destination générale quand un accès camping précis est indiqué.
+- Pour Maccagno : passer par Bâle, Lucerne, Gothard, Bellinzona, Locarno, Luino ; accéder au camping par Via Giuseppe Verdi.
+- Pour Venise → Lac de Garde : conserver le waypoint Mestre afin d’éviter les routes lagunaires secondaires.
+- Pour le retour : Lac de Garde, Milan, Autostrada dei Laghi, Gothard, Bâle, Colmar.
+- Faire le plein avant les grands tronçons et impérativement à Colmar avant le retour vers Sombreffe.
+- Toujours vérifier météo, travaux, trafic au Gothard et horaires des bateaux la veille.
 
 ---
 
 ## 📅 Résumé
 
-| Indic | Valeur |
-|:------|:------|
-| Départ | Sombreffe, Belgique |
-| Arrivée | Sombreffe, Belgique |
-| Boucle | **Oui** — aller-retour par Colmar |
-| Pays traversés | 🇧🇪 Belgique → 🇫🇷 France → 🇨🇭 Suisse → 🇮🇹 Italie → 🇨🇭 Suisse → 🇫🇷 France → 🇧🇪 Belgique |
-| Nuits totales | 30 |
-| Plus long séjour | Pouilles (9 nuits) & Lac de Garde (7 nuits) |
-| KM route | ~4 104 km |
-| Temps route estimé (profil CC) | ~46h38 de conduite |
-| Estimation budget carburant | ~718 € |
-| Estimation budget total | ~3 402 € |
+| Indicateur | Valeur |
+|:---|:---|
+| Départ / arrivée | Sombreffe, Belgique |
+| Dates | 11/09/2026 → 11/10/2026 |
+| Boucle | Oui, par Colmar et la Suisse |
+| Pays | Belgique, France, Suisse, Italie |
+| Nuits | 30 |
+| Distance totale | ~4 104 km |
+| Conduite CC | ~46h38, hors pauses |
+| Voitures | Pouilles 21→25/09 ; Lac de Garde 05→09/10 |
+| Bateaux | Lac Majeur, Venise, Lac de Garde selon horaires |
+| Budget estimé | ~3 783 € |
 
 ---
 
-*Document généré par Sylvia — BAVI LEO Voyages 🧭*
+*Roadbook maître simplifié — les détails de visite sont conservés dans les fiches PDF liées ci-dessus.*
