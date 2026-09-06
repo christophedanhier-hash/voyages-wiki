@@ -92,9 +92,9 @@ Le roadbook principal ne répète plus les programmes détaillés. Les horaires,
 |:---|:---|:---|
 | Lac Majeur | [Fiche 1A — Plan bateau](https://drive.google.com/file/d/1VbGIuip_KmJ8O9punBR0-uUQXpj8c8Pf/view) | Maccagno → Isola Bella, déjeuner, palais Borromeo, retour |
 | Lac Majeur | [Fiche 1B — Variante Stresa](https://drive.google.com/file/d/1nOFb3zdbyet2IlLNMQitfI1wVeT6ztRP/view) | Eremo en route, Stresa, Isola Bella |
-| Lac Majeur | Fiche 1C — Eremo en CC | Monastère de Santa Caterina del Sasso seul |
+| Lac Majeur | [Fiche 1C — Eremo en CC](https://drive.google.com/file/d/1fH_7qJVGXLHAGmxaGQmFZ2AvOI-hDBJ-/view) | Monastère de Santa Caterina del Sasso seul |
 | Florence | [Fiche 2 — Florence](https://drive.google.com/file/d/1CEzpaZmEoQhw0WCQ1QSHAtYz-Co7kSeM/view) | Duomo, San Lorenzo, SMN, Uffizi, Doges, bus panoramique |
-| Pompéi | Fiche 3 — Pompéi | Pompei+, entrée Piazza Esedra, parcours sud→nord |
+| Pompéi | [Fiche 3 — Pompéi](https://drive.google.com/file/d/18iA5yUwN4r2cDtYgZxFcRwEqkMf4k9AZ/view) | Pompei+, entrée Piazza Esedra, parcours sud→nord |
 | Pouilles | [Fiche 4 — Pouilles](https://drive.google.com/file/d/1NEKhgiLTWztMsQIkECXnxAmgFLk3_zgP/view) | Trulli, Ostuni, Matera/Lecce, Polignano |
 | Venise | [Fiche 5 — Venise](https://drive.google.com/file/d/1NAYSXWy-sen6d5AUt4NSAXSTs3RWp6PK/view) | San Marco, Doges, Rialto, Murano, Burano |
 | Lac de Garde | [Fiche 6 — Lac de Garde](https://drive.google.com/file/d/1_Hm3e-fNkKhmphjlWz97tlNsn4tXGFP8/view) | Bateaux, Sirmione, Salò, rive est, Vérone, Riva |
