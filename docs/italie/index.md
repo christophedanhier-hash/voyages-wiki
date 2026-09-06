@@ -18,6 +18,12 @@
 
 ---
 
+> **📌 Document maître — source de référence du voyage**
+>
+> Ce roadbook constitue la base authentique : dates, étapes, réservations, transports, budget et décisions validées y font foi. Les fiches PDF d’excursion sont des compléments pratiques générés à partir de ce document. En cas de différence, **le roadbook doit être corrigé en premier et les fiches doivent ensuite être régénérées**.
+
+---
+
 ## 🗺️ Carte du trajet
 
 <iframe src="carte-italie.html" width="100%" height="550" style="border:2px solid #ccc;border-radius:8px;"></iframe>
@@ -98,6 +104,91 @@ Le roadbook principal ne répète plus les programmes détaillés. Les horaires,
 | Pouilles | [Fiche 4 — Pouilles](https://drive.google.com/file/d/1NEKhgiLTWztMsQIkECXnxAmgFLk3_zgP/view) | Trulli, Ostuni, Matera/Lecce, Polignano |
 | Venise | [Fiche 5 — Venise](https://drive.google.com/file/d/1NAYSXWy-sen6d5AUt4NSAXSTs3RWp6PK/view) | San Marco, Doges, Rialto, Murano, Burano |
 | Lac de Garde | [Fiche 6 — Lac de Garde](https://drive.google.com/file/d/1_Hm3e-fNkKhmphjlWz97tlNsn4tXGFP8/view) | Bateaux, Sirmione, Salò, rive est, Vérone, Riva |
+
+---
+
+## 🧭 Aperçu du voyage, étape par étape
+
+Cette section donne la vision générale du séjour. Les fiches PDF complètent uniquement les horaires précis, les cartes de proximité, les prix détaillés et les plans B.
+
+### 1. Lac Majeur — Maccagno, 12–14/09
+
+**Base :** The Camp by Maggiore Suites, Maccagno. Le camping-car reste au camping pendant les visites.
+
+- **Dimanche 13/09 :** journée principale au lac. Plan A : bateau depuis Maccagno vers **Isola Bella**, déjeuner sur l’île, palais et jardins Borromeo, puis retour en bateau.
+- **Variantes :** rejoindre Stresa avec le camping-car pour combiner l’ermitage de Santa Caterina del Sasso et Isola Bella ; ou consacrer la journée à l’ermitage seul avec le CC.
+- **À voir en priorité :** Isola Bella, Stresa et le lac depuis le bateau. Villa Taranto et Luino restent des options si la météo ou les horaires de bateau ne permettent pas le plan principal.
+- **Mobilité :** bateau et promenades relativement plates ; l’ermitage comporte des escaliers, avec ascenseur selon l’accès ouvert.
+
+### 2. Florence — 14–17/09
+
+**Base :** hu Firenze camping in town, Rovezzano. Le CC ne doit pas entrer dans la ZTL.
+
+- **Jour 1 :** Duomo, basilique San Lorenzo avec audio-guide, Mercato Centrale pour le déjeuner, puis Santa Maria Novella avec audio-guide.
+- **Jour 2 :** départ vers 09h00 ; Uffizi à 10h00 sur réservation, Piazza della Signoria, Palazzo Vecchio avec audio-guide, puis bus touristique panoramique vers Piazzale Michelangelo et San Miniato.
+- **Transports :** Uber pour les trajets camping-centre ; bus panoramique pour la colline ; bus ou Uber de secours au retour.
+- **À réserver :** créneau Uffizi, billets des monuments et restaurant du jour 1. Les détails sont dans la fiche Florence.
+- **Mobilité :** centre globalement plat, mais limiter les détours à pied ; la colline se fait en transport, pas à pied.
+
+### 3. Pompéi — 17–19/09
+
+**Base :** Camping Spartacus, Via Plinio 127, à proximité de l’entrée Piazza Esedra.
+
+- **Vendredi 18/09 :** visite du site avec billet Pompei+ : Antiquarium, théâtres, Forum, Thermes, Maison du Faune et Villa des Mystères.
+- **Après-midi :** repos au camping, puis sanctuaire Notre-Dame-du-Rosaire en taxi si l’énergie et la météo le permettent.
+- **À retenir :** entrée Piazza Esedra, la plus pratique depuis le camping ; parcours organisé du sud vers le nord pour limiter les allers-retours.
+- **Mobilité :** site vaste et irrégulier ; prévoir des pauses et ne pas chercher à tout voir. La fiche indique les portions prioritaires.
+
+### 4. Pouilles — Capitolo / Monopoli, 19–28/09
+
+**Base :** Residence Camping Atlantide, **Località Capitolo**, à 5,5 km au sud de Monopoli.
+
+- **Dimanche 20/09 :** Monopoli centre en bus depuis Capitolo, promenade du port et plage.
+- **Lundi 21/09 :** réception de la voiture à 10h00, puis vallée des Trulli : Alberobello, Locorotondo et Martina Franca selon le temps disponible.
+- **Mardi 22/09 :** Ostuni et côte adriatique, avec possibilité de Torre Canne.
+- **Mercredi 23/09 :** Matera ou, selon la fatigue et la météo, journée plus légère autour de Monopoli.
+- **Jeudi 24/09 :** Lecce ou Polignano à combiner avec la dernière journée de voiture.
+- **Vendredi 25/09 :** retour de la voiture à **10h00 à Monopoli**, puis Polignano a Mare en taxi ; aucune voiture n’est disponible après la restitution.
+- **Samedi–dimanche 26–27/09 :** criques proches de Capitolo, repos et plages. Porto Ghiacciolo et Santo Stefano sont les plus réalistes à pied ; le centre de Monopoli se rejoint en bus ou taxi.
+- **Mobilité :** la voiture est essentielle pour les excursions ; éviter de transformer chaque journée en grand circuit. La fiche 4 contient les distances et les variantes.
+
+### 5. Venise — Cavallino, 29/09–03/10
+
+**Base :** Camping Europa Village, Cavallino-Treporti. Les deux CC restent au camping.
+
+- **Mercredi 30/09 :** bus jusqu’à Punta Sabbioni, ferry vers San Marco ; basilique, Campanile, Palais des Doges, puis Grand Canal et Rialto en vaporetto.
+- **Jeudi 01/10 :** Fondamente Nove, Murano et Burano avec le vaporetto ligne 12.
+- **Vendredi 02/10 :** Lido à vélo si souhaité, ou quartiers plus calmes de Cannaregio, Castello et Dorsoduro ; possibilité de repos piscine/plage au camping.
+- **Transports :** pass ACTV 72 h conseillé pour bus, ferry et vaporetti. Aucun CC ni voiture dans Venise.
+- **Avec David & Nancy :** gondole partagée ou dégustation de cicchetti possibles à quatre.
+
+### 6. Lac de Garde — Desenzano, 03–10/10
+
+**Base :** San Francesco Camping Village. La voiture est prise **lundi 05/10 à 10h00** et rendue **vendredi 09/10 à 10h00** : quatre jours réels.
+
+- **Samedi 03/10 :** installation, plage et piscine.
+- **Dimanche 04/10 :** journée bateau sans voiture, idéalement Desenzano–Sirmione ; horaires à confirmer au quai, car l’horaire été officiel publié va jusqu’au 04/10.
+- **Lundi 05/10 :** prise de la voiture à 10h, puis Sirmione, Salò et Gardone Riviera. Limone est optionnel et ne doit pas être ajouté si la journée devient trop longue.
+- **Mardi 06/10 :** Torri del Benaco, Bardolino et Malcesine ; téléphérique du Monte Baldo seulement si la météo est claire et si Sylvie se sent bien.
+- **Mercredi 07/10 :** Vérone : Arène, Piazza Bra, Piazza delle Erbe et éventuellement Castelvecchio. Stationnement hors ZTL.
+- **Jeudi 08/10 :** Riva del Garda et Torbole. La Gola del Ponale reste une vue éventuelle, pas une randonnée prévue.
+- **Vendredi 09/10 :** restitution à 10h00, retour au camping, piscine, plage et repos uniquement.
+- **Mobilité :** les bateaux sont privilégiés quand les horaires le permettent ; les journées en voiture sont limitées à quelques lieux principaux.
+
+---
+
+## 🎯 Priorités et éléments optionnels
+
+| Priorité | À ne pas manquer | Optionnel si temps, météo et énergie |
+|:---|:---|:---|
+| Lac Majeur | Isola Bella, bateau, Stresa | Villa Taranto, Luino, ermitage selon variante |
+| Florence | Uffizi, San Lorenzo, SMN, Palazzo Vecchio, Piazzale Michelangelo | Accademia, Pitti, Boboli |
+| Pompéi | Forum, Thermes, Maison du Faune, Villa des Mystères | Sanctuaire, parcours complet du site |
+| Pouilles | Alberobello, Ostuni, Matera ou Lecce, Monopoli, Polignano | Torre Canne, criques éloignées, programme trop chargé |
+| Venise | San Marco, Doges, Rialto, Murano, Burano | Lido à vélo, gondole, tour privé |
+| Lac de Garde | Sirmione, Vérone, Riva, rive est | Limone, Monte Baldo, Vittoriale, Gola del Ponale |
+
+> Règle générale : une option est supprimée dès qu’elle transforme la journée en course ou dépasse le rythme de Sylvie. Les horaires complets et les cartes restent dans les fiches PDF.
 
 ---
 
