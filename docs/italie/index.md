@@ -610,7 +610,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 > 🗺️ **Carte interactive du Lac de Garde** — Camp de base, rives sud/est/nord et excursion Vérone :
 > <iframe src="carte-garde-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
 
-**🚐 CC :** Garé au camping. Location voiture Sunny Cars **#15253704** (293,00 €) — ✅ **Voucher reçu le 28/07/2026** — **gardée** (5 jours, Lun 5 → Ven 9/10).
+**🚐 CC :** Garé au camping. Location voiture Sunny Cars **#15253704** (293,00 €) — ✅ **Voucher reçu le 28/07/2026** — **prise lundi 05/10 à 10h00, restitution vendredi 09/10 à 10h00** (4 jours réels). ⚠️ **Aucune visite en voiture le vendredi après la restitution.**
 
 > 💡 **Alternative sans voiture ?** Le Lac de Garde est bien desservi en **ferry** ⛴️ et **train** 🚄. Voir section dédiée plus bas.
 
@@ -619,12 +619,12 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 | Jour | Date | Activité | Transport |
 |:----:|:----:|----------|:---------:|
 | 🏁 | Sam 3/10 | Arrivée, installation — balade Desenzano à pied | 🚶 |
-| 🏖️ | Dim 4/10 | Découverte Desenzano + balade à pied 🚶 | 🚶 |
-| 🏰 | Lun 5/10 | **Jour 1 voiture — Sirmione + rive ouest** | 🚗 |
-| 🏔️ | Mar 6/10 | **Jour 2 voiture — Rive est** (Malcesine, Torri) | 🚗 |
-| 🏛️ | Mer 7/10 | **Jour 3 voiture — Vérone** (journée) | 🚗 |
-| 🌊 | Jeu 8/10 | **Jour 4 voiture — Riva del Garda + nord** | 🚗 |
-| ☀️ | Ven 9/10 | Dernier jour — plages, farniente, piscine 🏖️ | 🚶 |
+| 🏖️ | Dim 4/10 | **Journée bateaux** — Desenzano/Sirmione, selon horaires confirmés au quai | 🚤 |
+| 🏰 | Lun 5/10 | **Prise voiture 10h** — Sirmione + Salò + Gardone | 🚗 |
+| 🏔️ | Mar 6/10 | **Jour 2 voiture — Rive est** (Torri, Bardolino, Malcesine) | 🚗 |
+| 🏛️ | Mer 7/10 | **Jour 3 voiture — Vérone** | 🚗 |
+| 🌊 | Jeu 8/10 | **Jour 4 voiture — Riva del Garda + Torbole** | 🚗 |
+| ☀️ | Ven 9/10 | **Restitution voiture 10h** — piscine, plage, repos uniquement | 🚶 |
 | ⬆️ | Sam 10/10 | Départ → Colmar | 🚐 |
 
 ---
@@ -644,36 +644,37 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 
 ### 🚗 Excursions en voiture — jour par jour
 
-**🗓️ Jour 1 — Sirmione + rive ouest (Lun 5/10 — ~50 km)**
+**🗓️ Jour 1 — Prise voiture 10h + Sirmione, Salò, Gardone (Lun 5/10 — ~128 km)**
 
 | Horaire | Site | Distance de Desenzano | Temps visite |
 |:-------:|:-----|:--------------------:|:-----------:|
-| 9h30 | 🏰 **Sirmione** — château + Grotte di Catullo | 15 km / 20 min | 2h |
+| **10h00** | **Prise de la voiture** à Desenzano | — | — |
+| 10h30 | 🏰 **Sirmione** — château + vieille ville | 5 km / 10 min | 2h |
 | 12h | 🍝 Déjeuner Sirmione | — | 1h |
-| 14h | 🏘️ **Salò** — promenade lacustre | 25 km / 30 min | 1h |
-| 15h30 | 🏡 **Gardone Riviera** — Vittoriale degli Italiani | 30 km / 35 min | 1h30 |
-| 17h | 🍋 **Limone sul Garda** — citronniers, vieille ville | 50 km / 55 min | 1h |
+| 14h15 | 🏘️ **Salò** — promenade lacustre | 25 km / 35 min | 1h15 |
+| 16h | 🏡 **Gardone Riviera** — promenade ou Vittoriale en option | 5 km / 10 min | 1h30 |
+| 18h30 | Retour au camping | — | — |
 
-- **Sirmione :** château scaligero (6 €), Grotte di Catullo (ruines romaines, 10 €). Parking : Parcheggio Montebaldo (grand, proche centre).
+- **Sirmione :** château scaligero (environ 6 €), parking Montebaldo hors ZTL.
 - **Salò :** promenade élégante, place, cafés. Ville plate ✅.
-- **Vittoriale :** demeure de D'Annunzio, maison-musée extraordinaire. Parking sur place.
-- **Limone :** vieux village piéton, citronniers, ruelles fleuries. Parking entrée ville.
+- **Vittoriale :** demeure de D'Annunzio, option payante et plus fatigante ; supprimer si besoin.
 - ⚠️ **ZTL :** active dans plusieurs villages — se garer en périphérie.
 
-**🗓️ Jour 2 — Rive est du lac (Mar 6/10 — ~80 km)**
+**🗓️ Jour 2 — Rive est du lac (Mar 6/10 — ~156 km)**
 
 | Horaire | Site | Distance de Desenzano | Temps visite |
 |:-------:|:-----|:--------------------:|:-----------:|
-| 9h30 | 🚤 **Ferry Desenzano → Malcesine** (option) | 30 min de traversée | — |
-| 10h30 | 🏰 **Malcesine** — château + téléphérique Monte Baldo | 50 km route / 30 min ferry | 2h30 |
+| 9h00 | Départ du camping | — | — |
+| 10h00 | 🏰 **Torri del Benaco** — château, port | 37 km / 48 min | 1h15 |
+| 11h45 | 🍷 **Bardolino** — promenade et café | 15 km / 20 min | 1h |
 | 13h | 🍝 Déjeuner Malcesine | — | 1h |
-| 15h | 🏘️ **Torri del Benaco** — château, port | 40 km / 45 min | 1h |
-| 16h30 | 🍷 **Bardolino** — vignobles, dégustation | 45 km / 50 min | 1h |
+| 14h15 | 🏰 **Malcesine** — château et vieille ville | 28 km / 35 min | 2h |
+| 18h30 | Retour au camping | — | — |
 
 - **Malcesine :** château Scaligero (6 €). **Téléphérique du Monte Baldo** (25 € A/R) — vue à 360° sur le lac et les Alpes ❤️. Accessible (cabine). Parking : Via Gardesana.
 - **Torri del Benaco :** château + musée ethnographique (5 €).
 - **Bardolino :** vignoble, dégustation de vin locale.
-- **Alternative au ferry :** contourner le lac par la route (plus long mais voiture).
+- **Bateau :** non retenu comme liaison principale après le 04/10 ; vérifier au quai si un service réduit circule.
 
 **🗓️ Jour 3 — Vérone (Mer 7/10 — ~80 km A/R)**
 
@@ -691,19 +692,19 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 - **Parking :** Parcheggio Piazza Cittadella (grand, 10 min à pied du centre).
 - **Astuce :** éviter de prendre la voiture dans le centre historique (ZTL). 
 
-**🗓️ Jour 4 — Riva del Garda + nord du lac (Jeu 8/10 — ~110 km A/R)**
+**🗓️ Jour 4 — Riva del Garda + Torbole (Jeu 8/10 — ~178 km A/R)**
 
 | Horaire | Site | Distance de Desenzano |
 |:-------:|:-----|:--------------------:|
-| 9h | 🚗 Route → **Riva del Garda** | 55 km / 1h |
+| 9h | 🚗 Route → **Riva del Garda** | 88 km / 1h15 |
 | 10h-12h | 🏖️ **Riva del Garda** — vieille ville, port | Visite 2h |
 | 12h | 🍝 Déjeuner Riva | — |
-| 14h | 🏞️ **Torbole** — plage + vue nord lac | 5 km / 8 min |
-| 15h | 🌿 **Gola del Ponale** (belvédère accessible) | 8 km / 12 min |
-| 16h | 🚗 Retour Desenzano | 55 km / 1h |
+| 14h | 🏞️ **Torbole** — plage + vue nord lac | 5 km / 10 min |
+| 15h | Vue sur la Gola del Ponale — sans randonnée | — |
+| 15h30 | 🚗 Retour Desenzano | — |
 
 - **Riva del Garda :** ville la plus au nord du lac. Vieille ville piétonne, place III Novembre, tour Apponale. 
-- **Gola del Ponale :** route panoramique taillée dans la falaise, vue spectaculaire.
+- **Gola del Ponale :** randonnée non retenue pour Sylvie ; simple vue depuis un point accessible si possible.
 - **Mobilité Sylvie :** Riva = plat ✅, belle promenade le long du lac.
 
 > 💡 **Alternative Jour 4 :** au lieu de Riva, **Brescia** (25 km, 25 min) — musées, place de la Loggia, château. Moins touristique.
@@ -739,7 +740,7 @@ Sans les VAE, l'option Lido devient moins évidente. Voici les alternatives :
 
 ### 🚗 Voiture de location — Vraiment nécessaire ? Analyse alternative
 
-La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée ou raccourcie. Voici les alternatives pour chaque excursion :
+La voiture Sunny Cars **#15253704** est confirmée du **lundi 05/10 à 10h00 au vendredi 09/10 à 10h00** (4 jours réels, 293 €). Les bateaux restent utilisés le dimanche 04/10 ; après la fin de l'horaire été officiel le 04/10, ils ne sont pas la base du programme des excursions du 05 au 08/10.
 
 | Excursion | En voiture | Alternative sans voiture | Verdict |
 |:----------|:----------:|:------------------------|:-------:|
@@ -755,11 +756,11 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 
 | Option | Coût | Flexibilité | Stress | Pour qui ? |
 |:-------|:---:|:-----------:|:-----:|:-----------|
-| 🚗 **Garder la voiture** | ~150-200 € (5j + essence) | ✅✅✅ | ⚠️ ZTL, parking | Si vous voulez maximiser les excursions lointaines (Riva, nord) |
-| 🚫 **Annuler la voiture** | **0 €** | ✅ (ferry+bus+train) | ✅ Aucun | Si vous préférez le confort et les économies |
-| 🔄 **Garder 2-3 jours** | ~80-120 € | ✅✅ | ⚠️ ZTL | Pour Riva + jour au choix, le reste en ferry/train |
+| 🚗 **Voiture confirmée 4 jours** | **293 € + carburant** | ✅✅✅ | ⚠️ ZTL, parking | Sirmione/Salò/Gardone, rive est, Vérone, Riva |
+| 🚤 **Bateaux** | selon billet | ✅ | Horaires à confirmer | Journée du dimanche 04/10, sans voiture |
+| 🚆 **Train/bus de secours** | selon billet | ✅✅ | — | Vérone ou Desenzano si besoin |
 
-> **🏆 Mon conseil :** La voiture **n'est pas indispensable**. Le ferry ⛴️ dessert Sirmione, Malcesine, Limone, Bardolino — plus beau que la route. Le train 🚄 pour Vérone est imbattable (20 min, 4 €). À 4 (David & Nancy), le ferry c'est aussi une activité en soi. Si vous annulez la voiture, **économisez ~150-200 €**. Sinon, gardez-la 2-3 jours pour Riva et la flexibilité.
+> **🏆 Organisation retenue :** voiture du lundi 05/10 10h au vendredi 09/10 10h pour les quatre journées d'excursion. Dimanche 04/10 : bateau sans voiture. Vendredi après la restitution : repos au camping, sans visite motorisée.
 
 ### 🍝 Manger autour du lac
 
@@ -776,7 +777,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 ### ⚠️ Astuces pratiques (Lac de Garde)
 
 - **San Francesco Camping Village :** piscine, location vélos, accès direct plage. 7 nuits (3→10/10). Acompte 140,40 € payé. Solde ~327,60 € à régler sur place.
-- **Sunny Cars #15253704** : 5 jours — **voir analyse alternative ci-dessus** avant de confirmer. Si annulation, le ferry + train suffisent.
+- **Sunny Cars #15253704** : **293 € — prise lundi 05/10 à 10h00, retour vendredi 09/10 à 10h00**. Quatre jours réels. Le vendredi après 10h : piscine, plage et repos au camping uniquement.
 - **Pas de chien pendant ce voyage :** Nala reste à la maison. Aucune contrainte « chien » à vérifier.
 - **⚠️ ZTL :** active dans Sirmione, Malcesine, Salò, Vérone. Se garer en périphérie.
 - **Parking recommandé Sirmione :** Parcheggio Montebaldo (grand, ombragé, 2 €/h).
@@ -821,12 +822,12 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 | Poste | Coût |
 |-------|:----:|
 | 🏕️ Campings | ~1 576,80 € *(+145 € hu Firenze Premium : 165 → 310 €)* |
-| 🚗 Locations voiture (2×5j) | ~336,96 € |
+| 🚗 Locations voiture | **679 €** *(Pouilles 386 € + Lac de Garde 293 € ; Lac de Garde = 4 jours d'utilisation)* |
 | ⛽ Carburant (estimation) | **~718 €** |
 | 🛣️ Péages (Ulys Pass) | **~293 €** |
 | 🎫 Vignette autoroutière suisse | **~42 €** |
 | 🎟️ Visites & activités | **~435 €** |
-| **Total (campings + locations + carburant + péages + vignette + visites)** | **~3 402 €** |
+| **Total (campings + locations + carburant + péages + vignette + visites)** | **~3 744 €** |
 
 **Détail des visites par étape (pour 2 pers.) :**
 
@@ -854,7 +855,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 - **Residence Camping Atlantide (Monopoli — Capitolo)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (reçue lun 21/09 10h00 → rendue ven 25/09 10h00 à Monopoli), **bus Capitolo–Monopoli (~1,10 €)**, taxi (~10 €), à pied (plages Capitolo). ⚠️ La résidence est à **Capitolo, 5,5 km au sud du centre** (GPS 40.9135, 17.3443) — centre en bus/taxi/voiture, pas à pied. Piazzola adaptée au CC 8m + eau/électricité incluses (confirmé 25/08/2026). Voir section dédiée 🚗🚶🚌
 - **Camping Village Led Zeppelin (Cupra Marittima)** : étape repos à 10 min de San Benedetto del Tronto. Piazzola camper 65 m² avec électricité. Hauteur max 3,05m ✅. Piscine, plage, restaurant. Ouvert jusqu'au 30/09. ⏳ **Pas de réservation possible pour 1 nuit** — walk-in accepté. Mail de remerciement + confirmation envoyé le 08/07/2026 ✅. Walk-in **re-confirmé le 25/08/2026** (accès direct, électricité OK). 🏕️
 - **Camping Europa Village (Cavallino)** : réservé via Sandaya (N°06426005202000). ✅ **Entièrement payé (25/08/2026)** — acompte 65,76 € + solde 153,44 €. Accès Venise : bus + ferry ACTV (45 min). 4 nuits, 3 jours pleins. ⏳ Confirmation d'arrivée demandée le 25/08 — accusé Sandaya reçu (réponse sous 72h). Voir section Venise dédiée 🛶
-- **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte 140,40 € payé le 14/01/2026. Solde ~327,60 €. Piscine, plage. Location vélos sur place. Sunny Cars #15253704 (5j). Voir section dédiée 🚗🚶
+- **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte 140,40 € payé le 14/01/2026. Solde ~327,60 €. Piscine, plage. Location vélos sur place. Sunny Cars #15253704 : **prise 05/10 10h00, retour 09/10 10h00 — 4 jours réels**. Voir section dédiée 🚗🚶
 - **Location voiture** : prévue 2 fois (Pouilles + Lac de Garde) via Sunny Cars — ✅ **Vouchers reçus le 28/07/2026** pour les deux réservations (#15253750 Pouilles: 386€ et #15253704 Lac de Garde: 293€). Paiement total : 679€
 - **⚠️ Dimensions CC 8m × 2,5m × 2,8m** : vérifier les parkings souterrains et entrées de ville. Florence ZTL interdite au CC. Parkings conseillés en périphérie (Scandicci, Villa Costanza)
 
