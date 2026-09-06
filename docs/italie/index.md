@@ -45,7 +45,7 @@
 | 12 | Mar 22/9 | 🚗 *Jour 2 voiture — Côte adriatique sud* 🏛️ | — | 2052 | — | — | — |
 | 13 | Mer 23/9 | 🚗 *Jour 3 voiture — Lecce ou Matera* 🌆 | — | 2052 | — | — | — |
 | 14 | Jeu 24/9 | 🚗 *Jour 4 voiture — Au choix* 🎯 | — | 2052 | — | — | — |
-| 15 | Ven 25/9 | 🚕 *Rendu voiture 9h + Polignano en taxi* 🌊 | — | 2052 | — | — | — |
+| 15 | Ven 25/9 | 🚕 *Rendu voiture 10h + Polignano en taxi* 🌊 | — | 2052 | — | — | — |
 | 16 | Sam 26/9 | ☀️ *Plages & criques* 🏖️ | — | 2052 | — | — | — |
 | 17 | Dim 27/9 | ☀️ *Dernier jour — farniente & criques* ☀️ | — | 2052 | — | — | — |
 | 18 | Lun 28/9 | ⬆️ **Monopoli** → **Camping Village Led Zeppelin — Cupra Marittima** (simple étape repos) | 432 km | 2484 | 1 | Camping Village Led Zeppelin 🏕️ | ~30,00 € |
@@ -253,7 +253,7 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 > 🗺️ **Carte interactive des Pouilles** — Camp de base (Monopoli), sites à pied, excursions en voiture et restaurants :
 > <iframe src="carte-monopoli-poi.html" width="100%" height="450" style="border: 2px solid #ccc; border-radius: 8px;"></iframe>
 
-**🚗 Location voiture :** Sunny Cars réservation **#15253750** — 5 jours (Lun 21 → Ven 25/9). ✅ **Voucher reçu le 28/07/2026** — paiement 386,00 € confirmé. ⚠️ **La voiture est rendue le VENDREDI 25/09 à 09h00 à Monopoli** (agence) — le 5e jour se fait sans voiture (Polignano en taxi). Idéal pour rayonner : Alberobello, Ostuni, Lecce, Matera à portée (lun→jeu).
+**🚗 Location voiture :** Sunny Cars réservation **#15253750** — 5 jours. ✅ **Voucher reçu le 28/07/2026** — paiement 386,00 € confirmé. ⚠️ **Réception LUNDI 21/09 à 10h00 à Monopoli** → **Retour VENDREDI 25/09 à 10h00 à Monopoli** (agence). Le Jour 1 (Trulli) démarre après la prise (~10h45) et le vendredi se fait sans voiture (Polignano en taxi). Idéal pour rayonner : Alberobello, Ostuni, Lecce, Matera à portée (lun→jeu).
 
 **📋 Organisation du séjour :**
 
@@ -261,11 +261,11 @@ Pompéi est **immense** (66 ha). Le parcours classique c'est 5-8 km de marche. M
 |:----:|:----:|----------|:---------:|
 | 🏁 | Sam 19/9 | Arrivée, installation — promenade plage de Capitolo | 🚶 |
 | 🚶 | Dim 20/9 | **Monopoli centre** (bus Capitolo ou taxi) OU plage Capitolo | 🚌🚕 |
-| 🏡 | Lun 21/9 | **Vallée des Trulli** : Alberobello, Locorotondo, Martina Franca | 🚗 |
+| 🏡 | Lun 21/9 | **Réception voiture 10h00** Monopoli → **Vallée des Trulli** : Alberobello, Locorotondo, Martina Franca | 🚗 |
 | 🏛️ | Mar 22/9 | **Côte sud** : Ostuni + plages Torre Canne → Capitolo | 🚗 |
 | 🌆 | Mer 23/9 | **Grande excursion** : Matera (Sassi UNESCO) toute la journée | 🚗 |
 | 🎯 | Jeu 24/9 | **Lecce** (Florence du Sud) ou Castellana Grotte | 🚗 |
-| 🚙 | Ven 25/9 | **Rendre voiture 09h00** à Monopoli → Polignano a Mare en **taxi** | 🚕 |
+| 🚙 | Ven 25/9 | **Rendre voiture 10h00** à Monopoli → Polignano a Mare en **taxi** | 🚕 |
 | | ☀️ | Sam 26/9 | Plages & criques de Capitolo 🏖️ (Porto Ghiacciolo, Santo Stefano) | 🚶 |
 | | ☀️ | Dim 27/9 | Dernier jour — farniente criques, gelato 🍨 (ou Monopoli en bus) | 🚶🚌 |
 | ⬆️ | Lun 28/9 | Départ → Camping Village Led Zeppelin (Cupra Marittima) | 🚐 |
@@ -297,17 +297,22 @@ Le centre historique est compact et plat — se visite en **1-2h** à votre ryth
 
 **🗓️ Jour 1 — Vallée des Trulli (Lun 21/9 — ~50 km)**
 
+⚠️ **Réception de la voiture à 10h00 à Monopoli** — l'excursion démarre après la prise du véhicule (~10h45).
+
 | Horaire | Site | Distance de Monopoli | Temps visite |
 |:-------:|:-----|:--------------------:|:-----------:|
-| 10h | 🏡 **Alberobello** — Trulli UNESCO | 21 km / 21 min | 2h |
-| 13h | 🏘️ **Locorotondo** — balcon fleuri | 30 km / 30 min | 1h + déj |
-| 15h | 🎭 **Martina Franca** — baroque | 33 km / 30 min | 1h30 |
-| 17h | 🦇 **Castellana Grotte** — grottes (option) | 15 km / 15 min | 1h |
+| 10h00 | 🔑 **Réception voiture** (agence Monopoli) | — | — |
+| 10h45-12h45 | 🏡 **Alberobello** — Trulli UNESCO | 21 km / 25 min | 2h |
+| 13h00-14h15 | 🏘️ **Locorotondo** — balcon fleuri + déjeuner | 30 km / 30 min | 1h15 |
+| 14h45-16h15 | 🎭 **Martina Franca** — baroque | 33 km / 30 min | 1h30 |
+| 16h30-17h30 | 🦇 **Castellana Grotte** — grottes (option) | 15 km / 15 min | 1h |
+| 18h00 | Retour Monopoli / Capitolo | 30 km / 30 min | — |
 
 - **Alberobello :** parcourir le quartier **Aia Piccola** (moins touristique que Monti). Parking Via Isonzo (gratuit, 5 min du centre).
 - **Locorotondo :** village perché, vue sur la vallée d'Itria. Ruelles blanches, balcons fleuris.
 - **Martina Franca :** palais et églises baroques, place XX Settembre.
 - **Astuce :** Route panoramique **SP13** entre Alberobello et Locorotondo — oliviers à perte de vue ✨
+- Option : si la journée est trop chargée après la réception, sacrifier Castellana Grotte et rentrer vers 17h.
 
 **🗓️ Jour 2 — Côte adriatique sud (Mar 22/9 — ~80 km)**
 
@@ -352,17 +357,17 @@ Le centre historique est compact et plat — se visite en **1-2h** à votre ryth
 
 **🗓️ Jour 5 — Rendu voiture + Polignano en taxi (Ven 25/9)**
 
-⚠️ **La voiture Sunny Cars est rendue le vendredi 25/09 à 09h00 à Monopoli** (agence) — plus de voiture ce jour-là. Polignano (9 km au nord de Monopoli) se fait en **taxi** (~15 € la course, 10-15 min).
+⚠️ **La voiture Sunny Cars est rendue le vendredi 25/09 à 10h00 à Monopoli** (agence) — plus de voiture ce jour-là. Polignano (9 km au nord de Monopoli) se fait en **taxi** (~15 € la course, 10-15 min).
 
 | Horaire | Activité |
 |:-------:|:---------|
-| 8h15 | 🚗 Départ Capitolo en voiture (dernier trajet) |
-| 9h00 | 🔑 **Rendre la voiture** à l'agence de Monopoli |
-| 9h15 | 🚕 Taxi Monopoli → Polignano a Mare (~15 €) |
-| 9h45-12h | 🌊 **Polignano a Mare** — falaises, Lama Monachile, balade |
-| 12h-13h | 🍝 Déjeuner Polignano (vue mer) |
-| 13h15 | 🚕 Taxi Polignano → Capitolo (~20 €) ou bus + Capitolo |
-| 14h30 | 🏖️ Retour résidence — repos, piscine |
+| 9h15 | 🚗 Départ Capitolo en voiture (dernier trajet) |
+| 10h00 | 🔑 **Rendre la voiture** à l'agence de Monopoli |
+| 10h15 | 🚕 Taxi Monopoli → Polignano a Mare (~15 €) |
+| 10h45-13h | 🌊 **Polignano a Mare** — falaises, Lama Monachile, balade |
+| 13h-14h | 🍝 Déjeuner Polignano (vue mer) |
+| 14h15 | 🚕 Taxi Polignano → Capitolo (~20 €) ou bus + Capitolo |
+| 15h30 | 🏖️ Retour résidence — repos, piscine |
 
 - **Polignano a Mare :** falaises vertigineuses, Lama Monachile (plage iconique entre deux falaises). Plus touristique mais incontournable. Le taxi dépose au centre — parking inutile.
 - Option : si météo mauvaise le vendredi, Polignano peut se faire le **samedi 26 matin** en taxi (même principe).
@@ -846,7 +851,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 - **The Camp by Maggiore Suites (Lac Majeur — Maccagno)** : front pitch FR1 (8m OK). Hauteur max 2,60m — si CC >2,60m, passer par Via Giuseppe Verdi. Code portail: 1593
 - **hu Firenze camping in town** : Via Generale C. A. dalla Chiesa 1/3, 50136 Florence 📍 GPS 43.7646314, 11.3161007. ✅ **Confirmation officielle reçue le 26/08/2026** — **hu camp Premium 310 € TOTAL pour 3 nuits** (2 adultes, sans chien). **Emplacement ~100-105 m²** avec eau, électricité et WiFi gratuits sur l'emplacement ; linge/serviettes fournis. Taxe de séjour 3,50 €/nuit/pers (21 €) à l'arrivée. **Annulation gratuite jusqu'à 24h avant l'arrivée**. Check-in : clés dès 12h00, réception 24h/7j. Tram T1 depuis/vers le centre
 - **Pompéi** : ✅ **Camping Spartacus** (Via Plinio 127, 50m entrée Porta Marina) — résa confirmée ✅, **33€/nuit tout compris**. Arrivée ~15h00 le 17/09 — **confirmée par le camping le 25/08/2026**. Piscine, pizzeria, Wi-Fi
-- **Residence Camping Atlantide (Monopoli — Capitolo)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (lun 21 → ven 25, **rendue ven 25/09 à 09h00 à Monopoli**), **bus Capitolo–Monopoli (~1,10 €)**, taxi (~10 €), à pied (plages Capitolo). ⚠️ La résidence est à **Capitolo, 5,5 km au sud du centre** (GPS 40.9135, 17.3443) — centre en bus/taxi/voiture, pas à pied. Piazzola adaptée au CC 8m + eau/électricité incluses (confirmé 25/08/2026). Voir section dédiée 🚗🚶🚌
+- **Residence Camping Atlantide (Monopoli — Capitolo)** : séjour de 9 nuits (19→28/09). CC garé à la Residence tout le séjour — transports : voiture de location Sunny Cars #15253750 (reçue lun 21/09 10h00 → rendue ven 25/09 10h00 à Monopoli), **bus Capitolo–Monopoli (~1,10 €)**, taxi (~10 €), à pied (plages Capitolo). ⚠️ La résidence est à **Capitolo, 5,5 km au sud du centre** (GPS 40.9135, 17.3443) — centre en bus/taxi/voiture, pas à pied. Piazzola adaptée au CC 8m + eau/électricité incluses (confirmé 25/08/2026). Voir section dédiée 🚗🚶🚌
 - **Camping Village Led Zeppelin (Cupra Marittima)** : étape repos à 10 min de San Benedetto del Tronto. Piazzola camper 65 m² avec électricité. Hauteur max 3,05m ✅. Piscine, plage, restaurant. Ouvert jusqu'au 30/09. ⏳ **Pas de réservation possible pour 1 nuit** — walk-in accepté. Mail de remerciement + confirmation envoyé le 08/07/2026 ✅. Walk-in **re-confirmé le 25/08/2026** (accès direct, électricité OK). 🏕️
 - **Camping Europa Village (Cavallino)** : réservé via Sandaya (N°06426005202000). ✅ **Entièrement payé (25/08/2026)** — acompte 65,76 € + solde 153,44 €. Accès Venise : bus + ferry ACTV (45 min). 4 nuits, 3 jours pleins. ⏳ Confirmation d'arrivée demandée le 25/08 — accusé Sandaya reçu (réponse sous 72h). Voir section Venise dédiée 🛶
 - **San Francesco (Lac de Garde)** : Desenzano del Garda. Acompte 140,40 € payé le 14/01/2026. Solde ~327,60 €. Piscine, plage. Location vélos sur place. Sunny Cars #15253704 (5j). Voir section dédiée 🚗🚶
