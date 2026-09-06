@@ -13,7 +13,7 @@
 | **Mobilité** | Sylvie : max 5-7 km/j à pied. Pas de VAE à bord — transports : à pied, taxi, bus, voiture de location |
 | **🐕 Nala** | **Pension chez Émilie** (fille de Christophe) — pas du voyage |
 | **Équipement** | Pas de vélos à bord — location possible sur place si besoin (Lac de Garde, Venise Lido) |
-| **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise). ✅ **Schoenau J1 payé (16 €) + Atlantide soldé le 05/09/2026** (235,20 € virement, facture demandée). ✅ **Europa Village entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place. ✅ **Confirmations d'arrivée reçues le 25/08/2026** (Spartacus, Atlantide, Led Zeppelin). ✅ **hu Firenze : hu camp Premium confirmé le 25/08/2026 — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien — taxe de séjour 21 € à l'arrivée). ✅ **Confirmation officielle reçue le 26/08/2026** (détails complets : emplacement ~100-105 m², WiFi, linge, annulation 24h). 💰 **Paiement total sur place à l'arrivée** (électronique ou espèces — confirmé 26/08/2026) |
+| **Réservations** | ✅ **Tous les campings sont réservés** pour les 2 CC (David & Nancy dans les mêmes campings à partir de Venise). ✅ **Schoenau J1 (16 €) + Schoenau retour (13,64 €) payés + Atlantide soldé le 05-06/09/2026** (235,20 € virement, facture par email demandée). ✅ **Europa Village entièrement payé le 25/08/2026** (acompte 65,76 € + solde 153,44 €). Taxe de séjour 3,60 € à régler sur place. ✅ **Confirmations d'arrivée reçues le 25/08/2026** (Spartacus, Atlantide, Led Zeppelin). ✅ **hu Firenze : hu camp Premium confirmé le 25/08/2026 — 310 € TOTAL pour 3 nuits** (2 adultes, sans chien — taxe de séjour 21 € à l'arrivée). ✅ **Confirmation officielle reçue le 26/08/2026** (détails complets : emplacement ~100-105 m², WiFi, linge, annulation 24h). 💰 **Paiement total sur place à l'arrivée** (électronique ou espèces — confirmé 26/08/2026) |
 
 > 📥 **[Télécharger le roadbook au format PDF](roadbook-italie-2026.pdf)**
 
@@ -60,7 +60,7 @@
 | 27 | Mer 7/10 | 🚗 *Jour 3 voiture — Vérone* 🏛️ | — | 3123 | — | — | — |
 | 28 | Jeu 8/10 | 🚗 *Jour 4 voiture — Riva del Garda* 🌊 | — | 3123 | — | — | — |
 | 29 | Ven 9/10 | ☀️ *Dernier jour — farniente & plages* ☀️ | — | 3123 | — | — | — |
-| 30 | Sam 10/10 | 🇫🇷 **Lac de Garde** → **Colmar** | 515 km | 3638 | 1 | Aire CC Schoenau | 14,00 € |
+| 30 | Sam 10/10 | 🇫🇷 **Lac de Garde** → **Colmar** | 515 km | 3638 | 1 | Aire CC Schoenau ✅ payé | 13,64 € |
 | 31 | Dim 11/10 | 🏁 **Colmar** → **Sombreffe** — *Retour maison* | 466 km | **4104** | — | — | — |
 
 ### Distances routières & temps estimé (CC à 100 km/h max)
@@ -776,6 +776,7 @@ La voiture Sunny Cars **#15253704** (5 jours, ~150-200 €) peut être annulée 
 | Étape | Camping | Réservation | Durée | Coût | Acompte |
 |-------|---------|:-----------:|:-----:|:----:|:-------:|
 | Colmar (J1) | Aire CC Schoenau | ✅ Résa en ligne (créneau strict 11/09 12h→12/09 11h) | 1 nuit | **16,00 € payé** | ✅ Payé le 05/09 |
+| Colmar (retour J30) | Aire CC Schoenau | ✅ Résa en ligne (créneau strict 10/10 12h→11/10 11h) | 1 nuit | **13,64 € payé** | ✅ Payé le 06/09 |
 | Lac Majeur — Maccagno | **The Camp by Maggiore Suites** | ✅ #32877 | 2 nuits | 154,00 € | **30,80 €** ✔️ Stripe |
 | Florence | **hu Firenze camping in town** | ✅ #314185774 — **hu camp Premium — 310 € TOTAL** (2 adultes, sans chien) | 3 nuits | **310,00 €** | 💰 Sur place (confirmé 26/08) |
 | Pompéi | **Camping Spartacus** | ✅ Confirmé (arrivée 17/09 ✅) | 2 nuits | **66,00 €** (33€/nuit) | ✅ Confirmé |
