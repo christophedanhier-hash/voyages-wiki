@@ -6,6 +6,10 @@
 >
 > 🔄 **Mise à jour sur demande** — pendant le voyage, demande simplement à Sylvia : « *mets à jour la météo* » et cette page sera régénérée avec les prévisions du jour.
 
+> **Méthode de référence :** les valeurs chiffrées proviennent directement d’une API météo, pas d’un modèle de langage. Open-Meteo est la source principale actuelle : accès gratuit, plusieurs modèles météorologiques européens et prévisions jusqu’à 15 jours. La Google Weather API peut servir de comparaison ponctuelle si une clé Google Cloud configurée est disponible : elle fournit jusqu’à 10 jours en quotidien et 240 heures en horaire. Gemini/Google Search peut aider à rechercher ou résumer une alerte officielle, mais ne remplace pas les données numériques de l’API météo.
+
+> **Hiérarchie des sources :** 1) API météo pour températures, pluie, vent et horaires ; 2) comparaison entre modèles en cas de situation incertaine ; 3) sources officielles de protection civile ou météorologie nationale pour les alertes ; 4) interprétation de Sylvia pour adapter les visites, les bateaux et les trajets du camping-car.
+
 ---
 
 ## 📌 Comment lire ce document
