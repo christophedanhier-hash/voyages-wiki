@@ -37,82 +37,64 @@
 
 ---
 
-## 🌤️ Prévisions par étape (généré le 05/09/2026)
+## 🌤️ Prévisions par étape (mis à jour le 07/09/2026)
 
-> 💡 Chaque tableau couvre **1 jour avant l'arrivée → 1 jour après le départ** (journées de transit incluses, marquées 🚐).
-> ⏳ Les étapes après le 21/09 apparaîtront dès que la fenêtre des 16 jours les couvrira — demande « *mets à jour la météo* » autour du **15-20/09**.
+> 💡 Prévisions Open-Meteo disponibles aujourd’hui jusqu’au 22/09. Fiabilité : J+1 à J+3 élevée ; J+4 à J+7 correcte ; au-delà, tendance à reconfirmer.
+> ⚠️ Seuils pratiques : pluie >5 mm = journée à risque ; probabilité >60 % = prévoir parapluie ; rafales >40 km/h = prudence avec le camping-car et les bateaux.
 
-### 📍 Colmar (Alsace — Aire Schoenau) (11-12/09)
-
-| Date | Météo | Max | Min | Pluie | Pluie % | Vent max |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **jeu 10/09** 🚐 *(transit)* | ⛅ | 21° | 10° | — | 9 % | 8 km/h |
-| **ven 11/09** | 🌧️ | 18° | 9° | 0.6 mm | 16 % | 7 km/h |
-| **sam 12/09** | 🌧️ | 19° | 14° | 5.4 mm | 29 % | 6 km/h |
-| **dim 13/09** 🚐 *(transit)* | 🌦️ | 16° | 11° | 9.3 mm | 20 % | 6 km/h |
-
-### 📍 Maccagno (Lac Majeur — The Camp) (12-14/09)
+### 📍 Colmar (Alsace — Aire Schoenau) (11–12/09)
 
 | Date | Météo | Max | Min | Pluie | Pluie % | Vent max |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **ven 11/09** 🚐 *(transit)* | ☁️ | 16° | 11° | — | 8 % | 9 km/h |
-| **sam 12/09** | ☁️ | 17° | 13° | — | 8 % | 4 km/h |
-| **dim 13/09** | 🌦️ | 16° | 12° | 1.5 mm | 18 % | 4 km/h |
-| **lun 14/09** | 🌦️ | 18° | 11° | 0.3 mm | 18 % | 6 km/h |
-| **mar 15/09** 🚐 *(transit)* | 🌦️ | 16° | 12° | 6.0 mm | 14 % | 4 km/h |
+| **jeu 10/09** | ☁️ nuageux | 22° | 9° | 0.0 mm | 3 % | 35 km/h |
+| **ven 11/09 🚐 *(transit)*** | ☁️ nuageux | 22° | 8° | 0.0 mm | 5 % | 19 km/h |
+| **sam 12/09** | ⛅ partiellement nuageux | 24° | 11° | 0.0 mm | 4 % | 23 km/h |
+| **dim 13/09 🚐 *(transit)*** | ☁️ nuageux | 26° | 12° | 0.0 mm | 7 % | 20 km/h |
 
-### 📍 Florence (hu Firenze) (14-17/09)
-
-| Date | Météo | Max | Min | Pluie | Pluie % | Vent max |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **dim 13/09** 🚐 *(transit)* | ☁️ | 27° | 16° | — | 12 % | 8 km/h |
-| **lun 14/09** | ⛈️ | 25° | 18° | 23.4 mm | 20 % | 10 km/h |
-| **mar 15/09** | ☁️ | 26° | 14° | — | 13 % | 7 km/h |
-| **mer 16/09** | 🌦️ | 23° | 17° | 0.6 mm | 24 % | 16 km/h |
-| **jeu 17/09** | ☁️ | 26° | 17° | — | 25 % | 15 km/h |
-| **ven 18/09** 🚐 *(transit)* | 🌤️ | 28° | 13° | — | 27 % | 7 km/h |
-
-### 📍 Pompéi (Camping Spartacus) (17-19/09)
+### 📍 Maccagno (Lac Majeur — The Camp) (12–14/09)
 
 | Date | Météo | Max | Min | Pluie | Pluie % | Vent max |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **mer 16/09** 🚐 *(transit)* | 🌦️ | 26° | 19° | 3.0 mm | 24 % | 9 km/h |
-| **jeu 17/09** | 🌦️ | 25° | 18° | 2.4 mm | 24 % | 11 km/h |
-| **ven 18/09** | 🌤️ | 29° | 19° | — | 27 % | 10 km/h |
-| **sam 19/09** | ⛈️ | 27° | 17° | 17.2 mm | 17 % | 11 km/h |
-| **dim 20/09** 🚐 *(transit)* | ⛈️ | 26° | 22° | 24.9 mm | 19 % | 9 km/h |
+| **ven 11/09 🚐 *(transit)*** | 🌦️ averses faibles | 24° | 18° | 1.2 mm | 35 % | 18 km/h |
+| **sam 12/09** | ☁️ nuageux | 24° | 18° | 0.0 mm | 20 % | 21 km/h |
+| **dim 13/09** | ☁️ nuageux | 24° | 17° | 0.0 mm | 0 % | 17 km/h |
+| **lun 14/09** | 🌤️ peu nuageux | 25° | 16° | 0.0 mm | 4 % | 22 km/h |
+| **mar 15/09 🚐 *(transit)*** | ☁️ nuageux | 24° | 18° | 0.0 mm | 5 % | 18 km/h |
 
-### 📍 Monopoli (Residence Atlantide) (19-28/09)
-
-| Date | Météo | Max | Min | Pluie | Pluie % | Vent max |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **ven 18/09** 🚐 *(transit)* | 🌦️ | 26° | 22° | 0.6 mm | 18 % | 22 km/h |
-| **sam 19/09** | 🌦️ | 31° | 21° | 0.3 mm | 16 % | 25 km/h |
-| **dim 20/09** | 🌦️ | 27° | 25° | 0.9 mm | 10 % | 22 km/h |
-
-### 📍 Cupra Marittima (Led Zeppelin) (28-29/09)
+### 📍 Florence (hu Firenze) (14–17/09)
 
 | Date | Météo | Max | Min | Pluie | Pluie % | Vent max |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **dim 13/09 🚐 *(transit)*** | ⛅ partiellement nuageux | 26° | 18° | 0.0 mm | 5 % | 39 km/h |
+| **lun 14/09** | 🌤️ peu nuageux | 26° | 13° | 0.0 mm | 9 % | 39 km/h |
+| **mar 15/09** | ☀️ dégagé | 27° | 14° | 0.0 mm | 6 % | 33 km/h |
+| **mer 16/09** | 🌧️ bruine forte | 26° | 14° | 6.6 mm | 20 % | 31 km/h |
+| **jeu 17/09** | 🌧️ bruine forte | 24° | 16° | 4.2 mm | 35 % | 43 km/h |
+| **ven 18/09 🚐 *(transit)*** | 🌦️ bruine faible | 25° | 12° | 0.6 mm | 27 % | 29 km/h |
 
-
-### 📍 Cavallino-Treporti (Europa Village) (29/09-03/10)
-
-| Date | Météo | Max | Min | Pluie | Pluie % | Vent max |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
-
-### 📍 Desenzano (San Francesco) (03-10/10)
-
-| Date | Météo | Max | Min | Pluie | Pluie % | Vent max |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
-
-### 📍 Colmar retour (Aire Schoenau) (10-11/10)
+### 📍 Pompéi (Camping Spartacus) (17–19/09)
 
 | Date | Météo | Max | Min | Pluie | Pluie % | Vent max |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **mer 16/09 🚐 *(transit)*** | 🌦️ bruine faible | 26° | 18° | 0.6 mm | 19 % | 31 km/h |
+| **jeu 17/09** | 🌦️ bruine | 23° | 19° | 5.4 mm | 37 % | 33 km/h |
+| **ven 18/09** | ☁️ nuageux | 26° | 17° | 0.0 mm | 38 % | 26 km/h |
+| **sam 19/09** | ⛈️ orage | 26° | 18° | 6.0 mm | 31 % | 32 km/h |
+| **dim 20/09 🚐 *(transit)*** | ☁️ nuageux | 24° | 16° | 0.0 mm | 27 % | 58 km/h |
 
+### 📍 Monopoli (Residence Atlantide) (19–28/09)
+
+| Date | Météo | Max | Min | Pluie | Pluie % | Vent max |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **ven 18/09 🚐 *(transit)*** | 🌦️ bruine | 23° | 18° | 4.2 mm | 28 % | 49 km/h |
+| **sam 19/09** | 🌦️ bruine faible | 23° | 19° | 3.0 mm | 27 % | 38 km/h |
+| **dim 20/09** | 🌦️ bruine | 22° | 18° | 7.5 mm | 22 % | 54 km/h |
+| **lun 21/09** | 🌦️ bruine faible | 22° | 19° | 0.9 mm | 18 % | 52 km/h |
+| **mar 22/09** | 🌦️ averses faibles | 27° | 20° | 6.8 mm | 19 % | 40 km/h |
+
+### 📍 Cupra, Venise et Lac de Garde
+
+Les dates du 28/09 au 11/10 ne sont pas encore couvertes par la fenêtre de prévision fiable disponible aujourd’hui. Elles seront ajoutées lors de la prochaine mise à jour, idéalement autour du 15–20/09.
 
 ---
 
@@ -124,4 +106,4 @@ Demande simplement à Sylvia dans le chat :
 - « *météo de la semaine* » → résumé des 7 prochains jours
 
 > ⚙️ Source : [Open-Meteo](https://open-meteo.com) — prévisions météo gratuites, modèle combiné européen (ICON/EUROS/GFS).
-> 📅 **Dernière génération : 05/09/2026** — prochaine mise à jour recommandée : **15-20/09** (pour couvrir Cupra/Venise/Garde) puis **chaque 3-4 jours** pendant le voyage.
+> 📅 **Dernière génération : 07/09/2026** — prochaine mise à jour recommandée : **15–20/09** (pour couvrir Cupra/Venise/Lac de Garde), puis tous les 3–4 jours pendant le voyage.
