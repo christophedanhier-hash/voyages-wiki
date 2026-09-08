@@ -82,47 +82,48 @@
 
 ---
 
-## 🌤️ Prévisions par étape (mis à jour le 07/09/2026)
+## 🌤️ Prévisions par étape (mis à jour le 08/09/2026)
 
-> Open-Meteo fournit aujourd’hui des prévisions jusqu’au 22/09. La fenêtre est appliquée aux dates réellement occupées dans chaque étape.
+> Open-Meteo fournit aujourd’hui des prévisions jusqu’au 23/09. La fenêtre est appliquée aux dates réellement occupées dans chaque étape.
 > ATTENTION : pluie >5 mm = journée à risque ; probabilité >60 % = prévoir parapluie ; rafales >40 km/h = prudence avec le CC et les bateaux.
 
 ### 📍 Colmar — 11/09
 
 | Date | Météo | Max | Min | Pluie | Pluie % | Vent max |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **ven 11/09 🚐 *(transit)*** | ☁️ nuageux | 22° | 8° | 0.0 mm | 5 % | 19 km/h |
+| **ven 11/09 🚐 *(transit)*** | ☁️ nuageux | 23° | 8° | 0.0 mm | 8 % | 20 km/h |
 
 ### 📍 Maccagno — 12–13/09
 
 | Date | Météo | Max | Min | Pluie | Pluie % | Vent max |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **sam 12/09 🚐 *(transit)*** | ☁️ nuageux | 24° | 18° | 0.0 mm | 20 % | 21 km/h |
-| **dim 13/09** | ☁️ nuageux | 24° | 17° | 0.0 mm | 0 % | 17 km/h |
+| **sam 12/09 🚐 *(transit)*** | 🌤️ peu nuageux | 24° | 17° | 0.0 mm | 5 % | 17 km/h |
+| **dim 13/09** | ⛅ partiellement nuageux | 24° | 18° | 0.0 mm | 4 % | 18 km/h |
 
 ### 📍 Florence — 14–16/09
 
 | Date | Météo | Max | Min | Pluie | Pluie % | Vent max |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **lun 14/09 🚐 *(transit)*** | 🌤️ peu nuageux | 26° | 13° | 0.0 mm | 3 % | 39 km/h |
-| **mar 15/09** | ☀️ dégagé | 27° | 14° | 0.0 mm | 2 % | 33 km/h |
-| **mer 16/09** | 🌧️ bruine forte | 26° | 14° | 6.6 mm | 12 % | 31 km/h |
+| **lun 14/09 🚐 *(transit)*** | ⛅ partiellement nuageux | 26° | 18° | 0.0 mm | 5 % | 43 km/h |
+| **mar 15/09** | ☁️ nuageux | 27° | 19° | 0.0 mm | 3 % | 28 km/h |
+| **mer 16/09** | ☀️ dégagé | 28° | 16° | 0.0 mm | 22 % | 17 km/h |
 
 ### 📍 Pompéi — 17–18/09
 
 | Date | Météo | Max | Min | Pluie | Pluie % | Vent max |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **jeu 17/09 🚐 *(transit)*** | 🌦️ bruine | 23° | 19° | 5.4 mm | 27 % | 33 km/h |
-| **ven 18/09** | ☁️ nuageux | 26° | 17° | 0.0 mm | 28 % | 26 km/h |
+| **jeu 17/09 🚐 *(transit)*** | ☁️ nuageux | 27° | 19° | 0.0 mm | 25 % | 30 km/h |
+| **ven 18/09** | ☀️ dégagé | 28° | 20° | 0.0 mm | 24 % | 32 km/h |
 
-### 📍 Monopoli — 19–22/09 disponibles
+### 📍 Monopoli — 19–23/09 disponibles
 
 | Date | Météo | Max | Min | Pluie | Pluie % | Vent max |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **sam 19/09 🚐 *(transit)*** | 🌦️ bruine faible | 23° | 19° | 3.0 mm | 20 % | 38 km/h |
-| **dim 20/09** | 🌦️ bruine | 22° | 18° | 7.5 mm | 20 % | 54 km/h |
-| **lun 21/09** | 🌦️ bruine faible | 22° | 19° | 0.9 mm | 18 % | 52 km/h |
-| **mar 22/09** | 🌦️ averses faibles | 27° | 20° | 6.8 mm | 17 % | 40 km/h |
+| **sam 19/09 🚐 *(transit)*** | 🌤️ peu nuageux | 26° | 21° | 0.0 mm | 24 % | 32 km/h |
+| **dim 20/09** | ☀️ dégagé | 27° | 22° | 0.0 mm | 25 % | 42 km/h |
+| **lun 21/09** | ☁️ nuageux | 28° | 23° | 0.0 mm | 16 % | 46 km/h |
+| **mar 22/09** | 🌤️ peu nuageux | 26° | 20° | 0.0 mm | 19 % | 43 km/h |
+| **mer 23/09** | 🌧️ bruine forte | 21° | 17° | 7.5 mm | 37 % | 50 km/h |
 
 ### 📍 Cupra, Venise, Lac de Garde et retour
 
@@ -138,4 +139,4 @@ Demande simplement à Sylvia dans le chat :
 - « *météo de la semaine* » → résumé des 7 prochains jours
 
 > ⚙️ Source : [Open-Meteo](https://open-meteo.com) — prévisions météo gratuites, modèle combiné européen (ICON/EUROS/GFS).
-> 📅 **Dernière génération : 07/09/2026** — prochaine mise à jour recommandée : **15–20/09** (pour couvrir Cupra/Venise/Lac de Garde), puis tous les 3–4 jours pendant le voyage.
+> 📅 **Dernière génération : 08/09/2026** — prochaine mise à jour recommandée : **15–20/09** (pour couvrir Cupra/Venise/Lac de Garde), puis tous les 3–4 jours pendant le voyage.
