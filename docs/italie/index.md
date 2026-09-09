@@ -200,7 +200,7 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 | Maccagno | The Camp by Maggiore Suites | #32877 ; pitch FR1 ; 8 m OK | 154,00 € |
 | Florence | hu Firenze Premium | #314185774 ; 310 € total ; taxe à l’arrivée | 310,00 € |
 | Pompéi | Camping Spartacus | Confirmé ; Via Plinio 127 | 66,00 € |
-| Pouilles | Residence Atlantide, Capitolo | CD-0008 ; solde payé le 05/09 | 336,00 € |
+| Pouilles | Residence Atlantide, Capitolo | CD-0008 ; solde 235,20 € viré le 05/09 ; reçu/facture en attente (compta, réponse Simona 06/09) | 336,00 € |
 | Cupra | Camping Led Zeppelin | Walk-in confirmé ; hauteur 3,05 m | ~30,00 € |
 | Venise | Europa Village, Cavallino | #06426005202000 ; entièrement payé | 222,80 € |
 | Lac de Garde | San Francesco Camping Village | #654795826 ; acompte payé ; solde ~327,60 € | 468,00 € |
