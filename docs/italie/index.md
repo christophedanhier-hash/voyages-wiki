@@ -124,6 +124,8 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 
 **Base :** hu Firenze camping in town, Rovezzano. Le CC ne doit pas entrer dans la ZTL.
 
+- **Check-in :** faire le **check-in online** avant l’arrivée (n° résa 314185774 + dates) ; remise des clés **dès 15h00** (après 23h00 : parking extérieur). **Pièces d’identité originales** obligatoires pour toute la famille, mineurs inclus.
+
 - **Jour 1 :** Duomo, basilique San Lorenzo avec audio-guide, Mercato Centrale pour le déjeuner, puis Santa Maria Novella avec audio-guide.
 - **Jour 2 :** départ vers 09h00 ; Uffizi à 10h00 sur réservation, Piazza della Signoria, Palazzo Vecchio avec audio-guide, puis bus touristique panoramique vers Piazzale Michelangelo et San Miniato.
 - **Transports :** Uber pour les trajets camping-centre ; bus panoramique pour la colline ; bus ou Uber de secours au retour.
