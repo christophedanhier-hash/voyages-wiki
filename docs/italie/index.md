@@ -214,9 +214,14 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 - **Lac de Garde — Sunny Cars #15253704 :** prise lundi 05/10 à 10h00, retour vendredi 09/10 à 10h00 à Desenzano ; 293 € payés ; **4 jours réels**.
 - **Vendredi 09/10 après 10h :** aucune visite en voiture ; repos au camping.
 
-### Visites réservées
+### Visites réservées (vérifiées le 10/09/2026)
 
-- **Pompéi 18/09 10h30 — visite guidée en français (GetYourGuide), réf GYG48YHK4KXM :** 100,80 € pour 2 adultes (entrée + coupe-file inclus). ⚠️ **Rien n'est encore payé** — billets électroniques disponibles sur l'appli GYG le 15/09 une fois le paiement effectué (paiement anticipé possible). Annulation gratuite **avant le 17/09 à 10h30**.
+- **Lac Majeur 13/09 — bateau aller Maccagno → Isola Bella (Navigazione Laghi) :** 2 × 9,50 € = **19,00 € payés**. Tickets M000053802 (PNR FN8NY) + M000053803 (PNR YE86R), valables 13/09 uniquement. Paiement Nexi 38,00 € approuvé (W26MN000528592). Départ Maccagno 10h40 → arrivée Isola Bella 12h35. Retour 15h40 → 17h35 à acheter au quai (~19 €).
+- **Lac Majeur 13/09 — Isola Bella Palais + jardins (Terre Borromee) :** commande **1712609090145** du 09/09, 2 × 25 € = **50,00 € payés**. Billets à télécharger via le lien du mail.
+- **Florence 16/09 10h15 — Uffizi (coopculture), PNR P56DVZFU :** 2 pers., 0,00 €. Billets PDF en pièce jointe etickets@coopculture.it (stampa a casa) ou retrait en caisse avec PNR 15 min avant.
+- **Florence 16/09 12h45 — Uffizi + Corridoio Vasariano, PNR UAG6DMJX :** 2 pers., 0,00 €. Même procédure. Enchaînement direct après la visite de 10h15.
+- **Pompéi 18/09 09h00 — Pompei Plus (Vivaticket), commande VIVATK167364731928 :** 27,00 € payés (TL50S1000750345104). Billets à télécharger dans le mail, présentation aux tourniquets Piazza Esedra.
+- **Pompéi 18/09 10h30 — visite guidée en français (GetYourGuide), réf GYG48YHK4KXM :** 100,80 € pour 2 adultes (entrée + coupe-file inclus). ⚠️ **Rien n'est encore payé** — billets électroniques disponibles sur l'appli GYG le 15/09 une fois le paiement effectué (paiement anticipé possible). Annulation gratuite **avant le 17/09 à 10h30**. RDV Piazza Esedra 10h20, panneau rouge inStazione, tél +39 351 348 1938.
 
 ### Contraintes importantes
 
@@ -236,7 +241,7 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 | Carburant CC | ~718 € — 4 104 km × 10 L/100 × ~1,75 € |
 | Péages italiens | ~293 € |
 | Vignette suisse | ~42 € |
-| Visites et activités | ~536 € (dont visite guidée Pompéi 100,80 € — GetYourGuide) |
+| Visites et activités | ~536 € (dont bateau aller 19 € + Isola Bella 50 € + Pompei Plus 27 € + visite guidée Pompéi 100,80 € — GetYourGuide à payer) |
 | **Total estimé** | **~3 884 €** |
 
 > Budget hors achats personnels et repas. Le coût BAVI LEO n’est pas affiché : il s’agit d’un voyage de Christophe.
