@@ -66,7 +66,7 @@
 | **Petit-déj** | ✅ Inclus |
 | **Options** | Arrivée anticipée 10h (+40 €) • Départ tardif 14h (+40 €) |
 | **Total** | **1 981,10 €** (frais et taxes inclus) |
-| **Parking** | Parking couvert privé + borne VE (à confirmer à l'arrivée) |
+| **Parking** | ✅ **2 places réservées** (10/09, Windiane/réception) — Voiture 1 : mar 24/11 → dim 29/11 (5 nuits × 19 € = **95 €**) • Voiture 2 (Jérémy) : jeu 26/11 → dim 29/11 (3 nuits × 19 € = **57 €**) — **Total parking 152 € à régler sur place** |
 | **Confirmation** | Email ALL Accor du 28/08 17h09, transféré par Camille |
 
 > 📞 **Vérifications restantes** : confirmer la borne de recharge VE + le lit bébé auprès de l'Adagio Kléber (+33 1 56 37 20 00) avant l'arrivée.
@@ -156,13 +156,11 @@
 |:---|:---|
 | **Trajet** | 🚗 **Bruxelles → Paris en voiture** (~370 km via E19/A2/A1, ~3h30-4h selon trafic) |
 | **Départ** | **Jeudi 26/11 après-midi** — congé dès midi, départ ~13h-14h → arrivée Paris ~17h-18h |
-| **Parking** | Hôtel Adagio La Défense Kléber — prévoir parking (payant ou à proximité) pour sa voiture jeu→dim |
+| **Parking** | ✅ **2 places réservées** (10/09) — 5 nuits (95 €) + 3 nuits Jérémy (57 €) = **152 € sur place** |
 | **Retour** | 🚗 **Dimanche 29/11 en voiture** avec Christophe & Sylvie (inchangé) |
 | **TGV** | ❌ **Annulé** — plus de train, Jérémy vient en voiture |
 
 > 💡 **Jeudi soir à 5** : Jérémy arrive pour le dîner (La Cantina Chic) — première soirée en famille complète.
->
-> ⚠️ **Parking 3 nuits** : vérifier le tarif parking de l'hôtel ou parking public Courbevoie/La Défense (~20-30 €/jour). 2 voitures sur place jeu→dim (Enyaq + voiture Jérémy).
 
 > ⚠️ **Enyaq avec 5 personnes au retour** : 4 adultes + bébé (siège auto) — ça passe (5 places), mais **bagages serrés** (coffre 585 L + poussette). Prévoir de l'espace, éventuellement un coffre de toit si besoin.
 > 💡 Jérémy n'a pas de bagage lourd (week-end) — ça devrait aller.
@@ -223,7 +221,7 @@
 | **Véhicule** | Enyaq 60 électrique (~330 km, 1 recharge aller + 1 retour) + voiture Jérémy (Bruxelles→Paris jeu, parking hôtel) |
 | **Objectif** | Congrès ADF de Camille + garde de Célestine + week-end famille |
 | **Hébergement** | ✅ **Adagio La Défense Kléber** — 3 pièces / 6 pers, 5 nuits, petit-déj inclus (**1 981,10 €** — résa Camille QQBLGBVC) |
-| **Budget estimé** | ~4 200-5 200 € (hôtel 1 981 € + restaurants ~580 € + Uber/taxis + visites + parking Jérémy + recharge) |
+| **Budget estimé** | ~4 200-5 200 € (hôtel 1 981 € + parking 152 € + restaurants ~580 € + Uber/taxis + visites + recharge) |
 
 ---
 
