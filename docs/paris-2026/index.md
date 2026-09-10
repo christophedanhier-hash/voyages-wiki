@@ -8,10 +8,10 @@
 
 | | |
 |:---|:---|
-| **Voyageurs** | Christophe, Sylvie + **Camille** (dentiste, congrès) + **Jérémy** (arrive ven 27/11) |
+| **Voyageurs** | Christophe, Sylvie + **Camille** (dentiste, congrès) + **Jérémy** (arrive jeu 26/11 après-midi) |
 | **👶 Bébé** | **Célestine (7-8 mois)** — Camille la confie à Christophe & Sylvie pendant le congrès |
 | **🚗 Véhicule** | **Škoda Enyaq 60** (électrique — batterie 58 kWh, autonomie hiver ~290 km) |
-| **🚄 Jérémy** | Arrive **vendredi 27/11 en TGV** depuis Bruxelles — **repart dimanche 29/11 en voiture avec vous** (pas de TGV retour) |
+| **🚗 Jérémy** | En congé **jeudi 26/11 dès midi** — arrive **jeudi après-midi en voiture** depuis Bruxelles (~370 km, ~3h30-4h) — **repart dimanche 29/11 en voiture avec vous** |
 | **🐕 Nala** | Reste à la maison (ou pension chez Émilie) |
 | **Motif** | Camille participe au **Congrès ADF 2026** (dentaire) — **mardi 24/11 → samedi 28/11 midi** |
 | **📍 Congrès** | **Palais des Congrès — 2 place de la Porte-Maillot, 75017 Paris** (Métro ligne 1 — Porte Maillot) |
@@ -28,8 +28,8 @@
 |:---:|:---|:---|:---:|
 | **J1** | Mar 24/11 | 🚗 Sombreffe → Paris (~330 km, recharge en route) • Installation hôtel | Paris |
 | **J2** | Mer 25/11 | 🦷 Camille au congrès ADF (Palais des Congrès) • Christophe & Sylvie + Célestine (parc, balade) | Paris |
-| **J3** | Jeu 26/11 | 🦷 Camille au congrès ADF • Grands-parents + Célestine (musée, jardin) | Paris |
-| **J4** | Ven 27/11 | 🦷 Camille au congrès ADF • 🚄 **Jérémy arrive en TGV** (jeudi soir 26/11 **ou** vendredi 27/11 — selon dispo travail) | Paris |
+| **J3** | Jeu 26/11 | 🦷 Camille au congrès ADF • Grands-parents + Célestine (musée, jardin) • 🚗 **Jérémy arrive l'après-midi en voiture** (congé dès midi) | Paris |
+| **J4** | Ven 27/11 | 🦷 Camille au congrès ADF • 👨‍👩‍👧 Journée en famille (Jérémy présent dès le matin) | Paris |
 | **J5** | Sam 28/11 | 🦷 Camille au congrès **jusqu'à 12h** • 👨‍👩‍👧 **Après-midi + soirée en famille** (Camille + Jérémy + grands-parents + bébé) | Paris |
 | **J6** | Dim 29/11 | 🚗 **Retour tous ensemble** Paris → Sombreffe (4 adultes + 👶 + Jérémy, recharge en route) | — |
 
@@ -150,45 +150,19 @@
 
 ---
 
-## 🚄 Jérémy — TGV aller (retour en voiture)
+## 🚗 Jérémy — arrivée en voiture jeudi (retour en voiture)
 
 | Point | Détail |
 |:---|:---|
-| **Trajet** | TGV/Eurostar **Bruxelles-Midi → Paris-Nord** (~1h23, direct) |
-| **Options** | Jeudi 26/11 soir **ou** vendredi 27/11 journée — ⏳ **à choisir selon dispo travail de Jérémy** |
-| **Retour** | ❌ **Pas de TGV retour** — Jérémy rentre **dimanche 29/11 en voiture** avec Christophe & Sylvie |
-| **Prix aller** | Dès 29 € — typiquement 35-55 € (réserver tôt) |
-| **Réservation** | eurostar.com ou SNCF Connect — réserver dès que la date est fixée |
+| **Trajet** | 🚗 **Bruxelles → Paris en voiture** (~370 km via E19/A2/A1, ~3h30-4h selon trafic) |
+| **Départ** | **Jeudi 26/11 après-midi** — congé dès midi, départ ~13h-14h → arrivée Paris ~17h-18h |
+| **Parking** | Hôtel Adagio La Défense Kléber — prévoir parking (payant ou à proximité) pour sa voiture jeu→dim |
+| **Retour** | 🚗 **Dimanche 29/11 en voiture** avec Christophe & Sylvie (inchangé) |
+| **TGV** | ❌ **Annulé** — plus de train, Jérémy vient en voiture |
 
-### 🗓️ Jeudi 26/11 — départs de soirée
-
-| Départ Bruxelles-Midi | Arrivée Paris-Nord | Idéal pour |
-|:---:|:---:|:---|
-| 17h25 | 18h48 | Dîner ensemble le soir ✅ |
-| 18h25 | 19h48 | Soirée tranquille ✅ |
-| 19h25 | 20h48 | Dîner tardif |
-| 20h25 | 21h48 | Si contrainte pro |
-| 21h25 | 22h48 | Dernier train |
-
-### 🗓️ Vendredi 27/11 — journée complète
-
-| Départ Bruxelles-Midi | Arrivée Paris-Nord | Idéal pour |
-|:---:|:---:|:---|
-| 06h25 | 07h48 | Arrivée très tôt |
-| 07h25 | 08h48 | Matinée complète |
-| 08h25 | 09h48 | Matinée + |
-| 09h25 | 10h48 | Milieu de matinée ✅ |
-| 10h25 | 11h48 | Avant déjeuner |
-| 11h25 | 12h48 | Déjeuner à Paris |
-| 12h25 | 13h48 | Début d'après-midi |
-| 14h25 | 15h48 | Après-midi |
-| 16h25 | 17h48 | Fin de journée |
-| 17h25 | 18h48 | Soirée |
-| 18h25 | 19h48 | Dîner |
-
-> 💡 **Conseil Sylvia :** si Jérémy est libre **jeudi soir** → train 18h25 (arrivée 19h48, dîner famille avec Camille qui a fini le congrès). Si **vendredi** → matin 09h25 (arrivée 10h48) pour profiter de l'après-midi avec Papy/Mamy + Célestine.
+> 💡 **Jeudi soir à 5** : Jérémy arrive pour le dîner (La Cantina Chic) — première soirée en famille complète.
 >
-> ⚠️ **Cadence indicative** (ligne très stable) : ~1 train/heure. Prix dès 29 € en Standard — **réserver dès que la date est connue** (les prix montent avec l'approche).
+> ⚠️ **Parking 3 nuits** : vérifier le tarif parking de l'hôtel ou parking public Courbevoie/La Défense (~20-30 €/jour). 2 voitures sur place jeu→dim (Enyaq + voiture Jérémy).
 
 > ⚠️ **Enyaq avec 5 personnes au retour** : 4 adultes + bébé (siège auto) — ça passe (5 places), mais **bagages serrés** (coffre 585 L + poussette). Prévoir de l'espace, éventuellement un coffre de toit si besoin.
 > 💡 Jérémy n'a pas de bagage lourd (week-end) — ça devrait aller.
@@ -205,7 +179,7 @@
 |:---:|:---|:---|:---:|:---|
 | **Mar 24** (arrivée) | **Monsieur Maillot** (4,7★) | 99 Bd Gouvion-Saint-Cyr, Porte Maillot | 30-40 €/pers | À 2 min de l'hôtel, spacieux (poussette ✅), ouvert 08h-00h30, souple avec bébé |
 | **Mer 25** | **Bistrot des Ternes** (4,7★) | 5 Rue Labie, Ternes | 30-40 €/pers | Vrai bistrot de quartier, cuisine généreuse — réserver (petite salle) |
-| **Jeu 26** | **La Cantina Chic** (4,8★) | 14 Rue de l'Étoile, Ternes | 30-40 €/pers | Meilleure note du lot — italien, pâtes + ardoise, cadre intimiste |
+| **Jeu 26** | **La Cantina Chic** (4,8★) | 14 Rue de l'Étoile, Ternes | 30-40 €/pers | **Premier dîner à 5 avec Jérémy** (arrivé l'après-midi) — italien, pâtes + ardoise, cadre intimiste |
 | **Ven 27** 🎉 | **Le Compositeur** (4,8★) | 42 Bd Pereire | 42-52 €/pers | **Dîner à 5 (4 adultes + Célestine) avec Jérémy** 🎉 — bistronomique créatif salué par la presse. ⚠️ Fermé sam/dim → vendredi = LE soir idéal |
 | **Sam 28** 🎉 | **Monsieur Maillot** (4,7★) | 99 Bd Gouvion-Saint-Cyr | 35-50 €/pers | **Dîner de clôture à 5 (4 adultes + Célestine)** après l'Arc de Triomphe — salle spacieuse, retour facile pour coucher Célestine |
 
@@ -245,11 +219,11 @@
 | **Départ** | Sombreffe — mardi 24/11/2026 |
 | **Retour** | Sombreffe — dimanche 29/11/2026 |
 | **Durée** | 6 jours / 5 nuits |
-| **Voyageurs** | Christophe + Sylvie + Camille + 👶 Célestine (+ Jérémy ven→dim) |
-| **Véhicule** | Enyaq 60 électrique (~330 km, 1 recharge aller + 1 retour) |
+| **Voyageurs** | Christophe + Sylvie + Camille + 👶 Célestine (+ Jérémy jeu→dim) |
+| **Véhicule** | Enyaq 60 électrique (~330 km, 1 recharge aller + 1 retour) + voiture Jérémy (Bruxelles→Paris jeu, parking hôtel) |
 | **Objectif** | Congrès ADF de Camille + garde de Célestine + week-end famille |
 | **Hébergement** | ✅ **Adagio La Défense Kléber** — 3 pièces / 6 pers, 5 nuits, petit-déj inclus (**1 981,10 €** — résa Camille QQBLGBVC) |
-| **Budget estimé** | ~4 200-5 200 € (hôtel 1 981 € + restaurants ~580 € + Uber/taxis + visites + TGV + recharge) |
+| **Budget estimé** | ~4 200-5 200 € (hôtel 1 981 € + restaurants ~580 € + Uber/taxis + visites + parking Jérémy + recharge) |
 
 ---
 
