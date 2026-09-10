@@ -43,7 +43,7 @@
 | 5 | 15/09 | Florence — visite | — | 1 251 | hu Firenze |
 | 6 | 16/09 | Florence — visite | — | 1 251 | hu Firenze |
 | 7 | 17/09 | Florence → Pompéi | 488 km | 1 739 | Camping Spartacus |
-| 8 | 18/09 | Pompéi — visite | — | 1 739 | Camping Spartacus |
+| 8 | 18/09 | Pompéi — visite guidée GYG 10h30 | — | 1 739 | Camping Spartacus |
 | 9 | 19/09 | Pompéi → Capitolo / Monopoli | 313 km | 2 052 | Residence Atlantide |
 | 10 | 20/09 | Monopoli centre / plage | — | 2 052 | Residence Atlantide |
 | 11 | 21/09 | Vallée des Trulli — voiture après 10h | — | 2 052 | Residence Atlantide |
@@ -100,7 +100,7 @@ Le roadbook principal ne répète plus les programmes détaillés. Les horaires,
 | Lac Majeur | [Fiche 1B — Variante Stresa](https://drive.google.com/file/d/1nOFb3zdbyet2IlLNMQitfI1wVeT6ztRP/view) | Eremo en route, Stresa, Isola Bella |
 | Lac Majeur | [Fiche 1C — Eremo en CC](https://drive.google.com/file/d/1fH_7qJVGXLHAGmxaGQmFZ2AvOI-hDBJ-/view) | Monastère de Santa Caterina del Sasso seul |
 | Florence | [Fiche 2 — Florence](https://drive.google.com/file/d/1CEzpaZmEoQhw0WCQ1QSHAtYz-Co7kSeM/view) | Duomo, San Lorenzo, SMN, Uffizi, Doges, bus panoramique |
-| Pompéi | [Fiche 3 — Pompéi](https://drive.google.com/file/d/18iA5yUwN4r2cDtYgZxFcRwEqkMf4k9AZ/view) | Pompei+, entrée Piazza Esedra, parcours sud→nord |
+| Pompéi | [Fiche 3 — Pompéi](https://drive.google.com/file/d/18iA5yUwN4r2cDtYgZxFcRwEqkMf4k9AZ/view) | Visite guidée GYG 18/09 10h30, RDV Piazza Esedra panneau « inStazione » |
 | Pouilles | [Fiche 4 — Pouilles](https://drive.google.com/file/d/1NEKhgiLTWztMsQIkECXnxAmgFLk3_zgP/view) | Trulli, Ostuni, Matera/Lecce, Polignano |
 | Venise | [Fiche 5 — Venise](https://drive.google.com/file/d/1NAYSXWy-sen6d5AUt4NSAXSTs3RWp6PK/view) | San Marco, Doges, Rialto, Murano, Burano |
 | Lac de Garde | [Fiche 6 — Lac de Garde](https://drive.google.com/file/d/1_Hm3e-fNkKhmphjlWz97tlNsn4tXGFP8/view) | Bateaux, Sirmione, Salò, rive est, Vérone, Riva |
@@ -136,7 +136,7 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 
 **Base :** Camping Spartacus, Via Plinio 127, à proximité de l’entrée Piazza Esedra.
 
-- **Vendredi 18/09 :** visite du site avec billet Pompei+ : Antiquarium, théâtres, Forum, Thermes, Maison du Faune et Villa des Mystères.
+- **Vendredi 18/09 — visite guidée en français réservée (GetYourGuide) :** 10h30, 2 h, 2 adultes, entrée + coupe-file inclus. **Rendez-vous 10h20** Piazza Esedra, 80045 Pompei — chercher le panneau rouge « inStazione » (organisateur inStazione, WhatsApp +39 351 348 1938). Réf **GYG48YHK4KXM**, PIN **eGfzQm6Q**. Après la visite, exploration libre possible sans quitter le site.
 - **Après-midi :** repos au camping, puis sanctuaire Notre-Dame-du-Rosaire en taxi si l’énergie et la météo le permettent.
 - **À retenir :** entrée Piazza Esedra, la plus pratique depuis le camping ; parcours organisé du sud vers le nord pour limiter les allers-retours.
 - **Mobilité :** site vaste et irrégulier ; prévoir des pauses et ne pas chercher à tout voir. La fiche indique les portions prioritaires.
@@ -214,6 +214,10 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 - **Lac de Garde — Sunny Cars #15253704 :** prise lundi 05/10 à 10h00, retour vendredi 09/10 à 10h00 à Desenzano ; 293 € payés ; **4 jours réels**.
 - **Vendredi 09/10 après 10h :** aucune visite en voiture ; repos au camping.
 
+### Visites réservées
+
+- **Pompéi 18/09 10h30 — visite guidée en français (GetYourGuide), réf GYG48YHK4KXM :** 100,80 € pour 2 adultes (entrée + coupe-file inclus). ⚠️ **Rien n'est encore payé** — billets électroniques disponibles sur l'appli GYG le 15/09 une fois le paiement effectué (paiement anticipé possible). Annulation gratuite **avant le 17/09 à 10h30**.
+
 ### Contraintes importantes
 
 - Atlantide est à **Capitolo**, 5,5 km au sud du centre de Monopoli : bus, taxi ou voiture ; pas de trajet à pied vers le centre.
@@ -232,8 +236,8 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 | Carburant CC | ~718 € — 4 104 km × 10 L/100 × ~1,75 € |
 | Péages italiens | ~293 € |
 | Vignette suisse | ~42 € |
-| Visites et activités | ~435 € |
-| **Total estimé** | **~3 783 €** |
+| Visites et activités | ~536 € (dont visite guidée Pompéi 100,80 € — GetYourGuide) |
+| **Total estimé** | **~3 884 €** |
 
 > Budget hors achats personnels et repas. Le coût BAVI LEO n’est pas affiché : il s’agit d’un voyage de Christophe.
 
@@ -263,7 +267,7 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 | Conduite CC | ~46h38, hors pauses |
 | Voitures | Pouilles 21→25/09 ; Lac de Garde 05→09/10 |
 | Bateaux | Lac Majeur, Venise, Lac de Garde selon horaires |
-| Budget estimé | ~3 783 € |
+| Budget estimé | ~3 884 € |
 
 ---
 
