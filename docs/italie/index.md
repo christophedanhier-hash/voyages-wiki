@@ -126,8 +126,8 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 
 - **Check-in :** faire le **check-in online** avant l’arrivée (n° résa 314185774 + dates) ; remise des clés **dès 15h00** (après 23h00 : parking extérieur). **Pièces d’identité originales** obligatoires pour toute la famille, mineurs inclus.
 
-- **Réservations (5) :** **Duomo** visite guidée GYG 15/09 09h50 (GYG GYGWZAL2B7VZ, PIN ACTSw#ju, 77 € à payer — billets dispos le 12/09, annulation gratuite avant 14/09 09h50, RDV boutique Lindt Piazza del Duomo 15r) ; **Palazzo Vecchio** coupe-file + audioguide GYG 16/09 09h30 (VOXTBGS GYGRFQF7F3RX, appli Vox City) ; **Cappelle Medicee** GYG 16/09 11h00 (GYG GYG7VKM8NK33, PIN 7zPdtTUR, 56 €, annulation gratuite avant 15/09 11h00) ; **Uffizi + Vasariano** 16/09 12h45 (UAG6DMJX, 0 €, entrée unique musée + corridor). ⚠️ Créneau Uffizi 10h15 (P56DVZFU) **non utilisé**.
-- **Jour 1 (mar 15/09) :** visite guidée Duomo 09h50 (RDV 09h50 Lindt), Mercato Centrale pour le déjeuner, puis Santa Maria Novella. Basilique San Lorenzo reportée au mercredi (Cappelle Medicee fermées le mardi). Paiement GYG 77 € au plus tard le 11/09.
+- **Réservations (5) :** **Duomo** visite guidée GYG 15/09 09h50 (GYG GYGWZAL2B7VZ, PIN ACTSw#ju, 77 € à payer — billets dispos le 12/09, annulation gratuite avant 14/09 09h50, RDV boutique Lindt Piazza del Duomo 15r) ; **Palazzo Vecchio** coupe-file + audioguide GYG 16/09 09h30 (VOXTBGS GYGRFQF7F3RX, PIN GVarm4FB, 60 € à payer — billets dispos sur l'appli le 13/09, annulation gratuite avant 15/09 09h30, RDV 09h25 fontaine de Neptune Piazza della Signoria) ; **Cappelle Medicee** GYG 16/09 11h00 (GYG GYG7VKM8NK33, PIN 7zPdtTUR, 56 €, annulation gratuite avant 15/09 11h00) ; **Uffizi + Vasariano** 16/09 12h45 (UAG6DMJX, 0 €, entrée unique musée + corridor). ⚠️ Créneau Uffizi 10h15 (P56DVZFU) **non utilisé**.
+- **Jour 1 (mar 15/09) :** visite guidée Duomo 09h50 (RDV 09h50 Lindt), Mercato Centrale pour le déjeuner, puis Santa Maria Novella. Basilique San Lorenzo reportée au mercredi (Cappelle Medicee fermées le mardi). ⚠️ GYG Duomo 77 € **rien n'est encore payé** — prélèvement automatique sur la carte, billets dispos sur l'appli le 12/09 une fois le paiement effectué (paiement anticipé possible).
 - **Jour 2 (mer 16/09) :** Palazzo Vecchio 09h30 (réservation, en premier) → **Cappelle Medicee 11h00 (réservées GYG, PIN 7zPdtTUR)** → Uffizi + Vasariano 12h45 (entrée unique) → déjeuner tardif → bus panoramique → Piazzale Michelangelo + San Miniato → Uber retour. Départ 08h30. Basilique San Lorenzo : optionnelle si énergie (Cappelle déjà vues).
 - **Transports :** Uber pour les trajets camping-centre ; bus panoramique pour la colline ; bus ou Uber de secours au retour.
 - **À réserver :** créneau Uffizi, billets des monuments et restaurant du jour 1. Les détails sont dans la fiche Florence.
@@ -218,7 +218,7 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 ### Visites réservées (vérifiées le 11/09/2026)
 
 - **Florence 15/09 09h50 — Duomo + campanile de Giotto, visite guidée en français (GetYourGuide), réf GYGWZAL2B7VZ :** 77,00 € pour 2 adultes (1 h). ⚠️ **Rien n'est encore payé** — billets électroniques disponibles sur l'appli GYG le 12/09 une fois le paiement effectué (paiement anticipé possible). Annulation gratuite **avant le 14/09 à 09h50**. RDV boutique Lindt, Piazza del Duomo 15r — pancarte « getyourguide / eu tours ». Organisateur EU Tours, tél +39 345 938 5857. PIN **ACTSw#ju**. Billet multi-accès (cathédrale + campanile + crypte + baptistère + musée, valable 3 jours). Code vestimentaire : épaules et genoux couverts ; apporter écouteurs.
-- **Florence 16/09 09h30 — Palazzo Vecchio, billet coupe-file + audioguide (GetYourGuide / Vox City), réf VOXTBGS GYGRFQF7F3RX :** ✅ réservation confirmée par l'organisateur (message Vox City du 11/09). Billets d'entrée disponibles dans l'appli Vox City 24 h avant la visite ; audioguide déjà disponible. Présentation directe, rien à imprimer.
+- **Florence 16/09 09h30 — Palazzo Vecchio, billet coupe-file + audioguide (GetYourGuide / Vox City), réf VOXTBGS GYGRFQF7F3RX :** 60,00 € pour 2 adultes. ⚠️ **Rien n'est encore payé** — billets électroniques disponibles sur l'appli GYG le 13/09 une fois le paiement effectué (paiement anticipé possible). Annulation gratuite **avant le 15/09 à 09h30**. RDV 09h25 fontaine de Neptune, Piazza della Signoria — hôte en uniforme « VoxCity », tél +1 636 367 3082. PIN **GVarm4FB**. Apporter écouteurs.
 - **Florence 16/09 11h00 — Cappelle Medicee (GetYourGuide), réf GYG7VKM8NK33 :** 56 € pour 2 adultes. Annulation gratuite **avant le 15/09 à 11h00**. PIN **7zPdtTUR**.
 - **Lac Majeur 13/09 — bateau aller Maccagno → Isola Bella (Navigazione Laghi) :** 2 × 9,50 € = **19,00 € payés**. Tickets M000053802 (PNR FN8NY) + M000053803 (PNR YE86R), valables 13/09 uniquement. Paiement Nexi 38,00 € approuvé (W26MN000528592). Départ Maccagno 10h40 → arrivée Isola Bella 12h35. Retour 15h40 → 17h35 à acheter au quai (~19 €).
 - **Lac Majeur 13/09 — Isola Bella Palais + jardins (Terre Borromee) :** commande **1712609090145** du 09/09, 2 × 25 € = **50,00 € payés**. Billets à télécharger via le lien du mail.
@@ -245,8 +245,8 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 | Carburant CC | ~718 € — 4 104 km × 10 L/100 × ~1,75 € |
 | Péages italiens | ~293 € |
 | Vignette suisse | ~42 € |
-| Visites et activités | ~536 € (dont bateau aller 19 € + Isola Bella 50 € + Duomo 77 € + Cappelle Medicee 56 € + Pompei Plus 27 € + visite guidée Pompéi 100,80 € — GYG Duomo/Pompéi à payer) |
-| **Total estimé** | **~3 884 €** |
+| Visites et activités | ~596 € (dont bateau aller 19 € + Isola Bella 50 € + Duomo 77 € + Palazzo Vecchio 60 € + Cappelle Medicee 56 € + Pompei Plus 27 € + visite guidée Pompéi 100,80 € — GYG Duomo/Palazzo/Pompéi à payer : 237,80 €) |
+| **Total estimé** | **~3 944 €** |
 
 > Budget hors achats personnels et repas. Le coût BAVI LEO n’est pas affiché : il s’agit d’un voyage de Christophe.
 
@@ -276,7 +276,7 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 | Conduite CC | ~46h38, hors pauses |
 | Voitures | Pouilles 21→25/09 ; Lac de Garde 05→09/10 |
 | Bateaux | Lac Majeur, Venise, Lac de Garde selon horaires |
-| Budget estimé | ~3 884 € |
+| Budget estimé | ~3 944 € |
 
 ---
 
