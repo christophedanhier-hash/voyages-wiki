@@ -115,7 +115,7 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 
 **Base :** The Camp by Maggiore Suites, Maccagno. Le camping-car reste au camping pendant les visites.
 
-- **Dimanche 13/09 :** journée principale au lac. Plan A : bateau depuis Maccagno vers **Isola Bella**, déjeuner sur l’île, palais et jardins Borromeo, puis retour en bateau.
+- **Dimanche 13/09 :** journée principale au lac. Plan A : bateau depuis Maccagno vers **Isola Bella**, 🍽️ **déjeuner réservé à 12h45 au Ristorante Delfino** (Isola Bella, 2 pers. au nom de Danhier — service au rez-de-chaussée inclus ; terrasse 1er étage possible selon dispo sur place, +5 €/pers.), puis palais et jardins Borromeo, et retour en bateau.
 - **Variantes :** rejoindre Stresa avec le camping-car pour combiner l’ermitage de Santa Caterina del Sasso et Isola Bella ; ou consacrer la journée à l’ermitage seul avec le CC.
 - **À voir en priorité :** Isola Bella, Stresa et le lac depuis le bateau. Villa Taranto et Luino restent des options si la météo ou les horaires de bateau ne permettent pas le plan principal.
 - **Mobilité :** bateau et promenades relativement plates ; l’ermitage comporte des escaliers, avec ascenseur selon l’accès ouvert.
@@ -217,6 +217,8 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 
 ### Visites réservées (vérifiées le 11/09/2026)
 
+- **Lac Majeur 13/09 12h45 — 🍽️ Ristorante Delfino, Isola Bella (Terre Borromee / Kaleon, tél +39 032330556) :** déjeuner **AUJOURD'HUI 13/09 à 12h45**, 2 pers. au nom de Danhier, service au rez-de-chaussée inclus (terrasse 1er étage selon dispo sur place, +5 €/pers.). Mail de confirmation reçu 13/09 09h25. Aucun montant prépayé — à régler sur place.
+
 - **Florence 15/09 09h50 — Duomo + campanile de Giotto, visite guidée en français (GetYourGuide), réf GYGWZAL2B7VZ :** 77,00 € pour 2 adultes (1 h). ⚠️ **Rien n'est encore payé** — billets électroniques disponibles sur l'appli GYG le 12/09 une fois le paiement effectué (paiement anticipé possible). Annulation gratuite **avant le 14/09 à 09h50**. RDV boutique Lindt, Piazza del Duomo 15r — pancarte « getyourguide / eu tours ». Organisateur EU Tours, tél +39 345 938 5857. PIN **ACTSw#ju**. Billet multi-accès (cathédrale + campanile + crypte + baptistère + musée, valable 3 jours). Code vestimentaire : épaules et genoux couverts ; apporter écouteurs.
 - **Florence 16/09 09h30 — Palazzo Vecchio, billet coupe-file + audioguide (GetYourGuide / Vox City), réf VOXTBGS GYGRFQF7F3RX :** 60,00 € pour 2 adultes. ⚠️ **Rien n'est encore payé** — billets électroniques disponibles sur l'appli GYG le 13/09 une fois le paiement effectué (paiement anticipé possible). Annulation gratuite **avant le 15/09 à 09h30**. RDV 09h25 fontaine de Neptune, Piazza della Signoria — hôte en uniforme « VoxCity », tél +1 636 367 3082. PIN **GVarm4FB**. Apporter écouteurs.
 - **Florence 16/09 11h00 — Cappelle Medicee (GetYourGuide), réf GYG7VKM8NK33 :** 56 € pour 2 adultes. Annulation gratuite **avant le 15/09 à 11h00**. PIN **7zPdtTUR**.
@@ -245,7 +247,7 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 | Carburant CC | ~718 € — 4 104 km × 10 L/100 × ~1,75 € |
 | Péages italiens | ~293 € |
 | Vignette suisse | ~42 € |
-| Visites et activités | ~596 € (dont bateau aller 19 € + Isola Bella 50 € + Duomo 77 € + Palazzo Vecchio 60 € + Cappelle Medicee 56 € + Pompei Plus 27 € + visite guidée Pompéi 100,80 € — GYG Duomo/Palazzo/Pompéi à payer : 237,80 €) |
+| Visites et activités | ~596 € (dont bateau aller 19 € + Isola Bella 50 € + Duomo 77 € + Palazzo Vecchio 60 € + Cappelle Medicee 56 € + Pompei Plus 27 € + visite guidée Pompéi 100,80 € — GYG Duomo/Palazzo/Pompéi à payer : 237,80 €) + 🍽️ déjeuner Delfino 13/09 à régler sur place (non inclus) |
 | **Total estimé** | **~3 944 €** |
 
 > Budget hors achats personnels et repas. Le coût BAVI LEO n’est pas affiché : il s’agit d’un voyage de Christophe.
