@@ -1,18 +1,18 @@
 # 📊 Monitoring — Coûts & Activité
 
-> 🕐 **Dernière mise en ligne : 13/09/2026 11:15**  
+> 🕐 **Dernière mise en ligne : 13/09/2026 12:15**  
 
 ## 💳 Coûts par roadbook
 
 | Roadbook | Sessions | Commits | Tokens IN | Tokens OUT | Coût API | Forfait | Total |
 |----------|:--------:|:-------:|:---------:|:----------:|:--------:|:-------:|:-----:|
-| 🇮🇹 Italie | 0 | 114 | 0 | 0 | ~0.00 € | 0.00 € | **0.00 €** |
+| 🇮🇹 Italie | 0 | 115 | 0 | 0 | ~0.00 € | 0.00 € | **0.00 €** |
 | 🇮🇨 Canaries 2027 | 0 | 6 | 0 | 0 | ~0.00 € | 0.00 € | **0.00 €** |
 | 🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge | 1 | 1 | 18K | 6K | ~0.01 € | 2.50 € | **2.51 €** |
 | 🇳🇴 Scandinavie | 10 | 12 | 241K | 30K | ~0.05 € | 2.50 € | **2.55 €** |
 | 🇫🇷 Canet | 0 | 33 | 0 | 0 | ~0.00 € | 0.00 € | **0.00 €** |
 | 🇪🇸 Andalousie | 1 | 2 | 290K | 11K | ~0.05 € | 2.50 € | **2.55 €** |
-| **Total** | **12** | **168** | | | **~0.11 €** | **7.50 €** | **7.61 €** |
+| **Total** | **12** | **169** | | | **~0.11 €** | **7.50 €** | **7.61 €** |
 
 ---
 
@@ -20,10 +20,10 @@
 
 | Utilisateur | Abonnement | Roadbooks | Sessions | Commits | Coût API | Forfaits | **Total** |
 |:------------|:----------:|:----------|:--------:|:-------:|:--------:|:--------:|:---------:|
-| 🧑‍✈️ **Christophe** | 0 €/an | 🇮🇹 Italie | 0 | 114 | ~0.00 € | 0.00 € | **0.00 €** |
+| 🧑‍✈️ **Christophe** | 0 €/an | 🇮🇹 Italie | 0 | 115 | ~0.00 € | 0.00 € | **0.00 €** |
 | 👤 **Camille & Jérémy** | 12 €/an | 🇮🇨 Canaries 2027 | 0 | 6 | ~0.00 € | 0.00 € | **12.00 €** |
 | 👤 **Pascal** | 12 €/an | 🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge · 🇳🇴 Scandinavie · 🇫🇷 Canet · 🇪🇸 Andalousie | 12 | 48 | ~0.11 € | 7.50 € | **19.61 €** |
-| **Total** | **24 €** | | **12** | **168** | **~0.11 €** | **7.50 €** | **31.61 €** |
+| **Total** | **24 €** | | **12** | **169** | **~0.11 €** | **7.50 €** | **31.61 €** |
 
 ---
 
@@ -41,4 +41,4 @@
 
 ---
 
-*🕐 Dernière mise en ligne : 13/09/2026 11:15 — [🏛️ BAVI LEO](https://christophedanhier-hash.github.io/BAVI_LEO/)*
+*🕐 Dernière mise en ligne : 13/09/2026 12:15 — [🏛️ BAVI LEO](https://christophedanhier-hash.github.io/BAVI_LEO/)*
