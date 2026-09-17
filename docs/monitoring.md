@@ -1,6 +1,6 @@
 # 📊 Monitoring — Coûts & Activité
 
-> 🕐 **Dernière mise en ligne : 17/09/2026 17:15**  
+> 🕐 **Dernière mise en ligne : 17/09/2026 18:15**  
 
 ## 💳 Coûts par roadbook
 
@@ -10,9 +10,9 @@
 | 🇮🇨 Canaries 2027 | 0 | 6 | 0 | 0 | ~0.00 € | 0.00 € | **0.00 €** |
 | 🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge | 1 | 1 | 18K | 6K | ~0.01 € | 2.50 € | **2.51 €** |
 | 🇳🇴 Scandinavie | 10 | 12 | 241K | 30K | ~0.05 € | 2.50 € | **2.55 €** |
-| 🇫🇷 Canet | 0 | 10 | 0 | 0 | ~0.00 € | 0.00 € | **0.00 €** |
+| 🇫🇷 Canet | 0 | 9 | 0 | 0 | ~0.00 € | 0.00 € | **0.00 €** |
 | 🇪🇸 Andalousie | 1 | 2 | 290K | 11K | ~0.05 € | 2.50 € | **2.55 €** |
-| **Total** | **12** | **131** | | | **~0.11 €** | **7.50 €** | **7.61 €** |
+| **Total** | **12** | **130** | | | **~0.11 €** | **7.50 €** | **7.61 €** |
 
 ---
 
@@ -22,8 +22,8 @@
 |:------------|:----------:|:----------|:--------:|:-------:|:--------:|:--------:|:---------:|
 | 🧑‍✈️ **Christophe** | 0 €/an | 🇮🇹 Italie | 0 | 100 | ~0.00 € | 0.00 € | **0.00 €** |
 | 👤 **Camille & Jérémy** | 12 €/an | 🇮🇨 Canaries 2027 | 0 | 6 | ~0.00 € | 0.00 € | **12.00 €** |
-| 👤 **Pascal** | 12 €/an | 🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge · 🇳🇴 Scandinavie · 🇫🇷 Canet · 🇪🇸 Andalousie | 12 | 25 | ~0.11 € | 7.50 € | **19.61 €** |
-| **Total** | **24 €** | | **12** | **131** | **~0.11 €** | **7.50 €** | **31.61 €** |
+| 👤 **Pascal** | 12 €/an | 🇻🇳🇱🇦🇰🇭 Vietnam-Laos-Cambodge · 🇳🇴 Scandinavie · 🇫🇷 Canet · 🇪🇸 Andalousie | 12 | 24 | ~0.11 € | 7.50 € | **19.61 €** |
+| **Total** | **24 €** | | **12** | **130** | **~0.11 €** | **7.50 €** | **31.61 €** |
 
 ---
 
@@ -41,4 +41,4 @@
 
 ---
 
-*🕐 Dernière mise en ligne : 17/09/2026 17:15 — [🏛️ BAVI LEO](https://christophedanhier-hash.github.io/BAVI_LEO/)*
+*🕐 Dernière mise en ligne : 17/09/2026 18:15 — [🏛️ BAVI LEO](https://christophedanhier-hash.github.io/BAVI_LEO/)*
