@@ -52,8 +52,8 @@
 | 14 | 24/09 | Dernière journée voiture | — | 2 052 | Residence Atlantide |
 | 15 | 25/09 | Retour voiture 10h à Monopoli → Polignano en taxi | — | 2 052 | Residence Atlantide |
 | 16 | 26/09 | Plages et criques | — | 2 052 | Residence Atlantide |
-| 17 | 27/09 | Repos / criques | — | 2 052 | Residence Atlantide |
-| 18 | 28/09 | Monopoli → Cupra Marittima | 432 km | 2 484 | Led Zeppelin — walk-in |
+| 17 | 27/09 | Capitolo → San Giovanni Rotondo (Padre Pio) | 216 km | 2 268 | Lo Chalet Belvedere — walk-in |
+| 18 | 28/09 | San Giovanni Rotondo → Cupra Marittima | 268 km | 2 536 | Led Zeppelin — walk-in |
 | 19 | 29/09 | Cupra → Cavallino / Venise | 475 km | 2 959 | Europa Village — payé |
 | 20 | 30/09 | Venise — cœur historique | — | 2 959 | Europa Village |
 | 21 | 01/10 | Venise — Murano & Burano | — | 2 959 | Europa Village |
