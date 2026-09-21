@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_13ca8318213e75f4aec7563d927a4c17 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.fullscreen@3.0.0/Control.FullScreen.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.fullscreen@3.0.0/Control.FullScreen.css"/>
+</head>
+<body>
+    
+    
+<div style="position: fixed; bottom: 30px; left: 10px; z-index: 1000; background: white;
+     padding: 10px; border-radius: 8px; font-size: 12px; border: 1px solid #ccc;">
+<b>🗻 Hakone + Kawaguchiko</b><br>
+<span style="color:#e63946;">- - - Bus Hakone → Kawaguchiko (~2h30)</span><br>
+<span style="color:#2980b9;">● Points d'intérêt</span><br>
+<i>Zéro randonnée — tout en transport doux</i>
+</div>
+    
+            <div class="folium-map" id="map_13ca8318213e75f4aec7563d927a4c17" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_13ca8318213e75f4aec7563d927a4c17 = L.map(
+                "map_13ca8318213e75f4aec7563d927a4c17",
+                {
+                    center: [35.35, 138.95],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 10,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_cbe19607d42b1d03745b425fda0856a8 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_cbe19607d42b1d03745b425fda0856a8.addTo(map_13ca8318213e75f4aec7563d927a4c17);
+        
+    
+            var marker_c9a904476c6f4bba728c86c1f06a0742 = L.marker(
+                [35.2325, 139.106],
+                {
+}
+            ).addTo(map_13ca8318213e75f4aec7563d927a4c17);
+        
+    
+            var icon_c68e897c4782c6292ef27c377b89ccb3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "green",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d9fd88258590d88e7df581d61ae1ecdd = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_ff2e897bb53aba09a4ea4b9c178a3c06 = $(`<div id="html_ff2e897bb53aba09a4ea4b9c178a3c06" style="width: 100.0%; height: 100.0%;"><b>🛏️ Ryokan Hakone (J6)</b><br>Onsen + bain privé</div>`)[0];
+                popup_d9fd88258590d88e7df581d61ae1ecdd.setContent(html_ff2e897bb53aba09a4ea4b9c178a3c06);
+            
+        
+
+        marker_c9a904476c6f4bba728c86c1f06a0742.bindPopup(popup_d9fd88258590d88e7df581d61ae1ecdd)
+        ;
+
+        
+    
+    
+            marker_c9a904476c6f4bba728c86c1f06a0742.bindTooltip(
+                `<div>
+                     🛏️ Ryokan Hakone (J6)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c9a904476c6f4bba728c86c1f06a0742.setIcon(icon_c68e897c4782c6292ef27c377b89ccb3);
+            
+    
+            var marker_4ea579ad922dcccb38f7381c47389270 = L.marker(
+                [35.225, 139.0],
+                {
+}
+            ).addTo(map_13ca8318213e75f4aec7563d927a4c17);
+        
+    
+            var icon_b5c9c3675b0676a80dfc502d03b1973d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "ship",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5760f5e0b42a5b5d30f08e66fa6d6a12 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_5d4a39314346b73b3b8422d0d557916e = $(`<div id="html_5d4a39314346b73b3b8422d0d557916e" style="width: 100.0%; height: 100.0%;"><b>Lac Ashi bateau (J6)</b><br>Bateau panoramique</div>`)[0];
+                popup_5760f5e0b42a5b5d30f08e66fa6d6a12.setContent(html_5d4a39314346b73b3b8422d0d557916e);
+            
+        
+
+        marker_4ea579ad922dcccb38f7381c47389270.bindPopup(popup_5760f5e0b42a5b5d30f08e66fa6d6a12)
+        ;
+
+        
+    
+    
+            marker_4ea579ad922dcccb38f7381c47389270.bindTooltip(
+                `<div>
+                     Lac Ashi bateau (J6)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_4ea579ad922dcccb38f7381c47389270.setIcon(icon_b5c9c3675b0676a80dfc502d03b1973d);
+            
+    
+            var marker_dfa4e73af2b7aa7f840ea8dd12e389e4 = L.marker(
+                [35.2489, 139.018],
+                {
+}
+            ).addTo(map_13ca8318213e75f4aec7563d927a4c17);
+        
+    
+            var icon_b63b70c2803d3fb0df75de92ad6912e4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "mountain",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_10b9eef183853ec0e3d2976ea744fffb = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_9e80c4121720f8a8a3e647cf9645bfc9 = $(`<div id="html_9e80c4121720f8a8a3e647cf9645bfc9" style="width: 100.0%; height: 100.0%;"><b>Téléphérique (J6)</b><br>Vue volcan Owakudani</div>`)[0];
+                popup_10b9eef183853ec0e3d2976ea744fffb.setContent(html_9e80c4121720f8a8a3e647cf9645bfc9);
+            
+        
+
+        marker_dfa4e73af2b7aa7f840ea8dd12e389e4.bindPopup(popup_10b9eef183853ec0e3d2976ea744fffb)
+        ;
+
+        
+    
+    
+            marker_dfa4e73af2b7aa7f840ea8dd12e389e4.bindTooltip(
+                `<div>
+                     Téléphérique (J6)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_dfa4e73af2b7aa7f840ea8dd12e389e4.setIcon(icon_b63b70c2803d3fb0df75de92ad6912e4);
+            
+    
+            var marker_0081ee7c98ca034c4644fc4b2cb33b20 = L.marker(
+                [35.505, 138.762],
+                {
+}
+            ).addTo(map_13ca8318213e75f4aec7563d927a4c17);
+        
+    
+            var icon_f8774e0b87f04ec82935751b001e1820 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "green",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ba208b8805eb1e4f2ce4d43390ab254a = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_3b177c9f68976f1f40c2c29947ec3228 = $(`<div id="html_3b177c9f68976f1f40c2c29947ec3228" style="width: 100.0%; height: 100.0%;"><b>🛏️ Mizunosato (J7-8)</b><br>Ryokan vue Fuji</div>`)[0];
+                popup_ba208b8805eb1e4f2ce4d43390ab254a.setContent(html_3b177c9f68976f1f40c2c29947ec3228);
+            
+        
+
+        marker_0081ee7c98ca034c4644fc4b2cb33b20.bindPopup(popup_ba208b8805eb1e4f2ce4d43390ab254a)
+        ;
+
+        
+    
+    
+            marker_0081ee7c98ca034c4644fc4b2cb33b20.bindTooltip(
+                `<div>
+                     🛏️ Mizunosato (J7-8)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_0081ee7c98ca034c4644fc4b2cb33b20.setIcon(icon_f8774e0b87f04ec82935751b001e1820);
+            
+    
+            var marker_68c454aef8b2ca872fdb645d63a8f6ff = L.marker(
+                [35.4925, 138.787],
+                {
+}
+            ).addTo(map_13ca8318213e75f4aec7563d927a4c17);
+        
+    
+            var icon_10a70b701a87d64b0545ec6c7f41f2a7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_00036cf83b74f832aed2981d5ce68300 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_894b8ee5cc30cdbb202709a4f3364977 = $(`<div id="html_894b8ee5cc30cdbb202709a4f3364977" style="width: 100.0%; height: 100.0%;"><b>Pagode Chureito (J7)</b><br>Vue iconique — bus + courte marche</div>`)[0];
+                popup_00036cf83b74f832aed2981d5ce68300.setContent(html_894b8ee5cc30cdbb202709a4f3364977);
+            
+        
+
+        marker_68c454aef8b2ca872fdb645d63a8f6ff.bindPopup(popup_00036cf83b74f832aed2981d5ce68300)
+        ;
+
+        
+    
+    
+            marker_68c454aef8b2ca872fdb645d63a8f6ff.bindTooltip(
+                `<div>
+                     Pagode Chureito (J7)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_68c454aef8b2ca872fdb645d63a8f6ff.setIcon(icon_10a70b701a87d64b0545ec6c7f41f2a7);
+            
+    
+            var marker_9617a6eb50050e98479597ed94d4640d = L.marker(
+                [35.5, 138.78],
+                {
+}
+            ).addTo(map_13ca8318213e75f4aec7563d927a4c17);
+        
+    
+            var icon_278a69567ad88448ee82d471237e2f97 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "walking",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a0aa27588dd0fec4af4a436189cc7e00 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_34a0038a74ab3789112ce27a0c086784 = $(`<div id="html_34a0038a74ab3789112ce27a0c086784" style="width: 100.0%; height: 100.0%;"><b>Lac Kawaguchi (J8)</b><br>Balade rive plate</div>`)[0];
+                popup_a0aa27588dd0fec4af4a436189cc7e00.setContent(html_34a0038a74ab3789112ce27a0c086784);
+            
+        
+
+        marker_9617a6eb50050e98479597ed94d4640d.bindPopup(popup_a0aa27588dd0fec4af4a436189cc7e00)
+        ;
+
+        
+    
+    
+            marker_9617a6eb50050e98479597ed94d4640d.bindTooltip(
+                `<div>
+                     Lac Kawaguchi (J8)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_9617a6eb50050e98479597ed94d4640d.setIcon(icon_278a69567ad88448ee82d471237e2f97);
+            
+    
+            var marker_715dc87764a35acc2dc24d434f2cba8f = L.marker(
+                [35.3606, 138.7274],
+                {
+}
+            ).addTo(map_13ca8318213e75f4aec7563d927a4c17);
+        
+    
+            var icon_0f203f80cb21ec050ac018fed89a170f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "mountain",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_72c46461e0110a197d092c12060e6055 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_0bc612594b27be499fd757b4c9b5ffa0 = $(`<div id="html_0bc612594b27be499fd757b4c9b5ffa0" style="width: 100.0%; height: 100.0%;"><b>🗻 Mont Fuji</b><br>Vue depuis Hakone + Kawaguchiko</div>`)[0];
+                popup_72c46461e0110a197d092c12060e6055.setContent(html_0bc612594b27be499fd757b4c9b5ffa0);
+            
+        
+
+        marker_715dc87764a35acc2dc24d434f2cba8f.bindPopup(popup_72c46461e0110a197d092c12060e6055)
+        ;
+
+        
+    
+    
+            marker_715dc87764a35acc2dc24d434f2cba8f.bindTooltip(
+                `<div>
+                     🗻 Mont Fuji
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_715dc87764a35acc2dc24d434f2cba8f.setIcon(icon_0f203f80cb21ec050ac018fed89a170f);
+            
+    
+            var poly_line_3e2fd2d21fca00ccdfbb8d42f04f8b6f = L.polyline(
+                [[35.2325, 139.106], [35.505, 138.762]],
+                {"bubblingMouseEvents": true, "color": "#e63946", "dashArray": "8,4", "dashOffset": null, "fill": false, "fillColor": "#e63946", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_13ca8318213e75f4aec7563d927a4c17);
+        
+    
+            poly_line_3e2fd2d21fca00ccdfbb8d42f04f8b6f.bindTooltip(
+                `<div>
+                     Bus ~2h30
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            L.control.fullscreen(
+                {
+  "position": "topleft",
+  "title": "Full Screen",
+  "titleCancel": "Exit Full Screen",
+  "forceSeparateButton": false,
+}
+            ).addTo(map_13ca8318213e75f4aec7563d927a4c17);
+        
+</script>
+</html>

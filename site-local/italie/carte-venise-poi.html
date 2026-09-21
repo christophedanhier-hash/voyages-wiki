@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="position:fixed; bottom:30px; left:10px; z-index:1000; background:white;
+     padding:10px; border-radius:8px; font-size:12px; border:1px solid #ccc; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+<b>🛶 Venise — POI</b><br>
+🟢 Camp de base (Europa Village)<br>
+🔴 Sites culturels Venise<br>
+🔵 Îles (Murano, Burano, Lido)<br>
+🟣 Ferry / transport<br>
+➖ Trajet camping → Venise<br>
+⏺️ 2 km du camping
+</div>
+    
+            <div class="folium-map" id="map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc = L.map(
+                "map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc",
+                {
+                    center: [45.46, 12.4],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 11,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc);
+
+            
+
+        
+    
+            var tile_layer_5517a22e6def37fb12d0582715dd841b = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_5517a22e6def37fb12d0582715dd841b.addTo(map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc);
+        
+    
+            var marker_316bebfb840550a6e0f122ce19de6837 = L.marker(
+                [45.47262, 12.54972],
+                {
+}
+            ).addTo(map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc);
+        
+    
+            var icon_8cc610125c1872def5bafae335ae8c0f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_24c3e30335ba125733173a70f6c3b30b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7a7d471d090df62040a5f2404cd1adb2 = $(`<div id="html_7a7d471d090df62040a5f2404cd1adb2" style="width: 100.0%; height: 100.0%;"><b>🏕️ Camp de base</b><br>Camping Europa Village — Cavallino<br>📍 Bus + ferry → Venise 45 min</div>`)[0];
+                popup_24c3e30335ba125733173a70f6c3b30b.setContent(html_7a7d471d090df62040a5f2404cd1adb2);
+            
+        
+
+        marker_316bebfb840550a6e0f122ce19de6837.bindPopup(popup_24c3e30335ba125733173a70f6c3b30b)
+        ;
+
+        
+    
+    
+            marker_316bebfb840550a6e0f122ce19de6837.bindTooltip(
+                `<div>
+                     🏕️ Europa Village
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_316bebfb840550a6e0f122ce19de6837.setIcon(icon_8cc610125c1872def5bafae335ae8c0f);
+            
+    
+            var marker_b68eb76242635f53791fd4fb6eba952c = L.marker(
+                [45.43426, 12.33867],
+                {
+}
+            ).addTo(map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc);
+        
+    
+            var icon_5a48546062a15d2913dead111e45b2f8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_71d4ba56aca6ea84104b4d5d2422fff7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_59a5c9900740a79d7e2972e46161e983 = $(`<div id="html_59a5c9900740a79d7e2972e46161e983" style="width: 100.0%; height: 100.0%;"><b>🏛️ Place Saint-Marc</b><br>Cœur de Venise, Campanile, basilique</div>`)[0];
+                popup_71d4ba56aca6ea84104b4d5d2422fff7.setContent(html_59a5c9900740a79d7e2972e46161e983);
+            
+        
+
+        marker_b68eb76242635f53791fd4fb6eba952c.bindPopup(popup_71d4ba56aca6ea84104b4d5d2422fff7)
+        ;
+
+        
+    
+    
+            marker_b68eb76242635f53791fd4fb6eba952c.bindTooltip(
+                `<div>
+                     🏛️ Place Saint-Marc
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b68eb76242635f53791fd4fb6eba952c.setIcon(icon_5a48546062a15d2913dead111e45b2f8);
+            
+    
+            var marker_57b304fff21becbc928ac8958befbfe9 = L.marker(
+                [45.43455, 12.33982],
+                {
+}
+            ).addTo(map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc);
+        
+    
+            var icon_1c50c9a91d3e83490847894334ba9d65 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4a4a61ea1907254bfdb8a59550fb2831 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5ae0716e4f1dc799daa6a5a7a92a28ae = $(`<div id="html_5ae0716e4f1dc799daa6a5a7a92a28ae" style="width: 100.0%; height: 100.0%;"><b>⛪ Basilique Saint-Marc</b><br>Mosaïques byzantines, Pala d'Oro — résa créneau</div>`)[0];
+                popup_4a4a61ea1907254bfdb8a59550fb2831.setContent(html_5ae0716e4f1dc799daa6a5a7a92a28ae);
+            
+        
+
+        marker_57b304fff21becbc928ac8958befbfe9.bindPopup(popup_4a4a61ea1907254bfdb8a59550fb2831)
+        ;
+
+        
+    
+    
+            marker_57b304fff21becbc928ac8958befbfe9.bindTooltip(
+                `<div>
+                     ⛪ Basilique Saint-Marc
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_57b304fff21becbc928ac8958befbfe9.setIcon(icon_1c50c9a91d3e83490847894334ba9d65);
+            
+    
+            var marker_0dfbf4328a9b163274332e3b603a77e9 = L.marker(
+                [45.43421, 12.34059],
+                {
+}
+            ).addTo(map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc);
+        
+    
+            var icon_7b883f95e1c2418ad8a8b6262eb92289 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c0f4e1dda5dc454c4377434f2baf4799 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_92087919dd3179dc8c1c56bb03740c27 = $(`<div id="html_92087919dd3179dc8c1c56bb03740c27" style="width: 100.0%; height: 100.0%;"><b>🏰 Palais des Doges</b><br>Salle Grand Conseil, Pont des Soupirs — coupe-file</div>`)[0];
+                popup_c0f4e1dda5dc454c4377434f2baf4799.setContent(html_92087919dd3179dc8c1c56bb03740c27);
+            
+        
+
+        marker_0dfbf4328a9b163274332e3b603a77e9.bindPopup(popup_c0f4e1dda5dc454c4377434f2baf4799)
+        ;
+
+        
+    
+    
+            marker_0dfbf4328a9b163274332e3b603a77e9.bindTooltip(
+                `<div>
+                     🏰 Palais des Doges
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_0dfbf4328a9b163274332e3b603a77e9.setIcon(icon_7b883f95e1c2418ad8a8b6262eb92289);
+            
+    
+            var marker_bea722b12fe58601ff414271394d62e6 = L.marker(
+                [45.43805, 12.33593],
+                {
+}
+            ).addTo(map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc);
+        
+    
+            var icon_7ef4b68040d51cbe70bc0ea422012434 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d7c17c587bc814b4a2aac4f82ee2ca54 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c442a02b6c91aa40832936a5eb1b09de = $(`<div id="html_c442a02b6c91aa40832936a5eb1b09de" style="width: 100.0%; height: 100.0%;"><b>🌉 Pont du Rialto</b><br>Le plus célèbre, marché à côté</div>`)[0];
+                popup_d7c17c587bc814b4a2aac4f82ee2ca54.setContent(html_c442a02b6c91aa40832936a5eb1b09de);
+            
+        
+
+        marker_bea722b12fe58601ff414271394d62e6.bindPopup(popup_d7c17c587bc814b4a2aac4f82ee2ca54)
+        ;
+
+        
+    
+    
+            marker_bea722b12fe58601ff414271394d62e6.bindTooltip(
+                `<div>
+                     🌉 Pont du Rialto
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_bea722b12fe58601ff414271394d62e6.setIcon(icon_7ef4b68040d51cbe70bc0ea422012434);
+            
+    
+            var marker_7369c76f76373e9c20170d5dcb5c8af2 = L.marker(
+                [45.45846, 12.35297],
+                {
+}
+            ).addTo(map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc);
+        
+    
+            var icon_59d0c7d7b4c224e44a205ab65fed3243 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f938955f67194236fd74b61544a81b65 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_04499c85a1b41283582e841ef2cff9e8 = $(`<div id="html_04499c85a1b41283582e841ef2cff9e8" style="width: 100.0%; height: 100.0%;"><b>🏝️ Murano</b><br>Verre soufflé — 10 min vaporetto</div>`)[0];
+                popup_f938955f67194236fd74b61544a81b65.setContent(html_04499c85a1b41283582e841ef2cff9e8);
+            
+        
+
+        marker_7369c76f76373e9c20170d5dcb5c8af2.bindPopup(popup_f938955f67194236fd74b61544a81b65)
+        ;
+
+        
+    
+    
+            marker_7369c76f76373e9c20170d5dcb5c8af2.bindTooltip(
+                `<div>
+                     🏝️ Murano
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_7369c76f76373e9c20170d5dcb5c8af2.setIcon(icon_59d0c7d7b4c224e44a205ab65fed3243);
+            
+    
+            var marker_a3d4929a5ad34e65d6d50dbdecaf39b8 = L.marker(
+                [45.48536, 12.41754],
+                {
+}
+            ).addTo(map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc);
+        
+    
+            var icon_e7e563f2150a8ddf313dee1a446308c8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_26e0b54b0eb152abaca1bbfd6bbd2306 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_097bede45be8bdaca1db89049954834a = $(`<div id="html_097bede45be8bdaca1db89049954834a" style="width: 100.0%; height: 100.0%;"><b>🏝️ Burano</b><br>Maisons colorées, dentelle — 30 min vaporetto</div>`)[0];
+                popup_26e0b54b0eb152abaca1bbfd6bbd2306.setContent(html_097bede45be8bdaca1db89049954834a);
+            
+        
+
+        marker_a3d4929a5ad34e65d6d50dbdecaf39b8.bindPopup(popup_26e0b54b0eb152abaca1bbfd6bbd2306)
+        ;
+
+        
+    
+    
+            marker_a3d4929a5ad34e65d6d50dbdecaf39b8.bindTooltip(
+                `<div>
+                     🏝️ Burano
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a3d4929a5ad34e65d6d50dbdecaf39b8.setIcon(icon_e7e563f2150a8ddf313dee1a446308c8);
+            
+    
+            var marker_21996ff69b2140d15721850e54186ebc = L.marker(
+                [45.4365, 12.416],
+                {
+}
+            ).addTo(map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc);
+        
+    
+            var icon_fe312ec9b822e88d656e5574ac9ca28b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fddbc9c6a1ff23070eba6686064db736 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d2e7b67b4da7c83c92613827e9b70480 = $(`<div id="html_d2e7b67b4da7c83c92613827e9b70480" style="width: 100.0%; height: 100.0%;"><b>🏖️ Lido</b><br>11 km plage - location vélo possible</div>`)[0];
+                popup_fddbc9c6a1ff23070eba6686064db736.setContent(html_d2e7b67b4da7c83c92613827e9b70480);
+            
+        
+
+        marker_21996ff69b2140d15721850e54186ebc.bindPopup(popup_fddbc9c6a1ff23070eba6686064db736)
+        ;
+
+        
+    
+    
+            marker_21996ff69b2140d15721850e54186ebc.bindTooltip(
+                `<div>
+                     🏖️ Lido
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_21996ff69b2140d15721850e54186ebc.setIcon(icon_fe312ec9b822e88d656e5574ac9ca28b);
+            
+    
+            var marker_a060aea07c5dfd01e37686bb9fa2b58e = L.marker(
+                [45.438, 12.427],
+                {
+}
+            ).addTo(map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc);
+        
+    
+            var icon_50e758ed399d692ef9488f9fabf8593b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "road",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ca1e825058061b92100a04afeda6c5ab = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ed2db9b46da156694f0eed6975af48a3 = $(`<div id="html_ed2db9b46da156694f0eed6975af48a3" style="width: 100.0%; height: 100.0%;">⛴️ Punta Sabbioni — Ferry<br>Ligne 14 → Venise San Marco 30-45 min</div>`)[0];
+                popup_ca1e825058061b92100a04afeda6c5ab.setContent(html_ed2db9b46da156694f0eed6975af48a3);
+            
+        
+
+        marker_a060aea07c5dfd01e37686bb9fa2b58e.bindPopup(popup_ca1e825058061b92100a04afeda6c5ab)
+        ;
+
+        
+    
+    
+            marker_a060aea07c5dfd01e37686bb9fa2b58e.bindTooltip(
+                `<div>
+                     ⛴️ Ferry Punta Sabbioni
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a060aea07c5dfd01e37686bb9fa2b58e.setIcon(icon_50e758ed399d692ef9488f9fabf8593b);
+            
+    
+            var poly_line_7c9d06d3763747da35335b1524d8b663 = L.polyline(
+                [[45.47262, 12.54972], [45.438, 12.427], [45.43426, 12.33867]],
+                {"bubblingMouseEvents": true, "color": "#1a5276", "dashArray": "5, 10", "dashOffset": null, "fill": false, "fillColor": "#1a5276", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.4, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc);
+        
+    
+            var circle_bee10e2a8ef8a78bfc7bc6c6f8ed66f7 = L.circle(
+                [45.47262, 12.54972],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.04, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2000, "stroke": true, "weight": 1}
+            ).addTo(map_9cf0f5276fc5f9d39e7f1ff0e29ef3cc);
+        
+</script>
+</html>

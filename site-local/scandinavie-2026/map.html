@@ -1,0 +1,1127 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_12c7a662ba61a1f3318627488f75f091 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="position: fixed; bottom: 20px; left: 10px; z-index: 9999;
+    background: rgba(15,23,42,0.9); padding: 10px 14px; border-radius: 8px;
+    border: 1px solid #334155; font-family: sans-serif; font-size: 12px; color: #e2e8f0;">
+    <div style="margin-bottom:4px;"><b>🗺️ Scandinavie 2026</b></div>
+    <div><span style="color:#ef4444;">━</span> Aller (Göteborg → Fjords → Cap Nord)</div>
+    <div><span style="color:#3b82f6;">╌╌</span> Retour (Stockholm → Danemark)</div>
+    <div><span style="color:#3b82f6;">●</span> Stockholm — visité au retour</div>
+    <div>⛴️ Ferry Rostock↔Trelleborg (réservé)</div>
+</div>
+    
+            <div class="folium-map" id="map_12c7a662ba61a1f3318627488f75f091" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_12c7a662ba61a1f3318627488f75f091 = L.map(
+                "map_12c7a662ba61a1f3318627488f75f091",
+                {
+                    center: [63.0, 15.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 4,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_12c7a662ba61a1f3318627488f75f091);
+
+            
+
+        
+    
+            var tile_layer_85ec571e156418f6693eef171fa038d2 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 18,
+  "maxNativeZoom": 18,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_85ec571e156418f6693eef171fa038d2.addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+            var poly_line_ba18f8da70064808bca1448d040e0548 = L.polyline(
+                [[50.3333, 4.5333], [54.0833, 12.1333], [55.3667, 13.1667], [55.605, 13.0038], [57.7089, 11.9746], [58.97, 5.7331], [60.3913, 5.3221], [60.8594, 7.1143], [62.1, 7.2], [62.4723, 6.1495], [63.4305, 10.3951], [67.8833, 12.9833], [69.6496, 18.956], [69.9667, 23.2667], [71.1703, 25.7833]],
+                {"bubblingMouseEvents": true, "color": "#ef4444", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#ef4444", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_a7b48814eeab5887d2b282c55b5cd2bb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d2e4cfc8782c9ee72ad2ae437a6dbb49 = $(`<div id="html_d2e4cfc8782c9ee72ad2ae437a6dbb49" style="width: 100.0%; height: 100.0%;">Aller</div>`)[0];
+                popup_a7b48814eeab5887d2b282c55b5cd2bb.setContent(html_d2e4cfc8782c9ee72ad2ae437a6dbb49);
+            
+        
+
+        poly_line_ba18f8da70064808bca1448d040e0548.bindPopup(popup_a7b48814eeab5887d2b282c55b5cd2bb)
+        ;
+
+        
+    
+    
+            var poly_line_8d4651d1c8670090a9402a154be4a648 = L.polyline(
+                [[71.1703, 25.7833], [67.85, 20.2167], [65.5833, 22.15], [62.3908, 17.3069], [59.3293, 18.0686], [55.605, 13.0038], [55.6761, 12.5683], [54.5, 11.2167], [53.5511, 9.9937], [50.3333, 4.5333]],
+                {"bubblingMouseEvents": true, "color": "#3b82f6", "dashArray": "10, 10", "dashOffset": null, "fill": false, "fillColor": "#3b82f6", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_30e9ded2b590e95535f04ad413683a00 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_58c6705d75f9cf3c317102479a5e2325 = $(`<div id="html_58c6705d75f9cf3c317102479a5e2325" style="width: 100.0%; height: 100.0%;">Retour</div>`)[0];
+                popup_30e9ded2b590e95535f04ad413683a00.setContent(html_58c6705d75f9cf3c317102479a5e2325);
+            
+        
+
+        poly_line_8d4651d1c8670090a9402a154be4a648.bindPopup(popup_30e9ded2b590e95535f04ad413683a00)
+        ;
+
+        
+    
+    
+            var circle_marker_8b65ddb457954e05709dd87158d0bf45 = L.circleMarker(
+                [50.3333, 4.5333],
+                {"bubblingMouseEvents": true, "color": "#f97316", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f97316", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_50a815846d13c5d04de0cfe4f019640b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_68c23c4892cdabb592a9f63682bc31c8 = $(`<div id="html_68c23c4892cdabb592a9f63682bc31c8" style="width: 100.0%; height: 100.0%;">Gerpinnes 🏠</div>`)[0];
+                popup_50a815846d13c5d04de0cfe4f019640b.setContent(html_68c23c4892cdabb592a9f63682bc31c8);
+            
+        
+
+        circle_marker_8b65ddb457954e05709dd87158d0bf45.bindPopup(popup_50a815846d13c5d04de0cfe4f019640b)
+        ;
+
+        
+    
+    
+            circle_marker_8b65ddb457954e05709dd87158d0bf45.bindTooltip(
+                `<div>
+                     Gerpinnes 🏠
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_057b9eeaa49b76a77bd8703b54b49cad = L.circleMarker(
+                [54.0833, 12.1333],
+                {"bubblingMouseEvents": true, "color": "#f97316", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f97316", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_fa3d0c3fc63ff205b288e2084505dc2d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_270625a52523efba37243d1cb9a72f3b = $(`<div id="html_270625a52523efba37243d1cb9a72f3b" style="width: 100.0%; height: 100.0%;">Rostock ⛴️</div>`)[0];
+                popup_fa3d0c3fc63ff205b288e2084505dc2d.setContent(html_270625a52523efba37243d1cb9a72f3b);
+            
+        
+
+        circle_marker_057b9eeaa49b76a77bd8703b54b49cad.bindPopup(popup_fa3d0c3fc63ff205b288e2084505dc2d)
+        ;
+
+        
+    
+    
+            circle_marker_057b9eeaa49b76a77bd8703b54b49cad.bindTooltip(
+                `<div>
+                     Rostock ⛴️
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e07aed0fcb5a21e69f448cc60da588ee = L.circleMarker(
+                [55.3667, 13.1667],
+                {"bubblingMouseEvents": true, "color": "#f97316", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f97316", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_9161cc10d951d618347d451318f86ea6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9e3b43e930f9c9a12dbb411500875c81 = $(`<div id="html_9e3b43e930f9c9a12dbb411500875c81" style="width: 100.0%; height: 100.0%;">Trelleborg</div>`)[0];
+                popup_9161cc10d951d618347d451318f86ea6.setContent(html_9e3b43e930f9c9a12dbb411500875c81);
+            
+        
+
+        circle_marker_e07aed0fcb5a21e69f448cc60da588ee.bindPopup(popup_9161cc10d951d618347d451318f86ea6)
+        ;
+
+        
+    
+    
+            circle_marker_e07aed0fcb5a21e69f448cc60da588ee.bindTooltip(
+                `<div>
+                     Trelleborg
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b5420adf0382b533469cac9597d237bf = L.circleMarker(
+                [55.605, 13.0038],
+                {"bubblingMouseEvents": true, "color": "#f97316", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f97316", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_0abae5c27e446bc862a45dabac52709f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fee9c2868f7598f80cac2d430e7f8d51 = $(`<div id="html_fee9c2868f7598f80cac2d430e7f8d51" style="width: 100.0%; height: 100.0%;">Malmö</div>`)[0];
+                popup_0abae5c27e446bc862a45dabac52709f.setContent(html_fee9c2868f7598f80cac2d430e7f8d51);
+            
+        
+
+        circle_marker_b5420adf0382b533469cac9597d237bf.bindPopup(popup_0abae5c27e446bc862a45dabac52709f)
+        ;
+
+        
+    
+    
+            circle_marker_b5420adf0382b533469cac9597d237bf.bindTooltip(
+                `<div>
+                     Malmö
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_94fdad348f5e4a452e2f64a7615e547a = L.circleMarker(
+                [57.7089, 11.9746],
+                {"bubblingMouseEvents": true, "color": "#f97316", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f97316", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_bc1254db97c28b4f29328f8e24139601 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_91fe752c7764bd060301dab834e4e0f9 = $(`<div id="html_91fe752c7764bd060301dab834e4e0f9" style="width: 100.0%; height: 100.0%;">Göteborg</div>`)[0];
+                popup_bc1254db97c28b4f29328f8e24139601.setContent(html_91fe752c7764bd060301dab834e4e0f9);
+            
+        
+
+        circle_marker_94fdad348f5e4a452e2f64a7615e547a.bindPopup(popup_bc1254db97c28b4f29328f8e24139601)
+        ;
+
+        
+    
+    
+            circle_marker_94fdad348f5e4a452e2f64a7615e547a.bindTooltip(
+                `<div>
+                     Göteborg
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_9aa6f881e22d6950d2f5c9024a091f53 = L.circleMarker(
+                [58.97, 5.7331],
+                {"bubblingMouseEvents": true, "color": "#f97316", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f97316", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_1d679b73906b5e75ad8ea17f0901aac6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_639955e9ee1ec017cdd62ec3f178186d = $(`<div id="html_639955e9ee1ec017cdd62ec3f178186d" style="width: 100.0%; height: 100.0%;">Stavanger</div>`)[0];
+                popup_1d679b73906b5e75ad8ea17f0901aac6.setContent(html_639955e9ee1ec017cdd62ec3f178186d);
+            
+        
+
+        circle_marker_9aa6f881e22d6950d2f5c9024a091f53.bindPopup(popup_1d679b73906b5e75ad8ea17f0901aac6)
+        ;
+
+        
+    
+    
+            circle_marker_9aa6f881e22d6950d2f5c9024a091f53.bindTooltip(
+                `<div>
+                     Stavanger
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_341fe3a71f929f46ed299a7871235f89 = L.circleMarker(
+                [60.3913, 5.3221],
+                {"bubblingMouseEvents": true, "color": "#f97316", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f97316", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_99f3905f89a6110375596b1ef81eea83 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_63e709c46b50c8796fd3d1a50f5fc3d5 = $(`<div id="html_63e709c46b50c8796fd3d1a50f5fc3d5" style="width: 100.0%; height: 100.0%;">Bergen</div>`)[0];
+                popup_99f3905f89a6110375596b1ef81eea83.setContent(html_63e709c46b50c8796fd3d1a50f5fc3d5);
+            
+        
+
+        circle_marker_341fe3a71f929f46ed299a7871235f89.bindPopup(popup_99f3905f89a6110375596b1ef81eea83)
+        ;
+
+        
+    
+    
+            circle_marker_341fe3a71f929f46ed299a7871235f89.bindTooltip(
+                `<div>
+                     Bergen
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_100c237ff0648d77a64c66680a882128 = L.circleMarker(
+                [60.8594, 7.1143],
+                {"bubblingMouseEvents": true, "color": "#f97316", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f97316", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_723ecf39514e18271639f5fa8e7c32c0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_40311ce4a42bf9653b03189c5ce6ccf9 = $(`<div id="html_40311ce4a42bf9653b03189c5ce6ccf9" style="width: 100.0%; height: 100.0%;">Flåm</div>`)[0];
+                popup_723ecf39514e18271639f5fa8e7c32c0.setContent(html_40311ce4a42bf9653b03189c5ce6ccf9);
+            
+        
+
+        circle_marker_100c237ff0648d77a64c66680a882128.bindPopup(popup_723ecf39514e18271639f5fa8e7c32c0)
+        ;
+
+        
+    
+    
+            circle_marker_100c237ff0648d77a64c66680a882128.bindTooltip(
+                `<div>
+                     Flåm
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_01b03eb3733a339db032cd53afec533f = L.circleMarker(
+                [62.1, 7.2],
+                {"bubblingMouseEvents": true, "color": "#f97316", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f97316", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_302f6c1c369a16a8176f69d32eec40ae = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0617ad979f05f9ecc6f227f49f8995c0 = $(`<div id="html_0617ad979f05f9ecc6f227f49f8995c0" style="width: 100.0%; height: 100.0%;">Geiranger</div>`)[0];
+                popup_302f6c1c369a16a8176f69d32eec40ae.setContent(html_0617ad979f05f9ecc6f227f49f8995c0);
+            
+        
+
+        circle_marker_01b03eb3733a339db032cd53afec533f.bindPopup(popup_302f6c1c369a16a8176f69d32eec40ae)
+        ;
+
+        
+    
+    
+            circle_marker_01b03eb3733a339db032cd53afec533f.bindTooltip(
+                `<div>
+                     Geiranger
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_4a81076906bfd93b3697b080dca8edd7 = L.circleMarker(
+                [62.4723, 6.1495],
+                {"bubblingMouseEvents": true, "color": "#f97316", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f97316", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_95d6b5eeaef97c233c24fe45b2013835 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a74d4c733039ab807ea65df2fff0f944 = $(`<div id="html_a74d4c733039ab807ea65df2fff0f944" style="width: 100.0%; height: 100.0%;">Ålesund</div>`)[0];
+                popup_95d6b5eeaef97c233c24fe45b2013835.setContent(html_a74d4c733039ab807ea65df2fff0f944);
+            
+        
+
+        circle_marker_4a81076906bfd93b3697b080dca8edd7.bindPopup(popup_95d6b5eeaef97c233c24fe45b2013835)
+        ;
+
+        
+    
+    
+            circle_marker_4a81076906bfd93b3697b080dca8edd7.bindTooltip(
+                `<div>
+                     Ålesund
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_010b8f606c73211358a54d9c18e2710d = L.circleMarker(
+                [63.4305, 10.3951],
+                {"bubblingMouseEvents": true, "color": "#f97316", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f97316", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_5fa1c4edf4d91080b105f9b9a3440c79 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fe940075f7cc348c9313dc68cb157234 = $(`<div id="html_fe940075f7cc348c9313dc68cb157234" style="width: 100.0%; height: 100.0%;">Trondheim</div>`)[0];
+                popup_5fa1c4edf4d91080b105f9b9a3440c79.setContent(html_fe940075f7cc348c9313dc68cb157234);
+            
+        
+
+        circle_marker_010b8f606c73211358a54d9c18e2710d.bindPopup(popup_5fa1c4edf4d91080b105f9b9a3440c79)
+        ;
+
+        
+    
+    
+            circle_marker_010b8f606c73211358a54d9c18e2710d.bindTooltip(
+                `<div>
+                     Trondheim
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f781adbefb0845c15c24c1eeaddb5b0e = L.circleMarker(
+                [67.8833, 12.9833],
+                {"bubblingMouseEvents": true, "color": "#f97316", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f97316", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_df7c06d1032cf26ee4c18e06236ed547 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_91ade69629958bcf3b3184f58ca9d3f2 = $(`<div id="html_91ade69629958bcf3b3184f58ca9d3f2" style="width: 100.0%; height: 100.0%;">Lofoten</div>`)[0];
+                popup_df7c06d1032cf26ee4c18e06236ed547.setContent(html_91ade69629958bcf3b3184f58ca9d3f2);
+            
+        
+
+        circle_marker_f781adbefb0845c15c24c1eeaddb5b0e.bindPopup(popup_df7c06d1032cf26ee4c18e06236ed547)
+        ;
+
+        
+    
+    
+            circle_marker_f781adbefb0845c15c24c1eeaddb5b0e.bindTooltip(
+                `<div>
+                     Lofoten
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_7eced4fe4afc7224312cfa52335e7e8b = L.circleMarker(
+                [69.6496, 18.956],
+                {"bubblingMouseEvents": true, "color": "#f97316", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f97316", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_8c1f2eb1591b1a80d385c341a50b06f7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_43c6c525b8357fab5eb69b9b6e77fa08 = $(`<div id="html_43c6c525b8357fab5eb69b9b6e77fa08" style="width: 100.0%; height: 100.0%;">Tromsø</div>`)[0];
+                popup_8c1f2eb1591b1a80d385c341a50b06f7.setContent(html_43c6c525b8357fab5eb69b9b6e77fa08);
+            
+        
+
+        circle_marker_7eced4fe4afc7224312cfa52335e7e8b.bindPopup(popup_8c1f2eb1591b1a80d385c341a50b06f7)
+        ;
+
+        
+    
+    
+            circle_marker_7eced4fe4afc7224312cfa52335e7e8b.bindTooltip(
+                `<div>
+                     Tromsø
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_a48c1674a5cfc4172cae47707982f8b7 = L.circleMarker(
+                [69.9667, 23.2667],
+                {"bubblingMouseEvents": true, "color": "#f97316", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#f97316", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_217ecdb42db9b6ce6541416aa9771db1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8a1b3a4d115b9f3d1507813d90789a4a = $(`<div id="html_8a1b3a4d115b9f3d1507813d90789a4a" style="width: 100.0%; height: 100.0%;">Alta</div>`)[0];
+                popup_217ecdb42db9b6ce6541416aa9771db1.setContent(html_8a1b3a4d115b9f3d1507813d90789a4a);
+            
+        
+
+        circle_marker_a48c1674a5cfc4172cae47707982f8b7.bindPopup(popup_217ecdb42db9b6ce6541416aa9771db1)
+        ;
+
+        
+    
+    
+            circle_marker_a48c1674a5cfc4172cae47707982f8b7.bindTooltip(
+                `<div>
+                     Alta
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_940d0bcabf0f69b08c54bea460f66ddb = L.circleMarker(
+                [71.1703, 25.7833],
+                {"bubblingMouseEvents": true, "color": "#ef4444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ef4444", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_8b866dff43fd8175c774722a3f2d5712 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c16ff0f6c26002b703e081478b55bc6f = $(`<div id="html_c16ff0f6c26002b703e081478b55bc6f" style="width: 100.0%; height: 100.0%;">⭐ Cap Nord 🏁</div>`)[0];
+                popup_8b866dff43fd8175c774722a3f2d5712.setContent(html_c16ff0f6c26002b703e081478b55bc6f);
+            
+        
+
+        circle_marker_940d0bcabf0f69b08c54bea460f66ddb.bindPopup(popup_8b866dff43fd8175c774722a3f2d5712)
+        ;
+
+        
+    
+    
+            circle_marker_940d0bcabf0f69b08c54bea460f66ddb.bindTooltip(
+                `<div>
+                     ⭐ Cap Nord 🏁
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_017a50e982910c3eb3c57d36101089f0 = L.circleMarker(
+                [71.1703, 25.7833],
+                {"bubblingMouseEvents": true, "color": "#60a5fa", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#60a5fa", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_c5e34bfea5c5e780f5036df911a314a4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9c02cf58d1ba441782d504d46b5bb3f3 = $(`<div id="html_9c02cf58d1ba441782d504d46b5bb3f3" style="width: 100.0%; height: 100.0%;">Cap Nord</div>`)[0];
+                popup_c5e34bfea5c5e780f5036df911a314a4.setContent(html_9c02cf58d1ba441782d504d46b5bb3f3);
+            
+        
+
+        circle_marker_017a50e982910c3eb3c57d36101089f0.bindPopup(popup_c5e34bfea5c5e780f5036df911a314a4)
+        ;
+
+        
+    
+    
+            circle_marker_017a50e982910c3eb3c57d36101089f0.bindTooltip(
+                `<div>
+                     Cap Nord
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_3e8b7f45f76ac0334f6def98fca7613c = L.circleMarker(
+                [67.85, 20.2167],
+                {"bubblingMouseEvents": true, "color": "#60a5fa", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#60a5fa", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_87259ac0c7ae56310b38400289ee6acf = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_cff4e62647c9e6f22e59e2440476b023 = $(`<div id="html_cff4e62647c9e6f22e59e2440476b023" style="width: 100.0%; height: 100.0%;">Kiruna</div>`)[0];
+                popup_87259ac0c7ae56310b38400289ee6acf.setContent(html_cff4e62647c9e6f22e59e2440476b023);
+            
+        
+
+        circle_marker_3e8b7f45f76ac0334f6def98fca7613c.bindPopup(popup_87259ac0c7ae56310b38400289ee6acf)
+        ;
+
+        
+    
+    
+            circle_marker_3e8b7f45f76ac0334f6def98fca7613c.bindTooltip(
+                `<div>
+                     Kiruna
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_26f6a567ed3a12303134d178db5a4436 = L.circleMarker(
+                [65.5833, 22.15],
+                {"bubblingMouseEvents": true, "color": "#60a5fa", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#60a5fa", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_ddbda34aac3a111ca5ef243c6b6e4e21 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8d612c761d6e7a6e279d4ded38896232 = $(`<div id="html_8d612c761d6e7a6e279d4ded38896232" style="width: 100.0%; height: 100.0%;">Luleå</div>`)[0];
+                popup_ddbda34aac3a111ca5ef243c6b6e4e21.setContent(html_8d612c761d6e7a6e279d4ded38896232);
+            
+        
+
+        circle_marker_26f6a567ed3a12303134d178db5a4436.bindPopup(popup_ddbda34aac3a111ca5ef243c6b6e4e21)
+        ;
+
+        
+    
+    
+            circle_marker_26f6a567ed3a12303134d178db5a4436.bindTooltip(
+                `<div>
+                     Luleå
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_8e073929ad80d05bb28b01f6b589296f = L.circleMarker(
+                [62.3908, 17.3069],
+                {"bubblingMouseEvents": true, "color": "#60a5fa", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#60a5fa", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_1b41a51f6f9c8aec74e97bb418aef4e2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_eef825e6ea8117ecadcdd6ff69f3dbb5 = $(`<div id="html_eef825e6ea8117ecadcdd6ff69f3dbb5" style="width: 100.0%; height: 100.0%;">Sundsvall</div>`)[0];
+                popup_1b41a51f6f9c8aec74e97bb418aef4e2.setContent(html_eef825e6ea8117ecadcdd6ff69f3dbb5);
+            
+        
+
+        circle_marker_8e073929ad80d05bb28b01f6b589296f.bindPopup(popup_1b41a51f6f9c8aec74e97bb418aef4e2)
+        ;
+
+        
+    
+    
+            circle_marker_8e073929ad80d05bb28b01f6b589296f.bindTooltip(
+                `<div>
+                     Sundsvall
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e736a9f53a53e69aa5934e21088a5455 = L.circleMarker(
+                [59.3293, 18.0686],
+                {"bubblingMouseEvents": true, "color": "#3b82f6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3b82f6", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_518704ac4085d5d9a95e6e0ba5b21f37 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_87ede7f7d82d95156547a5966ce2ab1b = $(`<div id="html_87ede7f7d82d95156547a5966ce2ab1b" style="width: 100.0%; height: 100.0%;">🏛️ Stockholm</div>`)[0];
+                popup_518704ac4085d5d9a95e6e0ba5b21f37.setContent(html_87ede7f7d82d95156547a5966ce2ab1b);
+            
+        
+
+        circle_marker_e736a9f53a53e69aa5934e21088a5455.bindPopup(popup_518704ac4085d5d9a95e6e0ba5b21f37)
+        ;
+
+        
+    
+    
+            circle_marker_e736a9f53a53e69aa5934e21088a5455.bindTooltip(
+                `<div>
+                     🏛️ Stockholm
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_179ef8b31d3ca21946be4303c42a824d = L.circleMarker(
+                [55.605, 13.0038],
+                {"bubblingMouseEvents": true, "color": "#60a5fa", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#60a5fa", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_d3415b771651e517605581ebb8d99ca0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d3a055ebbdfe4b8d279d94fcabed760b = $(`<div id="html_d3a055ebbdfe4b8d279d94fcabed760b" style="width: 100.0%; height: 100.0%;">Malmö</div>`)[0];
+                popup_d3415b771651e517605581ebb8d99ca0.setContent(html_d3a055ebbdfe4b8d279d94fcabed760b);
+            
+        
+
+        circle_marker_179ef8b31d3ca21946be4303c42a824d.bindPopup(popup_d3415b771651e517605581ebb8d99ca0)
+        ;
+
+        
+    
+    
+            circle_marker_179ef8b31d3ca21946be4303c42a824d.bindTooltip(
+                `<div>
+                     Malmö
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_296330815f1f5b6d31fb5748e707aae9 = L.circleMarker(
+                [55.6761, 12.5683],
+                {"bubblingMouseEvents": true, "color": "#60a5fa", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#60a5fa", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_8648c6713315bf4f8464b74810520445 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_caaebacdba87d6ad86c448a84b08a292 = $(`<div id="html_caaebacdba87d6ad86c448a84b08a292" style="width: 100.0%; height: 100.0%;">Copenhague 🇩🇰</div>`)[0];
+                popup_8648c6713315bf4f8464b74810520445.setContent(html_caaebacdba87d6ad86c448a84b08a292);
+            
+        
+
+        circle_marker_296330815f1f5b6d31fb5748e707aae9.bindPopup(popup_8648c6713315bf4f8464b74810520445)
+        ;
+
+        
+    
+    
+            circle_marker_296330815f1f5b6d31fb5748e707aae9.bindTooltip(
+                `<div>
+                     Copenhague 🇩🇰
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_4fe55f4473c3399b86432e6e71009cb3 = L.circleMarker(
+                [54.5, 11.2167],
+                {"bubblingMouseEvents": true, "color": "#60a5fa", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#60a5fa", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_5bcd528cb039f8d6e9a8238861bf58c3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2785be265e1fa4d3094220ba04e0dedf = $(`<div id="html_2785be265e1fa4d3094220ba04e0dedf" style="width: 100.0%; height: 100.0%;">Puttgarden ⛴️</div>`)[0];
+                popup_5bcd528cb039f8d6e9a8238861bf58c3.setContent(html_2785be265e1fa4d3094220ba04e0dedf);
+            
+        
+
+        circle_marker_4fe55f4473c3399b86432e6e71009cb3.bindPopup(popup_5bcd528cb039f8d6e9a8238861bf58c3)
+        ;
+
+        
+    
+    
+            circle_marker_4fe55f4473c3399b86432e6e71009cb3.bindTooltip(
+                `<div>
+                     Puttgarden ⛴️
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_276d66ca39c00787658583c7b3a6397e = L.circleMarker(
+                [53.5511, 9.9937],
+                {"bubblingMouseEvents": true, "color": "#60a5fa", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#60a5fa", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_8ab4d9d7c4a8f9d25522905456caf6e7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_70f75937386b20e0e9a7a53961bbd202 = $(`<div id="html_70f75937386b20e0e9a7a53961bbd202" style="width: 100.0%; height: 100.0%;">Hambourg</div>`)[0];
+                popup_8ab4d9d7c4a8f9d25522905456caf6e7.setContent(html_70f75937386b20e0e9a7a53961bbd202);
+            
+        
+
+        circle_marker_276d66ca39c00787658583c7b3a6397e.bindPopup(popup_8ab4d9d7c4a8f9d25522905456caf6e7)
+        ;
+
+        
+    
+    
+            circle_marker_276d66ca39c00787658583c7b3a6397e.bindTooltip(
+                `<div>
+                     Hambourg
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_4425514cac37076dd0ad01a4d5f2c90c = L.circleMarker(
+                [50.3333, 4.5333],
+                {"bubblingMouseEvents": true, "color": "#60a5fa", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#60a5fa", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4, "stroke": true, "weight": 3}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+        var popup_316c964cc7f04a81912760f69395b9c5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fdf8fa78a74f1772538bc4c7044ee70e = $(`<div id="html_fdf8fa78a74f1772538bc4c7044ee70e" style="width: 100.0%; height: 100.0%;">Gerpinnes 🏁</div>`)[0];
+                popup_316c964cc7f04a81912760f69395b9c5.setContent(html_fdf8fa78a74f1772538bc4c7044ee70e);
+            
+        
+
+        circle_marker_4425514cac37076dd0ad01a4d5f2c90c.bindPopup(popup_316c964cc7f04a81912760f69395b9c5)
+        ;
+
+        
+    
+    
+            circle_marker_4425514cac37076dd0ad01a4d5f2c90c.bindTooltip(
+                `<div>
+                     Gerpinnes 🏁
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_9cecae37fa10bae0b6c5c6c00b03fc7f = L.marker(
+                [50.3333, 4.5333],
+                {
+}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+            var icon_6f3175e1c1811f866449fb2ee4d92f44 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ce27f90a1e4212b6209ccd2e3e1d7491 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_04bf06605bf3a79d61e195597a174b7d = $(`<div id="html_04bf06605bf3a79d61e195597a174b7d" style="width: 100.0%; height: 100.0%;">Gerpinnes 🏠 Départ</div>`)[0];
+                popup_ce27f90a1e4212b6209ccd2e3e1d7491.setContent(html_04bf06605bf3a79d61e195597a174b7d);
+            
+        
+
+        marker_9cecae37fa10bae0b6c5c6c00b03fc7f.bindPopup(popup_ce27f90a1e4212b6209ccd2e3e1d7491)
+        ;
+
+        
+    
+    
+            marker_9cecae37fa10bae0b6c5c6c00b03fc7f.bindTooltip(
+                `<div>
+                     Départ
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_9cecae37fa10bae0b6c5c6c00b03fc7f.setIcon(icon_6f3175e1c1811f866449fb2ee4d92f44);
+            
+    
+            var marker_591687492b8135c376aa28f85198e70e = L.marker(
+                [71.1703, 25.7833],
+                {
+}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+            var icon_496793c204160051584067e9283438d1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_181edbf0367ea5de3a9b5283a7d3066f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fc921e7fe2b0026820058826035c1010 = $(`<div id="html_fc921e7fe2b0026820058826035c1010" style="width: 100.0%; height: 100.0%;">Cap Nord 🏁</div>`)[0];
+                popup_181edbf0367ea5de3a9b5283a7d3066f.setContent(html_fc921e7fe2b0026820058826035c1010);
+            
+        
+
+        marker_591687492b8135c376aa28f85198e70e.bindPopup(popup_181edbf0367ea5de3a9b5283a7d3066f)
+        ;
+
+        
+    
+    
+            marker_591687492b8135c376aa28f85198e70e.bindTooltip(
+                `<div>
+                     Cap Nord
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_591687492b8135c376aa28f85198e70e.setIcon(icon_496793c204160051584067e9283438d1);
+            
+    
+            var marker_b4afb9ffaa075af1a4051d7e6e44d95f = L.marker(
+                [54.73, 12.65],
+                {
+}
+            ).addTo(map_12c7a662ba61a1f3318627488f75f091);
+        
+    
+            var icon_f0c6cc069b1368df4d59441b9d3c8401 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "ship",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1d012fa8e38db4a2e292cabad25ebf08 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_951705cf491d565da3414909070d6fc1 = $(`<div id="html_951705cf491d565da3414909070d6fc1" style="width: 100.0%; height: 100.0%;">⛴️ Ferry Rostock→Trelleborg (02/09)</div>`)[0];
+                popup_1d012fa8e38db4a2e292cabad25ebf08.setContent(html_951705cf491d565da3414909070d6fc1);
+            
+        
+
+        marker_b4afb9ffaa075af1a4051d7e6e44d95f.bindPopup(popup_1d012fa8e38db4a2e292cabad25ebf08)
+        ;
+
+        
+    
+    
+            marker_b4afb9ffaa075af1a4051d7e6e44d95f.bindTooltip(
+                `<div>
+                     ⛴️ Ferry Aller
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b4afb9ffaa075af1a4051d7e6e44d95f.setIcon(icon_f0c6cc069b1368df4d59441b9d3c8401);
+            
+</script>
+</html>

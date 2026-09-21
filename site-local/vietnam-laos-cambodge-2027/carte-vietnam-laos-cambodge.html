@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_871eafb7db9079f206ee6489986f833f {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="position:fixed; bottom:30px; left:10px; z-index:1000; background:white;
+     padding:10px; border-radius:8px; font-size:12px; border:1px solid #ccc; max-width:200px;">
+<b>🗺️ Vietnam-Laos-Cambodge</b><br>
+🔴 🇻🇳 Vietnam (route)<br>
+🟠 🇰🇭 Cambodge (route)<br>
+🟢 🇱🇦 Laos (route)<br>
+- - - ✈️ Vol interne<br>
+🟢 Début · 🔚 Fin<br><br>
+<b>28 jours — ~1 800 km</b>
+</div>
+    
+            <div class="folium-map" id="map_871eafb7db9079f206ee6489986f833f" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_871eafb7db9079f206ee6489986f833f = L.map(
+                "map_871eafb7db9079f206ee6489986f833f",
+                {
+                    center: [17.5, 106.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 5,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_871eafb7db9079f206ee6489986f833f);
+
+            
+
+        
+    
+            var tile_layer_f91e9b8a28d6aad76f1b6ea88156c06e = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_f91e9b8a28d6aad76f1b6ea88156c06e.addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+            var poly_line_e6efd764849e1ce1cc77cc2afe4c8fed = L.polyline(
+                [[21.0285, 105.8542], [20.95, 107.08], [16.4637, 107.5909], [16.2, 108.13], [15.8801, 108.338], [10.8231, 106.6297], [10.3515, 106.3602]],
+                {"bubblingMouseEvents": true, "color": "#e63946", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#e63946", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+        var popup_53cb71c310a5a8b1e4fd867e4418139f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_58ae9e104850ee5b16faf25a939c6522 = $(`<div id="html_58ae9e104850ee5b16faf25a939c6522" style="width: 100.0%; height: 100.0%;">🇻🇳 Vietnam</div>`)[0];
+                popup_53cb71c310a5a8b1e4fd867e4418139f.setContent(html_58ae9e104850ee5b16faf25a939c6522);
+            
+        
+
+        poly_line_e6efd764849e1ce1cc77cc2afe4c8fed.bindPopup(popup_53cb71c310a5a8b1e4fd867e4418139f)
+        ;
+
+        
+    
+    
+            var poly_line_0fe3794833f6d35769a34f5ff323d281 = L.polyline(
+                [[10.8231, 106.6297], [13.3633, 103.8564]],
+                {"bubblingMouseEvents": true, "color": "#888", "dashArray": "8, 8", "dashOffset": null, "fill": false, "fillColor": "#888", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.6, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+        var popup_2a59acada08d39214723f6b488b0f932 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8d7db5138eab08026ea8cbdf7c0dd5d9 = $(`<div id="html_8d7db5138eab08026ea8cbdf7c0dd5d9" style="width: 100.0%; height: 100.0%;">✈️ Vol Saigon → Siem Reap</div>`)[0];
+                popup_2a59acada08d39214723f6b488b0f932.setContent(html_8d7db5138eab08026ea8cbdf7c0dd5d9);
+            
+        
+
+        poly_line_0fe3794833f6d35769a34f5ff323d281.bindPopup(popup_2a59acada08d39214723f6b488b0f932)
+        ;
+
+        
+    
+    
+            var poly_line_0b6659a1872a6b7c31d95f33bd564950 = L.polyline(
+                [[13.3633, 103.8564], [13.2, 103.8], [11.5564, 104.9282]],
+                {"bubblingMouseEvents": true, "color": "#e76f51", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#e76f51", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+        var popup_62a0493f3feb68decf2c4029775d7ef7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ba6b4f2b652aaf4ed9e64433d8fbc744 = $(`<div id="html_ba6b4f2b652aaf4ed9e64433d8fbc744" style="width: 100.0%; height: 100.0%;">🇰🇭 Cambodge</div>`)[0];
+                popup_62a0493f3feb68decf2c4029775d7ef7.setContent(html_ba6b4f2b652aaf4ed9e64433d8fbc744);
+            
+        
+
+        poly_line_0b6659a1872a6b7c31d95f33bd564950.bindPopup(popup_62a0493f3feb68decf2c4029775d7ef7)
+        ;
+
+        
+    
+    
+            var poly_line_aa8c36a7a8dc858e217c4e67e64dc386 = L.polyline(
+                [[11.5564, 104.9282], [19.8833, 102.1333]],
+                {"bubblingMouseEvents": true, "color": "#888", "dashArray": "8, 8", "dashOffset": null, "fill": false, "fillColor": "#888", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.6, "smoothFactor": 1.0, "stroke": true, "weight": 2}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+        var popup_c3955585211ceb1b9ac8be0e762b5c95 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_92ee24b25919e4dbbb969f3d171af510 = $(`<div id="html_92ee24b25919e4dbbb969f3d171af510" style="width: 100.0%; height: 100.0%;">✈️ Vol Phnom Penh → Luang Prabang</div>`)[0];
+                popup_c3955585211ceb1b9ac8be0e762b5c95.setContent(html_92ee24b25919e4dbbb969f3d171af510);
+            
+        
+
+        poly_line_aa8c36a7a8dc858e217c4e67e64dc386.bindPopup(popup_c3955585211ceb1b9ac8be0e762b5c95)
+        ;
+
+        
+    
+    
+            var poly_line_e75ecaeefc87327bc121adeef998b495 = L.polyline(
+                [[19.8833, 102.1333], [18.9239, 102.4471], [17.975, 102.615]],
+                {"bubblingMouseEvents": true, "color": "#2a9d8f", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#2a9d8f", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+        var popup_9a94bb91e5b9879a0481305ed389f86e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_360339796bf780f45c84c8faa8585653 = $(`<div id="html_360339796bf780f45c84c8faa8585653" style="width: 100.0%; height: 100.0%;">🇱🇦 Laos</div>`)[0];
+                popup_9a94bb91e5b9879a0481305ed389f86e.setContent(html_360339796bf780f45c84c8faa8585653);
+            
+        
+
+        poly_line_e75ecaeefc87327bc121adeef998b495.bindPopup(popup_9a94bb91e5b9879a0481305ed389f86e)
+        ;
+
+        
+    
+    
+            var marker_95e190343d99982c0ed4699cc978d66a = L.marker(
+                [21.0285, 105.8542],
+                {
+}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+            var icon_f76378d352e17f7f8606467ee2d47fff = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a13a11ee08ed74268d56aa96cb7d36c0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c37c2229dd825ac34c45eb0d87d67f4a = $(`<div id="html_c37c2229dd825ac34c45eb0d87d67f4a" style="width: 100.0%; height: 100.0%;"><b>🇻🇳 Hanoi</b><br>J1-J3 · Capitale millénaire</div>`)[0];
+                popup_a13a11ee08ed74268d56aa96cb7d36c0.setContent(html_c37c2229dd825ac34c45eb0d87d67f4a);
+            
+        
+
+        marker_95e190343d99982c0ed4699cc978d66a.bindPopup(popup_a13a11ee08ed74268d56aa96cb7d36c0)
+        ;
+
+        
+    
+    
+            marker_95e190343d99982c0ed4699cc978d66a.bindTooltip(
+                `<div>
+                     🇻🇳 Hanoi
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_95e190343d99982c0ed4699cc978d66a.setIcon(icon_f76378d352e17f7f8606467ee2d47fff);
+            
+    
+            var marker_3684ea321aab52e73c00573cf3f4b874 = L.marker(
+                [20.95, 107.08],
+                {
+}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+            var icon_cba6807c96decf9848d2c5fb2631d455 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8aafbdfad893984216c1b96bf4844cb9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e00073e67c5e94c56e83eca606d5bbdd = $(`<div id="html_e00073e67c5e94c56e83eca606d5bbdd" style="width: 100.0%; height: 100.0%;"><b>🇻🇳 Baie d'Halong</b><br>J4-J5 · UNESCO, karsts</div>`)[0];
+                popup_8aafbdfad893984216c1b96bf4844cb9.setContent(html_e00073e67c5e94c56e83eca606d5bbdd);
+            
+        
+
+        marker_3684ea321aab52e73c00573cf3f4b874.bindPopup(popup_8aafbdfad893984216c1b96bf4844cb9)
+        ;
+
+        
+    
+    
+            marker_3684ea321aab52e73c00573cf3f4b874.bindTooltip(
+                `<div>
+                     🇻🇳 Baie d'Halong
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3684ea321aab52e73c00573cf3f4b874.setIcon(icon_cba6807c96decf9848d2c5fb2631d455);
+            
+    
+            var marker_7d18ee98827e777c4fba924201325b33 = L.marker(
+                [16.4637, 107.5909],
+                {
+}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+            var icon_c66b8196bdf7e49586a23bd7122aaf2e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5105e520ec6a8636c81878d76634b9c5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d853eeefeca4b693e0bde493e975109f = $(`<div id="html_d853eeefeca4b693e0bde493e975109f" style="width: 100.0%; height: 100.0%;"><b>🇻🇳 Hue</b><br>J6 · Cité Impériale</div>`)[0];
+                popup_5105e520ec6a8636c81878d76634b9c5.setContent(html_d853eeefeca4b693e0bde493e975109f);
+            
+        
+
+        marker_7d18ee98827e777c4fba924201325b33.bindPopup(popup_5105e520ec6a8636c81878d76634b9c5)
+        ;
+
+        
+    
+    
+            marker_7d18ee98827e777c4fba924201325b33.bindTooltip(
+                `<div>
+                     🇻🇳 Hue
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_7d18ee98827e777c4fba924201325b33.setIcon(icon_c66b8196bdf7e49586a23bd7122aaf2e);
+            
+    
+            var marker_e9e6125aa564f8f58986995420afff09 = L.marker(
+                [16.2, 108.13],
+                {
+}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+            var icon_68a1a30fc646358846fccacd2d424bad = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0dbde39e74d2ca15cf65c965099843ab = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4e0f64ab1369ecfff5b60aff2b33a8d8 = $(`<div id="html_4e0f64ab1369ecfff5b60aff2b33a8d8" style="width: 100.0%; height: 100.0%;"><b>🇻🇳 Col des Nuages</b><br>J7 · Route panoramique</div>`)[0];
+                popup_0dbde39e74d2ca15cf65c965099843ab.setContent(html_4e0f64ab1369ecfff5b60aff2b33a8d8);
+            
+        
+
+        marker_e9e6125aa564f8f58986995420afff09.bindPopup(popup_0dbde39e74d2ca15cf65c965099843ab)
+        ;
+
+        
+    
+    
+            marker_e9e6125aa564f8f58986995420afff09.bindTooltip(
+                `<div>
+                     🇻🇳 Col des Nuages
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_e9e6125aa564f8f58986995420afff09.setIcon(icon_68a1a30fc646358846fccacd2d424bad);
+            
+    
+            var marker_dfcdc68887085671ad0840701d1f2f83 = L.marker(
+                [15.8801, 108.338],
+                {
+}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+            var icon_057830a0f0709b5d18609b05ff77e669 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0d9d0867380268d4d5933386a9f44a4f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bb78e4e9df024ae7732f07f9f5b047b2 = $(`<div id="html_bb78e4e9df024ae7732f07f9f5b047b2" style="width: 100.0%; height: 100.0%;"><b>🇻🇳 Hoi An</b><br>J7-J9 · Vieille ville aux lanternes</div>`)[0];
+                popup_0d9d0867380268d4d5933386a9f44a4f.setContent(html_bb78e4e9df024ae7732f07f9f5b047b2);
+            
+        
+
+        marker_dfcdc68887085671ad0840701d1f2f83.bindPopup(popup_0d9d0867380268d4d5933386a9f44a4f)
+        ;
+
+        
+    
+    
+            marker_dfcdc68887085671ad0840701d1f2f83.bindTooltip(
+                `<div>
+                     🇻🇳 Hoi An
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_dfcdc68887085671ad0840701d1f2f83.setIcon(icon_057830a0f0709b5d18609b05ff77e669);
+            
+    
+            var marker_f4529dd18e02d0b918a5c7110a3e6cee = L.marker(
+                [10.8231, 106.6297],
+                {
+}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+            var icon_0bc6d21a847d2e862e60bb9204333a35 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a3599114e4240d2858d028abd71aeae4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_be630bf78ea6edc0605e343567a8a3a5 = $(`<div id="html_be630bf78ea6edc0605e343567a8a3a5" style="width: 100.0%; height: 100.0%;"><b>🇻🇳 Hô Chi Minh-Ville</b><br>J10-J11 · Saigon</div>`)[0];
+                popup_a3599114e4240d2858d028abd71aeae4.setContent(html_be630bf78ea6edc0605e343567a8a3a5);
+            
+        
+
+        marker_f4529dd18e02d0b918a5c7110a3e6cee.bindPopup(popup_a3599114e4240d2858d028abd71aeae4)
+        ;
+
+        
+    
+    
+            marker_f4529dd18e02d0b918a5c7110a3e6cee.bindTooltip(
+                `<div>
+                     🇻🇳 Hô Chi Minh-Ville
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f4529dd18e02d0b918a5c7110a3e6cee.setIcon(icon_0bc6d21a847d2e862e60bb9204333a35);
+            
+    
+            var marker_eddc8303b5a78f1e18a3a24890eb9f88 = L.marker(
+                [10.3515, 106.3602],
+                {
+}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+            var icon_9432e62fff9caf07459cbd7cad1d231f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3861b2a44b0cfe21ee42a2166798c343 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7e537257f2619641b2fec862dcf1526b = $(`<div id="html_7e537257f2619641b2fec862dcf1526b" style="width: 100.0%; height: 100.0%;"><b>🇻🇳 Delta du Mékong</b><br>J12 · Marchés flottants</div>`)[0];
+                popup_3861b2a44b0cfe21ee42a2166798c343.setContent(html_7e537257f2619641b2fec862dcf1526b);
+            
+        
+
+        marker_eddc8303b5a78f1e18a3a24890eb9f88.bindPopup(popup_3861b2a44b0cfe21ee42a2166798c343)
+        ;
+
+        
+    
+    
+            marker_eddc8303b5a78f1e18a3a24890eb9f88.bindTooltip(
+                `<div>
+                     🇻🇳 Delta du Mékong
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_eddc8303b5a78f1e18a3a24890eb9f88.setIcon(icon_9432e62fff9caf07459cbd7cad1d231f);
+            
+    
+            var marker_d8b8d90fad38b514449230ba558550a3 = L.marker(
+                [13.3633, 103.8564],
+                {
+}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+            var icon_b9639aa04c614542682ca0d689fa49d9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_45347b7ae7d06a29548cdda5839c6dee = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3473e8d8c8a30c454f7c3ac533b18d0c = $(`<div id="html_3473e8d8c8a30c454f7c3ac533b18d0c" style="width: 100.0%; height: 100.0%;"><b>🇰🇭 Siem Reap</b><br>J14-J17 · Angkor</div>`)[0];
+                popup_45347b7ae7d06a29548cdda5839c6dee.setContent(html_3473e8d8c8a30c454f7c3ac533b18d0c);
+            
+        
+
+        marker_d8b8d90fad38b514449230ba558550a3.bindPopup(popup_45347b7ae7d06a29548cdda5839c6dee)
+        ;
+
+        
+    
+    
+            marker_d8b8d90fad38b514449230ba558550a3.bindTooltip(
+                `<div>
+                     🇰🇭 Siem Reap
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d8b8d90fad38b514449230ba558550a3.setIcon(icon_b9639aa04c614542682ca0d689fa49d9);
+            
+    
+            var marker_3a8f3b183ba9c29419d427f0f9544cfb = L.marker(
+                [13.2, 103.8],
+                {
+}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+            var icon_51313682d13b29eb6febb4bd804e1981 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_21608473e2cd0aba739201a0c8aa5c91 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0e349e6f6f334cef9f2ee31e55d0d5a8 = $(`<div id="html_0e349e6f6f334cef9f2ee31e55d0d5a8" style="width: 100.0%; height: 100.0%;"><b>🇰🇭 Tonlé Sap</b><br>J17 · Lac et villages flottants</div>`)[0];
+                popup_21608473e2cd0aba739201a0c8aa5c91.setContent(html_0e349e6f6f334cef9f2ee31e55d0d5a8);
+            
+        
+
+        marker_3a8f3b183ba9c29419d427f0f9544cfb.bindPopup(popup_21608473e2cd0aba739201a0c8aa5c91)
+        ;
+
+        
+    
+    
+            marker_3a8f3b183ba9c29419d427f0f9544cfb.bindTooltip(
+                `<div>
+                     🇰🇭 Tonlé Sap
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3a8f3b183ba9c29419d427f0f9544cfb.setIcon(icon_51313682d13b29eb6febb4bd804e1981);
+            
+    
+            var marker_ad6b77f5f056ade95d63addc092447f8 = L.marker(
+                [11.5564, 104.9282],
+                {
+}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+            var icon_605d5734599f08d9a5e21bb57c25dcf3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_496ccc5ec37611a0c5966c9d5ab019a3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bd27705106260d83d1417cd431fcaa9a = $(`<div id="html_bd27705106260d83d1417cd431fcaa9a" style="width: 100.0%; height: 100.0%;"><b>🇰🇭 Phnom Penh</b><br>J18-J19 · Capitale khmère</div>`)[0];
+                popup_496ccc5ec37611a0c5966c9d5ab019a3.setContent(html_bd27705106260d83d1417cd431fcaa9a);
+            
+        
+
+        marker_ad6b77f5f056ade95d63addc092447f8.bindPopup(popup_496ccc5ec37611a0c5966c9d5ab019a3)
+        ;
+
+        
+    
+    
+            marker_ad6b77f5f056ade95d63addc092447f8.bindTooltip(
+                `<div>
+                     🇰🇭 Phnom Penh
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_ad6b77f5f056ade95d63addc092447f8.setIcon(icon_605d5734599f08d9a5e21bb57c25dcf3);
+            
+    
+            var marker_f116b597ae85c5515636b79a59846649 = L.marker(
+                [19.8833, 102.1333],
+                {
+}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+            var icon_3c9f403cb46eaaed518cc7d8394974df = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4c681223b0bf196203fe3042a43810fd = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ab7dc36c82bfad0b112eeba8ecb0618a = $(`<div id="html_ab7dc36c82bfad0b112eeba8ecb0618a" style="width: 100.0%; height: 100.0%;"><b>🇱🇦 Luang Prabang</b><br>J20-J23 · Perle du Laos</div>`)[0];
+                popup_4c681223b0bf196203fe3042a43810fd.setContent(html_ab7dc36c82bfad0b112eeba8ecb0618a);
+            
+        
+
+        marker_f116b597ae85c5515636b79a59846649.bindPopup(popup_4c681223b0bf196203fe3042a43810fd)
+        ;
+
+        
+    
+    
+            marker_f116b597ae85c5515636b79a59846649.bindTooltip(
+                `<div>
+                     🇱🇦 Luang Prabang
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f116b597ae85c5515636b79a59846649.setIcon(icon_3c9f403cb46eaaed518cc7d8394974df);
+            
+    
+            var marker_972620c646fdb8794ac1d3408f54d82a = L.marker(
+                [18.9239, 102.4471],
+                {
+}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+            var icon_dbc29fc5ff7f50e95676aaed3075064f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_602efbc9ea2e5c5be6f193dcf0096fad = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7ee8bfbaa2a19f9cdedec10104009a30 = $(`<div id="html_7ee8bfbaa2a19f9cdedec10104009a30" style="width: 100.0%; height: 100.0%;"><b>🇱🇦 Vang Vieng</b><br>J24-J25 · Karsts</div>`)[0];
+                popup_602efbc9ea2e5c5be6f193dcf0096fad.setContent(html_7ee8bfbaa2a19f9cdedec10104009a30);
+            
+        
+
+        marker_972620c646fdb8794ac1d3408f54d82a.bindPopup(popup_602efbc9ea2e5c5be6f193dcf0096fad)
+        ;
+
+        
+    
+    
+            marker_972620c646fdb8794ac1d3408f54d82a.bindTooltip(
+                `<div>
+                     🇱🇦 Vang Vieng
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_972620c646fdb8794ac1d3408f54d82a.setIcon(icon_dbc29fc5ff7f50e95676aaed3075064f);
+            
+    
+            var marker_b1fa935c9f8cdac77790c4c8adde4824 = L.marker(
+                [17.975, 102.615],
+                {
+}
+            ).addTo(map_871eafb7db9079f206ee6489986f833f);
+        
+    
+            var icon_c4815f58076d1f740b5fbae56ce7e665 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ac3b417ca8b5bd0f67c7bcd8d7f3c1b2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3f36012f699b7770c44e223501403cca = $(`<div id="html_3f36012f699b7770c44e223501403cca" style="width: 100.0%; height: 100.0%;"><b>🇱🇦 Vientiane</b><br>J26-J27 · Capitale laotienne</div>`)[0];
+                popup_ac3b417ca8b5bd0f67c7bcd8d7f3c1b2.setContent(html_3f36012f699b7770c44e223501403cca);
+            
+        
+
+        marker_b1fa935c9f8cdac77790c4c8adde4824.bindPopup(popup_ac3b417ca8b5bd0f67c7bcd8d7f3c1b2)
+        ;
+
+        
+    
+    
+            marker_b1fa935c9f8cdac77790c4c8adde4824.bindTooltip(
+                `<div>
+                     🇱🇦 Vientiane
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b1fa935c9f8cdac77790c4c8adde4824.setIcon(icon_c4815f58076d1f740b5fbae56ce7e665);
+            
+</script>
+</html>
