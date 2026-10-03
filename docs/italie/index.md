@@ -172,10 +172,10 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 
 - **Samedi 03/10 :** installation, plage et piscine.
 - **Dimanche 04/10 :** journée bateau sans voiture, idéalement Desenzano–Sirmione ; horaires à confirmer au quai, car l’horaire été officiel publié va jusqu’au 04/10.
-- **Lundi 05/10 :** prise de la voiture à 10h, puis Sirmione, Salò et Gardone Riviera. Limone est optionnel et ne doit pas être ajouté si la journée devient trop longue.
-- **Mardi 06/10 :** Torri del Benaco, Bardolino et Malcesine ; téléphérique du Monte Baldo seulement si la météo est claire et si Sylvie se sent bien.
-- **Mercredi 07/10 :** Vérone : Arène, Piazza Bra, Piazza delle Erbe et éventuellement Castelvecchio. Stationnement hors ZTL.
-- **Jeudi 08/10 :** Riva del Garda et Torbole. La Gola del Ponale reste une vue éventuelle, pas une randonnée prévue.
+- **Lundi 05/10 :** prise de la voiture à 10h, puis rive sud-ouest : Salò (déjeuner), Gardone Riviera et Vittoriale degli italiani (2h30). Dîner Salò ou Gardone.
+- **Mardi 06/10 :** Vérone (35-45 min via A4) : Arènes, Piazza Bra, Piazza delle Erbe, maison de Juliette, Castelvecchio. Parking souterrain Centro/Cittadella hors ZTL.
+- **Mercredi 07/10 :** Strada della Forra le matin, Terrazza del Brivido (Tremosine, optionnel pour Sylvie), puis Limone sul Garda (limonaia, ruelles, passerelle bois).
+- **Jeudi 08/10 :** Riva del Garda le matin (port, Apponale, Varone en option), Malcesine l'après-midi (château, Baldo si ciel clair), Torri del Benaco, dîner Bardolino/Lazise.
 - **Vendredi 09/10 :** restitution à 10h00, retour au camping, piscine, plage et repos uniquement.
 - **Mobilité :** les bateaux sont privilégiés quand les horaires le permettent ; les journées en voiture sont limitées à quelques lieux principaux.
 
