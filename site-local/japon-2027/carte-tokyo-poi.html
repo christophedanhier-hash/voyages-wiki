@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_0f1f1b10402f108b150051e06b1ddee6 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.fullscreen@3.0.0/Control.FullScreen.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.fullscreen@3.0.0/Control.FullScreen.css"/>
+</head>
+<body>
+    
+    
+<div style="position: fixed; bottom: 30px; left: 10px; z-index: 1000; background: white;
+     padding: 10px; border-radius: 8px; font-size: 12px; border: 1px solid #ccc;">
+<b>🗼 Tokyo — POIs</b><br>
+<span style="color:#27ae60;">— 2 km (marche facile)</span><br>
+<span style="color:#f39c12;">- - - 3 km (limite Sylvie)</span><br>
+<span style="color:#2980b9;">● Points d'intérêt</span>
+</div>
+    
+            <div class="folium-map" id="map_0f1f1b10402f108b150051e06b1ddee6" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_0f1f1b10402f108b150051e06b1ddee6 = L.map(
+                "map_0f1f1b10402f108b150051e06b1ddee6",
+                {
+                    center: [35.7078, 139.7774],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 13,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_e4b11244b9de394ac2bb522696d5371c = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_e4b11244b9de394ac2bb522696d5371c.addTo(map_0f1f1b10402f108b150051e06b1ddee6);
+        
+    
+            var marker_351979b5ff152242b6ef88e66c926d8d = L.marker(
+                [35.7101, 139.7783],
+                {
+}
+            ).addTo(map_0f1f1b10402f108b150051e06b1ddee6);
+        
+    
+            var icon_1a1e61a8ba4fd6d46b87f9746fe37dad = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "green",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9f91f0b32c67d5cf6fed9d786dacd5f3 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_950e5b8a0da1d88d04e71e78b70d6e9b = $(`<div id="html_950e5b8a0da1d88d04e71e78b70d6e9b" style="width: 100.0%; height: 100.0%;"><b>🛏️ Dormy Inn Ueno (base)</b><br>camping</div>`)[0];
+                popup_9f91f0b32c67d5cf6fed9d786dacd5f3.setContent(html_950e5b8a0da1d88d04e71e78b70d6e9b);
+            
+        
+
+        marker_351979b5ff152242b6ef88e66c926d8d.bindPopup(popup_9f91f0b32c67d5cf6fed9d786dacd5f3)
+        ;
+
+        
+    
+    
+            marker_351979b5ff152242b6ef88e66c926d8d.bindTooltip(
+                `<div>
+                     🛏️ Dormy Inn Ueno (base)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_351979b5ff152242b6ef88e66c926d8d.setIcon(icon_1a1e61a8ba4fd6d46b87f9746fe37dad);
+            
+    
+            var marker_e21680209fa9e61a6a80ad2ff6059a2e = L.marker(
+                [35.7148, 139.7967],
+                {
+}
+            ).addTo(map_0f1f1b10402f108b150051e06b1ddee6);
+        
+    
+            var icon_b77bdc4426300d346a2d019a0a002000 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b6d897a7b2533521cd80a18e2a36befe = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_6de97054928fc1a88cc1ec25f3516ec4 = $(`<div id="html_6de97054928fc1a88cc1ec25f3516ec4" style="width: 100.0%; height: 100.0%;"><b>Sensō-ji (J2)</b><br>Temple iconique + Nakamise Street</div>`)[0];
+                popup_b6d897a7b2533521cd80a18e2a36befe.setContent(html_6de97054928fc1a88cc1ec25f3516ec4);
+            
+        
+
+        marker_e21680209fa9e61a6a80ad2ff6059a2e.bindPopup(popup_b6d897a7b2533521cd80a18e2a36befe)
+        ;
+
+        
+    
+    
+            marker_e21680209fa9e61a6a80ad2ff6059a2e.bindTooltip(
+                `<div>
+                     Sensō-ji (J2)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_e21680209fa9e61a6a80ad2ff6059a2e.setIcon(icon_b77bdc4426300d346a2d019a0a002000);
+            
+    
+            var marker_4420cb94a1cffb7d8ceb3c75ca0c6f14 = L.marker(
+                [35.7149, 139.7745],
+                {
+}
+            ).addTo(map_0f1f1b10402f108b150051e06b1ddee6);
+        
+    
+            var icon_fcc63343ea36fe26a3c3c6ae9f23f77e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "tree",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_320c999cc0dcaa0bc439baa48c9c8de5 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_1445e889b0d0267dc3ef915b9246b48e = $(`<div id="html_1445e889b0d0267dc3ef915b9246b48e" style="width: 100.0%; height: 100.0%;"><b>Parc Ueno (J2)</b><br>Bancs, étang, fraîcheur</div>`)[0];
+                popup_320c999cc0dcaa0bc439baa48c9c8de5.setContent(html_1445e889b0d0267dc3ef915b9246b48e);
+            
+        
+
+        marker_4420cb94a1cffb7d8ceb3c75ca0c6f14.bindPopup(popup_320c999cc0dcaa0bc439baa48c9c8de5)
+        ;
+
+        
+    
+    
+            marker_4420cb94a1cffb7d8ceb3c75ca0c6f14.bindTooltip(
+                `<div>
+                     Parc Ueno (J2)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_4420cb94a1cffb7d8ceb3c75ca0c6f14.setIcon(icon_fcc63343ea36fe26a3c3c6ae9f23f77e);
+            
+    
+            var marker_8eac8e38713d2d9579bb5bf6c172624b = L.marker(
+                [35.6852, 139.71],
+                {
+}
+            ).addTo(map_0f1f1b10402f108b150051e06b1ddee6);
+        
+    
+            var icon_abb7b326caf7f7a1f036ece51fd7c975 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "tree",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9892d5b8662b3da67b1ea9f9c14f4604 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_c115f89664c5c2105cba4ac0ab5c828e = $(`<div id="html_c115f89664c5c2105cba4ac0ab5c828e" style="width: 100.0%; height: 100.0%;"><b>Shinjuku Gyoen (J3)</b><br>Jardin impérial — bancs</div>`)[0];
+                popup_9892d5b8662b3da67b1ea9f9c14f4604.setContent(html_c115f89664c5c2105cba4ac0ab5c828e);
+            
+        
+
+        marker_8eac8e38713d2d9579bb5bf6c172624b.bindPopup(popup_9892d5b8662b3da67b1ea9f9c14f4604)
+        ;
+
+        
+    
+    
+            marker_8eac8e38713d2d9579bb5bf6c172624b.bindTooltip(
+                `<div>
+                     Shinjuku Gyoen (J3)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8eac8e38713d2d9579bb5bf6c172624b.setIcon(icon_abb7b326caf7f7a1f036ece51fd7c975);
+            
+    
+            var marker_76c1670a70540fdd3f26f3e7fe14446d = L.marker(
+                [35.6896, 139.6917],
+                {
+}
+            ).addTo(map_0f1f1b10402f108b150051e06b1ddee6);
+        
+    
+            var icon_416b2afc5c2e93d0a28e4d36b3a5f1c2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "binoculars",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9a443e9e335b3c7c447a3023f19b2ef7 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_9091caf6e93ecb4c345a61bed8755488 = $(`<div id="html_9091caf6e93ecb4c345a61bed8755488" style="width: 100.0%; height: 100.0%;"><b>Tocho vue gratuite (J3)</b><br>45e étage gratuit</div>`)[0];
+                popup_9a443e9e335b3c7c447a3023f19b2ef7.setContent(html_9091caf6e93ecb4c345a61bed8755488);
+            
+        
+
+        marker_76c1670a70540fdd3f26f3e7fe14446d.bindPopup(popup_9a443e9e335b3c7c447a3023f19b2ef7)
+        ;
+
+        
+    
+    
+            marker_76c1670a70540fdd3f26f3e7fe14446d.bindTooltip(
+                `<div>
+                     Tocho vue gratuite (J3)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_76c1670a70540fdd3f26f3e7fe14446d.setIcon(icon_416b2afc5c2e93d0a28e4d36b3a5f1c2);
+            
+    
+            var marker_f820fc25f313ff61eed6caab513f24af = L.marker(
+                [35.7022, 139.7746],
+                {
+}
+            ).addTo(map_0f1f1b10402f108b150051e06b1ddee6);
+        
+    
+            var icon_8752e28a4e24fd4b993c7676914b0ad0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "gamepad",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_45dc272cba4b0950fe48324997b4a1cf = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_43d927e01566fff0d84405742b15d180 = $(`<div id="html_43d927e01566fff0d84405742b15d180" style="width: 100.0%; height: 100.0%;"><b>Akihabara (J4)</b><br>Intérieur climatisé</div>`)[0];
+                popup_45dc272cba4b0950fe48324997b4a1cf.setContent(html_43d927e01566fff0d84405742b15d180);
+            
+        
+
+        marker_f820fc25f313ff61eed6caab513f24af.bindPopup(popup_45dc272cba4b0950fe48324997b4a1cf)
+        ;
+
+        
+    
+    
+            marker_f820fc25f313ff61eed6caab513f24af.bindTooltip(
+                `<div>
+                     Akihabara (J4)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f820fc25f313ff61eed6caab513f24af.setIcon(icon_8752e28a4e24fd4b993c7676914b0ad0);
+            
+    
+            var marker_09fe3036a43757dda1e1302f5c696581 = L.marker(
+                [35.6764, 139.6993],
+                {
+}
+            ).addTo(map_0f1f1b10402f108b150051e06b1ddee6);
+        
+    
+            var icon_f18665c294d1aefa1766b2dc78141d1c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "tree",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_866031dcfe9a84b83a38787faeb129da = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_968abc91e33d6e293f89f079a27398d2 = $(`<div id="html_968abc91e33d6e293f89f079a27398d2" style="width: 100.0%; height: 100.0%;"><b>Meiji-jingu (J5)</b><br>Allée plate ombragée</div>`)[0];
+                popup_866031dcfe9a84b83a38787faeb129da.setContent(html_968abc91e33d6e293f89f079a27398d2);
+            
+        
+
+        marker_09fe3036a43757dda1e1302f5c696581.bindPopup(popup_866031dcfe9a84b83a38787faeb129da)
+        ;
+
+        
+    
+    
+            marker_09fe3036a43757dda1e1302f5c696581.bindTooltip(
+                `<div>
+                     Meiji-jingu (J5)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_09fe3036a43757dda1e1302f5c696581.setIcon(icon_f18665c294d1aefa1766b2dc78141d1c);
+            
+    
+            var marker_b87499ae60bffdadc3ddc1e06f9727f9 = L.marker(
+                [35.6702, 139.7028],
+                {
+}
+            ).addTo(map_0f1f1b10402f108b150051e06b1ddee6);
+        
+    
+            var icon_4c71cf68a0df1ba05631fcea50d5b912 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "shopping-bag",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_41be13d36c64885a57e586e1e618c5f7 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_06cb158ab39622f6561ea4331da52bf7 = $(`<div id="html_06cb158ab39622f6561ea4331da52bf7" style="width: 100.0%; height: 100.0%;"><b>Harajuku (J5)</b><br>Balade douce</div>`)[0];
+                popup_41be13d36c64885a57e586e1e618c5f7.setContent(html_06cb158ab39622f6561ea4331da52bf7);
+            
+        
+
+        marker_b87499ae60bffdadc3ddc1e06f9727f9.bindPopup(popup_41be13d36c64885a57e586e1e618c5f7)
+        ;
+
+        
+    
+    
+            marker_b87499ae60bffdadc3ddc1e06f9727f9.bindTooltip(
+                `<div>
+                     Harajuku (J5)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b87499ae60bffdadc3ddc1e06f9727f9.setIcon(icon_4c71cf68a0df1ba05631fcea50d5b912);
+            
+    
+            var marker_f9744b62d4fffe70a04435d8ab019488 = L.marker(
+                [35.6239, 139.777],
+                {
+}
+            ).addTo(map_0f1f1b10402f108b150051e06b1ddee6);
+        
+    
+            var icon_6bceb9254672151a7b999f6885f1d6fa = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5502c4d1bceb4771e07511673125917c = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_efdd2aa6b8649a568d7c433f374059cc = $(`<div id="html_efdd2aa6b8649a568d7c433f374059cc" style="width: 100.0%; height: 100.0%;"><b>TeamLab Odaiba (J18)</b><br>Intérieur, assis</div>`)[0];
+                popup_5502c4d1bceb4771e07511673125917c.setContent(html_efdd2aa6b8649a568d7c433f374059cc);
+            
+        
+
+        marker_f9744b62d4fffe70a04435d8ab019488.bindPopup(popup_5502c4d1bceb4771e07511673125917c)
+        ;
+
+        
+    
+    
+            marker_f9744b62d4fffe70a04435d8ab019488.bindTooltip(
+                `<div>
+                     TeamLab Odaiba (J18)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f9744b62d4fffe70a04435d8ab019488.setIcon(icon_6bceb9254672151a7b999f6885f1d6fa);
+            
+    
+            var marker_feff80fbbf0710adff115ded5caa3817 = L.marker(
+                [35.6595, 139.7005],
+                {
+}
+            ).addTo(map_0f1f1b10402f108b150051e06b1ddee6);
+        
+    
+            var icon_4d1a3176dcaf412d60b2bb5ce777fd59 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "eye",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_575cd66b879183cc8a2f7457cca86a3c = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_0be237f8fe0fb96914afa935d8bbc34b = $(`<div id="html_0be237f8fe0fb96914afa935d8bbc34b" style="width: 100.0%; height: 100.0%;"><b>Shibuya (J19)</b><br>Crossing + Sunset</div>`)[0];
+                popup_575cd66b879183cc8a2f7457cca86a3c.setContent(html_0be237f8fe0fb96914afa935d8bbc34b);
+            
+        
+
+        marker_feff80fbbf0710adff115ded5caa3817.bindPopup(popup_575cd66b879183cc8a2f7457cca86a3c)
+        ;
+
+        
+    
+    
+            marker_feff80fbbf0710adff115ded5caa3817.bindTooltip(
+                `<div>
+                     Shibuya (J19)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_feff80fbbf0710adff115ded5caa3817.setIcon(icon_4d1a3176dcaf412d60b2bb5ce777fd59);
+            
+    
+            var marker_2462a87c9d6a2e53888f1643e49db6fd = L.marker(
+                [35.6938, 139.7034],
+                {
+}
+            ).addTo(map_0f1f1b10402f108b150051e06b1ddee6);
+        
+    
+            var icon_74a3a396ac9044aed63548289522e176 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "clock",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_402c6a518c20009444ba4fcbd5a5d713 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_e9738aecd8f257cd6008ba736c1d5b5b = $(`<div id="html_e9738aecd8f257cd6008ba736c1d5b5b" style="width: 100.0%; height: 100.0%;"><b>Jackroad montres (J20)</b><br>Vintage Shinjuku</div>`)[0];
+                popup_402c6a518c20009444ba4fcbd5a5d713.setContent(html_e9738aecd8f257cd6008ba736c1d5b5b);
+            
+        
+
+        marker_2462a87c9d6a2e53888f1643e49db6fd.bindPopup(popup_402c6a518c20009444ba4fcbd5a5d713)
+        ;
+
+        
+    
+    
+            marker_2462a87c9d6a2e53888f1643e49db6fd.bindTooltip(
+                `<div>
+                     Jackroad montres (J20)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_2462a87c9d6a2e53888f1643e49db6fd.setIcon(icon_74a3a396ac9044aed63548289522e176);
+            
+    
+            var marker_6dcc3168dab266230d6aa87022b7edf1 = L.marker(
+                [35.6717, 139.764],
+                {
+}
+            ).addTo(map_0f1f1b10402f108b150051e06b1ddee6);
+        
+    
+            var icon_29a1de7f54c56435ab14b1cb0ccafc89 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "clock",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4b4a49d6bb342b73239367453b838d99 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_e154cbca8907d1577c4438754f01694e = $(`<div id="html_e154cbca8907d1577c4438754f01694e" style="width: 100.0%; height: 100.0%;"><b>Seiko Dream Sq. (J20)</b><br>Flagship Ginza</div>`)[0];
+                popup_4b4a49d6bb342b73239367453b838d99.setContent(html_e154cbca8907d1577c4438754f01694e);
+            
+        
+
+        marker_6dcc3168dab266230d6aa87022b7edf1.bindPopup(popup_4b4a49d6bb342b73239367453b838d99)
+        ;
+
+        
+    
+    
+            marker_6dcc3168dab266230d6aa87022b7edf1.bindTooltip(
+                `<div>
+                     Seiko Dream Sq. (J20)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_6dcc3168dab266230d6aa87022b7edf1.setIcon(icon_29a1de7f54c56435ab14b1cb0ccafc89);
+            
+    
+            var circle_afab1b1f0347c2c9c6124dd5b871b63b = L.circle(
+                [35.7101, 139.7783],
+                {"bubblingMouseEvents": true, "color": "#27ae60", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#27ae60", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2000, "stroke": true, "weight": 2}
+            ).addTo(map_0f1f1b10402f108b150051e06b1ddee6);
+        
+    
+            var circle_b48c6acf083aa9d96a8c452dace2db48 = L.circle(
+                [35.7101, 139.7783],
+                {"bubblingMouseEvents": true, "color": "#f39c12", "dashArray": "5,5", "dashOffset": null, "fill": false, "fillColor": "#f39c12", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3000, "stroke": true, "weight": 2}
+            ).addTo(map_0f1f1b10402f108b150051e06b1ddee6);
+        
+    
+            L.control.fullscreen(
+                {
+  "position": "topleft",
+  "title": "Full Screen",
+  "titleCancel": "Exit Full Screen",
+  "forceSeparateButton": false,
+}
+            ).addTo(map_0f1f1b10402f108b150051e06b1ddee6);
+        
+</script>
+</html>
