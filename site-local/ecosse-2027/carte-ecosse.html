@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_e3c6e57d3b59a6937f06c2ec3e749546 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="position:fixed;bottom:20px;left:20px;z-index:1000;
+            background:white;padding:12px 16px;border-radius:8px;
+            box-shadow:0 2px 8px rgba(0,0,0,0.2);font-size:13px;
+            border-left:4px solid #2c3e50;max-width:260px;">
+    <b>Itineraires Ecosse 2027</b><br>
+    <span style="color:#3498db;">&nbsp;&#9472;&#9472;</span> Option A: Eurotunnel (2374 km)<br>
+    <span style="color:#2ecc71;">&nbsp;&#9472;&#9472;</span> Option B: Ferry Hull (~2000 km)<br>
+    <span style="color:#e74c3c;">&#9679;</span> Etapes principales<br>
+    <span style="color:#27ae60;">&#9733;</span> Points d interet<br>
+    <span style="color:#2980b9;">&#10026;</span> Ports/Traversee
+</div>
+    
+            <div class="folium-map" id="map_e3c6e57d3b59a6937f06c2ec3e749546" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_e3c6e57d3b59a6937f06c2ec3e749546 = L.map(
+                "map_e3c6e57d3b59a6937f06c2ec3e749546",
+                {
+                    center: [55.5, -3.5],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 6,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+
+            
+
+        
+    
+            var tile_layer_9d7f388f67f590946d99cd069199b9dd = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_9d7f388f67f590946d99cd069199b9dd.addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var poly_line_0bed5cfb2df2a250cd3252871cb5519d = L.polyline(
+                [[50.5288, 4.5981], [50.9479, 1.8512], [51.0814, 1.176], [53.9591, -1.0823], [55.9533, -3.1883], [56.082, -4.579], [56.68, -5.1], [56.8196, -5.1136], [57.4128, -6.194], [57.4778, -4.225], [57.1, -3.8], [55.9533, -3.1883], [50.9479, 1.8512], [50.5288, 4.5981]],
+                {"bubblingMouseEvents": true, "color": "#3498db", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3498db", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+        var popup_08f68100098cbc2b547cab387b73ee9c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_57ab6542b191802e13770b20d5e93635 = $(`<div id="html_57ab6542b191802e13770b20d5e93635" style="width: 100.0%; height: 100.0%;">Option A: Eurotunnel</div>`)[0];
+                popup_08f68100098cbc2b547cab387b73ee9c.setContent(html_57ab6542b191802e13770b20d5e93635);
+            
+        
+
+        poly_line_0bed5cfb2df2a250cd3252871cb5519d.bindPopup(popup_08f68100098cbc2b547cab387b73ee9c)
+        ;
+
+        
+    
+    
+            poly_line_0bed5cfb2df2a250cd3252871cb5519d.bindTooltip(
+                `<div>
+                     Option A: Eurotunnel (2374 km)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_6daf891e0c7e5d9419195365a762cfbc = L.polyline(
+                [[50.5288, 4.5981], [51.3268, 3.1897], [53.7457, -0.3347], [55.9533, -3.1883], [56.082, -4.579], [56.68, -5.1], [56.8196, -5.1136], [57.4128, -6.194], [57.4778, -4.225], [57.1, -3.8], [55.9533, -3.1883], [53.7457, -0.3347], [51.3268, 3.1897], [50.5288, 4.5981]],
+                {"bubblingMouseEvents": true, "color": "#2ecc71", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#2ecc71", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+        var popup_730821cd19c79640a859c518c1ed105e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c894f975e460f8de8aeb25fb9526e357 = $(`<div id="html_c894f975e460f8de8aeb25fb9526e357" style="width: 100.0%; height: 100.0%;">Option B: Ferry Hull</div>`)[0];
+                popup_730821cd19c79640a859c518c1ed105e.setContent(html_c894f975e460f8de8aeb25fb9526e357);
+            
+        
+
+        poly_line_6daf891e0c7e5d9419195365a762cfbc.bindPopup(popup_730821cd19c79640a859c518c1ed105e)
+        ;
+
+        
+    
+    
+            poly_line_6daf891e0c7e5d9419195365a762cfbc.bindTooltip(
+                `<div>
+                     Option B: Ferry Hull (~2000 km)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_33b26b4e6787397cd802f13aa1ba7d27 = L.marker(
+                [50.5288, 4.5981],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_14fc7e106c2c6601e3f965ede7bc111a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5f264e9c262add3bfe197dd6a32cbdb3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0d88db49631bdab0ffe11094e9c20490 = $(`<div id="html_0d88db49631bdab0ffe11094e9c20490" style="width: 100.0%; height: 100.0%;"><b>Sombreffe</b><br>Depart / Arrivee</div>`)[0];
+                popup_5f264e9c262add3bfe197dd6a32cbdb3.setContent(html_0d88db49631bdab0ffe11094e9c20490);
+            
+        
+
+        marker_33b26b4e6787397cd802f13aa1ba7d27.bindPopup(popup_5f264e9c262add3bfe197dd6a32cbdb3)
+        ;
+
+        
+    
+    
+                marker_33b26b4e6787397cd802f13aa1ba7d27.setIcon(icon_14fc7e106c2c6601e3f965ede7bc111a);
+            
+    
+            var marker_ab5433424b273dc61290f34952822396 = L.marker(
+                [55.9533, -3.1883],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_a26d2b72fc37e9e1c915026c3d2e58bb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e5e7134c527e068d1c5ba5f78ae0233b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7eec2739b2cccb991e6be61b6199af6e = $(`<div id="html_7eec2739b2cccb991e6be61b6199af6e" style="width: 100.0%; height: 100.0%;"><b>Edinburgh</b></div>`)[0];
+                popup_e5e7134c527e068d1c5ba5f78ae0233b.setContent(html_7eec2739b2cccb991e6be61b6199af6e);
+            
+        
+
+        marker_ab5433424b273dc61290f34952822396.bindPopup(popup_e5e7134c527e068d1c5ba5f78ae0233b)
+        ;
+
+        
+    
+    
+                marker_ab5433424b273dc61290f34952822396.setIcon(icon_a26d2b72fc37e9e1c915026c3d2e58bb);
+            
+    
+            var marker_2022603a6a9b7ce3b8cea65f250f883f = L.marker(
+                [53.9591, -1.0823],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_0d5c5759154e132059903db8d416a196 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_443bafd689baf63fddc403c91a87e493 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e06c29ceb634b2148757b8519a3ece91 = $(`<div id="html_e06c29ceb634b2148757b8519a3ece91" style="width: 100.0%; height: 100.0%;"><b>York</b></div>`)[0];
+                popup_443bafd689baf63fddc403c91a87e493.setContent(html_e06c29ceb634b2148757b8519a3ece91);
+            
+        
+
+        marker_2022603a6a9b7ce3b8cea65f250f883f.bindPopup(popup_443bafd689baf63fddc403c91a87e493)
+        ;
+
+        
+    
+    
+                marker_2022603a6a9b7ce3b8cea65f250f883f.setIcon(icon_0d5c5759154e132059903db8d416a196);
+            
+    
+            var marker_a9b29e6e61bc44e5dbcd41a46556fe93 = L.marker(
+                [57.4778, -4.225],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_dc174a75719ee00bf1479a931781263e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_73d7ad16ba590ddc167075d3a9a8d6b3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6197393de570fad3a8108f949f50a11b = $(`<div id="html_6197393de570fad3a8108f949f50a11b" style="width: 100.0%; height: 100.0%;"><b>Inverness</b></div>`)[0];
+                popup_73d7ad16ba590ddc167075d3a9a8d6b3.setContent(html_6197393de570fad3a8108f949f50a11b);
+            
+        
+
+        marker_a9b29e6e61bc44e5dbcd41a46556fe93.bindPopup(popup_73d7ad16ba590ddc167075d3a9a8d6b3)
+        ;
+
+        
+    
+    
+                marker_a9b29e6e61bc44e5dbcd41a46556fe93.setIcon(icon_dc174a75719ee00bf1479a931781263e);
+            
+    
+            var marker_12a22c8329b187d770759a9bf02eb061 = L.marker(
+                [56.8196, -5.1136],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_3a5d4e4fdd200749b0ff9c139f1ea04e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_da1197fcbad0098376bf03d173631a3a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0722c39dcfa2940f717d8c5a411165e9 = $(`<div id="html_0722c39dcfa2940f717d8c5a411165e9" style="width: 100.0%; height: 100.0%;"><b>Fort William</b></div>`)[0];
+                popup_da1197fcbad0098376bf03d173631a3a.setContent(html_0722c39dcfa2940f717d8c5a411165e9);
+            
+        
+
+        marker_12a22c8329b187d770759a9bf02eb061.bindPopup(popup_da1197fcbad0098376bf03d173631a3a)
+        ;
+
+        
+    
+    
+                marker_12a22c8329b187d770759a9bf02eb061.setIcon(icon_3a5d4e4fdd200749b0ff9c139f1ea04e);
+            
+    
+            var marker_0f1f08bb9fd5d860e92cb9d6e7880a5e = L.marker(
+                [56.082, -4.579],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_b274bba0a1fbfdda7eab8e087c5b6043 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2b9a6951f561438b4f3e3a4500dc2317 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_21db32996d19ad13b392437fd940c131 = $(`<div id="html_21db32996d19ad13b392437fd940c131" style="width: 100.0%; height: 100.0%;"><b>Loch Lomond</b><br>Lac et parc national</div>`)[0];
+                popup_2b9a6951f561438b4f3e3a4500dc2317.setContent(html_21db32996d19ad13b392437fd940c131);
+            
+        
+
+        marker_0f1f08bb9fd5d860e92cb9d6e7880a5e.bindPopup(popup_2b9a6951f561438b4f3e3a4500dc2317)
+        ;
+
+        
+    
+    
+                marker_0f1f08bb9fd5d860e92cb9d6e7880a5e.setIcon(icon_b274bba0a1fbfdda7eab8e087c5b6043);
+            
+    
+            var marker_31765872e5117ac05156d54e26086a5b = L.marker(
+                [56.68, -5.1],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_8fb4e4ae38cd34e5d64acbca77cfc08c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1bd6606de59f0d973aae94a22e24abb6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d0329b2d5d513dd5a32a7e87e4452ff4 = $(`<div id="html_d0329b2d5d513dd5a32a7e87e4452ff4" style="width: 100.0%; height: 100.0%;"><b>Glen Coe</b><br>Vallee emblematique</div>`)[0];
+                popup_1bd6606de59f0d973aae94a22e24abb6.setContent(html_d0329b2d5d513dd5a32a7e87e4452ff4);
+            
+        
+
+        marker_31765872e5117ac05156d54e26086a5b.bindPopup(popup_1bd6606de59f0d973aae94a22e24abb6)
+        ;
+
+        
+    
+    
+                marker_31765872e5117ac05156d54e26086a5b.setIcon(icon_8fb4e4ae38cd34e5d64acbca77cfc08c);
+            
+    
+            var marker_5ab389938b557dde5400a6a16aa84d7b = L.marker(
+                [57.4128, -6.194],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_258a54307dbc15c8c7700e8785277a6e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e40c97f3e986aaa216e16959ea511cfa = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6c046713917c8b0662fa7034cecae44c = $(`<div id="html_6c046713917c8b0662fa7034cecae44c" style="width: 100.0%; height: 100.0%;"><b>Skye</b><br>Ile de Skye - Portree</div>`)[0];
+                popup_e40c97f3e986aaa216e16959ea511cfa.setContent(html_6c046713917c8b0662fa7034cecae44c);
+            
+        
+
+        marker_5ab389938b557dde5400a6a16aa84d7b.bindPopup(popup_e40c97f3e986aaa216e16959ea511cfa)
+        ;
+
+        
+    
+    
+                marker_5ab389938b557dde5400a6a16aa84d7b.setIcon(icon_258a54307dbc15c8c7700e8785277a6e);
+            
+    
+            var marker_6c8122785ff10e0d68b522c5e1bfa871 = L.marker(
+                [57.25, -4.55],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_1b057de9ed17257afbd5fcfc41e86586 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2b93d4b57eaa0833cc1c45f01ee7bd33 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9495cddcd7982cba61baa298aa7dd1df = $(`<div id="html_9495cddcd7982cba61baa298aa7dd1df" style="width: 100.0%; height: 100.0%;"><b>Loch Ness</b><br>Loch Ness et chateaux</div>`)[0];
+                popup_2b93d4b57eaa0833cc1c45f01ee7bd33.setContent(html_9495cddcd7982cba61baa298aa7dd1df);
+            
+        
+
+        marker_6c8122785ff10e0d68b522c5e1bfa871.bindPopup(popup_2b93d4b57eaa0833cc1c45f01ee7bd33)
+        ;
+
+        
+    
+    
+                marker_6c8122785ff10e0d68b522c5e1bfa871.setIcon(icon_1b057de9ed17257afbd5fcfc41e86586);
+            
+    
+            var marker_86a6fbec6ea0b511886de886a10a30ba = L.marker(
+                [57.1, -3.8],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_6dffe200c2b02c264ebf16820e89e34c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_07689fefe018552ba13b472c5beeb029 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_61175871abe44727144350cd52dee343 = $(`<div id="html_61175871abe44727144350cd52dee343" style="width: 100.0%; height: 100.0%;"><b>Cairngorms</b><br>Parc national</div>`)[0];
+                popup_07689fefe018552ba13b472c5beeb029.setContent(html_61175871abe44727144350cd52dee343);
+            
+        
+
+        marker_86a6fbec6ea0b511886de886a10a30ba.bindPopup(popup_07689fefe018552ba13b472c5beeb029)
+        ;
+
+        
+    
+    
+                marker_86a6fbec6ea0b511886de886a10a30ba.setIcon(icon_6dffe200c2b02c264ebf16820e89e34c);
+            
+    
+            var marker_cbc13057815a19d829df5cb74a1dcf45 = L.marker(
+                [57.25, -6.2],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_4fe3dc3a7e27ff6e64c355b878136922 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "lightgreen",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0586b3eb8d96b699c35ef7d3009cde3f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2adbc5d4229eaa977b462eecba29accc = $(`<div id="html_2adbc5d4229eaa977b462eecba29accc" style="width: 100.0%; height: 100.0%;"><b>Fairy Pools</b><br>Fairy Pools - randonnee</div>`)[0];
+                popup_0586b3eb8d96b699c35ef7d3009cde3f.setContent(html_2adbc5d4229eaa977b462eecba29accc);
+            
+        
+
+        marker_cbc13057815a19d829df5cb74a1dcf45.bindPopup(popup_0586b3eb8d96b699c35ef7d3009cde3f)
+        ;
+
+        
+    
+    
+                marker_cbc13057815a19d829df5cb74a1dcf45.setIcon(icon_4fe3dc3a7e27ff6e64c355b878136922);
+            
+    
+            var marker_1fd55bbcebc6787bd03cae0497114bb1 = L.marker(
+                [57.52, -6.17],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_884ae892cdefa071c9da7c6c419b956f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "lightgreen",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_eb6bda74331315c1a44af64c9ca5b21f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_491f0f914ad398ae7816956c386cecf7 = $(`<div id="html_491f0f914ad398ae7816956c386cecf7" style="width: 100.0%; height: 100.0%;"><b>Storr</b><br>Old Man of Storr</div>`)[0];
+                popup_eb6bda74331315c1a44af64c9ca5b21f.setContent(html_491f0f914ad398ae7816956c386cecf7);
+            
+        
+
+        marker_1fd55bbcebc6787bd03cae0497114bb1.bindPopup(popup_eb6bda74331315c1a44af64c9ca5b21f)
+        ;
+
+        
+    
+    
+                marker_1fd55bbcebc6787bd03cae0497114bb1.setIcon(icon_884ae892cdefa071c9da7c6c419b956f);
+            
+    
+            var marker_babda79c466d1ebbe1ef60f7e4b40384 = L.marker(
+                [50.9479, 1.8512],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_e668e9b42ca36e79d231487b94e479a4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkblue",
+  "iconColor": "white",
+  "icon": "train",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e99741045bd346a949078b0850a815c7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8dbc40f7a889a3d8d73e8e93c17b5e2c = $(`<div id="html_8dbc40f7a889a3d8d73e8e93c17b5e2c" style="width: 100.0%; height: 100.0%;"><b>Calais</b><br>Eurotunnel</div>`)[0];
+                popup_e99741045bd346a949078b0850a815c7.setContent(html_8dbc40f7a889a3d8d73e8e93c17b5e2c);
+            
+        
+
+        marker_babda79c466d1ebbe1ef60f7e4b40384.bindPopup(popup_e99741045bd346a949078b0850a815c7)
+        ;
+
+        
+    
+    
+                marker_babda79c466d1ebbe1ef60f7e4b40384.setIcon(icon_e668e9b42ca36e79d231487b94e479a4);
+            
+    
+            var marker_4cadb4432fb85e05a5f5da50eb0a2b10 = L.marker(
+                [51.0814, 1.176],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_0d11912a59d6d3add74554c7dd7dc81d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkblue",
+  "iconColor": "white",
+  "icon": "train",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b00f2130ee7988051173a612dd6899f8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e69944a8f910838beaa72d96080bb9ea = $(`<div id="html_e69944a8f910838beaa72d96080bb9ea" style="width: 100.0%; height: 100.0%;"><b>Folkestone</b><br>Eurotunnel</div>`)[0];
+                popup_b00f2130ee7988051173a612dd6899f8.setContent(html_e69944a8f910838beaa72d96080bb9ea);
+            
+        
+
+        marker_4cadb4432fb85e05a5f5da50eb0a2b10.bindPopup(popup_b00f2130ee7988051173a612dd6899f8)
+        ;
+
+        
+    
+    
+                marker_4cadb4432fb85e05a5f5da50eb0a2b10.setIcon(icon_0d11912a59d6d3add74554c7dd7dc81d);
+            
+    
+            var marker_c7163ed55d263ba47c7a45b55b3403c9 = L.marker(
+                [51.0344, 2.3768],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_0d057f8d3ef66e79f5ba5e7d62b5ac09 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkblue",
+  "iconColor": "white",
+  "icon": "ship",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0b6fda53ac73d4709b9df9f6f62056f0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fc88e0edd01bf7935afee4ce20b55f18 = $(`<div id="html_fc88e0edd01bf7935afee4ce20b55f18" style="width: 100.0%; height: 100.0%;"><b>Dunkerque</b><br>Ferry DFDS</div>`)[0];
+                popup_0b6fda53ac73d4709b9df9f6f62056f0.setContent(html_fc88e0edd01bf7935afee4ce20b55f18);
+            
+        
+
+        marker_c7163ed55d263ba47c7a45b55b3403c9.bindPopup(popup_0b6fda53ac73d4709b9df9f6f62056f0)
+        ;
+
+        
+    
+    
+                marker_c7163ed55d263ba47c7a45b55b3403c9.setIcon(icon_0d057f8d3ef66e79f5ba5e7d62b5ac09);
+            
+    
+            var marker_c9ea09c6b386a4637560dd51886c5642 = L.marker(
+                [51.3268, 3.1897],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_080832b8e0f12c50ab20d80ebb534c67 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "ship",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e3c0b6bc119af89812c4e48703ae57ca = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_af639b128e2025fbc80945bbf33d806b = $(`<div id="html_af639b128e2025fbc80945bbf33d806b" style="width: 100.0%; height: 100.0%;"><b>Zeebrugge</b><br>Ferry Hull (P&O)</div>`)[0];
+                popup_e3c0b6bc119af89812c4e48703ae57ca.setContent(html_af639b128e2025fbc80945bbf33d806b);
+            
+        
+
+        marker_c9ea09c6b386a4637560dd51886c5642.bindPopup(popup_e3c0b6bc119af89812c4e48703ae57ca)
+        ;
+
+        
+    
+    
+                marker_c9ea09c6b386a4637560dd51886c5642.setIcon(icon_080832b8e0f12c50ab20d80ebb534c67);
+            
+    
+            var marker_063df5be8faf778a69c6270b3561c2ef = L.marker(
+                [53.7457, -0.3347],
+                {
+}
+            ).addTo(map_e3c6e57d3b59a6937f06c2ec3e749546);
+        
+    
+            var icon_6ce8f2d3b47a67f7b079798d26630617 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "train",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_438b3b7078b3214a80c281794c6eaed8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f5551b8057996461745772b44d093765 = $(`<div id="html_f5551b8057996461745772b44d093765" style="width: 100.0%; height: 100.0%;"><b>Hull</b><br>Arrivee GB</div>`)[0];
+                popup_438b3b7078b3214a80c281794c6eaed8.setContent(html_f5551b8057996461745772b44d093765);
+            
+        
+
+        marker_063df5be8faf778a69c6270b3561c2ef.bindPopup(popup_438b3b7078b3214a80c281794c6eaed8)
+        ;
+
+        
+    
+    
+                marker_063df5be8faf778a69c6270b3561c2ef.setIcon(icon_6ce8f2d3b47a67f7b079798d26630617);
+            
+    
+            map_e3c6e57d3b59a6937f06c2ec3e749546.fitBounds(
+                [[50.0288, -6.694], [57.9778, 5.0981]],
+                {}
+            );
+        
+</script>
+</html>

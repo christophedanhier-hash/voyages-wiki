@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_bb9fd0fd5c65f1b25a42fcd0f05d44ad {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="position:fixed; bottom:30px; left:10px; z-index:1000; background:white;
+     padding:10px; border-radius:8px; font-size:12px; border:1px solid #ccc; box-shadow:0 0 5px rgba(0,0,0,0.1);">
+<b>🏖️ Monopoli / Pouilles — POI</b><br>
+🟢 Camp de base (Residence Atlantide)<br>
+🔴 Monopoli centre — visites à pied<br>
+🔵 Excursions en voiture (5 jours)<br>
+🟠 Restaurants<br>
+⏺️ 2 km du camping
+</div>
+    
+            <div class="folium-map" id="map_bb9fd0fd5c65f1b25a42fcd0f05d44ad" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_bb9fd0fd5c65f1b25a42fcd0f05d44ad = L.map(
+                "map_bb9fd0fd5c65f1b25a42fcd0f05d44ad",
+                {
+                    center: [40.92, 17.3],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 13,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_bb9fd0fd5c65f1b25a42fcd0f05d44ad);
+
+            
+
+        
+    
+            var tile_layer_93b56fbde068bea729b41435fc167a65 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_93b56fbde068bea729b41435fc167a65.addTo(map_bb9fd0fd5c65f1b25a42fcd0f05d44ad);
+        
+    
+            var marker_592e44143f78bf378bb0d48835a81fe2 = L.marker(
+                [40.91299, 17.34275],
+                {
+}
+            ).addTo(map_bb9fd0fd5c65f1b25a42fcd0f05d44ad);
+        
+    
+            var icon_06a48a9c1d33d022178743537bd0f5ab = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_360be363d630561c2e9b978aff489a48 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e65096071b23172b9e94fc03ff18fa5a = $(`<div id="html_e65096071b23172b9e94fc03ff18fa5a" style="width: 100.0%; height: 100.0%;"><b>🏕️ Camp de base</b><br>Residence Atlantide — Monopoli<br>📍 9 nuits, CC garé, centre-ville 15 min à pied</div>`)[0];
+                popup_360be363d630561c2e9b978aff489a48.setContent(html_e65096071b23172b9e94fc03ff18fa5a);
+            
+        
+
+        marker_592e44143f78bf378bb0d48835a81fe2.bindPopup(popup_360be363d630561c2e9b978aff489a48)
+        ;
+
+        
+    
+    
+            marker_592e44143f78bf378bb0d48835a81fe2.bindTooltip(
+                `<div>
+                     🏕️ Residence Atlantide
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_592e44143f78bf378bb0d48835a81fe2.setIcon(icon_06a48a9c1d33d022178743537bd0f5ab);
+            
+    
+            var marker_8ff1cf694e755961bdbd564596af37e0 = L.marker(
+                [40.95084, 17.30366],
+                {
+}
+            ).addTo(map_bb9fd0fd5c65f1b25a42fcd0f05d44ad);
+        
+    
+            var icon_88cf7a916a89b62a3ebeefb30dea79c6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8a6b5ad65345cbe9b2d7630327891055 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_840c7dfc488ccd3446dba3c98de6406a = $(`<div id="html_840c7dfc488ccd3446dba3c98de6406a" style="width: 100.0%; height: 100.0%;"><b>⛪ Cathédrale Monopoli</b><br>Baroque, crypte, icône Madone — gratuit</div>`)[0];
+                popup_8a6b5ad65345cbe9b2d7630327891055.setContent(html_840c7dfc488ccd3446dba3c98de6406a);
+            
+        
+
+        marker_8ff1cf694e755961bdbd564596af37e0.bindPopup(popup_8a6b5ad65345cbe9b2d7630327891055)
+        ;
+
+        
+    
+    
+            marker_8ff1cf694e755961bdbd564596af37e0.bindTooltip(
+                `<div>
+                     ⛪ Cathédrale Monopoli
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8ff1cf694e755961bdbd564596af37e0.setIcon(icon_88cf7a916a89b62a3ebeefb30dea79c6);
+            
+    
+            var marker_e3da335a2fcdfd40bd62b7aeee8518a9 = L.marker(
+                [40.95422, 17.30527],
+                {
+}
+            ).addTo(map_bb9fd0fd5c65f1b25a42fcd0f05d44ad);
+        
+    
+            var icon_d4f227cf05f2324b2294c530306e2b8f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f46bf27be11ce1bd24e3112afebc29bb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_83fa5dde09e645a3343d0d5326335bac = $(`<div id="html_83fa5dde09e645a3343d0d5326335bac" style="width: 100.0%; height: 100.0%;"><b>🏰 Château Carlo V</b><br>Forteresse XVIe, vue port, 10€ (extérieur gratuit)</div>`)[0];
+                popup_f46bf27be11ce1bd24e3112afebc29bb.setContent(html_83fa5dde09e645a3343d0d5326335bac);
+            
+        
+
+        marker_e3da335a2fcdfd40bd62b7aeee8518a9.bindPopup(popup_f46bf27be11ce1bd24e3112afebc29bb)
+        ;
+
+        
+    
+    
+            marker_e3da335a2fcdfd40bd62b7aeee8518a9.bindTooltip(
+                `<div>
+                     🏰 Château Carlo V
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_e3da335a2fcdfd40bd62b7aeee8518a9.setIcon(icon_d4f227cf05f2324b2294c530306e2b8f);
+            
+    
+            var marker_8c53eee04a4efa1d9617aeae6dc35e44 = L.marker(
+                [40.9533, 17.3025],
+                {
+}
+            ).addTo(map_bb9fd0fd5c65f1b25a42fcd0f05d44ad);
+        
+    
+            var icon_934a229c4baf3b72b3992de3ee3ee857 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8b29e5c6d3b5f329273c3bfe8435c5e7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3405555fd0c418032d32dd8a64f1da45 = $(`<div id="html_3405555fd0c418032d32dd8a64f1da45" style="width: 100.0%; height: 100.0%;"><b>🚤 Porto Antico</b><br>Barques colorées, pêcheurs, cala Porta Vecchia</div>`)[0];
+                popup_8b29e5c6d3b5f329273c3bfe8435c5e7.setContent(html_3405555fd0c418032d32dd8a64f1da45);
+            
+        
+
+        marker_8c53eee04a4efa1d9617aeae6dc35e44.bindPopup(popup_8b29e5c6d3b5f329273c3bfe8435c5e7)
+        ;
+
+        
+    
+    
+            marker_8c53eee04a4efa1d9617aeae6dc35e44.bindTooltip(
+                `<div>
+                     🚤 Porto Antico
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8c53eee04a4efa1d9617aeae6dc35e44.setIcon(icon_934a229c4baf3b72b3992de3ee3ee857);
+            
+    
+            var marker_fc2ebe8cf417cdc2670ab7e3a2ef9460 = L.marker(
+                [40.99445, 17.22249],
+                {
+}
+            ).addTo(map_bb9fd0fd5c65f1b25a42fcd0f05d44ad);
+        
+    
+            var icon_58102302ff44aec28799f643a6a6f2c0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_429793265fae58e40b3e837c87472097 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_189e941778cc8024c2631f0a570069a5 = $(`<div id="html_189e941778cc8024c2631f0a570069a5" style="width: 100.0%; height: 100.0%;"><b>🌊 Polignano a Mare</b><br>Falaises, Lama Monachile — 20 min</div>`)[0];
+                popup_429793265fae58e40b3e837c87472097.setContent(html_189e941778cc8024c2631f0a570069a5);
+            
+        
+
+        marker_fc2ebe8cf417cdc2670ab7e3a2ef9460.bindPopup(popup_429793265fae58e40b3e837c87472097)
+        ;
+
+        
+    
+    
+            marker_fc2ebe8cf417cdc2670ab7e3a2ef9460.bindTooltip(
+                `<div>
+                     🌊 Polignano a Mare
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_fc2ebe8cf417cdc2670ab7e3a2ef9460.setIcon(icon_58102302ff44aec28799f643a6a6f2c0);
+            
+    
+            var marker_9b699fd57819f3c0ad316a0fc484fb33 = L.marker(
+                [40.78412, 17.2377],
+                {
+}
+            ).addTo(map_bb9fd0fd5c65f1b25a42fcd0f05d44ad);
+        
+    
+            var icon_34a0a3657a67cf2529baa3dc71a0db01 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_293a0dad5bc113c245c1b9def956519a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a1586276d2cf7ddea5e7e848be1f7c32 = $(`<div id="html_a1586276d2cf7ddea5e7e848be1f7c32" style="width: 100.0%; height: 100.0%;"><b>🏡 Alberobello</b><br>Trulli UNESCO — 21 km</div>`)[0];
+                popup_293a0dad5bc113c245c1b9def956519a.setContent(html_a1586276d2cf7ddea5e7e848be1f7c32);
+            
+        
+
+        marker_9b699fd57819f3c0ad316a0fc484fb33.bindPopup(popup_293a0dad5bc113c245c1b9def956519a)
+        ;
+
+        
+    
+    
+            marker_9b699fd57819f3c0ad316a0fc484fb33.bindTooltip(
+                `<div>
+                     🏡 Alberobello
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_9b699fd57819f3c0ad316a0fc484fb33.setIcon(icon_34a0a3657a67cf2529baa3dc71a0db01);
+            
+    
+            var marker_5d48e86fe7201a7de98f2e353d576114 = L.marker(
+                [40.75523, 17.3265],
+                {
+}
+            ).addTo(map_bb9fd0fd5c65f1b25a42fcd0f05d44ad);
+        
+    
+            var icon_d626c837f42822705c8e6fd1d5b2dd18 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f8e076948f237464607c105d58d3e8f7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6416ece127f735e90ec88c71c4760dfb = $(`<div id="html_6416ece127f735e90ec88c71c4760dfb" style="width: 100.0%; height: 100.0%;"><b>🏘️ Locorotondo</b><br>Balcon fleuri, vue vallée d'Itria — 30 km</div>`)[0];
+                popup_f8e076948f237464607c105d58d3e8f7.setContent(html_6416ece127f735e90ec88c71c4760dfb);
+            
+        
+
+        marker_5d48e86fe7201a7de98f2e353d576114.bindPopup(popup_f8e076948f237464607c105d58d3e8f7)
+        ;
+
+        
+    
+    
+            marker_5d48e86fe7201a7de98f2e353d576114.bindTooltip(
+                `<div>
+                     🏘️ Locorotondo
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_5d48e86fe7201a7de98f2e353d576114.setIcon(icon_d626c837f42822705c8e6fd1d5b2dd18);
+            
+    
+            var marker_c2df7d2d903b539f1b36ff1dde412d3f = L.marker(
+                [40.72763, 17.57641],
+                {
+}
+            ).addTo(map_bb9fd0fd5c65f1b25a42fcd0f05d44ad);
+        
+    
+            var icon_9d01e73f90fc663a8936bb6f98814150 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1179253a307b1dc384e5f1e499b19030 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_710003d7194738e0445ca62ccdf41f8a = $(`<div id="html_710003d7194738e0445ca62ccdf41f8a" style="width: 100.0%; height: 100.0%;"><b>🤍 Ostuni</b><br>Ville blanche perchée — 35 km</div>`)[0];
+                popup_1179253a307b1dc384e5f1e499b19030.setContent(html_710003d7194738e0445ca62ccdf41f8a);
+            
+        
+
+        marker_c2df7d2d903b539f1b36ff1dde412d3f.bindPopup(popup_1179253a307b1dc384e5f1e499b19030)
+        ;
+
+        
+    
+    
+            marker_c2df7d2d903b539f1b36ff1dde412d3f.bindTooltip(
+                `<div>
+                     🤍 Ostuni
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c2df7d2d903b539f1b36ff1dde412d3f.setIcon(icon_9d01e73f90fc663a8936bb6f98814150);
+            
+    
+            var marker_753f950c469647ab021602ec7598febb = L.marker(
+                [40.66606, 16.61156],
+                {
+}
+            ).addTo(map_bb9fd0fd5c65f1b25a42fcd0f05d44ad);
+        
+    
+            var icon_f7713d10622654e4e94ddb8af3b0a505 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b20a3e53ba32f51d6d9d5483892af296 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c700600612be53d90b00e63e9d11061a = $(`<div id="html_c700600612be53d90b00e63e9d11061a" style="width: 100.0%; height: 100.0%;"><b>🪨 Matera — Sassi</b><br>UNESCO, troglodytes — 75 km</div>`)[0];
+                popup_b20a3e53ba32f51d6d9d5483892af296.setContent(html_c700600612be53d90b00e63e9d11061a);
+            
+        
+
+        marker_753f950c469647ab021602ec7598febb.bindPopup(popup_b20a3e53ba32f51d6d9d5483892af296)
+        ;
+
+        
+    
+    
+            marker_753f950c469647ab021602ec7598febb.bindTooltip(
+                `<div>
+                     🪨 Matera — Sassi
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_753f950c469647ab021602ec7598febb.setIcon(icon_f7713d10622654e4e94ddb8af3b0a505);
+            
+    
+            var marker_c3e60be6bbcba17990d20906d0591c72 = L.marker(
+                [40.352, 18.172],
+                {
+}
+            ).addTo(map_bb9fd0fd5c65f1b25a42fcd0f05d44ad);
+        
+    
+            var icon_d9291ecb35278c3eb5c5e56ca184b94a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "flag",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ec628f285d3202119e36f44ff6aa17e7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_751d5a8b4bfb0eb138b0827201b8f65c = $(`<div id="html_751d5a8b4bfb0eb138b0827201b8f65c" style="width: 100.0%; height: 100.0%;"><b>🎭 Lecce</b><br>Florence du Sud baroque — 85 km</div>`)[0];
+                popup_ec628f285d3202119e36f44ff6aa17e7.setContent(html_751d5a8b4bfb0eb138b0827201b8f65c);
+            
+        
+
+        marker_c3e60be6bbcba17990d20906d0591c72.bindPopup(popup_ec628f285d3202119e36f44ff6aa17e7)
+        ;
+
+        
+    
+    
+            marker_c3e60be6bbcba17990d20906d0591c72.bindTooltip(
+                `<div>
+                     🎭 Lecce
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c3e60be6bbcba17990d20906d0591c72.setIcon(icon_d9291ecb35278c3eb5c5e56ca184b94a);
+            
+    
+            var marker_8f85bd76962064de1103b3464fc44611 = L.marker(
+                [40.95272, 17.30441],
+                {
+}
+            ).addTo(map_bb9fd0fd5c65f1b25a42fcd0f05d44ad);
+        
+    
+            var icon_de3528265f61d9b072ad8689ed60c8d7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_bff33e74cdb30e795b2f447d8371d161 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_caf0e88b50ffac878419626c1ffa4546 = $(`<div id="html_caf0e88b50ffac878419626c1ffa4546" style="width: 100.0%; height: 100.0%;"><b>🍝 Osteria Perricci</b><br>Poisson, traditionnel, familial de pêcheurs</div>`)[0];
+                popup_bff33e74cdb30e795b2f447d8371d161.setContent(html_caf0e88b50ffac878419626c1ffa4546);
+            
+        
+
+        marker_8f85bd76962064de1103b3464fc44611.bindPopup(popup_bff33e74cdb30e795b2f447d8371d161)
+        ;
+
+        
+    
+    
+            marker_8f85bd76962064de1103b3464fc44611.bindTooltip(
+                `<div>
+                     🍝 Osteria Perricci
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8f85bd76962064de1103b3464fc44611.setIcon(icon_de3528265f61d9b072ad8689ed60c8d7);
+            
+    
+            var marker_18dc98f922b2a38679a56551d4c688e3 = L.marker(
+                [40.95395, 17.30291],
+                {
+}
+            ).addTo(map_bb9fd0fd5c65f1b25a42fcd0f05d44ad);
+        
+    
+            var icon_8fd219f61efd05b40af6dd608fa8c66e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "cutlery",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3421dbf6e47688a164621629006e5b42 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_078f3e8bc44aca523c9dfd47aff7de51 = $(`<div id="html_078f3e8bc44aca523c9dfd47aff7de51" style="width: 100.0%; height: 100.0%;"><b>🐟 La Locanda sul Porto</b><br>Méditerranéen, vue bateaux, romantique</div>`)[0];
+                popup_3421dbf6e47688a164621629006e5b42.setContent(html_078f3e8bc44aca523c9dfd47aff7de51);
+            
+        
+
+        marker_18dc98f922b2a38679a56551d4c688e3.bindPopup(popup_3421dbf6e47688a164621629006e5b42)
+        ;
+
+        
+    
+    
+            marker_18dc98f922b2a38679a56551d4c688e3.bindTooltip(
+                `<div>
+                     🐟 La Locanda sul Porto
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_18dc98f922b2a38679a56551d4c688e3.setIcon(icon_8fd219f61efd05b40af6dd608fa8c66e);
+            
+    
+            var circle_3a7f5f32bd9e78840b18a15c2388f590 = L.circle(
+                [40.91299, 17.34275],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.04, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2000, "stroke": true, "weight": 1}
+            ).addTo(map_bb9fd0fd5c65f1b25a42fcd0f05d44ad);
+        
+</script>
+</html>

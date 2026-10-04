@@ -172,10 +172,10 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 
 - **Samedi 03/10 :** installation, plage et piscine.
 - **Dimanche 04/10 :** journée bateau sans voiture, idéalement Desenzano–Sirmione ; horaires à confirmer au quai, car l’horaire été officiel publié va jusqu’au 04/10.
-- **Lundi 05/10 :** prise de la voiture à 10h, puis rive sud-ouest : Salò (déjeuner), Gardone Riviera et Vittoriale degli italiani (2h30). Dîner Salò ou Gardone.
-- **Mardi 06/10 :** Vérone (35-45 min via A4) : Arènes, Piazza Bra, Piazza delle Erbe, maison de Juliette, Castelvecchio. Parking souterrain Centro/Cittadella hors ZTL.
+- **Lundi 05/10 :** prise de la voiture à 10h, puis cap au nord : Riva del Garda (port, Apponale). Retour par la rive est.
+- **Mardi 06/10 :** rive sud-ouest : Salò (déjeuner), Gardone Riviera et Vittoriale degli italiani (2h30).
 - **Mercredi 07/10 :** Strada della Forra le matin, Terrazza del Brivido (Tremosine, optionnel pour Sylvie), puis Limone sul Garda (limonaia, ruelles, passerelle bois).
-- **Jeudi 08/10 :** Riva del Garda le matin (port, Apponale, Varone en option), Malcesine l'après-midi (château, Baldo si ciel clair), Torri del Benaco, dîner Bardolino/Lazise.
+- **Jeudi 08/10 :** Vérone (temps moins beau, ville idéale) : Arènes, Piazza Bra, Erbe, Juliette, Castelvecchio, San Pietro. Parking Centro/Cittadella hors ZTL.
 - **Vendredi 09/10 :** restitution à 10h00, retour au camping, piscine, plage et repos uniquement.
 - **Mobilité :** les bateaux sont privilégiés quand les horaires le permettent ; les journées en voiture sont limitées à quelques lieux principaux.
 
