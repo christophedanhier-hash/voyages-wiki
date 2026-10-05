@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_9864a252019b4a9a7a5ded5d802b4b2c {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="position: fixed; bottom: 30px; right: 10px; z-index: 1000; background: white; padding: 10px; border-radius: 8px; font-size: 12px; border: 1px solid #ccc; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+<b>Lac Majeur — POI</b><br>
+GREEN: Camp de base<br>
+RED: Sites a visiter<br>
+BLUE: Villages / embarcaderes<br>
+ORANGE: Restaurants<br>
+2 km du camping
+</div>
+    
+            <div class="folium-map" id="map_9864a252019b4a9a7a5ded5d802b4b2c" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_9864a252019b4a9a7a5ded5d802b4b2c = L.map(
+                "map_9864a252019b4a9a7a5ded5d802b4b2c",
+                {
+                    center: [45.96, 8.62],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 12,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_02f53a98900e78fed5954dab77391019 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_02f53a98900e78fed5954dab77391019.addTo(map_9864a252019b4a9a7a5ded5d802b4b2c);
+        
+    
+            var circle_d0906336dde5798faca4b783e2daab0a = L.circle(
+                [46.041167, 8.732639],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "green", "fillOpacity": 0.05, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2000, "stroke": true, "weight": 2}
+            ).addTo(map_9864a252019b4a9a7a5ded5d802b4b2c);
+        
+    
+        var popup_6b2da09cd137d8009400b21e43e1f894 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ef4742b49f6213dc7fb348dade16d6b4 = $(`<div id="html_ef4742b49f6213dc7fb348dade16d6b4" style="width: 100.0%; height: 100.0%;">2 km</div>`)[0];
+                popup_6b2da09cd137d8009400b21e43e1f894.setContent(html_ef4742b49f6213dc7fb348dade16d6b4);
+            
+        
+
+        circle_d0906336dde5798faca4b783e2daab0a.bindPopup(popup_6b2da09cd137d8009400b21e43e1f894)
+        ;
+
+        
+    
+    
+            var marker_657d8c657acd183b5e252bbed91964cc = L.marker(
+                [46.041167, 8.732639],
+                {
+}
+            ).addTo(map_9864a252019b4a9a7a5ded5d802b4b2c);
+        
+    
+            var icon_48c70e1e68ffa02a5bfc5efcaa176ce3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a20e7a697cbd409ab401ddf66411769e = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_fd7a30c3cebcec234c161d563823366a = $(`<div id="html_fd7a30c3cebcec234c161d563823366a" style="width: 100.0%; height: 100.0%;"><b>Camp de base — Maccagno</b><br>The Camp by Maggiore Suites<br>Front Pitch FR1</div>`)[0];
+                popup_a20e7a697cbd409ab401ddf66411769e.setContent(html_fd7a30c3cebcec234c161d563823366a);
+            
+        
+
+        marker_657d8c657acd183b5e252bbed91964cc.bindPopup(popup_a20e7a697cbd409ab401ddf66411769e)
+        ;
+
+        
+    
+    
+            marker_657d8c657acd183b5e252bbed91964cc.bindTooltip(
+                `<div>
+                     Camp de base — Maccagno
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_657d8c657acd183b5e252bbed91964cc.setIcon(icon_48c70e1e68ffa02a5bfc5efcaa176ce3);
+            
+    
+            var marker_1097202e8033f34cfec06b1543bee7be = L.marker(
+                [45.8955, 8.5273],
+                {
+}
+            ).addTo(map_9864a252019b4a9a7a5ded5d802b4b2c);
+        
+    
+            var icon_130001e6eca9b8d0577fe6fcb29e3565 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0f97fa779095692e0e41f97bea21d97b = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_baf6761a33672a1b5a3f440e60f31d52 = $(`<div id="html_baf6761a33672a1b5a3f440e60f31d52" style="width: 100.0%; height: 100.0%;"><b>Isola Bella (Iles Borromees)</b><br>Palais Borromee + jardins<br>Ferry 20 min depuis Maccagno</div>`)[0];
+                popup_0f97fa779095692e0e41f97bea21d97b.setContent(html_baf6761a33672a1b5a3f440e60f31d52);
+            
+        
+
+        marker_1097202e8033f34cfec06b1543bee7be.bindPopup(popup_0f97fa779095692e0e41f97bea21d97b)
+        ;
+
+        
+    
+    
+            marker_1097202e8033f34cfec06b1543bee7be.bindTooltip(
+                `<div>
+                     Isola Bella (Iles Borromees)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_1097202e8033f34cfec06b1543bee7be.setIcon(icon_130001e6eca9b8d0577fe6fcb29e3565);
+            
+    
+            var marker_8ccf9adeff2766729fac339998f83968 = L.marker(
+                [45.8977, 8.5395],
+                {
+}
+            ).addTo(map_9864a252019b4a9a7a5ded5d802b4b2c);
+        
+    
+            var icon_c11d3f4bc08dd2e3d4f7420c001de7d7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fa7a0290188581fd3897f00bbfbbd8b5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_8dba42da480e8e1a4dba6f2c6cf68c6b = $(`<div id="html_8dba42da480e8e1a4dba6f2c6cf68c6b" style="width: 100.0%; height: 100.0%;"><b>Isola dei Pescatori</b><br>Village de pecheurs, ruelles plates<br>Ferry 25 min</div>`)[0];
+                popup_fa7a0290188581fd3897f00bbfbbd8b5.setContent(html_8dba42da480e8e1a4dba6f2c6cf68c6b);
+            
+        
+
+        marker_8ccf9adeff2766729fac339998f83968.bindPopup(popup_fa7a0290188581fd3897f00bbfbbd8b5)
+        ;
+
+        
+    
+    
+            marker_8ccf9adeff2766729fac339998f83968.bindTooltip(
+                `<div>
+                     Isola dei Pescatori
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_8ccf9adeff2766729fac339998f83968.setIcon(icon_c11d3f4bc08dd2e3d4f7420c001de7d7);
+            
+    
+            var marker_1dc93bda674aff0cff34fdc3cbb335d3 = L.marker(
+                [45.9255, 8.5645],
+                {
+}
+            ).addTo(map_9864a252019b4a9a7a5ded5d802b4b2c);
+        
+    
+            var icon_ce7f5f99a0836820429b8a68a53099b7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_28c95cff7498c53e5fa8ae91f579d7d5 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_4ae7ff2c1fdb51a7b469d65932b010ba = $(`<div id="html_4ae7ff2c1fdb51a7b469d65932b010ba" style="width: 100.0%; height: 100.0%;"><b>Villa Taranto</b><br>Jardins botaniques, plat accessible<br>Incontournable</div>`)[0];
+                popup_28c95cff7498c53e5fa8ae91f579d7d5.setContent(html_4ae7ff2c1fdb51a7b469d65932b010ba);
+            
+        
+
+        marker_1dc93bda674aff0cff34fdc3cbb335d3.bindPopup(popup_28c95cff7498c53e5fa8ae91f579d7d5)
+        ;
+
+        
+    
+    
+            marker_1dc93bda674aff0cff34fdc3cbb335d3.bindTooltip(
+                `<div>
+                     Villa Taranto
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_1dc93bda674aff0cff34fdc3cbb335d3.setIcon(icon_ce7f5f99a0836820429b8a68a53099b7);
+            
+    
+            var marker_bb64af4ebdb39d9dccd648dfcfb8e454 = L.marker(
+                [45.8843, 8.5391],
+                {
+}
+            ).addTo(map_9864a252019b4a9a7a5ded5d802b4b2c);
+        
+    
+            var icon_c982ff9daaf57b0fa853d3cea80f63de = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_064c91e6a12c79086542b48d6f03fcae = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_45c991787e7589d3131d04d761105ecf = $(`<div id="html_45c991787e7589d3131d04d761105ecf" style="width: 100.0%; height: 100.0%;"><b>Stresa centre</b><br>Promenade lacustre, cafes<br>Ferry 30 min</div>`)[0];
+                popup_064c91e6a12c79086542b48d6f03fcae.setContent(html_45c991787e7589d3131d04d761105ecf);
+            
+        
+
+        marker_bb64af4ebdb39d9dccd648dfcfb8e454.bindPopup(popup_064c91e6a12c79086542b48d6f03fcae)
+        ;
+
+        
+    
+    
+            marker_bb64af4ebdb39d9dccd648dfcfb8e454.bindTooltip(
+                `<div>
+                     Stresa centre
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_bb64af4ebdb39d9dccd648dfcfb8e454.setIcon(icon_c982ff9daaf57b0fa853d3cea80f63de);
+            
+    
+            var marker_5271f6682a9848ac4e4d59de5532f514 = L.marker(
+                [45.8774, 8.5968],
+                {
+}
+            ).addTo(map_9864a252019b4a9a7a5ded5d802b4b2c);
+        
+    
+            var icon_af74439e41bddf0341f5b0c58aac5adf = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_53fbe7947fea3c8d9c4a7a24d9e4bc12 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_f6bc38d6111c1e6f5042e5b315008197 = $(`<div id="html_f6bc38d6111c1e6f5042e5b315008197" style="width: 100.0%; height: 100.0%;"><b>Santa Caterina del Sasso</b><br>Ermitage rupestre, vue magnifique<br>Voiture 15 min</div>`)[0];
+                popup_53fbe7947fea3c8d9c4a7a24d9e4bc12.setContent(html_f6bc38d6111c1e6f5042e5b315008197);
+            
+        
+
+        marker_5271f6682a9848ac4e4d59de5532f514.bindPopup(popup_53fbe7947fea3c8d9c4a7a24d9e4bc12)
+        ;
+
+        
+    
+    
+            marker_5271f6682a9848ac4e4d59de5532f514.bindTooltip(
+                `<div>
+                     Santa Caterina del Sasso
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_5271f6682a9848ac4e4d59de5532f514.setIcon(icon_af74439e41bddf0341f5b0c58aac5adf);
+            
+    
+            var marker_b946f777b729876eb0ec65af5e05c6c8 = L.marker(
+                [46.0376, 8.7529],
+                {
+}
+            ).addTo(map_9864a252019b4a9a7a5ded5d802b4b2c);
+        
+    
+            var icon_67057d54a981e09be8793e3ed73f33d3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0390edd966e457e45b372594bc59e194 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_7458b1328352c097cbd4c293f9a4a4e6 = $(`<div id="html_7458b1328352c097cbd4c293f9a4a4e6" style="width: 100.0%; height: 100.0%;"><b>Luino marche</b><br>Marche hebdo (mercredi)<br>Bateau 10 min</div>`)[0];
+                popup_0390edd966e457e45b372594bc59e194.setContent(html_7458b1328352c097cbd4c293f9a4a4e6);
+            
+        
+
+        marker_b946f777b729876eb0ec65af5e05c6c8.bindPopup(popup_0390edd966e457e45b372594bc59e194)
+        ;
+
+        
+    
+    
+            marker_b946f777b729876eb0ec65af5e05c6c8.bindTooltip(
+                `<div>
+                     Luino marche
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b946f777b729876eb0ec65af5e05c6c8.setIcon(icon_67057d54a981e09be8793e3ed73f33d3);
+            
+    
+            var marker_096d86b825e8eb630682d16abec5535d = L.marker(
+                [46.0398, 8.7351],
+                {
+}
+            ).addTo(map_9864a252019b4a9a7a5ded5d802b4b2c);
+        
+    
+            var icon_2288978c7a06baf11b673f7473e0838a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d25a1a268cfa9d394c26d3e7ace872a2 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_7bc2e900f5cab32b86267dcfee500334 = $(`<div id="html_7bc2e900f5cab32b86267dcfee500334" style="width: 100.0%; height: 100.0%;"><b>Ristorante Al Giona</b><br>Poisson du lac, terrasse<br>A 300m du camping</div>`)[0];
+                popup_d25a1a268cfa9d394c26d3e7ace872a2.setContent(html_7bc2e900f5cab32b86267dcfee500334);
+            
+        
+
+        marker_096d86b825e8eb630682d16abec5535d.bindPopup(popup_d25a1a268cfa9d394c26d3e7ace872a2)
+        ;
+
+        
+    
+    
+            marker_096d86b825e8eb630682d16abec5535d.bindTooltip(
+                `<div>
+                     Ristorante Al Giona
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_096d86b825e8eb630682d16abec5535d.setIcon(icon_2288978c7a06baf11b673f7473e0838a);
+            
+    
+            var marker_52f895d85b75838fc93b26d9c5dd5690 = L.marker(
+                [46.0435, 8.738],
+                {
+}
+            ).addTo(map_9864a252019b4a9a7a5ded5d802b4b2c);
+        
+    
+            var icon_39c72e0ae83d0625d6c33127bdf95109 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e2b135c4b60f8a6094123e496513a604 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_8b5671b44d8c77b481c652f97dbd3cd5 = $(`<div id="html_8b5671b44d8c77b481c652f97dbd3cd5" style="width: 100.0%; height: 100.0%;"><b>Pizzeria Da Franco</b><br>Pizza, simple et bon</div>`)[0];
+                popup_e2b135c4b60f8a6094123e496513a604.setContent(html_8b5671b44d8c77b481c652f97dbd3cd5);
+            
+        
+
+        marker_52f895d85b75838fc93b26d9c5dd5690.bindPopup(popup_e2b135c4b60f8a6094123e496513a604)
+        ;
+
+        
+    
+    
+            marker_52f895d85b75838fc93b26d9c5dd5690.bindTooltip(
+                `<div>
+                     Pizzeria Da Franco
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_52f895d85b75838fc93b26d9c5dd5690.setIcon(icon_39c72e0ae83d0625d6c33127bdf95109);
+            
+</script>
+</html>

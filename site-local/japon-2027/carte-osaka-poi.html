@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_015643a5f015e60f7c114267963e3906 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdn.jsdelivr.net/npm/leaflet.fullscreen@3.0.0/Control.FullScreen.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet.fullscreen@3.0.0/Control.FullScreen.css"/>
+</head>
+<body>
+    
+    
+<div style="position: fixed; bottom: 30px; left: 10px; z-index: 1000; background: white;
+     padding: 10px; border-radius: 8px; font-size: 12px; border: 1px solid #ccc;">
+<b>🐙 Osaka + Nara — POIs</b><br>
+<span style="color:#27ae60;">— 2 km (marche facile)</span><br>
+<span style="color:#f39c12;">- - - 3 km (limite Sylvie)</span><br>
+<span style="color:#2980b9;">● Points d'intérêt</span><br>
+<i>Nara : ~40 min de train depuis Namba</i>
+</div>
+    
+            <div class="folium-map" id="map_015643a5f015e60f7c114267963e3906" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_015643a5f015e60f7c114267963e3906 = L.map(
+                "map_015643a5f015e60f7c114267963e3906",
+                {
+                    center: [34.6665, 135.5016],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 13,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_aa8f4f664b53cfac680b48ecf6cf2747 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_aa8f4f664b53cfac680b48ecf6cf2747.addTo(map_015643a5f015e60f7c114267963e3906);
+        
+    
+            var marker_754ccc00b53a6c12d621b209e975b5df = L.marker(
+                [34.665, 135.501],
+                {
+}
+            ).addTo(map_015643a5f015e60f7c114267963e3906);
+        
+    
+            var icon_d0f230fa96721a41d3e1ccb5f5d86778 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "green",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4bb14c7a620cca4c8c5901f89da9d6f6 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_79031acbe4b06bf80bc9e801c3b300e9 = $(`<div id="html_79031acbe4b06bf80bc9e801c3b300e9" style="width: 100.0%; height: 100.0%;"><b>🛏️ Onyado Nono (base)</b><br>Hôtel + onsen toit</div>`)[0];
+                popup_4bb14c7a620cca4c8c5901f89da9d6f6.setContent(html_79031acbe4b06bf80bc9e801c3b300e9);
+            
+        
+
+        marker_754ccc00b53a6c12d621b209e975b5df.bindPopup(popup_4bb14c7a620cca4c8c5901f89da9d6f6)
+        ;
+
+        
+    
+    
+            marker_754ccc00b53a6c12d621b209e975b5df.bindTooltip(
+                `<div>
+                     🛏️ Onyado Nono (base)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_754ccc00b53a6c12d621b209e975b5df.setIcon(icon_d0f230fa96721a41d3e1ccb5f5d86778);
+            
+    
+            var marker_008e7f131fdfbbbffb0349caeefa1080 = L.marker(
+                [34.6657, 135.506],
+                {
+}
+            ).addTo(map_015643a5f015e60f7c114267963e3906);
+        
+    
+            var icon_b3302a7b9409c383a10a86cf32b34392 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "shopping-bag",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3f0c9ab0c4a3b5d40cc9ecc77ed3deef = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_87826ad820436f57e53ce9285b38b420 = $(`<div id="html_87826ad820436f57e53ce9285b38b420" style="width: 100.0%; height: 100.0%;"><b>Kuromon Ichiba (J14)</b><br>Marché couvert</div>`)[0];
+                popup_3f0c9ab0c4a3b5d40cc9ecc77ed3deef.setContent(html_87826ad820436f57e53ce9285b38b420);
+            
+        
+
+        marker_008e7f131fdfbbbffb0349caeefa1080.bindPopup(popup_3f0c9ab0c4a3b5d40cc9ecc77ed3deef)
+        ;
+
+        
+    
+    
+            marker_008e7f131fdfbbbffb0349caeefa1080.bindTooltip(
+                `<div>
+                     Kuromon Ichiba (J14)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_008e7f131fdfbbbffb0349caeefa1080.setIcon(icon_b3302a7b9409c383a10a86cf32b34392);
+            
+    
+            var marker_a15dd6d88ed387831c955d1cf0bb242a = L.marker(
+                [34.6687, 135.5012],
+                {
+}
+            ).addTo(map_015643a5f015e60f7c114267963e3906);
+        
+    
+            var icon_2db29b8c64994bb2eb6bb6510686ceb5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "camera",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c0f7f4237e34245a94db94e4e4898447 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_df54c3dbd7c072cbecc09f4ce20b4a8c = $(`<div id="html_df54c3dbd7c072cbecc09f4ce20b4a8c" style="width: 100.0%; height: 100.0%;"><b>Dotonbori (J14/16)</b><br>Néon + street food</div>`)[0];
+                popup_c0f7f4237e34245a94db94e4e4898447.setContent(html_df54c3dbd7c072cbecc09f4ce20b4a8c);
+            
+        
+
+        marker_a15dd6d88ed387831c955d1cf0bb242a.bindPopup(popup_c0f7f4237e34245a94db94e4e4898447)
+        ;
+
+        
+    
+    
+            marker_a15dd6d88ed387831c955d1cf0bb242a.bindTooltip(
+                `<div>
+                     Dotonbori (J14/16)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a15dd6d88ed387831c955d1cf0bb242a.setIcon(icon_2db29b8c64994bb2eb6bb6510686ceb5);
+            
+    
+            var marker_7968dc0a737366bad2210ef365978c83 = L.marker(
+                [34.6524, 135.5066],
+                {
+}
+            ).addTo(map_015643a5f015e60f7c114267963e3906);
+        
+    
+            var icon_83e71d88677b555e976b5d1168f1dbf9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f82b0d50b0807a2d2ac3d278e18b683e = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_fbdc3de9b6250bd0e7e7ccd1bbc5e801 = $(`<div id="html_fbdc3de9b6250bd0e7e7ccd1bbc5e801" style="width: 100.0%; height: 100.0%;"><b>Shinsekai (J16)</b><br>Tsutenkaku + rétro</div>`)[0];
+                popup_f82b0d50b0807a2d2ac3d278e18b683e.setContent(html_fbdc3de9b6250bd0e7e7ccd1bbc5e801);
+            
+        
+
+        marker_7968dc0a737366bad2210ef365978c83.bindPopup(popup_f82b0d50b0807a2d2ac3d278e18b683e)
+        ;
+
+        
+    
+    
+            marker_7968dc0a737366bad2210ef365978c83.bindTooltip(
+                `<div>
+                     Shinsekai (J16)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_7968dc0a737366bad2210ef365978c83.setIcon(icon_83e71d88677b555e976b5d1168f1dbf9);
+            
+    
+            var marker_df25f3c5188f9d66994aac039a5afeb9 = L.marker(
+                [34.6851, 135.843],
+                {
+}
+            ).addTo(map_015643a5f015e60f7c114267963e3906);
+        
+    
+            var icon_4bb981053629c13ef8396a0869cb4971 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "deer",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_dc4a48ec002002b30c5db4d55cf7d809 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_a226548503be2e79c616b940ef902d43 = $(`<div id="html_a226548503be2e79c616b940ef902d43" style="width: 100.0%; height: 100.0%;"><b>Nara parc (J15)</b><br>Cerfs + Tōdai-ji plat</div>`)[0];
+                popup_dc4a48ec002002b30c5db4d55cf7d809.setContent(html_a226548503be2e79c616b940ef902d43);
+            
+        
+
+        marker_df25f3c5188f9d66994aac039a5afeb9.bindPopup(popup_dc4a48ec002002b30c5db4d55cf7d809)
+        ;
+
+        
+    
+    
+            marker_df25f3c5188f9d66994aac039a5afeb9.bindTooltip(
+                `<div>
+                     Nara parc (J15)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_df25f3c5188f9d66994aac039a5afeb9.setIcon(icon_4bb981053629c13ef8396a0869cb4971);
+            
+    
+            var marker_90b8c0a95699b99cfe1cf3f62731f853 = L.marker(
+                [34.689, 135.8397],
+                {
+}
+            ).addTo(map_015643a5f015e60f7c114267963e3906);
+        
+    
+            var icon_c2ce0dca69b7056b46c932b36fb87ae8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "landmark",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9fc7c75330d8e91282ce7a50078446a1 = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_0ef6328810eb7ace5ca623da61264198 = $(`<div id="html_0ef6328810eb7ace5ca623da61264198" style="width: 100.0%; height: 100.0%;"><b>Tōdai-ji (J15)</b><br>Grand Bouddha — accessible</div>`)[0];
+                popup_9fc7c75330d8e91282ce7a50078446a1.setContent(html_0ef6328810eb7ace5ca623da61264198);
+            
+        
+
+        marker_90b8c0a95699b99cfe1cf3f62731f853.bindPopup(popup_9fc7c75330d8e91282ce7a50078446a1)
+        ;
+
+        
+    
+    
+            marker_90b8c0a95699b99cfe1cf3f62731f853.bindTooltip(
+                `<div>
+                     Tōdai-ji (J15)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_90b8c0a95699b99cfe1cf3f62731f853.setIcon(icon_c2ce0dca69b7056b46c932b36fb87ae8);
+            
+    
+            var marker_a6502cff82955bb41d90f499b4c6a525 = L.marker(
+                [34.6654, 135.4322],
+                {
+}
+            ).addTo(map_015643a5f015e60f7c114267963e3906);
+        
+    
+            var icon_da4011a53eeb169817de232d2c6e6e81 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "roller-coaster",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_55e65b221ded9c942a7fd05305fe575c = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_de6eb1359596d32879b3f67d35365b9f = $(`<div id="html_de6eb1359596d32879b3f67d35365b9f" style="width: 100.0%; height: 100.0%;"><b>USJ (J17 option)</b><br>Fauteuil roulant gratuit</div>`)[0];
+                popup_55e65b221ded9c942a7fd05305fe575c.setContent(html_de6eb1359596d32879b3f67d35365b9f);
+            
+        
+
+        marker_a6502cff82955bb41d90f499b4c6a525.bindPopup(popup_55e65b221ded9c942a7fd05305fe575c)
+        ;
+
+        
+    
+    
+            marker_a6502cff82955bb41d90f499b4c6a525.bindTooltip(
+                `<div>
+                     USJ (J17 option)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a6502cff82955bb41d90f499b4c6a525.setIcon(icon_da4011a53eeb169817de232d2c6e6e81);
+            
+    
+            var marker_a180c6319105ab3d2d0ce49e8ad24fcb = L.marker(
+                [34.8422, 135.4695],
+                {
+}
+            ).addTo(map_015643a5f015e60f7c114267963e3906);
+        
+    
+            var icon_737ba821eb7529595138ec3f118ae1cd = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "water",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4941cd5ec3fb39de1cc5cd7530b7cb7f = L.popup({
+  "maxWidth": 220,
+});
+
+        
+            
+                var html_ac3f8cfa01411ea9a23de189c12329d4 = $(`<div id="html_ac3f8cfa01411ea9a23de189c12329d4" style="width: 100.0%; height: 100.0%;"><b>Minoo cascade (J17 alt)</b><br>Balade plate fraîche</div>`)[0];
+                popup_4941cd5ec3fb39de1cc5cd7530b7cb7f.setContent(html_ac3f8cfa01411ea9a23de189c12329d4);
+            
+        
+
+        marker_a180c6319105ab3d2d0ce49e8ad24fcb.bindPopup(popup_4941cd5ec3fb39de1cc5cd7530b7cb7f)
+        ;
+
+        
+    
+    
+            marker_a180c6319105ab3d2d0ce49e8ad24fcb.bindTooltip(
+                `<div>
+                     Minoo cascade (J17 alt)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a180c6319105ab3d2d0ce49e8ad24fcb.setIcon(icon_737ba821eb7529595138ec3f118ae1cd);
+            
+    
+            var circle_afb20e60e191c413489b6a88d3db2d89 = L.circle(
+                [34.6665, 135.5016],
+                {"bubblingMouseEvents": true, "color": "#27ae60", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#27ae60", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2000, "stroke": true, "weight": 2}
+            ).addTo(map_015643a5f015e60f7c114267963e3906);
+        
+    
+            var circle_4de0af4eb02838e342bfb8ec0410d54e = L.circle(
+                [34.6665, 135.5016],
+                {"bubblingMouseEvents": true, "color": "#f39c12", "dashArray": "5,5", "dashOffset": null, "fill": false, "fillColor": "#f39c12", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3000, "stroke": true, "weight": 2}
+            ).addTo(map_015643a5f015e60f7c114267963e3906);
+        
+    
+            L.control.fullscreen(
+                {
+  "position": "topleft",
+  "title": "Full Screen",
+  "titleCancel": "Exit Full Screen",
+  "forceSeparateButton": false,
+}
+            ).addTo(map_015643a5f015e60f7c114267963e3906);
+        
+</script>
+</html>
