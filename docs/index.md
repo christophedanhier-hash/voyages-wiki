@@ -45,7 +45,7 @@
 
 ### 🧑‍✈️ Voyages Tof
 
-- 🇮🇹 [Italie](italie/index.md) → 📋 En préparation (09/2026)
+- 🇮🇹 [Italie](italie/index.md) → ✅ Effectué (09-10/2026)
 - 🇮🇨 [Canaries](canaries-2027/index.md) → 📋 En préparation (02/2027 — Camille & Jérémy)
 
 ### 🤖 Voyages Amis (Bot)

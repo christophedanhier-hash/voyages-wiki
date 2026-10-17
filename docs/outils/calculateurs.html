@@ -5,32 +5,39 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Calculateurs voyage — Sylvia</title>
 <style>
-:root{--vert:#1e7d43;--vert-clair:#2ecc71;--fond:#f3faf5;--texte:#222;--bord:#bbb}
+/* Charte alignée sur le site astro tofdan.be (thème sombre par défaut) */
+:root{--bg:#0a0a1a;--bg-alt:#0f0f2a;--card:#141432;--card-hover:#1a1a40;--primary:#4f46e5;--primary-hover:#4338ca;--accent:#7c3aed;--text:#e2e8f0;--muted:#94a3b8;--border:rgba(79,70,229,.2)}
 *{box-sizing:border-box}
-body{font-family:DejaVu Sans,Arial,sans-serif;font-size:16px;line-height:1.45;color:var(--texte);margin:0;background:#fff}
-header{background:var(--vert);color:#fff;padding:14px 16px}
-header h1{margin:0;font-size:1.3em}
-header p{margin:4px 0 0;font-size:.85em;opacity:.9}
+body{font-family:DejaVu Sans,Arial,sans-serif;font-size:16px;line-height:1.45;color:var(--text);margin:0;background:var(--bg)}
+header{background:var(--bg-alt);border-bottom:1px solid var(--border);padding:14px 16px}
+.header__inner{max-width:640px;margin:0 auto}
+header h1{margin:6px 0 0;font-size:1.3em}
+header p{margin:4px 0 0;font-size:.85em;color:var(--muted)}
+a{color:#a5b4fc}
+.back{display:inline-block;font-size:.85em;text-decoration:none;border:1px solid var(--border);border-radius:6px;padding:3px 10px}
 main{max-width:640px;margin:0 auto;padding:12px 14px 40px}
-section{border:1px solid var(--bord);border-radius:10px;padding:12px 14px;margin:14px 0;background:var(--fond)}
-section h2{margin:0 0 8px;font-size:1.1em;color:var(--vert);border-bottom:2px solid var(--vert-clair);padding-bottom:4px}
-label{display:block;margin:8px 0 2px;font-size:.9em}
-input,select{width:100%;font-size:16px;padding:8px;border:1px solid var(--bord);border-radius:6px}
+section{border:1px solid var(--border);border-radius:10px;padding:12px 14px;margin:14px 0;background:var(--card)}
+section h2{margin:0 0 8px;font-size:1.1em;color:var(--text);border-bottom:2px solid var(--primary);padding-bottom:4px}
+label{display:block;margin:8px 0 2px;font-size:.9em;color:var(--muted)}
+input,select{width:100%;font-size:16px;padding:8px;background:var(--bg-alt);color:var(--text);border:1px solid var(--border);border-radius:6px}
 .row{display:flex;gap:8px}
 .row>div{flex:1}
-button{background:var(--vert);color:#fff;border:none;border-radius:8px;font-size:16px;padding:10px 16px;margin-top:10px;width:100%;cursor:pointer}
-button:active{background:#145a32}
-.result{background:#fff;border:1px solid var(--vert-clair);border-radius:8px;padding:10px;margin-top:10px;font-size:.95em}
-.result b{color:var(--vert)}
-.alert{color:#b03a2e;font-weight:bold}
-footer{text-align:center;color:#777;font-size:.75em;margin:20px 0}
-.hint{font-size:.8em;color:#555}
+button{background:var(--primary);color:#fff;border:none;border-radius:8px;font-size:16px;padding:10px 16px;margin-top:10px;width:100%;cursor:pointer}
+button:active{background:var(--primary-hover)}
+.result{background:var(--bg-alt);border:1px solid var(--border);border-radius:8px;padding:10px;margin-top:10px;font-size:.95em}
+.result b{color:#c4b5fd}
+.alert{color:#f87171;font-weight:bold}
+footer{text-align:center;color:var(--muted);font-size:.75em;margin:20px 0}
+.hint{font-size:.8em;color:var(--muted)}
 </style>
 </head>
 <body>
 <header>
-<h1>Calculateurs voyage — Sylvia</h1>
+<div class="header__inner">
+<a class="back" href="../">← Voyages</a>
+<h1>🧮 Calculateurs voyage — Sylvia</h1>
 <p>Temps de route, carburant, budget, distance — paramètres camping-car Christophe</p>
+</div>
 </header>
 <main>
 

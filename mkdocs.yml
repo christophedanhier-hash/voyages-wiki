@@ -26,9 +26,6 @@ theme:
 nav:
   - 🏠 Accueil: index.md
   - 🧑‍✈️ Voyages Tof:
-    - 🇮🇹 Italie (09/2026): italie/index.md
-    - 🚐 Annexe navigation Italie: italie/annexe-navigation-cc-italie-2026.md
-    - 🌤️ Annexe météo Italie: italie/annexe-meteo-previsionnelle.md
     - 🇮🇨 Canaries (02/2027 — Camille & Jérémy): canaries-2027/index.md
     - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Écosse (05/2027): ecosse-2027/index.md
     - 🇯🇵 Japon (10/2027 — 60 ans Tof): japon-2027/index.md
@@ -41,6 +38,9 @@ nav:
   - ✅ Voyages passés:
     - 🇫🇷 Lac d'Orient (08/2026): lac-orient-2026/index.md
     - 🇫🇷 Canet (06/2026): weekend-canet/index.md
+    - 🇮🇹 Italie (09-10/2026) ✅: italie/index.md
+    - 🚐 Annexe navigation Italie: italie/annexe-navigation-cc-italie-2026.md
+    - 🌤️ Annexe météo Italie: italie/annexe-meteo-previsionnelle.md
   - 📖 Guide utilisateur: guide-utilisateur.md
   - 🧰 Outils:
     - 🧰 Boîte à outils: outils/index.md

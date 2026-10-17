@@ -1,6 +1,10 @@
 # 🇮🇹 Voyage Italie — Septembre/Octobre 2026
 
 > **🗓️ 11/09/2026 → 11/10/2026 | 🚐 31 jours calendaires | 🛌 30 nuits | 📏 ~4 104 km**
+>
+> ## ✅ VOYAGE EFFECTUÉ
+>
+> Retour à Sombreffe le 11/10/2026 — Riva, Vérone, Peschiera-Lazise, thermes de Sirmione : super voyage.
 
 ---
 
@@ -60,10 +64,10 @@
 | 22 | 02/10 | Venise — Lido ou quartiers | — | 2 959 | Europa Village |
 | 23 | 03/10 | Cavallino → Lac de Garde / Desenzano | 164 km | 3 123 | San Francesco |
 | 24 | 04/10 | Lac de Garde — bateaux, sans voiture | — | 3 123 | San Francesco |
-| 25 | 05/10 | Prise voiture 10h → Sirmione, Salò, Gardone | — | 3 123 | San Francesco |
-| 26 | 06/10 | Torri, Bardolino, Malcesine — voiture | — | 3 123 | San Francesco |
-| 27 | 07/10 | Vérone — voiture | — | 3 123 | San Francesco |
-| 28 | 08/10 | Riva del Garda / Torbole — voiture | — | 3 123 | San Francesco |
+| 25 | 05/10 | Prise voiture 10h → Riva + Limone + Strada della Forra | — | 3 123 | San Francesco |
+| 26 | 06/10 | Vérone — voiture (Arènes, Erbe, Juliette, Castelvecchio) | — | 3 123 | San Francesco |
+| 27 | 07/10 | Peschiera + Lazise, marché (idée de Nancy) — voiture | — | 3 123 | San Francesco |
+| 28 | 08/10 | Thermes de Sirmione + massage duo (pluie) — voiture | — | 3 123 | San Francesco |
 | 29 | 09/10 | Retour voiture 10h ; repos au camping | — | 3 123 | San Francesco |
 | 30 | 10/10 | Desenzano → Colmar | 515 km | 3 638 | Aire CC Schoenau — payé |
 | 31 | 11/10 | Colmar → Sombreffe | 466 km | **4 104** | Retour maison |
@@ -103,7 +107,10 @@ Le roadbook principal ne répète plus les programmes détaillés. Les horaires,
 | Pompéi | [Fiche 3 — Pompéi](https://drive.google.com/file/d/18iA5yUwN4r2cDtYgZxFcRwEqkMf4k9AZ/view) | Visite guidée GYG 18/09 10h30, RDV Piazza Esedra panneau « inStazione » |
 | Pouilles | [Fiche 4 — Pouilles](https://drive.google.com/file/d/1NEKhgiLTWztMsQIkECXnxAmgFLk3_zgP/view) | Trulli, Ostuni, Matera/Lecce, Polignano |
 | Venise | [Fiche 5 — Venise](https://drive.google.com/file/d/1NAYSXWy-sen6d5AUt4NSAXSTs3RWp6PK/view) | San Marco, Doges, Rialto, Murano, Burano |
-| Lac de Garde | [Fiche 6 — Lac de Garde](https://drive.google.com/file/d/1_Hm3e-fNkKhmphjlWz97tlNsn4tXGFP8/view) | Bateaux, Sirmione, Salò, rive est, Vérone, Riva |
+| Lac de Garde | [Fiche 6 — Lac de Garde](https://drive.google.com/file/d/1_Hm3e-fNkKhmphjlWz97tlNsn4tXGFP8/view) | Bateaux, Sirmione, Riva, Limone, Forra, rive est |
+| Lac de Garde | [Fiche Vérone](https://drive.google.com/file/d/1OsMdgY0VFBRBuUspIA-zdzQNx6cvZ9y6/view) | Arènes, Erbe, Juliette, Castelvecchio + 2 tables |
+| Lac de Garde | [Fiche Peschiera-Lazise](https://drive.google.com/file/d/13fzeAUO3UnQ6ozDvvDUzdbLySOM6sJKd/view) | Marché du mercredi, port, lungolago (idée de Nancy) |
+| Lac de Garde | [Fiche Thermes Sirmione](https://drive.google.com/file/d/1Tt5Lq6NRhvfDWXsD-udeL6fA1X1DjMI-/view) | Rituel duo 280 EUR, créneau 10h00, ZTL handicap |
 
 ---
 
@@ -172,10 +179,10 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 
 - **Samedi 03/10 :** installation, plage et piscine.
 - **Dimanche 04/10 :** journée bateau sans voiture, idéalement Desenzano–Sirmione ; horaires à confirmer au quai, car l’horaire été officiel publié va jusqu’au 04/10.
-- **Lundi 05/10 :** prise de la voiture à 10h, puis cap au nord : Riva del Garda (port, Apponale). Retour par la rive est.
-- **Mardi 06/10 :** rive sud-ouest : Salò (déjeuner), Gardone Riviera et Vittoriale degli italiani (2h30).
-- **Mercredi 07/10 :** Strada della Forra le matin, Terrazza del Brivido (Tremosine, optionnel pour Sylvie), puis Limone sul Garda (limonaia, ruelles, passerelle bois).
-- **Jeudi 08/10 :** Vérone (temps moins beau, ville idéale) : Arènes, Piazza Bra, Erbe, Juliette, Castelvecchio, San Pietro. Parking Centro/Cittadella hors ZTL.
+- **Lundi 05/10 :** prise de la voiture à 10h, puis cap au nord : Riva del Garda (port), Limone sul Garda (limonaia, ruelles) et Strada della Forra — 3 visites en une étape.
+- **Mardi 06/10 :** Vérone (beau temps) : Arènes, Piazza Bra, Erbe, Juliette, Castelvecchio, San Pietro. Parking Centro/Cittadella hors ZTL. Fiche Vérone dédiée.
+- **Mercredi 07/10 :** Peschiera del Garda + Lazise (idée de Nancy) : forteresse et canaux le matin, marché du mercredi à Lazise, déjeuner au lungolago. Fiche Peschiera-Lazise dédiée.
+- **Jeudi 08/10 :** Thermes de Sirmione (journée pluie) : rituel duo « I profumi di Sirmione » + massage 50 min, créneau 10h00. Fiche Thermes dédiée.
 - **Vendredi 09/10 :** restitution à 10h00, retour au camping, piscine, plage et repos uniquement.
 - **Mobilité :** les bateaux sont privilégiés quand les horaires le permettent ; les journées en voiture sont limitées à quelques lieux principaux.
 
@@ -190,7 +197,7 @@ Cette section donne la vision générale du séjour. Les fiches PDF complètent 
 | Pompéi | Forum, Thermes, Maison du Faune, Villa des Mystères | Sanctuaire, parcours complet du site |
 | Pouilles | Alberobello, Ostuni, Matera ou Lecce, Monopoli, Polignano | Torre Canne, criques éloignées, programme trop chargé |
 | Venise | San Marco, Doges, Rialto, Murano, Burano | Lido à vélo, gondole, tour privé |
-| Lac de Garde | Sirmione, Vérone, Riva, rive est | Limone, Monte Baldo, Vittoriale, Gola del Ponale |
+| Lac de Garde | Sirmione, Vérone, Riva, Limone, Peschiera, Lazise, thermes | Monte Baldo, Vittoriale (reporté), Bardolino, Malcesine |
 
 > Règle générale : une option est supprimée dès qu’elle transforme la journée en course ou dépasse le rythme de Sylvie. Les horaires complets et les cartes restent dans les fiches PDF.
 

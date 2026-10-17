@@ -137,7 +137,7 @@ R : Si tu es invité, l'abonnement 12 €/an est requis pour le chat. Christophe
 R : Sylvia refusera poliment et te rappellera son rôle.
 
 **Q : Mes données de voyage sont-elles privées ?**
-R : Oui, les roadbooks sont stockés dans le wiki privé BAVI LEO.
+R : Oui. Le site de lecture est https://tofdan.be/voyages/ — privé, connexion avec ton compte Google. GitHub ne sert que de sauvegarde invisible : rien n'y est lisible publiquement.
 
 **Q : Puis-je modifier un roadbook après sa création ?**
 R : Oui, il suffit de redemander à Sylvia de le compléter — elle ajoutera les modifications.
