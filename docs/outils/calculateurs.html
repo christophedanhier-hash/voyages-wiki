@@ -5,15 +5,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Calculateurs voyage — Sylvia</title>
 <style>
-/* Charte alignée sur le site astro tofdan.be (thème sombre par défaut) */
-:root{--bg:#0a0a1a;--bg-alt:#0f0f2a;--card:#141432;--card-hover:#1a1a40;--primary:#4f46e5;--primary-hover:#4338ca;--accent:#7c3aed;--text:#e2e8f0;--muted:#94a3b8;--border:rgba(79,70,229,.2)}
+/* Charte alignée sur le site astro tofdan.be — CLAIR par défaut, sombre en option */
+:root{--bg:#f8fafc;--bg-alt:#f1f5f9;--card:#ffffff;--card-hover:#e2e8f0;--primary:#4f46e5;--primary-hover:#4338ca;--accent:#7c3aed;--text:#1e293b;--muted:#475569;--border:rgba(79,70,229,.15);--link:#4f46e5;--hl:#6d28d9;--err:#dc2626}
+[data-theme="dark"]{--bg:#0a0a1a;--bg-alt:#0f0f2a;--card:#141432;--card-hover:#1a1a40;--primary:#7872e5;--primary-hover:#4338ca;--accent:#9765ed;--text:#e2e8f0;--muted:#94a3b8;--border:rgba(79,70,229,.2);--link:#a5b4fc;--hl:#c4b5fd;--err:#f87171}
+.theme-toggle{position:fixed;bottom:24px;right:24px;z-index:9999;width:44px;height:44px;border-radius:50%;border:2px solid var(--border);background:var(--card);color:var(--text);font-size:20px;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0;margin:0}
 *{box-sizing:border-box}
 body{font-family:DejaVu Sans,Arial,sans-serif;font-size:16px;line-height:1.45;color:var(--text);margin:0;background:var(--bg)}
 header{background:var(--bg-alt);border-bottom:1px solid var(--border);padding:14px 16px}
 .header__inner{max-width:640px;margin:0 auto}
 header h1{margin:6px 0 0;font-size:1.3em}
 header p{margin:4px 0 0;font-size:.85em;color:var(--muted)}
-a{color:#a5b4fc}
+a{color:var(--link)}
 .back{display:inline-block;font-size:.85em;text-decoration:none;border:1px solid var(--border);border-radius:6px;padding:3px 10px}
 main{max-width:640px;margin:0 auto;padding:12px 14px 40px}
 section{border:1px solid var(--border);border-radius:10px;padding:12px 14px;margin:14px 0;background:var(--card)}
@@ -25,8 +27,8 @@ input,select{width:100%;font-size:16px;padding:8px;background:var(--bg-alt);colo
 button{background:var(--primary);color:#fff;border:none;border-radius:8px;font-size:16px;padding:10px 16px;margin-top:10px;width:100%;cursor:pointer}
 button:active{background:var(--primary-hover)}
 .result{background:var(--bg-alt);border:1px solid var(--border);border-radius:8px;padding:10px;margin-top:10px;font-size:.95em}
-.result b{color:#c4b5fd}
-.alert{color:#f87171;font-weight:bold}
+.result b{color:var(--hl)}
+.alert{color:var(--err);font-weight:bold}
 footer{text-align:center;color:var(--muted);font-size:.75em;margin:20px 0}
 .hint{font-size:.8em;color:var(--muted)}
 </style>
@@ -110,6 +112,7 @@ footer{text-align:center;color:var(--muted);font-size:.75em;margin:20px 0}
 </section>
 
 </main>
+<button class="theme-toggle" id="themeToggle" onclick="toggleTheme()" aria-label="Basculer jour/nuit">🌙</button>
 <footer>Généré par Sylvia — BAVI LEO Voyages · usage privé</footer>
 
 <script>
@@ -187,6 +190,9 @@ async function calcDistance(){
       '<br>En CC (~100 km/h) : <b>' + h + 'h' + ('0'+m).slice(-2) + '</b> + 1 h buffer';
   }catch(e){ box.innerHTML = '<span class="alert">' + e.message + ' Réessayez (service OSRM parfois saturé).</span>'; }
 }
+(function(){var t=localStorage.getItem('sylvia-theme');if(t==='dark'){document.documentElement.setAttribute('data-theme','dark');}syncToggle();})();
+function toggleTheme(){var d=document.documentElement.getAttribute('data-theme')==='dark';if(d){document.documentElement.removeAttribute('data-theme');localStorage.setItem('sylvia-theme','light');}else{document.documentElement.setAttribute('data-theme','dark');localStorage.setItem('sylvia-theme','dark');}syncToggle();}
+function syncToggle(){var d=document.documentElement.getAttribute('data-theme')==='dark';document.getElementById('themeToggle').textContent=d?'☀️':'🌙';}
 </script>
 </body>
 </html>
