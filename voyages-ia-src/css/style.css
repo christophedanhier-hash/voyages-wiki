@@ -472,3 +472,23 @@ img { max-width: 100%; display: block; }
 @media (prefers-reduced-motion: reduce) {
   .nav__list, .nav__toggle span { transition: none !important; }
 }
+
+/* ===================== TABLES / ROADBOOK / RECHERCHE ===================== */
+.table-wrap { overflow-x: auto; margin: 18px 0; border: 1px solid var(--color-border); border-radius: var(--radius); }
+.table { width: 100%; border-collapse: collapse; font-size: 0.93rem; }
+.table th { background: #4f46e5; color: #fff; padding: 10px 12px; text-align: left; white-space: nowrap; }
+.table td { padding: 9px 12px; border-top: 1px solid var(--color-border); vertical-align: top; }
+.table tbody tr:nth-child(even) { background: var(--color-bg-card-hover); }
+.roadbook h3 { margin: 26px 0 10px; }
+.roadbook ul { margin: 10px 0 10px 22px; }
+.roadbook li, .roadbook p { margin-bottom: 8px; line-height: 1.6; }
+.note { margin: 16px 0; padding: 12px 18px; border-left: 4px solid #4f46e5; background: var(--color-bg-card); border-radius: var(--radius); }
+.badge { display: inline-block; margin: 10px 0; padding: 6px 16px; border-radius: var(--radius-full); font-weight: 700; }
+.badge--done { background: #16a34a; color: #fff; }
+.map-frame { width: 100%; height: 550px; border: 2px solid var(--color-border); border-radius: var(--radius); }
+.hero--compact { padding-top: 40px; padding-bottom: 36px; }
+.search__input { width: 100%; padding: 14px 18px; font-size: 1.05rem; border: 1px solid var(--color-border); border-radius: var(--radius); background: var(--color-bg-card); color: var(--color-text); }
+.search__results { margin-top: 22px; }
+.search__item { padding: 14px 18px; margin-bottom: 12px; background: var(--color-bg-card); border: 1px solid var(--color-border); border-radius: var(--radius); }
+.search__item a { font-weight: 600; font-size: 1.1rem; }
+.search__item p { margin-top: 6px; color: var(--color-text-muted); }

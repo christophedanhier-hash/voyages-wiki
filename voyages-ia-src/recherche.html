@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Voyages — roadbooks camping-car, itinéraires, fiches d'excursion et calculateurs. Le carnet de voyage de Sylvia.">
+<title>Recherche — VOYAGES</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%234f46e5'/%3E%3Cpath d='M7 19l4-6 3 4 3-5 8 7v3H7z' fill='%23fff'/%3E%3Ccircle cx='23' cy='10' r='2.2' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="header">
+  <div class="header__inner">
+    <a href="index.html" class="header__logo">
+      <span class="header__logo-icon">🧭</span>
+      VOYAGES
+    </a>
+    <nav class="nav" aria-label="Navigation principale">
+      <button class="nav__toggle" aria-label="Menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav__list">
+        <li><a href="index.html" class="nav__link">Accueil</a></li>
+        <li><a href="calculateurs.html" class="nav__link">Calculateurs</a></li>
+        <li><a href="roadbooks/italie.html" class="nav__link">Roadbooks</a></li>
+        <li><a href="recherche.html" class="nav__link">Recherche</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main class="main">
+  <section class="hero hero--compact">
+    <div class="hero__content">
+      <div class="hero__icon">🔎</div>
+      <h1 class="hero__title">Recherche</h1>
+      <p class="hero__text">Cherchez dans toutes les pages du site.</p>
+    </div>
+  </section>
+  <section class="section"><div class="container">
+    <form class="search__form" role="search" onsubmit="return false">
+      <input type="search" id="searchInput" class="search__input" placeholder="Rechercher (ex. Vérone)…" aria-label="Rechercher" autocomplete="off">
+    </form>
+    <div id="searchResults" class="search__results" aria-live="polite"></div>
+  </div></section>
+</main>
+
+<button class="theme-toggle" id="themeToggle" onclick="toggleTheme()" aria-label="Basculer jour/nuit">🌙</button>
+
+<footer class="footer">
+  <div class="footer__inner">
+    <p class="footer__copyright">Généré par Sylvia — BAVI LEO Voyages · 2026</p>
+    <div class="footer__links">
+      <span class="footer__link">Site privé</span>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+</body>
+</html>

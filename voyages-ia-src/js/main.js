@@ -60,4 +60,33 @@
       });
     });
   });
+
+  /* ---- Recherche globale ---- */
+  document.addEventListener('DOMContentLoaded', function () {
+    var input = document.getElementById('searchInput');
+    var out = document.getElementById('searchResults');
+    if (!input || !out) return;
+    var data = [];
+    function norm(t) { return t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase(); }
+    function esc(t) { return t.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+    function render() {
+      var q = norm(input.value.trim());
+      if (!q) { out.innerHTML = ''; return; }
+      var html = '';
+      data.forEach(function (page) {
+        var hits = page.extraits.filter(function (e) { return norm(e).indexOf(q) !== -1; });
+        if (norm(page.titre).indexOf(q) === -1 && !hits.length) return;
+        html += '<div class="search__item"><a href="' + esc(page.url) + '">' + esc(page.titre) + '</a>';
+        (hits.length ? hits : page.extraits.slice(0, 1)).slice(0, 3).forEach(function (e) {
+          html += '<p>' + esc(e) + '</p>';
+        });
+        html += '</div>';
+      });
+      out.innerHTML = html || '<p>Aucun résultat.</p>';
+    }
+    fetch('data/search.json').then(function (r) { return r.json(); }).then(function (d) {
+      data = d; render();
+    }).catch(function () { out.innerHTML = '<p>Index de recherche indisponible.</p>'; });
+    input.addEventListener('input', render);
+  });
 })();
