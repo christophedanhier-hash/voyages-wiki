@@ -23,7 +23,7 @@
    "Bientôt",
    "Espaces",
    "Christophe & Sylvie — Nos roadbooks et outils.",
-   "Pascal & Agnès — Roadbook Scandinavie (08→10/2026). Bientôt"
+   "Amis — Les espaces de voyage des amis — Pascal & Agnès pour l'instant."
   ]
  },
  {
@@ -465,6 +465,15 @@
    "Japon — 10/2027 — 60 ans — Bientôt",
    "Paris — 11/2026 — Camille & Célestine — Bientôt",
    "Calculateurs"
+  ]
+ },
+ {
+  "titre": "Espace Amis",
+  "url": "espaces/amis.html",
+  "extraits": [
+   "Les espaces de voyage des amis.",
+   "Pascal & Agnès",
+   "Roadbook Scandinavie (08→10/2026). Bientôt"
   ]
  }
 ]
