@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Calculateurs voyage — temps de route camping-car, carburant, budget de séjour et distance routière entre deux lieux.">
+<title>Calculateurs — Voyages Sylvia</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%234f46e5'/%3E%3Cpath d='M7 19l4-6 3 4 3-5 8 7v3H7z' fill='%23fff'/%3E%3Ccircle cx='23' cy='10' r='2.2' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="header">
+  <div class="header__inner">
+    <a href="index.html" class="header__logo">
+      <span class="header__logo-icon">🧭</span>
+      VOYAGES
+    </a>
+    <nav class="nav" aria-label="Navigation principale">
+      <button class="nav__toggle" aria-label="Menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav__list">
+        <li><a href="index.html" class="nav__link">Accueil</a></li>
+        <li><a href="calculateurs.html" class="nav__link">Calculateurs</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main class="main">
+
+  <section class="hero">
+    <div class="hero__content">
+      <div class="hero__icon">🧮</div>
+      <h1 class="hero__title">Calculateurs voyage</h1>
+      <p class="hero__text">Temps de route, carburant, budget de séjour et distance routière — réglés sur les paramètres du camping-car.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="calc">
+
+        <div class="calc__card">
+          <h2>1. Temps de route camping-car</h2>
+          <div class="calc__row">
+            <div class="calc__field"><label for="t-aut">Km autoroute</label><input id="t-aut" type="text" inputmode="decimal" value="400"></div>
+            <div class="calc__field"><label for="t-route">Km routes ordinaires</label><input id="t-route" type="text" inputmode="decimal" value="86"></div>
+          </div>
+          <div class="calc__row">
+            <div class="calc__field"><label for="t-dep">Heure de départ</label><input id="t-dep" type="time" value="08:00"></div>
+          </div>
+          <label class="calc__check"><input id="t-repas" type="checkbox" checked> Pause repas 30 min (trajets &gt; 3 h)</label>
+          <button class="btn btn--primary calc__btn" onclick="calcTemps()">Calculer l'arrivée</button>
+          <div class="calc__result" id="t-res">Vitesses retenues : 100 km/h sur autoroute, 80 km/h ailleurs, plus 1 h de marge à l'arrivée.</div>
+        </div>
+
+        <div class="calc__card">
+          <h2>2. Carburant</h2>
+          <div class="calc__row">
+            <div class="calc__field"><label for="c-km">Distance (km)</label><input id="c-km" type="text" inputmode="decimal" value="486"></div>
+            <div class="calc__field"><label for="c-conso">Consommation (L/100 km)</label><input id="c-conso" type="text" inputmode="decimal" value="10"></div>
+          </div>
+          <div class="calc__row">
+            <div class="calc__field"><label for="c-prix">Prix du diesel (EUR/L)</label><input id="c-prix" type="text" inputmode="decimal" value="1,75"></div>
+            <div class="calc__field"><label for="c-niv">Réservoir au départ (%)</label><input id="c-niv" type="text" inputmode="decimal" value="100"></div>
+          </div>
+          <button class="btn btn--primary calc__btn" onclick="calcCarburant()">Calculer</button>
+          <div class="calc__result" id="c-res">Réservoir de référence : 65 L.</div>
+        </div>
+
+        <div class="calc__card">
+          <h2>3. Budget de séjour</h2>
+          <div class="calc__row">
+            <div class="calc__field"><label for="b-nuits">Nuits de camping</label><input id="b-nuits" type="text" inputmode="decimal" value="7"></div>
+            <div class="calc__field"><label for="b-prixnuit">Prix par nuit (EUR)</label><input id="b-prixnuit" type="text" inputmode="decimal" value="35"></div>
+          </div>
+          <div class="calc__row">
+            <div class="calc__field"><label for="b-km">Km total du séjour</label><input id="b-km" type="text" inputmode="decimal" value="1200"></div>
+            <div class="calc__field"><label for="b-peages">Péages et vignettes (EUR)</label><input id="b-peages" type="text" inputmode="decimal" value="42"></div>
+          </div>
+          <div class="calc__row">
+            <div class="calc__field"><label for="b-vis">Visites par personne (EUR)</label><input id="b-vis" type="text" inputmode="decimal" value="60"></div>
+            <div class="calc__field"><label for="b-voy">Voyageurs</label><input id="b-voy" type="text" inputmode="numeric" value="2"></div>
+          </div>
+          <div class="calc__row">
+            <div class="calc__field"><label for="b-repas">Repas par jour (EUR)</label><input id="b-repas" type="text" inputmode="decimal" value="50"></div>
+            <div class="calc__field"><label for="b-jours">Jours</label><input id="b-jours" type="text" inputmode="numeric" value="8"></div>
+          </div>
+          <div class="calc__row">
+            <div class="calc__field"><label for="b-extra">Divers (EUR)</label><input id="b-extra" type="text" inputmode="decimal" value="0"></div>
+          </div>
+          <button class="btn btn--primary calc__btn" onclick="calcBudget()">Calculer le budget</button>
+          <div class="calc__result" id="b-res">Le carburant est repris du calculateur n°2 (10 L/100 km, 1,75 EUR/L).</div>
+        </div>
+
+        <div class="calc__card">
+          <h2>4. Distance A → B (routière réelle)</h2>
+          <div class="calc__row">
+            <div class="calc__field"><label for="d-a">Lieu de départ</label><input id="d-a" type="text" value="Desenzano del Garda, Italie"></div>
+            <div class="calc__field"><label for="d-b">Lieu d'arrivée</label><input id="d-b" type="text" value="Vérone, Italie"></div>
+          </div>
+          <div class="calc__row">
+            <div class="calc__field">
+              <label for="d-pays">Pays (pour le géocodage)</label>
+              <select id="d-pays">
+                <option value="it" selected>Italie</option>
+                <option value="fr">France</option>
+                <option value="be">Belgique</option>
+                <option value="es">Espagne</option>
+                <option value="de">Allemagne</option>
+                <option value="ch">Suisse</option>
+                <option value="nl">Pays-Bas</option>
+              </select>
+            </div>
+          </div>
+          <button class="btn btn--primary calc__btn" onclick="calcDistance()">Calculer la distance</button>
+          <div class="calc__result" id="d-res">Géocodage Nominatim et routage OSRM, en direct.</div>
+          <p class="calc__hint">Vérifiez le lieu trouvé affiché avant de prendre la route.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<button class="theme-toggle" id="themeToggle" onclick="toggleTheme()" aria-label="Basculer jour/nuit">🌙</button>
+
+<footer class="footer">
+  <div class="footer__inner">
+    <p class="footer__copyright">Généré par Sylvia — BAVI LEO Voyages · 2026</p>
+    <div class="footer__links">
+      <span class="footer__link">Site privé</span>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+<script>
+var SYLVIA_DEFAULTS = { vAutoroute: 100, vRoutes: 80, bufferH: 1, repasMin: 30,
+                        conso: 10, reservoir: 65, prixDiesel: 1.75, vignetteCH: 42 };
+
+function num(id) {
+  var v = document.getElementById(id).value.trim().replace(',', '.');
+  var n = parseFloat(v);
+  return isNaN(n) ? 0 : n;
+}
+function fr(n, d) { return n.toLocaleString('fr-FR', { minimumFractionDigits: d || 0, maximumFractionDigits: d || 0 }); }
+function hm(date) { return ('0' + date.getHours()).slice(-2) + 'h' + ('0' + date.getMinutes()).slice(-2); }
+
+function calcTemps() {
+  var ka = num('t-aut'), kr = num('t-route');
+  var conduite = ka / SYLVIA_DEFAULTS.vAutoroute + kr / SYLVIA_DEFAULTS.vRoutes;
+  var repas = (document.getElementById('t-repas').checked && conduite > 3) ? SYLVIA_DEFAULTS.repasMin / 60 : 0;
+  var total = conduite + repas + SYLVIA_DEFAULTS.bufferH;
+  var dep = document.getElementById('t-dep').value.split(':');
+  var arr = new Date();
+  arr.setHours(parseInt(dep[0] || '8', 10), parseInt(dep[1] || '0', 10), 0, 0);
+  arr = new Date(arr.getTime() + total * 3600 * 1000);
+  var hc = Math.floor(conduite), mc = Math.round((conduite - hc) * 60);
+  document.getElementById('t-res').innerHTML =
+    'Conduite : <b>' + hc + 'h' + ('0' + mc).slice(-2) + '</b> pour ' + fr(ka + kr) + ' km' +
+    (repas ? ' (pause repas de 30 min incluse)' : '') +
+    '<br>Arrivée prudente, marge de 1 h comprise : <b>' + hm(arr) + '</b>';
+}
+
+function calcCarburant() {
+  var km = num('c-km');
+  var conso = num('c-conso') || SYLVIA_DEFAULTS.conso;
+  var prix = num('c-prix') || SYLVIA_DEFAULTS.prixDiesel;
+  var niv = num('c-niv');
+  var litres = km * conso / 100, cout = litres * prix;
+  var dispo = SYLVIA_DEFAULTS.reservoir * niv / 100;
+  var pleins = Math.max(0, Math.ceil((litres - dispo) / SYLVIA_DEFAULTS.reservoir));
+  var html = 'Carburant nécessaire : <b>' + fr(litres, 1) + ' L</b> pour <b>' + fr(cout, 2) + ' EUR</b>' +
+             '<br>Pleins à prévoir : <b>' + pleins + '</b> (réservoir de 65 L)';
+  if (litres > dispo * 0.9) {
+    html += '<br><span class="calc__alert">Plein préventif conseillé avant une étape de montagne ou isolée.</span>';
+  }
+  document.getElementById('c-res').innerHTML = html;
+}
+
+function calcBudget() {
+  var camp = num('b-nuits') * num('b-prixnuit');
+  var km = num('b-km');
+  var carb = km * SYLVIA_DEFAULTS.conso / 100 * SYLVIA_DEFAULTS.prixDiesel;
+  var peag = num('b-peages'), vis = num('b-vis') * num('b-voy');
+  var rep = num('b-repas') * num('b-jours'), ext = num('b-extra');
+  var tot = camp + carb + peag + vis + rep + ext;
+  document.getElementById('b-res').innerHTML =
+    'Camping : <b>' + fr(camp, 2) + ' EUR</b><br>' +
+    'Carburant (' + fr(km) + ' km) : <b>' + fr(carb, 2) + ' EUR</b><br>' +
+    'Péages et vignettes : <b>' + fr(peag, 2) + ' EUR</b><br>' +
+    'Visites : <b>' + fr(vis, 2) + ' EUR</b><br>' +
+    'Repas : <b>' + fr(rep, 2) + ' EUR</b><br>' +
+    'Divers : <b>' + fr(ext, 2) + ' EUR</b><br>' +
+    '<b>Total estimé : ' + fr(tot, 2) + ' EUR</b>';
+}
+
+var VIEWBOX = {
+  it: '7.0,47.2,18.6,35.0', fr: '-5.0,51.5,8.5,41.0', be: '2.5,51.7,6.5,49.4',
+  es: '-9.5,44.0,3.5,35.5', de: '5.5,55.2,15.5,47.0', ch: '5.7,47.9,10.6,45.7',
+  nl: '3.0,53.7,7.5,50.7'
+};
+
+async function geocode(q, pays) {
+  var u = 'https://nominatim.openstreetmap.org/search?' + new URLSearchParams({
+    q: q, format: 'json', limit: '1', countrycodes: pays,
+    viewbox: VIEWBOX[pays] || VIEWBOX.it, bounded: '1'
+  });
+  var r = await fetch(u);
+  var j = await r.json();
+  if (!j || !j.length) throw new Error('Lieu introuvable : ' + q);
+  return { lat: j[0].lat, lon: j[0].lon, nom: j[0].display_name.split(',').slice(0, 2).join(',') };
+}
+
+async function calcDistance() {
+  var box = document.getElementById('d-res');
+  box.textContent = 'Calcul en cours…';
+  try {
+    var pays = document.getElementById('d-pays').value;
+    var a = await geocode(document.getElementById('d-a').value, pays);
+    var b = await geocode(document.getElementById('d-b').value, pays);
+    var u = 'https://router.project-osrm.org/route/v1/driving/' + a.lon + ',' + a.lat + ';' + b.lon + ',' + b.lat + '?overview=false';
+    var r = await fetch(u);
+    var j = await r.json();
+    if (!j.routes || !j.routes.length) throw new Error('Aucun itinéraire trouvé.');
+    var km = j.routes[0].distance / 1000, min = Math.round(j.routes[0].duration / 60);
+    var h = Math.floor(km / 100), m = Math.round((km / 100 - h) * 60);
+    box.innerHTML = 'De : <b>' + a.nom + '</b><br>À : <b>' + b.nom + '</b>' +
+      '<br>Distance : <b>' + fr(km, 1) + ' km</b> · environ ' + min + ' min en voiture' +
+      '<br>En camping-car (100 km/h) : <b>' + h + 'h' + ('0' + m).slice(-2) + '</b>, plus 1 h de marge';
+  } catch (e) {
+    box.innerHTML = '<span class="calc__alert">' + e.message + ' — réessayez, le service OSRM est parfois saturé.</span>';
+  }
+}
+</script>
+</body>
+</html>

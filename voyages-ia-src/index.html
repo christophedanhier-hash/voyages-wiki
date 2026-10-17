@@ -1,197 +1,103 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Calculateurs voyage — Sylvia</title>
-<style>
-/* Charte alignée sur le site astro tofdan.be — CLAIR par défaut, sombre en option */
-:root{--bg:#f8fafc;--bg-alt:#f1f5f9;--card:#ffffff;--card-hover:#e2e8f0;--primary:#4f46e5;--primary-hover:#4338ca;--accent:#7c3aed;--text:#1e293b;--muted:#475569;--border:rgba(79,70,229,.15);--link:#4f46e5;--hl:#6d28d9;--err:#dc2626}
-[data-theme="dark"]{--bg:#0a0a1a;--bg-alt:#0f0f2a;--card:#141432;--card-hover:#1a1a40;--primary:#7872e5;--primary-hover:#4338ca;--accent:#9765ed;--text:#e2e8f0;--muted:#94a3b8;--border:rgba(79,70,229,.2);--link:#a5b4fc;--hl:#c4b5fd;--err:#f87171}
-.theme-toggle{position:fixed;bottom:24px;right:24px;z-index:9999;width:44px;height:44px;border-radius:50%;border:2px solid var(--border);background:var(--card);color:var(--text);font-size:20px;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0;margin:0}
-*{box-sizing:border-box}
-body{font-family:DejaVu Sans,Arial,sans-serif;font-size:16px;line-height:1.45;color:var(--text);margin:0;background:var(--bg)}
-header{background:var(--bg-alt);border-bottom:1px solid var(--border);padding:14px 16px}
-.header__inner{max-width:640px;margin:0 auto}
-header h1{margin:6px 0 0;font-size:1.3em}
-header p{margin:4px 0 0;font-size:.85em;color:var(--muted)}
-a{color:var(--link)}
-.back{display:inline-block;font-size:.85em;text-decoration:none;border:1px solid var(--border);border-radius:6px;padding:3px 10px}
-main{max-width:640px;margin:0 auto;padding:12px 14px 40px}
-section{border:1px solid var(--border);border-radius:10px;padding:12px 14px;margin:14px 0;background:var(--card)}
-section h2{margin:0 0 8px;font-size:1.1em;color:var(--text);border-bottom:2px solid var(--primary);padding-bottom:4px}
-label{display:block;margin:8px 0 2px;font-size:.9em;color:var(--muted)}
-input,select{width:100%;font-size:16px;padding:8px;background:var(--bg-alt);color:var(--text);border:1px solid var(--border);border-radius:6px}
-.row{display:flex;gap:8px}
-.row>div{flex:1}
-button{background:var(--primary);color:#fff;border:none;border-radius:8px;font-size:16px;padding:10px 16px;margin-top:10px;width:100%;cursor:pointer}
-button:active{background:var(--primary-hover)}
-.result{background:var(--bg-alt);border:1px solid var(--border);border-radius:8px;padding:10px;margin-top:10px;font-size:.95em}
-.result b{color:var(--hl)}
-.alert{color:var(--err);font-weight:bold}
-footer{text-align:center;color:var(--muted);font-size:.75em;margin:20px 0}
-.hint{font-size:.8em;color:var(--muted)}
-</style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Voyages — roadbooks camping-car, itinéraires, fiches d'excursion et calculateurs. Le carnet de voyage de Sylvia.">
+<title>VOYAGES — Sylvia</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%234f46e5'/%3E%3Cpath d='M7 19l4-6 3 4 3-5 8 7v3H7z' fill='%23fff'/%3E%3Ccircle cx='23' cy='10' r='2.2' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<header>
-<div class="header__inner">
-<h1>🧮 Calculateurs voyage — Sylvia</h1>
-<p>Temps de route, carburant, budget, distance — paramètres camping-car Christophe</p>
-</div>
+
+<header class="header">
+  <div class="header__inner">
+    <a href="index.html" class="header__logo">
+      <span class="header__logo-icon">🧭</span>
+      VOYAGES
+    </a>
+    <nav class="nav" aria-label="Navigation principale">
+      <button class="nav__toggle" aria-label="Menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav__list">
+        <li><a href="index.html" class="nav__link">Accueil</a></li>
+        <li><a href="calculateurs.html" class="nav__link">Calculateurs</a></li>
+      </ul>
+    </nav>
+  </div>
 </header>
-<main>
 
-<section id="temps">
-<h2>1. Temps de route CC</h2>
-<div class="row">
-<div><label>Km autoroute</label><input id="t-aut" type="text" inputmode="decimal" value="400"></div>
-<div><label>Km routes ordinaires</label><input id="t-route" type="text" inputmode="decimal" value="86"></div>
-</div>
-<label>Heure de départ</label><input id="t-dep" type="time" value="08:00">
-<label><input id="t-repas" type="checkbox" checked style="width:auto"> Pause repas 30 min (trajets &gt; 3 h)</label>
-<button onclick="calcTemps()">Calculer l'arrivée</button>
-<div class="result" id="t-res">Exemple : 486 km tout autoroute, départ 08h00 → ~5 h de conduite → arrivée ~14h00.</div>
-</section>
+<main class="main">
 
-<section id="carburant">
-<h2>2. Carburant</h2>
-<div class="row">
-<div><label>Distance (km)</label><input id="c-km" type="text" inputmode="decimal" value="486"></div>
-<div><label>Conso (L/100 km)</label><input id="c-conso" type="text" inputmode="decimal" value="10"></div>
-</div>
-<div class="row">
-<div><label>Prix diesel (EUR/L)</label><input id="c-prix" type="text" inputmode="decimal" value="1,75"></div>
-<div><label>Réservoir au départ (%)</label><input id="c-niv" type="text" inputmode="decimal" value="100"></div>
-</div>
-<button onclick="calcCarburant()">Calculer</button>
-<div class="result" id="c-res">Réservoir 65 L.</div>
-</section>
+  <section class="hero">
+    <div class="hero__content">
+      <div class="hero__icon">🚐</div>
+      <h1 class="hero__title">VOYAGES</h1>
+      <p class="hero__text">Le carnet de voyage de Sylvia : roadbooks camping-car, itinéraires étape par étape, fiches d'excursion et outils de préparation.</p>
+      <div class="hero__actions">
+        <a href="calculateurs.html" class="btn btn--primary btn--lg">Ouvrir les calculateurs</a>
+      </div>
+    </div>
+  </section>
 
-<section id="budget">
-<h2>3. Budget séjour</h2>
-<div class="row">
-<div><label>Nuits camping</label><input id="b-nuits" type="text" inputmode="decimal" value="7"></div>
-<div><label>Prix/nuit (EUR)</label><input id="b-prixnuit" type="text" inputmode="decimal" value="35"></div>
-</div>
-<div class="row">
-<div><label>Km total séjour</label><input id="b-km" type="text" inputmode="decimal" value="1200"></div>
-<div><label>Péages + vignettes (EUR)</label><input id="b-peages" type="text" inputmode="decimal" value="42"></div>
-</div>
-<div class="row">
-<div><label>Visites/pers (EUR)</label><input id="b-vis" type="text" inputmode="decimal" value="60"></div>
-<div><label>Voyageurs</label><input id="b-voy" type="text" inputmode="numeric" value="2"></div>
-</div>
-<div class="row">
-<div><label>Repas/jour (EUR)</label><input id="b-repas" type="text" inputmode="decimal" value="50"></div>
-<div><label>Jours</label><input id="b-jours" type="text" inputmode="numeric" value="8"></div>
-</div>
-<label>Extra (EUR)</label><input id="b-extra" type="text" inputmode="decimal" value="0">
-<button onclick="calcBudget()">Calculer le budget</button>
-<div class="result" id="b-res">Carburant repris du calculateur n°2 (10 L/100, 1,75 EUR/L).</div>
-</section>
+  <section class="welcome">
+    <div class="container">
+      <p class="welcome__text">Bienvenue. Ce site rassemble la préparation des voyages : les roadbooks complets, les distances réelles, les fiches à emporter, et les outils pour chiffrer un séjour avant de partir. Tout se construit morceau par morceau — reviens régulièrement.</p>
+    </div>
+  </section>
 
-<section id="distance">
-<h2>4. Distance A → B (routier réel)</h2>
-<label>Lieu de départ</label><input id="d-a" type="text" value="Desenzano del Garda, Italie">
-<label>Lieu d'arrivée</label><input id="d-b" type="text" value="Vérone, Italie">
-<label>Pays (pour le géocodage)</label>
-<select id="d-pays">
-<option value="it" selected>Italie</option>
-<option value="fr">France</option>
-<option value="be">Belgique</option>
-<option value="es">Espagne</option>
-<option value="de">Allemagne</option>
-<option value="ch">Suisse</option>
-<option value="nl">Pays-Bas</option>
-</select>
-<button onclick="calcDistance()">Calculer la distance</button>
-<div class="result" id="d-res">Géocodage Nominatim + routage OSRM, en direct.</div>
-<p class="hint">Vérifiez le lieu trouvé affiché avant de prendre la route.</p>
-</section>
+  <section class="section">
+    <div class="container">
+      <h2 class="section__title">Les outils</h2>
+      <div class="section__divider"></div>
+      <p class="section__subtitle">Ce qui est déjà disponible pour préparer un voyage.</p>
+
+      <div class="card-grid card-grid--2">
+        <article class="card">
+          <div class="card__icon">🧮</div>
+          <h3 class="card__title">Calculateurs voyage</h3>
+          <p class="card__text">Quatre outils réglés sur les paramètres du camping-car : temps de route, carburant, budget de séjour et distance routière entre deux lieux.</p>
+          <ul class="card__list">
+            <li class="card__list-item">Temps de route (autoroute + routes, pause, buffer)</li>
+            <li class="card__list-item">Carburant et pleins nécessaires</li>
+            <li class="card__list-item">Budget séjour poste par poste</li>
+            <li class="card__list-item">Distance A → B réelle (OSRM)</li>
+          </ul>
+          <p style="margin-top:16px"><a href="calculateurs.html" class="btn btn--primary btn--sm">Ouvrir</a></p>
+        </article>
+
+        <article class="card">
+          <div class="card__icon">📔</div>
+          <h3 class="card__title">Roadbooks</h3>
+          <p class="card__text">Les carnets de voyage détaillés — itinéraires, distances, campings et réservations — arrivent ici prochainement, morceau par morceau.</p>
+          <ul class="card__list">
+            <li class="card__list-item">Itinéraire jour par jour</li>
+            <li class="card__list-item">Cartes et étapes</li>
+            <li class="card__list-item">Fiches d'excursion à emporter</li>
+          </ul>
+          <p style="margin-top:16px"><span class="btn btn--outline btn--sm" style="opacity:.6;cursor:default">Bientôt</span></p>
+        </article>
+      </div>
+    </div>
+  </section>
 
 </main>
+
 <button class="theme-toggle" id="themeToggle" onclick="toggleTheme()" aria-label="Basculer jour/nuit">🌙</button>
-<footer>Généré par Sylvia — BAVI LEO Voyages · usage privé</footer>
 
-<script>
-var SYLVIA_DEFAULTS = {
-  vAutoroute: 100, vRoutes: 80, bufferH: 1, repasMin: 30,
-  conso: 10, reservoir: 65, prixDiesel: 1.75, vignetteCH: 42
-};
-function num(id){ var v = document.getElementById(id).value.trim().replace(',', '.'); var n = parseFloat(v); return isNaN(n) ? 0 : n; }
-function fr(n, d){ return n.toLocaleString('fr-FR', {minimumFractionDigits: d||0, maximumFractionDigits: d||0}); }
-function hm(date){ return ('0'+date.getHours()).slice(-2) + 'h' + ('0'+date.getMinutes()).slice(-2); }
+<footer class="footer">
+  <div class="footer__inner">
+    <p class="footer__copyright">Généré par Sylvia — BAVI LEO Voyages · 2026</p>
+    <div class="footer__links">
+      <span class="footer__link">Site privé</span>
+    </div>
+  </div>
+</footer>
 
-function calcTemps(){
-  var ka = num('t-aut'), kr = num('t-route');
-  var conduite = ka / SYLVIA_DEFAULTS.vAutoroute + kr / SYLVIA_DEFAULTS.vRoutes;
-  var repas = (document.getElementById('t-repas').checked && conduite > 3) ? SYLVIA_DEFAULTS.repasMin/60 : 0;
-  var total = conduite + repas + SYLVIA_DEFAULTS.bufferH;
-  var dep = document.getElementById('t-dep').value.split(':');
-  var arr = new Date(); arr.setHours(parseInt(dep[0]||'8',10), parseInt(dep[1]||'0',10), 0, 0);
-  arr = new Date(arr.getTime() + total*3600*1000);
-  var hc = Math.floor(conduite), mc = Math.round((conduite-hc)*60);
-  document.getElementById('t-res').innerHTML =
-    'Conduite : <b>' + hc + 'h' + ('0'+mc).slice(-2) + '</b> pour ' + fr(ka+kr) + ' km' +
-    (repas ? ' (dont pause repas 30 min)' : '') +
-    '<br>Arrivée prudente (+1 h buffer) : <b>' + hm(arr) + '</b>';
-}
-
-function calcCarburant(){
-  var km = num('c-km'), conso = num('c-conso') || SYLVIA_DEFAULTS.conso;
-  var prix = num('c-prix') || SYLVIA_DEFAULTS.prixDiesel;
-  var niv = num('c-niv');
-  var litres = km * conso / 100, cout = litres * prix;
-  var dispo = SYLVIA_DEFAULTS.reservoir * niv / 100;
-  var pleins = Math.max(0, Math.ceil((litres - dispo) / SYLVIA_DEFAULTS.reservoir));
-  var html = 'Carburant : <b>' + fr(litres,1) + ' L</b> → <b>' + fr(cout,2) + ' EUR</b>' +
-    '<br>Pleins à prévoir : <b>' + pleins + '</b> (réservoir 65 L)';
-  if (litres > dispo * 0.9) html += '<br><span class="alert">Plein préventif conseillé avant une étape montagneuse ou isolée.</span>';
-  document.getElementById('c-res').innerHTML = html;
-}
-
-function calcBudget(){
-  var camp = num('b-nuits') * num('b-prixnuit');
-  var km = num('b-km');
-  var carb = km * SYLVIA_DEFAULTS.conso / 100 * SYLVIA_DEFAULTS.prixDiesel;
-  var peag = num('b-peages'), vis = num('b-vis') * num('b-voy');
-  var rep = num('b-repas') * num('b-jours'), ext = num('b-extra');
-  var tot = camp + carb + peag + vis + rep + ext;
-  document.getElementById('b-res').innerHTML =
-    'Camping : <b>' + fr(camp,2) + ' EUR</b><br>Carburant (' + fr(km) + ' km) : <b>' + fr(carb,2) + ' EUR</b>' +
-    '<br>Péages/vignettes : <b>' + fr(peag,2) + ' EUR</b><br>Visites : <b>' + fr(vis,2) + ' EUR</b>' +
-    '<br>Repas : <b>' + fr(rep,2) + ' EUR</b><br>Extra : <b>' + fr(ext,2) + ' EUR</b>' +
-    '<br><b>Total estimé : ' + fr(tot,2) + ' EUR</b>';
-}
-
-var VIEWBOX = {it:'7.0,47.2,18.6,35.0', fr:'-5.0,51.5,8.5,41.0', be:'2.5,51.7,6.5,49.4', es:'-9.5,44.0,3.5,35.5', de:'5.5,55.2,15.5,47.0', ch:'5.7,47.9,10.6,45.7', nl:'3.0,53.7,7.5,50.7'};
-async function geocode(q, pays){
-  var u = 'https://nominatim.openstreetmap.org/search?' + new URLSearchParams({q:q, format:'json', limit:'1', countrycodes:pays, viewbox:VIEWBOX[pays]||VIEWBOX.it, bounded:'1'});
-  var r = await fetch(u); var j = await r.json();
-  if(!j || !j.length) throw new Error('Lieu introuvable : ' + q);
-  return {lat: j[0].lat, lon: j[0].lon, nom: j[0].display_name.split(',').slice(0,2).join(',')};
-}
-async function calcDistance(){
-  var box = document.getElementById('d-res');
-  box.textContent = 'Calcul en cours…';
-  try{
-    var pays = document.getElementById('d-pays').value;
-    var a = await geocode(document.getElementById('d-a').value, pays);
-    var b = await geocode(document.getElementById('d-b').value, pays);
-    var u = 'https://router.project-osrm.org/route/v1/driving/' + a.lon + ',' + a.lat + ';' + b.lon + ',' + b.lat + '?overview=false';
-    var r = await fetch(u); var j = await r.json();
-    if(!j.routes || !j.routes.length) throw new Error('Aucun itinéraire trouvé.');
-    var km = j.routes[0].distance/1000, min = Math.round(j.routes[0].duration/60);
-    var h = Math.floor(km/100), m = Math.round((km/100-h)*60);
-    box.innerHTML = 'De : <b>' + a.nom + '</b><br>À : <b>' + b.nom + '</b>' +
-      '<br>Distance : <b>' + fr(km,1) + ' km</b> · ~' + min + ' min (voiture)' +
-      '<br>En CC (~100 km/h) : <b>' + h + 'h' + ('0'+m).slice(-2) + '</b> + 1 h buffer';
-  }catch(e){ box.innerHTML = '<span class="alert">' + e.message + ' Réessayez (service OSRM parfois saturé).</span>'; }
-}
-(function(){var t=localStorage.getItem('sylvia-theme');if(t==='dark'){document.documentElement.setAttribute('data-theme','dark');}syncToggle();})();
-function toggleTheme(){var d=document.documentElement.getAttribute('data-theme')==='dark';if(d){document.documentElement.removeAttribute('data-theme');localStorage.setItem('sylvia-theme','light');}else{document.documentElement.setAttribute('data-theme','dark');localStorage.setItem('sylvia-theme','dark');}syncToggle();}
-function syncToggle(){var d=document.documentElement.getAttribute('data-theme')==='dark';document.getElementById('themeToggle').textContent=d?'☀️':'🌙';}
-</script>
+<script src="js/main.js"></script>
 </body>
 </html>
