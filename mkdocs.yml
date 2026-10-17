@@ -42,6 +42,8 @@ nav:
     - 🇫🇷 Lac d'Orient (08/2026): lac-orient-2026/index.md
     - 🇫🇷 Canet (06/2026): weekend-canet/index.md
   - 📖 Guide utilisateur: guide-utilisateur.md
+  - 🧰 Outils:
+    - 🧰 Boîte à outils: outils/index.md
 
 markdown_extensions:
   - admonition
