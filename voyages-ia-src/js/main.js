@@ -50,6 +50,8 @@
     navLinks.forEach(function (link) {
       if (link.getAttribute('href') === currentPage) {
         link.classList.add('nav__link--active');
+      } else if (!document.querySelector('.nav__link--active') && link.pathname === window.location.pathname) {
+        link.classList.add('nav__link--active');
       }
       link.addEventListener('click', function () {
         if (nav) {

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Christophe &amp; Sylvie — VOYAGES</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%234f46e5'/%3E%3Cpath d='M7 19l4-6 3 4 3-5 8 7v3H7z' fill='%23fff'/%3E%3Ccircle cx='23' cy='10' r='2.2' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<header class="header">
+  <div class="header__inner">
+    <a href="../index.html" class="header__logo">
+      <span class="header__logo-icon">🧭</span>
+      VOYAGES
+    </a>
+    <nav class="nav" aria-label="Navigation principale">
+      <button class="nav__toggle" aria-label="Menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav__list">
+        <li><a href="../index.html" class="nav__link">Accueil</a></li>
+        <li><a href="tof.html" class="nav__link">Mon espace</a></li>
+        <li><a href="../calculateurs.html" class="nav__link">Calculateurs</a></li>
+        <li><a href="../roadbooks/italie.html" class="nav__link">Roadbooks</a></li>
+        <li><a href="../recherche.html" class="nav__link">Recherche</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main class="main">
+
+  <section class="hero hero--compact">
+    <div class="hero__content">
+      <div class="hero__icon">🧑‍✈️</div>
+      <h1 class="hero__title">Christophe &amp; Sylvie</h1>
+      <p class="hero__text">Roadbooks, fiches et outils de nos voyages.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <h2 class="section__title">Nos roadbooks</h2>
+      <div class="section__divider"></div>
+
+      <div class="card-grid card-grid--2">
+        <article class="card">
+          <div class="card__icon">🇮🇹</div>
+          <h3 class="card__title">Italie</h3>
+          <p class="card__text">Roadbook Italie (09-10/2026).</p>
+          <p style="margin-top:16px"><span class="badge badge--done">✅ Effectué</span> <a href="../roadbooks/italie.html" class="btn btn--primary btn--sm">Ouvrir</a></p>
+        </article>
+
+        <article class="card">
+          <div class="card__icon">🏴󠁧󠁢󠁳󠁣󠁴󠁿</div>
+          <h3 class="card__title">Écosse</h3>
+          <p class="card__text">05/2027</p>
+          <p style="margin-top:16px"><span class="btn btn--outline btn--sm" style="opacity:.6;cursor:default">Bientôt</span></p>
+        </article>
+
+        <article class="card">
+          <div class="card__icon">🏝️</div>
+          <h3 class="card__title">Canaries</h3>
+          <p class="card__text">02/2027 — Camille &amp; Jérémy</p>
+          <p style="margin-top:16px"><span class="btn btn--outline btn--sm" style="opacity:.6;cursor:default">Bientôt</span></p>
+        </article>
+
+        <article class="card">
+          <div class="card__icon">🇯🇵</div>
+          <h3 class="card__title">Japon</h3>
+          <p class="card__text">10/2027 — 60 ans</p>
+          <p style="margin-top:16px"><span class="btn btn--outline btn--sm" style="opacity:.6;cursor:default">Bientôt</span></p>
+        </article>
+
+        <article class="card">
+          <div class="card__icon">🗼</div>
+          <h3 class="card__title">Paris</h3>
+          <p class="card__text">11/2026 — Camille &amp; Célestine</p>
+          <p style="margin-top:16px"><span class="btn btn--outline btn--sm" style="opacity:.6;cursor:default">Bientôt</span></p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <h2 class="section__title">Nos outils</h2>
+      <div class="section__divider"></div>
+
+      <div class="card-grid card-grid--2">
+        <article class="card">
+          <div class="card__icon">🧮</div>
+          <h3 class="card__title">Calculateurs</h3>
+          <p style="margin-top:16px"><a href="../calculateurs.html" class="btn btn--primary btn--sm">Ouvrir</a></p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<button class="theme-toggle" id="themeToggle" onclick="toggleTheme()" aria-label="Basculer jour/nuit">🌙</button>
+
+<footer class="footer">
+  <div class="footer__inner">
+    <p class="footer__copyright">Généré par Sylvia — BAVI LEO Voyages · 2026</p>
+    <div class="footer__links">
+      <span class="footer__link">Site privé</span>
+    </div>
+  </div>
+</footer>
+
+<script src="../js/main.js"></script>
+</body>
+</html>
