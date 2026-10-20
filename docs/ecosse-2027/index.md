@@ -82,7 +82,7 @@
 | Heure | Étape |
 |:---:|:---|
 | 08h00 | Départ Sombreffe, 2 CC. E19 Bruxelles–Anvers–Breda, puis A16/A4/A9 vers IJmuiden. |
-| 11h30 | Pause déjeuner 30 min sur aire (repas dans le CC). |
+| 11h30 | Pause sandwiches maison 30 min sur aire. |
 | ~14h00 | Arrivée Felison Terminal, Sluisplein 33, IJmuiden (tél +31 255 546666). Enregistrement ouvert, clôture 16h45. |
 | 14h00-16h30 | Attente utile : plage d'IJmuiden (promenade plate) ou repos au CC. |
 | 17h30 | Départ ferry. Nuit en cabine (interdit de dormir dans le CC). Bouteilles de gaz fermées, dimensions déclarées à la réservation. |
@@ -94,7 +94,7 @@
 |:---:|:---|
 | 09h15 | Arrivée North Shields (heure locale UK, -1h). Débarquement ~10h00. |
 | 10h00 | Route A1 vers le nord. Premier jour de conduite à gauche : on roule cool. |
-| 11h30 | Pause + déjeuner : **Bamburgh** (château vu de la plage, sans monter) ou **Alnwick** (selon jambes). |
+| 11h30 | Pause sandwiches maison + visite : **Bamburgh** (château vu de la plage, sans monter) ou **Alnwick** (selon jambes). |
 | 13h30 | Arrivée Mortonhall Caravan & Camping Park (4 miles du centre). Check-in 14h00, sortie 12h00. |
 | Après-midi | Installation, repos. Repérer le bus vers Édimbourg pour J3. |
 
@@ -169,6 +169,7 @@
 
 ## 📌 Notes & Astuces
 
+- 🥪 **Repas (rythme du voyage)** : midis = sandwiches maison (pauses courtes, on privilégie les visites de sites) ; soirs = dans le CC ou restaurant près du camping
 - 🛂 **ETA Royaume-Uni** : autorisation électronique obligatoire (à demander en ligne avant le départ) + passeports en règle pour les 4 voyageurs
 - 📅 **Réservation ferry** : P&O ouvre ~4 mois à l'avance (05/2027 pas encore réservable — à surveiller) ; DFDS déjà réservable jusqu'en 12/2027
 - ⚡ **Prise électrique UK** : Prévoir un adaptateur UK → Schuko (européen) — les campings écossais ont des prises CEE bleues (standard) OU UK 3 broches
