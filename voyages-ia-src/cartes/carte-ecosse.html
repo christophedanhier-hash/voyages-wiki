@@ -1,0 +1,1103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_c8e9626ecf466b2c032a34b14281e430 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    <div style="position:fixed; bottom:30px; left:10px; z-index:1000; background:white;
+padding:10px; border-radius:8px; font-size:12px; border:1px solid #ccc;">
+<b>Itineraires Ecosse 2027</b><br>
+<span style="color:#3498db;">&#9472;&#9472;</span> Option A: Eurotunnel (2374 km)<br>
+<span style="color:#2ecc71;">&#9472;&#9472;</span> Option B1: Rotterdam-Hull (~2210 km)<br>
+<span style="color:#e67e22;">&#9472;&#9472;</span> Option B2: IJmuiden-Newcastle (~1980 km)<br>
+<span style="color:#e74c3c;">&#9679;</span> Etapes principales<br>
+<span style="color:#27ae60;">&#9733;</span> Points d interet<br>
+<span style="color:#2980b9;">&#10026;</span> Ports/Traversee </div>
+    
+            <div class="folium-map" id="map_c8e9626ecf466b2c032a34b14281e430" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_c8e9626ecf466b2c032a34b14281e430 = L.map(
+                "map_c8e9626ecf466b2c032a34b14281e430",
+                {
+                    center: [55.5, -3.5],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 6,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+            L.control.scale().addTo(map_c8e9626ecf466b2c032a34b14281e430);
+
+            
+
+        
+    
+            var tile_layer_491a50678f96844eca7ea13ee762fac5 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_491a50678f96844eca7ea13ee762fac5.addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var poly_line_36e5f46291619519409cc16a57de9a63 = L.polyline(
+                [[50.5288, 4.5981], [50.9479, 1.8512], [51.0814, 1.176], [53.9591, -1.0823], [55.9533, -3.1883], [56.082, -4.579], [56.68, -5.1], [56.8196, -5.1136], [57.4128, -6.194], [57.4778, -4.225], [57.1, -3.8], [55.9533, -3.1883], [50.9479, 1.8512], [50.5288, 4.5981]],
+                {"bubblingMouseEvents": true, "color": "#3498db", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#3498db", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            poly_line_36e5f46291619519409cc16a57de9a63.bindTooltip(
+                `<div>
+                     Option A: Eurotunnel (2374 km)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_dd2e35f1696f773b031830d5c9672f7a = L.polyline(
+                [[50.5288, 4.5981], [51.945, 4.03], [53.7457, -0.3347], [55.9533, -3.1883], [56.082, -4.579], [56.68, -5.1], [56.8196, -5.1136], [57.4128, -6.194], [57.4778, -4.225], [57.1, -3.8], [55.9533, -3.1883], [53.7457, -0.3347], [51.945, 4.03], [50.5288, 4.5981]],
+                {"bubblingMouseEvents": true, "color": "#2ecc71", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#2ecc71", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            poly_line_dd2e35f1696f773b031830d5c9672f7a.bindTooltip(
+                `<div>
+                     Option B1: Rotterdam-Hull (~2210 km)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_458efa250a8f8c92b6e662453d5b931c = L.polyline(
+                [[51.945, 4.03], [53.7457, -0.3347]],
+                {"bubblingMouseEvents": true, "color": "#2ecc71", "dashArray": "8, 6", "dashOffset": null, "fill": false, "fillColor": "#2ecc71", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            poly_line_458efa250a8f8c92b6e662453d5b931c.bindTooltip(
+                `<div>
+                     Ferry P&O 11h30 nuit
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_f8fe65efdbdfab768c13b473db5a1d16 = L.polyline(
+                [[50.5288, 4.5981], [52.4622, 4.5736], [55.0067, -1.4394], [55.9533, -3.1883], [56.082, -4.579], [56.68, -5.1], [56.8196, -5.1136], [57.4128, -6.194], [57.4778, -4.225], [57.1, -3.8], [55.9533, -3.1883], [55.0067, -1.4394], [52.4622, 4.5736], [50.5288, 4.5981]],
+                {"bubblingMouseEvents": true, "color": "#e67e22", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#e67e22", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            poly_line_f8fe65efdbdfab768c13b473db5a1d16.bindTooltip(
+                `<div>
+                     Option B2: IJmuiden-Newcastle (~1980 km)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_480a0c71b79b257946f6dd9552c85f13 = L.polyline(
+                [[52.4622, 4.5736], [55.0067, -1.4394]],
+                {"bubblingMouseEvents": true, "color": "#e67e22", "dashArray": "8, 6", "dashOffset": null, "fill": false, "fillColor": "#e67e22", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 4}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            poly_line_480a0c71b79b257946f6dd9552c85f13.bindTooltip(
+                `<div>
+                     Ferry DFDS ~16h nuit
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_0920bcf9b7dc947647d492d96d362277 = L.marker(
+                [50.5288, 4.5981],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_619dfe147d644eb4eaa54f57c685cade = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_60f027c3a7721a0115de3b8bc12f609a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_daa6b11e8d26c60cd7a8de6986107cc1 = $(`<div id="html_daa6b11e8d26c60cd7a8de6986107cc1" style="width: 100.0%; height: 100.0%;"><b>Sombreffe<br>Depart / Arrivee</b></div>`)[0];
+                popup_60f027c3a7721a0115de3b8bc12f609a.setContent(html_daa6b11e8d26c60cd7a8de6986107cc1);
+            
+        
+
+        marker_0920bcf9b7dc947647d492d96d362277.bindPopup(popup_60f027c3a7721a0115de3b8bc12f609a)
+        ;
+
+        
+    
+    
+            marker_0920bcf9b7dc947647d492d96d362277.bindTooltip(
+                `<div>
+                     Sombreffe
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_0920bcf9b7dc947647d492d96d362277.setIcon(icon_619dfe147d644eb4eaa54f57c685cade);
+            
+    
+            var marker_6384bd8f43e7958217a1f5cc1dd72f09 = L.marker(
+                [55.9533, -3.1883],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_21698a5ddd0d5032912ab847c403cd6c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_065dfb1d38efb7362eaf3283b7327c3c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b4b8659791a2c75a19e83af991b28676 = $(`<div id="html_b4b8659791a2c75a19e83af991b28676" style="width: 100.0%; height: 100.0%;"><b>Edinburgh</b></div>`)[0];
+                popup_065dfb1d38efb7362eaf3283b7327c3c.setContent(html_b4b8659791a2c75a19e83af991b28676);
+            
+        
+
+        marker_6384bd8f43e7958217a1f5cc1dd72f09.bindPopup(popup_065dfb1d38efb7362eaf3283b7327c3c)
+        ;
+
+        
+    
+    
+            marker_6384bd8f43e7958217a1f5cc1dd72f09.bindTooltip(
+                `<div>
+                     Edinburgh
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_6384bd8f43e7958217a1f5cc1dd72f09.setIcon(icon_21698a5ddd0d5032912ab847c403cd6c);
+            
+    
+            var marker_fb12251805b181c27d638c8db2c03fd6 = L.marker(
+                [53.9591, -1.0823],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_98e389d2739d2251f7cbe32dddc9d38b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_cce4a672d64565d19f375bc5d0718795 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_29c2e4d311e9e4c2550e632d53d8b34e = $(`<div id="html_29c2e4d311e9e4c2550e632d53d8b34e" style="width: 100.0%; height: 100.0%;"><b>York</b></div>`)[0];
+                popup_cce4a672d64565d19f375bc5d0718795.setContent(html_29c2e4d311e9e4c2550e632d53d8b34e);
+            
+        
+
+        marker_fb12251805b181c27d638c8db2c03fd6.bindPopup(popup_cce4a672d64565d19f375bc5d0718795)
+        ;
+
+        
+    
+    
+            marker_fb12251805b181c27d638c8db2c03fd6.bindTooltip(
+                `<div>
+                     York
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_fb12251805b181c27d638c8db2c03fd6.setIcon(icon_98e389d2739d2251f7cbe32dddc9d38b);
+            
+    
+            var marker_a46ec1c8323b8e998014e627141af71b = L.marker(
+                [57.4778, -4.225],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_4d9a7b6b8f121a7916608126f8c5d675 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_32579208a548cdc0d69f3b17929e8dd9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b9b452a7217392893c6f7d0cf727794f = $(`<div id="html_b9b452a7217392893c6f7d0cf727794f" style="width: 100.0%; height: 100.0%;"><b>Inverness</b></div>`)[0];
+                popup_32579208a548cdc0d69f3b17929e8dd9.setContent(html_b9b452a7217392893c6f7d0cf727794f);
+            
+        
+
+        marker_a46ec1c8323b8e998014e627141af71b.bindPopup(popup_32579208a548cdc0d69f3b17929e8dd9)
+        ;
+
+        
+    
+    
+            marker_a46ec1c8323b8e998014e627141af71b.bindTooltip(
+                `<div>
+                     Inverness
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_a46ec1c8323b8e998014e627141af71b.setIcon(icon_4d9a7b6b8f121a7916608126f8c5d675);
+            
+    
+            var marker_51542c21247eecb88f211ca12185bcfd = L.marker(
+                [56.8196, -5.1136],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_e3eac1b26b2e722d897fef5de657920e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_bd17453c9f837b3fcea02e6dd0798640 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6c1564aa53a1eb86c13b8333d9f4823d = $(`<div id="html_6c1564aa53a1eb86c13b8333d9f4823d" style="width: 100.0%; height: 100.0%;"><b>Fort William</b></div>`)[0];
+                popup_bd17453c9f837b3fcea02e6dd0798640.setContent(html_6c1564aa53a1eb86c13b8333d9f4823d);
+            
+        
+
+        marker_51542c21247eecb88f211ca12185bcfd.bindPopup(popup_bd17453c9f837b3fcea02e6dd0798640)
+        ;
+
+        
+    
+    
+            marker_51542c21247eecb88f211ca12185bcfd.bindTooltip(
+                `<div>
+                     Fort William
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_51542c21247eecb88f211ca12185bcfd.setIcon(icon_e3eac1b26b2e722d897fef5de657920e);
+            
+    
+            var marker_f3f00962b487138d1e4ad90660f719dc = L.marker(
+                [56.082, -4.579],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_602db198895f04db93451b3f024f71ce = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_53f72d71cfe3b44aafb0edeb3734a18c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2aee6b28cfc2e11af193efc6b5c4cebc = $(`<div id="html_2aee6b28cfc2e11af193efc6b5c4cebc" style="width: 100.0%; height: 100.0%;"><b>Loch Lomond<br>Lac et parc national</b></div>`)[0];
+                popup_53f72d71cfe3b44aafb0edeb3734a18c.setContent(html_2aee6b28cfc2e11af193efc6b5c4cebc);
+            
+        
+
+        marker_f3f00962b487138d1e4ad90660f719dc.bindPopup(popup_53f72d71cfe3b44aafb0edeb3734a18c)
+        ;
+
+        
+    
+    
+            marker_f3f00962b487138d1e4ad90660f719dc.bindTooltip(
+                `<div>
+                     Loch Lomond
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f3f00962b487138d1e4ad90660f719dc.setIcon(icon_602db198895f04db93451b3f024f71ce);
+            
+    
+            var marker_61264b959dd58b052313d93283ae1a38 = L.marker(
+                [56.68, -5.1],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_363f4ab91c84fa41496b65ada478b39a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3cf223f223b01cb3279c3d968ed873ed = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_50a6bbff2a48788a5f743e77f11fe82f = $(`<div id="html_50a6bbff2a48788a5f743e77f11fe82f" style="width: 100.0%; height: 100.0%;"><b>Glen Coe<br>Vallee emblematique</b></div>`)[0];
+                popup_3cf223f223b01cb3279c3d968ed873ed.setContent(html_50a6bbff2a48788a5f743e77f11fe82f);
+            
+        
+
+        marker_61264b959dd58b052313d93283ae1a38.bindPopup(popup_3cf223f223b01cb3279c3d968ed873ed)
+        ;
+
+        
+    
+    
+            marker_61264b959dd58b052313d93283ae1a38.bindTooltip(
+                `<div>
+                     Glen Coe
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_61264b959dd58b052313d93283ae1a38.setIcon(icon_363f4ab91c84fa41496b65ada478b39a);
+            
+    
+            var marker_f22470329569b30c0c0686766b3a1591 = L.marker(
+                [57.4128, -6.194],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_59b07d367ca26d84ea2a3c997e9d4edd = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e1b456a66f7a5f974496035f465659df = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a4bfffbb90446968341fa765e75fff0b = $(`<div id="html_a4bfffbb90446968341fa765e75fff0b" style="width: 100.0%; height: 100.0%;"><b>Skye<br>Ile de Skye - Portree</b></div>`)[0];
+                popup_e1b456a66f7a5f974496035f465659df.setContent(html_a4bfffbb90446968341fa765e75fff0b);
+            
+        
+
+        marker_f22470329569b30c0c0686766b3a1591.bindPopup(popup_e1b456a66f7a5f974496035f465659df)
+        ;
+
+        
+    
+    
+            marker_f22470329569b30c0c0686766b3a1591.bindTooltip(
+                `<div>
+                     Skye
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f22470329569b30c0c0686766b3a1591.setIcon(icon_59b07d367ca26d84ea2a3c997e9d4edd);
+            
+    
+            var marker_c1efb4b0e0a3eab327afcab4026f0fc8 = L.marker(
+                [57.25, -4.55],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_8cd21e3afc4573968b1cb3271ce80b67 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e5c9b7b062d2f9569a24177719093c4b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7882c0ca7a0f6dac2ea36eb47b32c208 = $(`<div id="html_7882c0ca7a0f6dac2ea36eb47b32c208" style="width: 100.0%; height: 100.0%;"><b>Loch Ness<br>Loch Ness et chateaux</b></div>`)[0];
+                popup_e5c9b7b062d2f9569a24177719093c4b.setContent(html_7882c0ca7a0f6dac2ea36eb47b32c208);
+            
+        
+
+        marker_c1efb4b0e0a3eab327afcab4026f0fc8.bindPopup(popup_e5c9b7b062d2f9569a24177719093c4b)
+        ;
+
+        
+    
+    
+            marker_c1efb4b0e0a3eab327afcab4026f0fc8.bindTooltip(
+                `<div>
+                     Loch Ness
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c1efb4b0e0a3eab327afcab4026f0fc8.setIcon(icon_8cd21e3afc4573968b1cb3271ce80b67);
+            
+    
+            var marker_6c65d7a1d30c1819182b86918faaa300 = L.marker(
+                [57.1, -3.8],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_b0270372f5fee845e5383bd16a67223f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a204d02996fd177bd25c11cf7947de36 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ac0b762cc2d56673689ccaabb4772617 = $(`<div id="html_ac0b762cc2d56673689ccaabb4772617" style="width: 100.0%; height: 100.0%;"><b>Cairngorms<br>Parc national</b></div>`)[0];
+                popup_a204d02996fd177bd25c11cf7947de36.setContent(html_ac0b762cc2d56673689ccaabb4772617);
+            
+        
+
+        marker_6c65d7a1d30c1819182b86918faaa300.bindPopup(popup_a204d02996fd177bd25c11cf7947de36)
+        ;
+
+        
+    
+    
+            marker_6c65d7a1d30c1819182b86918faaa300.bindTooltip(
+                `<div>
+                     Cairngorms
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_6c65d7a1d30c1819182b86918faaa300.setIcon(icon_b0270372f5fee845e5383bd16a67223f);
+            
+    
+            var marker_3028687df66522c2486a6e1e76221d5a = L.marker(
+                [57.25, -6.2],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_8834e71fb062b654dd92e868c1066e26 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "lightgreen",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_eeaabec73d8a4508dc50df478fe91ffb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_857b2ff10d461ec8ce4313dae67bf191 = $(`<div id="html_857b2ff10d461ec8ce4313dae67bf191" style="width: 100.0%; height: 100.0%;"><b>Fairy Pools<br>Fairy Pools - randonnee</b></div>`)[0];
+                popup_eeaabec73d8a4508dc50df478fe91ffb.setContent(html_857b2ff10d461ec8ce4313dae67bf191);
+            
+        
+
+        marker_3028687df66522c2486a6e1e76221d5a.bindPopup(popup_eeaabec73d8a4508dc50df478fe91ffb)
+        ;
+
+        
+    
+    
+            marker_3028687df66522c2486a6e1e76221d5a.bindTooltip(
+                `<div>
+                     Fairy Pools
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_3028687df66522c2486a6e1e76221d5a.setIcon(icon_8834e71fb062b654dd92e868c1066e26);
+            
+    
+            var marker_bad3adf18a41e42fabf9f26ddcd1108d = L.marker(
+                [57.52, -6.17],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_6cf464399a46d60529fff8e4c1b4e737 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "lightgreen",
+  "iconColor": "white",
+  "icon": "star",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1298f41654e58bc86e16d32c32817210 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c892771494c097d022de1ad33ee9fef6 = $(`<div id="html_c892771494c097d022de1ad33ee9fef6" style="width: 100.0%; height: 100.0%;"><b>Storr<br>Old Man of Storr</b></div>`)[0];
+                popup_1298f41654e58bc86e16d32c32817210.setContent(html_c892771494c097d022de1ad33ee9fef6);
+            
+        
+
+        marker_bad3adf18a41e42fabf9f26ddcd1108d.bindPopup(popup_1298f41654e58bc86e16d32c32817210)
+        ;
+
+        
+    
+    
+            marker_bad3adf18a41e42fabf9f26ddcd1108d.bindTooltip(
+                `<div>
+                     Storr
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_bad3adf18a41e42fabf9f26ddcd1108d.setIcon(icon_6cf464399a46d60529fff8e4c1b4e737);
+            
+    
+            var marker_33543e7be2e6b13247b96af79c538736 = L.marker(
+                [50.9479, 1.8512],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_33c1474aa826d73d01eb5331e28be6ce = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkblue",
+  "iconColor": "white",
+  "icon": "train",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d02ac65efbd8c7fe779517e15c047fa2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2cb1df5906526f3856fc070e8d6084e2 = $(`<div id="html_2cb1df5906526f3856fc070e8d6084e2" style="width: 100.0%; height: 100.0%;"><b>Calais<br>Eurotunnel</b></div>`)[0];
+                popup_d02ac65efbd8c7fe779517e15c047fa2.setContent(html_2cb1df5906526f3856fc070e8d6084e2);
+            
+        
+
+        marker_33543e7be2e6b13247b96af79c538736.bindPopup(popup_d02ac65efbd8c7fe779517e15c047fa2)
+        ;
+
+        
+    
+    
+            marker_33543e7be2e6b13247b96af79c538736.bindTooltip(
+                `<div>
+                     Calais
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_33543e7be2e6b13247b96af79c538736.setIcon(icon_33c1474aa826d73d01eb5331e28be6ce);
+            
+    
+            var marker_4a71f7f74f81cb252cbaacc3f159c093 = L.marker(
+                [51.0814, 1.176],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_45384757d7b03104de1c616d33243b40 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkblue",
+  "iconColor": "white",
+  "icon": "train",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ac507c1e80573f3d0b2b52d677c01b74 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a2980890896b2c2cb9363f2a776c41ee = $(`<div id="html_a2980890896b2c2cb9363f2a776c41ee" style="width: 100.0%; height: 100.0%;"><b>Folkestone<br>Eurotunnel</b></div>`)[0];
+                popup_ac507c1e80573f3d0b2b52d677c01b74.setContent(html_a2980890896b2c2cb9363f2a776c41ee);
+            
+        
+
+        marker_4a71f7f74f81cb252cbaacc3f159c093.bindPopup(popup_ac507c1e80573f3d0b2b52d677c01b74)
+        ;
+
+        
+    
+    
+            marker_4a71f7f74f81cb252cbaacc3f159c093.bindTooltip(
+                `<div>
+                     Folkestone
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_4a71f7f74f81cb252cbaacc3f159c093.setIcon(icon_45384757d7b03104de1c616d33243b40);
+            
+    
+            var marker_f766145cac48e78d8c6c8256259f821a = L.marker(
+                [51.0344, 2.3768],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_e4409a4ab5567066f174046f74af09a2 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "darkblue",
+  "iconColor": "white",
+  "icon": "ship",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ff5eb1aed275cc689dae491a893f67f6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_da452bbb0b674ae7a78e7d997caf9d57 = $(`<div id="html_da452bbb0b674ae7a78e7d997caf9d57" style="width: 100.0%; height: 100.0%;"><b>Dunkerque<br>Ferry DFDS</b></div>`)[0];
+                popup_ff5eb1aed275cc689dae491a893f67f6.setContent(html_da452bbb0b674ae7a78e7d997caf9d57);
+            
+        
+
+        marker_f766145cac48e78d8c6c8256259f821a.bindPopup(popup_ff5eb1aed275cc689dae491a893f67f6)
+        ;
+
+        
+    
+    
+            marker_f766145cac48e78d8c6c8256259f821a.bindTooltip(
+                `<div>
+                     Dunkerque
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f766145cac48e78d8c6c8256259f821a.setIcon(icon_e4409a4ab5567066f174046f74af09a2);
+            
+    
+            var marker_392d5b410cf6a9054d359fb12e053957 = L.marker(
+                [51.945, 4.03],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_694d17c27d85fcfbd4a8508d3a432ae8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "ship",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d7af5cf7e0bfcd2f0df0e1c37cf677ce = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_21d152ef622dd566a51374f1a1f616dd = $(`<div id="html_21d152ef622dd566a51374f1a1f616dd" style="width: 100.0%; height: 100.0%;"><b>Rotterdam Europoort<br>Ferry P&O vers Hull (11h30 nuit)</b></div>`)[0];
+                popup_d7af5cf7e0bfcd2f0df0e1c37cf677ce.setContent(html_21d152ef622dd566a51374f1a1f616dd);
+            
+        
+
+        marker_392d5b410cf6a9054d359fb12e053957.bindPopup(popup_d7af5cf7e0bfcd2f0df0e1c37cf677ce)
+        ;
+
+        
+    
+    
+            marker_392d5b410cf6a9054d359fb12e053957.bindTooltip(
+                `<div>
+                     Rotterdam Europoort
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_392d5b410cf6a9054d359fb12e053957.setIcon(icon_694d17c27d85fcfbd4a8508d3a432ae8);
+            
+    
+            var marker_51714d21d2e88af62bab35670a676c91 = L.marker(
+                [53.7457, -0.3347],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_502187d2ff8e8ab050b741981ac6e611 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "train",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0f191f6c3f47fd7704f630e8b8a2cc50 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8f4c007d5891f79b1866e572bc2ecdd8 = $(`<div id="html_8f4c007d5891f79b1866e572bc2ecdd8" style="width: 100.0%; height: 100.0%;"><b>Hull<br>Arrivee GB (P&O Rotterdam)</b></div>`)[0];
+                popup_0f191f6c3f47fd7704f630e8b8a2cc50.setContent(html_8f4c007d5891f79b1866e572bc2ecdd8);
+            
+        
+
+        marker_51714d21d2e88af62bab35670a676c91.bindPopup(popup_0f191f6c3f47fd7704f630e8b8a2cc50)
+        ;
+
+        
+    
+    
+            marker_51714d21d2e88af62bab35670a676c91.bindTooltip(
+                `<div>
+                     Hull
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_51714d21d2e88af62bab35670a676c91.setIcon(icon_502187d2ff8e8ab050b741981ac6e611);
+            
+    
+            var marker_9569e67768bdab0cadf181d5402a82e1 = L.marker(
+                [52.4622, 4.5736],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_0d46a7543293340f5f11618d8bd0ad38 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "ship",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_51b54e9f04a31bd4d067e1ac92a2e329 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_da43623c6900a1833b8a294dab1a5022 = $(`<div id="html_da43623c6900a1833b8a294dab1a5022" style="width: 100.0%; height: 100.0%;"><b>IJmuiden<br>Ferry DFDS vers Newcastle (~16h nuit)</b></div>`)[0];
+                popup_51b54e9f04a31bd4d067e1ac92a2e329.setContent(html_da43623c6900a1833b8a294dab1a5022);
+            
+        
+
+        marker_9569e67768bdab0cadf181d5402a82e1.bindPopup(popup_51b54e9f04a31bd4d067e1ac92a2e329)
+        ;
+
+        
+    
+    
+            marker_9569e67768bdab0cadf181d5402a82e1.bindTooltip(
+                `<div>
+                     IJmuiden
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_9569e67768bdab0cadf181d5402a82e1.setIcon(icon_0d46a7543293340f5f11618d8bd0ad38);
+            
+    
+            var marker_f8c65c52c5da943433cfd0a5cbab1dfc = L.marker(
+                [55.0067, -1.4394],
+                {
+}
+            ).addTo(map_c8e9626ecf466b2c032a34b14281e430);
+        
+    
+            var icon_2dc70d418cf02e79f28bf579e18861e7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "purple",
+  "iconColor": "white",
+  "icon": "train",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b5c1f72cb236e5985672418590bfbb5d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c0f7ecc797665e4a958990e7beafebeb = $(`<div id="html_c0f7ecc797665e4a958990e7beafebeb" style="width: 100.0%; height: 100.0%;"><b>Newcastle<br>Arrivee GB (DFDS)</b></div>`)[0];
+                popup_b5c1f72cb236e5985672418590bfbb5d.setContent(html_c0f7ecc797665e4a958990e7beafebeb);
+            
+        
+
+        marker_f8c65c52c5da943433cfd0a5cbab1dfc.bindPopup(popup_b5c1f72cb236e5985672418590bfbb5d)
+        ;
+
+        
+    
+    
+            marker_f8c65c52c5da943433cfd0a5cbab1dfc.bindTooltip(
+                `<div>
+                     Newcastle
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f8c65c52c5da943433cfd0a5cbab1dfc.setIcon(icon_2dc70d418cf02e79f28bf579e18861e7);
+            
+</script>
+</html>

@@ -492,3 +492,6 @@ img { max-width: 100%; display: block; }
 .search__item { padding: 14px 18px; margin-bottom: 12px; background: var(--color-bg-card); border: 1px solid var(--color-border); border-radius: var(--radius); }
 .search__item a { font-weight: 600; font-size: 1.1rem; }
 .search__item p { margin-top: 6px; color: var(--color-text-muted); }
+.badge--prep { background: #d97706; color: #fff; }
+.note--alert { border-left-color: #dc2626; background: #fef2f2; color: #7f1d1d; font-weight: 500; }
+[data-theme="dark"] .note--alert { background: #3b1414; color: #fecaca; }
