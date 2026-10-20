@@ -98,7 +98,7 @@
 | 13h30 | Arrivée Mortonhall Caravan & Camping Park (4 miles du centre). Check-in 14h00, sortie 12h00. |
 | Après-midi | Installation, repos. Repérer le bus vers Édimbourg pour J3. |
 
-**J11 — jeu 21/05 : Inverness → Newcastle (~400 km) + ferry 17h00**
+**J11 — ven 21/05 : Inverness → Newcastle (~400 km) + ferry 17h00**
 
 - Plus grosse étape du voyage : départ 08h00, A9 plein sud, arrivée terminal 16h00 max (clôture 16h15).
 - Si trop long : prévoir une étape intermédiaire à J10 (ex. région de Perth) — à discuter.
@@ -107,6 +107,46 @@
 **J12 — ven 22/05 : IJmuiden → Sombreffe (~275 km)**
 
 - Arrivée IJmuiden ~09h00 (heure NL), débarquement, route directe, maison vers 13h00.
+
+### 🔍 Détail boucle J3-J10 (commun aux 3 options — rythme sandwiches le midi)
+
+**J3 — jeu 13/05 : Édimbourg (base Mortonhall)**
+- **Bus panoramique hop-on hop-off** : la façon idéale de voir la ville assis (Royal Mile, château depuis l'esplanade, Holyrood, Calton Hill). Monter au château lui-même = pentes raides : décider sur place, l'esplanade + vue suffisent.
+- Alternative plate et gratuite : **National Museum of Scotland** (ascenseurs, café/toit-terrasse).
+- Soir : CC ou resto près du camping.
+
+**J4 — ven 14/05 : Royal Yacht Britannia + route Loch Lomond (90 km)**
+- Matin : **Britannia à Leith** (visite guidée plate ~2h, tram/bus depuis le centre).
+- 14h00 : route vers Loch Lomond. Camping : Cashel ou Loch Lomond Holiday Park (électricité).
+
+**J5 — sam 15/05 : Loch Lomond → Glen Coe → Fort William (130 km)**
+- **Luss** : village au bord du loch, plat, courte balade.
+- A82 : viewpoints **Three Sisters** (depuis les parkings, sans marcher).
+- Camping : Glen Nevis ou Linnhe Lochside (électricité).
+
+**J6 — dim 16/05 : Glenfinnan + canal calédonien (journée partagée)**
+- **Viaduc de Glenfinnan** : viewpoint depuis le parking visiteur (le Jacobite passe le matin et l'après-midi en saison — horaires 2027 à vérifier avant de partir).
+- **Neptune's Staircase** (écluses, plat) + Fort William.
+- Option David : montée Ben Nevis pendant que les autres font Glenfinnan (se coordonner la veille).
+
+**J7 — lun 17/05 : Fort William → Skye par le pont (110 km)**
+- **Eilean Donan Castle** : arrêt photo (intérieur avec escaliers — extérieur + café suffisent).
+- Pont de Skye, installation Portree (Portree Camping ou Kinloch, électricité).
+
+**J8 — mar 18/05 : boucle de Trotternish, que du viewpoint**
+- **Old Man of Storr** : viewpoint depuis le parking de la route (la montée est raide — on ne monte pas).
+- **Kilt Rock**, **Quiraing** (viewpoint routier), **Neist Point** : vue depuis le haut, la descente au phare est raide.
+- **Fairy Pools** : 2,4 km aller-retour sur chemin irrégulier — décision sur place selon le mollet/la forme ; alternative : plage de Talisker Bay (plate).
+- Soir : Portree (maisons colorées du port, plat).
+
+**J9 — mer 19/05 : Skye → Inverness & Loch Ness (170 km)**
+- Route via Kyle, **croisière Loch Ness** (2h assises, idéale : Dochgarroch ou Clansman Harbour) plutôt que la montée au château d'Urquhart.
+- Camping : Bught Park ou Inverness Caravan Park (électricité).
+
+**J10 — jeu 20/05 : Culloden + repos avant la grosse étape**
+- **Culloden Battlefield** (chemins plats, centre de visite) + **Clava Cairns** (plat, court).
+- Après-midi libre à Inverness, coucher tôt : J11 part à 08h00.
+- Si J11 paraît trop long : on pousse aujourd'hui jusqu'à la région de Perth (à trancher ensemble).
 
 ---
 
