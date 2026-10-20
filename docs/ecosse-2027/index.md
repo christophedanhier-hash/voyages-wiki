@@ -67,13 +67,46 @@
 
 | Jour | Date | Étape | Distance | Cumul | Nuits |
 |:----:|:----:|-------|:--------:|:-----:|:-----:|
-| J1 | 11/05 | 🏠 **Sombreffe** → **IJmuiden** (ferry 17h30, nuit) | ~330 km | 330 | 🛌 Cabine |
-| J2 | 12/05 | 🚐 Arrivée **Newcastle** (~09h15) → **Édimbourg** 🏰 | ~170 km | 500 | 3 |
-| J3-J10 | 13→20/05 | Même boucle Écosse que Option A | ~750 km | ~1 250 | 8 |
-| J11 | 21/05 | 🚐 **Inverness** → **Newcastle** (ferry nuit 17h00) | ~400 km | 1 650 | 🛌 Cabine |
-| J12 | 22/05 | Arrivée **IJmuiden** → **Sombreffe** 🏠 | ~330 km | 1 980 | 🏠 |
+| J1 | 11/05 | 🏠 **Sombreffe** → **IJmuiden** (ferry 17h30, nuit) | ~275 km | 275 | 🛌 Cabine |
+| J2 | 12/05 | 🚐 Arrivée **Newcastle** (~09h15) → **Édimbourg** 🏰 | ~200 km | 475 | 3 |
+| J3-J10 | 13→20/05 | Même boucle Écosse que Option A | ~750 km | ~1 225 | 8 |
+| J11 | 21/05 | 🚐 **Inverness** → **Newcastle** (ferry nuit 17h00) | ~400 km | 1 625 | 🛌 Cabine |
+| J12 | 22/05 | Arrivée **IJmuiden** → **Sombreffe** 🏠 | ~275 km | 1 900 | 🏠 |
 
 > ⚠️ **Options B1/B2 :** traversée de nuit = 2 jours de route gagnés, mais embarquement 90 min avant (45 min pour DFDS) et dodo en cabine obligatoire (pas dans le CC). **P&O** n'ouvre ses réservations que ~4 mois à l'avance (05/2027 pas encore réservable) ; **DFDS** déjà réservable jusqu'en 12/2027.
+
+### 🔍 Détail option B2 (piste recommandée — à valider)
+
+**J1 — mar 11/05 : Sombreffe → IJmuiden (273 km OSRM, ~3h30) + ferry 17h30**
+
+| Heure | Étape |
+|:---:|:---|
+| 08h00 | Départ Sombreffe, 2 CC. E19 Bruxelles–Anvers–Breda, puis A16/A4/A9 vers IJmuiden. |
+| 11h30 | Pause déjeuner 30 min sur aire (repas dans le CC). |
+| ~14h00 | Arrivée Felison Terminal, Sluisplein 33, IJmuiden (tél +31 255 546666). Enregistrement ouvert, clôture 16h45. |
+| 14h00-16h30 | Attente utile : plage d'IJmuiden (promenade plate) ou repos au CC. |
+| 17h30 | Départ ferry. Nuit en cabine (interdit de dormir dans le CC). Bouteilles de gaz fermées, dimensions déclarées à la réservation. |
+| Soir | Dîner à bord ou pique-nique embarqué. |
+
+**J2 — mer 12/05 : Newcastle → Édimbourg (200 km OSRM, ~2h30)**
+
+| Heure | Étape |
+|:---:|:---|
+| 09h15 | Arrivée North Shields (heure locale UK, -1h). Débarquement ~10h00. |
+| 10h00 | Route A1 vers le nord. Premier jour de conduite à gauche : on roule cool. |
+| 11h30 | Pause + déjeuner : **Bamburgh** (château vu de la plage, sans monter) ou **Alnwick** (selon jambes). |
+| 13h30 | Arrivée Mortonhall Caravan & Camping Park (4 miles du centre). Check-in 14h00, sortie 12h00. |
+| Après-midi | Installation, repos. Repérer le bus vers Édimbourg pour J3. |
+
+**J11 — jeu 21/05 : Inverness → Newcastle (~400 km) + ferry 17h00**
+
+- Plus grosse étape du voyage : départ 08h00, A9 plein sud, arrivée terminal 16h00 max (clôture 16h15).
+- Si trop long : prévoir une étape intermédiaire à J10 (ex. région de Perth) — à discuter.
+- Nuit en cabine.
+
+**J12 — ven 22/05 : IJmuiden → Sombreffe (~275 km)**
+
+- Arrivée IJmuiden ~09h00 (heure NL), débarquement, route directe, maison vers 13h00.
 
 ---
 
